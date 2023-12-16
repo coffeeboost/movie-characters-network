@@ -1,0 +1,3016 @@
+Name,Line,Sentiment,Irony,Hate
+DANNY,Good morning.,0.7,[-0.18748204  0.65074134],[ 1.10735   -1.0472717]
+DANNY,Daniel Ocean.,0.0,[0.5244908  0.18573698],[ 1.0956501 -1.1053098]
+DANNY,"As you say, ma'am, I was never
+               charged.",0.0,[0.19789867 0.44238266],[ 1.5032083 -1.4065048]
+DANNY,"My wife left me. I was upset.    I
+               got into a self-destructive
+               pattern.",0.0,[0.17111716 0.27190915],[ 0.9908215 -0.95519  ]
+DANNY,"She already left me once. I don't
+                 think she'll do it again just for
+                 kicks.
+
+    Glances dart between the Board Members.",0.0,[ 0.6856932  -0.14649385],[ 0.5651984  -0.63941014]
+DANNY,"(deadpan)
+                 I don't know. How much do you
+                 guys make a year?",-0.175,[ 1.2540962  -0.80265546],[ 1.9069215 -1.9558843]
+DANNY,"My wife's.
+
+    He opens the letter, and as his eyes gaze over the papers
+    within, he smirks just a little.",-0.1875,[-0.17503814  0.3990011 ],[ 1.5199343 -1.5736084]
+DANNY,I'm a free man.,0.4,[0.40665698 0.39842483],[ 1.5925568 -1.6718408]
+DANNY,"Hello, Frank.
+
+    The new dealer (FRANK CATTON) glances up at Danny, and
+    his eyes go wide, like a priest who's discovered he's
+    dealing communion wafers to the pontiff himself. He
+    quickly hides his astonishment.",0.1232323232323232,[0.11087395 0.21727005],[ 2.0220864 -2.0934389]
+FRANK,"I beg your pardon, sir. You must
+              have me confused with someone
+              else. My name is Ramon. See?
+
+    He taps the name embroidered on his vest, although he is
+    the most African-looking Ramon you've ever seen. A pit
+    boss circles close by and glares at them both.",0.0499999999999999,[ 0.9602648  -0.46892202],[ 1.5030209 -1.6833857]
+DANNY,"My mistake...
+                     (collecting his chips,
+                      doubled)
+              Table's cold anyway.",-0.6,[ 0.5614446  -0.09160993],[ 1.6690999 -1.7922815]
+FRANK,"You might try the lounge at the
+              Grand, sir. It gets busy around
+              one.",0.3,[0.00953975 0.30196366],[ 1.7718791 -1.7586737]
+DANNY,"(as he goes)
+              Thanks.",0.2,[-1.098833  1.26044 ],[ 1.8667847 -1.9132313]
+DANNY,Ramon?,0.0,[ 1.7973392 -0.9068154],[ 1.3989253 -1.4313208]
+FRANK,"Glad to meet you. Frank Catton
+                 wouldn't get by the gaming board.
+                        (beat)
+                 You just out?",0.5,[ 0.47788864 -0.11230478],[ 1.992474 -2.071245]
+DANNY,This afternoon.,0.0,[-0.12928207  0.7976768 ],[ 1.4047159 -1.2898792]
+FRANK,"(re: Danny's drink
+                         and whereabouts)
+                 And already turning over a new
+                 leaf.
+
+    Frank signals a passing waitress; she ignores him.",0.1363636363636363,[ 0.5255682  -0.23735186],[ 1.5606095 -1.544727 ]
+DANNY,"(directly, this is
+                         why he's here)
+                 You seen him?",0.1,[ 0.7142491  -0.45291916],[ 1.871285  -1.9903307]
+FRANK,"Last I heard he was in L.A.
+                 Teaching movie stars how to
+                 play cards.
+                        (beat)
+                 Why? You don't have something
+                 planned already?",0.0,[0.06017944 0.09872087],[ 1.7591356 -1.7739283]
+DANNY,"You kidding? I just became a
+                 citizen again.
+
+    Frank stares at Danny a moment, finally catches his eye,
+    and Danny can't help but grin: of course he has.",0.0,[-0.37384793  0.572368  ],[ 1.8668369 -1.9678005]
+FRANK,Jesus...,0.0,[ 0.9919755  -0.12001679],[ 1.5610319 -1.5047482]
+FRANK,"It's tough now, our line of work.
+                  Everybody so serious. Too many
+                  guns, too many computers. Whadda
+                  you gonna do? Steal from ordinary
+                  people?",0.0055555555555555,[ 0.33868092 -0.13710028],[ 1.4573334 -1.5104786]
+DANNY,That would be criminal.,-0.4,[0.510335   0.16529274],[ 0.977105  -0.9475049]
+FRANK,"So what's left? Banks? Hah.
+                  Banks got no money. It's all
+                  electronic. Only place that still
+                  takes cash is...",0.0,[-0.91357356  0.85910344],[ 1.3588737 -1.5359734]
+DANNY,Casinos.,0.0,[-0.78643084  1.0872978 ],[ 1.1457471 -0.9991118]
+FRANK,"(realizing)
+                  Oh, no...",0.0,[0.03786457 0.37355223],[ 1.892979 -1.797827]
+DANNY,"Oh, yes...",0.0,[-0.56243163  1.006554  ],[ 1.5503806 -1.4522684]
+FRANK,When?,0.0,[ 1.9772674  -0.96961343],[ 1.233934  -1.1505477]
+DANNY,"Soon.   Interested?
+
+     Frank smiles.    Danny has his answer.",0.25,[ 0.32531363 -0.12816069],[ 1.9555917 -1.953935 ]
+DANNY,"Yes, Officer Brooks? My name is
+                   Danny Ocean. I'm just out, I'm
+                   supposed to check in with you
+                   within twenty-four hours.
+                          (listens)
+                   No, sir, I haven't gotten into
+                   any trouble. No drinking, no sir.
+                          (listens, finishes
+                           his bourbon)
+                   No, sir, I wouldn't even think of
+                   leaving the state.
+
+      OFF the sound of a JET fly-over we...",0.1,[ 1.3670472 -1.0289397],[ 1.8039328 -1.9391837]
+TOPHER,"Hey, I don't know if you're, uh,
+                   you know, incorporated or anything,
+                   like Rusty Ryan. And, I don't know,
+                   incorporated, but you should think
+                   about it, really, 'cause I was
+                   talking to my manager yesterday --",0.2,[ 0.84201765 -0.68526095],[ 1.9995586 -2.1221936]
+RUSTY,Bernie?,0.0,[ 1.1643265  -0.40102416],[ 1.1675707 -1.1755459]
+TOPHER,"No, not Bernie, I mean not, not
+                   that Bernie, my business manager,
+                   he's also Bernie, he was telling
+                   me that since this, what we do,
+                   could be considered research for,
+                   you know, a future gig, that I
+                   should be able to write it off as
+                   a business expense. So he suggested
+                   that it'd be better if I wrote you
+                   a check, and thereby --
+
+      Rusty looks at him:     are you stoned?",0.171875,[ 0.7318905  -0.69401544],[ 1.8817215 -2.0982358]
+TOPHER,"Or, or we could keep it cash.
+
+      By this time, they should have entered --",0.0,[ 0.7747561  -0.46484855],[ 1.1765529 -1.2951323]
+RUSTY,Alright.   Who's here?,0.0,[0.08111075 0.26040313],[ 1.8029764 -1.7396244]
+TOPHER,"Josh is here. Seth is here.
+                   David couldn't make it. He's got
+                   two weeks of reshoots on Lusitania
+                   because somebody just figured out
+                   forty percent of the budget is
+                   coming from Germany.",0.0,[-0.6685423   0.65156484],[ 1.7919599 -1.8499978]
+RUSTY,That's a problem.,0.0,[ 1.0381955  -0.23531717],[ 1.3326007 -1.2996086]
+TOPHER,Barry is here.,0.0,[ 0.7479075  -0.11416541],[ 1.4852942 -1.5415072]
+RUSTY,"I thought they let him out to do
+                   that H.B.O. thing in Vancouver.",0.0,[-1.5535051  1.567224 ],[ 1.9472743 -1.9603155]
+TOPHER,"Couldn't work the dates. Oh, and
+                   he brought his girlfriend.",0.0,[-0.3013438  0.4179871],[ 1.6367373 -1.5142304]
+RUSTY,Not the one from --,0.0,[ 1.5486791  -0.72324157],[ 1.7180786 -1.7466056]
+TOPHER,Uh-huh.,0.0,[0.3340333  0.20642841],[ 1.1282914 -1.0878879]
+RUSTY,"(beat)
+                   I quit watching when Kate left Don
+                   after his accident.
+
+      They pass on, and into --",0.0,[0.27939242 0.05346457],[ 1.788706  -1.8049517]
+RUSTY,"Good evening, guys. Let's play
+                   some cards...
+
+      A glance at the table reveals: the three waiting players
+      are all young TV stars (Josh Jackson, Seth Green, Barry
+      Watson) here for a group poker lesson with Rusty. (One
+      star, indeed, has brought his girlfriend, Katie, also
+      a known actress, to observe.)
+
+      A glance back at Rusty reveals:     he's in for a long
+      night.",0.1099999999999999,[ 1.0344046 -0.6737456],[ 1.9386222 -2.0345805]
+RUSTY,... and let's play some cards.,0.0,[ 1.4944044 -0.5940267],[ 1.2291144 -1.3059016]
+TOPHER,"A hundred bucks to me...
+                          (mulling it
+                           over)
+                   Ah, what the hell. Pocket
+                   change. Call.
+
+      Rusty leans into Topher's ear, whispering:",0.0,[ 1.0025431 -0.7089915],[ 1.5429438 -1.7391762]
+RUSTY,"Why you bet a certain way is your
+                   business. But you have to make
+                   them think you're betting for a
+                   reason. Understand?",0.2142857142857142,[ 0.16802771 -0.0571054 ],[ 1.823053  -1.7777132]
+RUSTY,"Seth. You know what you have.
+                   Looking at them doesn't change
+                   them. Leave 'em where they are
+                   and make your bet.",0.0,[ 0.7828714 -0.5917326],[ 1.2167925 -1.4254973]
+RUSTY,"You're showing. Yeah, I know she's
+                   your girlfriend, Barry, but you
+                   can't... Thank you.",0.0,[-0.1496874   0.29201356],[ 1.267931  -1.1444645]
+RUSTY,Josh.   Deal to your left.,0.0,[-0.5818429  0.875736 ],[ 1.3274704 -1.3193258]
+RUSTY,"(folding)
+                   You got me.
+                          (as Seth rakes in
+                           his winnings)
+                   Let's take a little break.",-0.1875,[ 0.41238284 -0.02123793],[ 1.8403699 -2.0523996]
+RUSTY,"It's been the longest hour of
+                   my life.",0.0,[-0.00841169  0.4278469 ],[ 1.6850405 -1.5664226]
+RUSTY,"(at the same volume)
+                   I'm running away with your wife.
+
+      The Bartender, not able to hear him, smiles and flashes
+      a thumbs-up before moving away.",-0.125,[-0.01058558  0.27785745],[ 1.2505323 -1.251954 ]
+TOPHER,"Hey, Rusty, we got another player,
+                   if that's alright.",0.0,[-0.33242524  0.43926397],[ 1.8446561 -1.9251497]
+RUSTY,What's this?,0.0,[ 1.9054703 -1.0195409],[ 1.3470072 -1.330578 ]
+DANNY,"The bouncer mentioned there was
+                   a game in progress. I hope I'm
+                   not intruding.",-0.4,[-0.37117764  0.48191056],[ 1.788355 -1.871061]
+TOPHER,No intrusion at all --,0.0,[ 1.2772758 -0.8066666],[ 1.6639532 -1.7095007]
+RUSTY,"What was his name, the bouncer's?",0.0,[ 2.24612   -1.2459303],[ 1.6776986 -1.7632242]
+DANNY,I don't remember.,0.0,[ 1.1623167 -0.3833208],[ 1.3469965 -1.1755579]
+RUSTY,"A card player with amnesia.    This
+                   should be fun.",0.3,[-2.0784452  2.0246468],[ 1.554296  -1.5836738]
+TOPHER,"What do you do for a living,
+                   Mr. Ocean? If you don't mind
+                   my asking.",0.0,[ 0.8066588  -0.45259938],[ 1.9279491 -2.079409 ]
+DANNY,"Why should I mind? Two cards,
+                   please...
+                          (long beat)
+                   I just got out of prison.",-0.05,[ 1.073503  -0.6260889],[ 1.9219682 -2.0088518]
+TOPHER,"Really?
+                          (a glance among the
+                           other players)
+                   Really...",0.0916666666666666,[0.14901479 0.19726488],[ 1.8735632 -1.9394656]
+RUSTY,"(half to divert
+                           attention)
+                   Barry, you're showing again.",-0.1666666666666666,[-0.2333987   0.56282985],[ 1.7149743 -1.7302127]
+DANNY,I stole things.,0.0,[ 0.6096906  -0.08542118],[ 1.7223715 -1.7249566]
+RUSTY,"Incan matrimonial headmasks.
+
+      Looks are exchanged.      Everyone digests that.",0.0,[-1.5874878  1.6302074],[ 1.1883067 -1.1516467]
+DANNY,Gallery.,0.0,[ 0.63312    -0.06661158],[ 0.78638226 -0.714587  ]
+DANNY,Headmasks.   Some.,0.0,[-0.68869823  1.1142162 ],[ 1.5526512 -1.3982993]
+RUSTY,"Don't let him fool you, Seth.
+                   There's boatloads. If you can
+                   move the things...
+                          (finishing his deal)
+                   One card to me.
+                          (to Danny, pointedly)
+                   ... but you can't.",0.0,[ 1.405483  -1.0553819],[ 1.6322441 -1.8867033]
+DANNY,My fence seemed confident enough.,0.25,[-0.19536825  0.9190281 ],[ 1.6077309 -1.694198 ]
+RUSTY,"If you're dealing with cash, you
+                   don't need a fence.",0.0,[ 0.66906744 -0.48413548],[ 1.2783492 -1.3815163]
+DANNY,Some people just lack vision.,0.0,[0.4482662 0.2392714],[ 1.3352796 -1.1909606]
+RUSTY,Probably everybody in cell block E.,0.0,[0.8982647  0.02595288],[ 1.5937523 -1.6438051]
+DANNY,"Well, that's all behind us now.",-0.4,[0.10512322 0.36884168],[ 1.2339844 -1.055028 ]
+RUSTY,"I should hope so.
+
+      Danny smiles, icily -- of course, it's not -- then pulls
+      out his wallet.",-0.1,[0.1776799  0.10299944],[ 1.6502215 -1.7756025]
+DANNY,"I raise you five hundred dollars.
+
+      A hush in the room. Danny has thrown down the gauntlet.
+      He and Rusty hold each other's stares.",-0.1402777777777777,[0.35589826 0.03939128],[ 1.6874453 -1.7967881]
+RUSTY,"Guys: Day One: what's the first
+                   rule of poker?",0.25,[ 0.8072456  -0.30505118],[ 1.8397903 -1.94229  ]
+RUSTY,"That's right. My friend here just
+                   raised me out of pique.
+                          (beat)
+                   Today's lesson. How to draw out
+                   a bluff. This early in the game,
+                   that much money, I'm thinking he's
+                   holding nothing better than a pair
+                   of face cards.
+                          (beat)
+                   Seth, raise him.",0.1371428571428571,[ 1.3931752  -0.98511463],[ 1.7466387 -1.9244447]
+RUSTY,Tophe...,0.0,[ 0.7362993  -0.05130038],[ 1.2664969 -1.2547513]
+TOPHER,"Seven to me.   Plus three.   What
+                   the hell.",0.0,[ 0.5260744  -0.14195517],[ 1.4951171 -1.458417 ]
+RUSTY,"Indeed. But be careful you don't
+                   push him too high too fast. Want
+                   to keep him on the leash. I call.
+
+      It's Josh's turn.       He hesitates...",0.0866666666666666,[ 1.1972426  -0.87052774],[ 1.4666768 -1.6174847]
+RUSTY,All you have to do is call.,0.0,[ 1.5129617 -0.7941253],[ 1.7967016 -1.570445 ]
+DANNY,"(off Josh's further
+                           hesitation)
+                   What? Your girlfriend holding
+                   your purse?
+
+      That does it. Josh is in. The bet's to Danny. He
+      checks his hand, and Seth starts to whisper to Topher.",0.0,[ 0.96380264 -0.68935287],[ 1.2082072 -1.3954583]
+DANNY,"Contrary to what Mr. Ryan may say,
+                   Seth, I always check my cards
+                   before I make a bet. But be
+                   cafeful. I could tell from your
+                   face you're holding three of a
+                   kind or better.
+                          (digging his wallet
+                           out)
+                   Five hundred to call. And two
+                   grand more.
+
+      Danny stares Rusty down.      The others look a little pale.",0.2209920634920635,[ 1.4725283 -1.0979942],[ 1.6736082 -1.8925592]
+RUSTY,"Guys, you're free to do what you
+                   like. It's a lot of money. But
+                   I'm staying in. He's trying to
+                   buy his way out of his bluff.
+
+      Nobody looks too eager to call, but nobody wants to
+      leave a grand on the table, either. Finally, Seth
+      ponies up, and the others -- not be outdone -- do, too.",0.275,[ 1.4698986 -1.0990471],[ 1.548717  -1.7661285]
+RUSTY,"We call.
+
+      Danny sets down his hand. Four nines. It's a winner.
+      The others, jaws dropped, throw in their cards. For the
+      first time tonight, Rusty blanches.",0.0472222222222222,[ 0.75049496 -0.26924518],[ 1.5859325 -1.5236946]
+RUSTY,"Shit. Sorry, guys. I -- I was
+                   sure he was bluffing.
+
+      As Rusty plummets in the estimation of all the guys
+      around him, Danny rakes in his pot.",-0.0666666666666666,[-0.04112013  0.38101926],[ 1.618277  -1.7330722]
+DANNY,"Thanks for the game, fellas.
+                          (then)
+                   Hey, I hate to ask this, but
+                   could you sign something for me?
+                   It's for the guys in the joint.
+                   They just love all your shows.",-0.125,[-0.38133925  0.50616765],[ 2.1006217 -2.2334096]
+RUSTY,"That was, that was just...",0.0,[ 1.310863   -0.47850317],[ 1.7874988 -1.6332811]
+DANNY,"Unprofessional.
+
+      Rusty agrees.",0.0,[-0.6492322   0.96116996],[ 1.594893  -1.5592612]
+RUSTY,"How was the clink? You get the
+                   cookies I sent you?",0.0,[ 1.2806522  -0.88855743],[ 1.8964809 -1.9111496]
+DANNY,"Why do you think I came to see you
+                   first?
+
+      Danny pulls out a wad of bills from his jacket, peels off
+      half, and hands it to Rusty.",0.0416666666666666,[ 0.78590256 -0.46057752],[ 1.6683072 -1.8571161]
+DANNY,Ten grand.   Half of it's yours.,0.1111111111111111,[-0.65692085  0.75266826],[ 1.3709224 -1.3652476]
+RUSTY,"You barge into my new workplace,
+                  ruin my professional reputation,
+                  least you could do is tell me
+                  you've got something better for
+                  me.",0.1090909090909091,[-0.34854987  0.33333448],[ 1.1891179 -1.1305786]
+DANNY,"I've got something better for
+                  you.",0.5,[0.10145397 0.36466664],[ 1.5574615 -1.5435086]
+RUSTY,"How's Tess?
+
+     Danny stares at him:       next subject, please.",-0.0833333333333333,[0.11748131 0.07381777],[ 1.6239773 -1.608102 ]
+RUSTY,Alright.   Tell me.,0.0,[-0.85216546  1.2411841 ],[ 1.6653334 -1.4761204]
+DANNY,"It's tricky. No one's ever done
+                  it before. Needs planning, a
+                  large crew.",0.2142857142857142,[ 0.77569383 -0.5667523 ],[ 1.7844765 -1.6589147]
+RUSTY,Guns?,0.0,[ 1.4846553 -0.7813035],[ 1.0626973 -1.0976583]
+DANNY,"Not loaded ones. It has to be
+                  very precise. There's a lot of
+                  security. But the take...",0.52,[ 1.5435956 -1.0398086],[ 1.6427001 -1.7943283]
+RUSTY,What's the target?,0.0,[ 2.2423732 -1.3399585],[ 1.4153179 -1.380781 ]
+DANNY,Eight figures each.,0.0,[0.5390018  0.13073999],[ 1.1013396 -1.0352753]
+RUSTY,What's.    The.    Target.,0.0,[ 0.19833067 -0.02258427],[ 1.5767523 -1.5063475]
+DANNY,"(deep breath, then)
+                  When's the last time you were in
+                  Vegas?",0.0,[ 0.82227165 -0.42765006],[ 1.8222445 -1.9111626]
+RUSTY,"What? You wanna knock over a
+                  casino?
+
+     Danny puts down his coffee. And shakes his head. And
+     lifts three fingers: three casinos. Rusty must put down
+     his coffee, too.",-0.1555555555555555,[ 0.6988718 -0.403506 ],[ 1.1983588 -1.4126006]
+DANNY,"The vault at the Bellagio.
+
+     A beat as Rusty scans the document, then another
+     underneath it.",0.0,[-0.3109157   0.52797866],[ 1.7506021 -1.8655874]
+RUSTY,"If I'm reading these right -- and
+                  I think that I am -- this is
+                  probably the least accessible
+                  vault ever designed.
+                         (beat)
+                  Oops. Actually, you know what,
+                  I'm wrong. It's definitely the
+                  least accessible vault ever
+                  designed.",-0.0080357142857142,[ 1.1460496 -0.8676079],[ 1.6394134 -1.8031478]
+DANNY,"Yep.
+
+     Rusty's brow furrows just a little.",-0.1875,[-0.8746914  1.1012264],[ 1.5978459 -1.5890695]
+RUSTY,You said three casinos...,0.0,[ 0.98406535 -0.24157134],[ 1.7553675 -1.6777029]
+DANNY,"(flips to next
+                          blueprint)
+                  These feed into the cages at both
+                  the Mirage and the M.G.M. Grand.
+                         (tapping vault)
+                  But every dime ends up here.",0.25,[ 0.82277733 -0.5252631 ],[ 1.6299511 -1.8020211]
+RUSTY,"The Bellagio, Mirage, and... These
+                  are Terry Benedict's places.",0.0,[-0.86070836  1.0384583 ],[ 1.873431  -1.8358088]
+DANNY,"Yes, they are.     Think he'll mind?",0.0,[-1.0902933  1.2606176],[ 1.5315329 -1.4971944]
+RUSTY,More than somewhat.,0.5,[0.5626228  0.12234082],[ 1.1726395 -1.099635 ]
+RUSTY,"You'd need at least a dozen guys,
+                  doing a combination of cons.",-0.3,[0.06465739 0.17490083],[ 1.7077099 -1.6160553]
+DANNY,"Like what, you think?",0.0,[ 1.9064943 -1.1275227],[ 1.7282022 -1.7424576]
+RUSTY,"Well, off the top of my head, I'd
+                  say you're looking at a Boesky, a
+                  Jim Brown, a Miss Daisy, two
+                  Jethros, and a Leon Spinks. Oh,
+                  and the biggest Ella Fitzgerald
+                  ever.
+                         (beat)
+                  Where do you think you're gonna get
+                  the money to back this?",0.25,[ 1.1784292  -0.94071186],[ 1.4586293 -1.6067696]
+DANNY,"As long as we're hitting these
+                  three casinos, we'll get our
+                  bankroll. Terry Benedict has a
+                  list of enemies.",-0.05,[-0.6986028  0.8477273],[ 1.0010021 -1.3478179]
+RUSTY,"But does he have enemies with
+                  loose cash and nothing to lose...
+                         (smiles, realizing)
+                  Aha.",-0.0769230769230769,[-0.36707348  0.4073474 ],[ 1.42276   -1.6354433]
+DANNY,"(smiles, too)
+                  Aha.",0.0,[-1.1672989  1.3173558],[ 1.7104557 -1.7110013]
+RUSTY,Reuben.,0.0,[ 1.2475859  -0.44752654],[ 1.2659355 -1.2346572]
+DANNY,So...,0.0,[ 0.740791   -0.14651547],[ 1.3507608 -1.2897704]
+RUSTY,"So, here's what I think: You
+                  should take this plan, kick it
+                  around for a week or two. Sleep
+                  on it. Turn it over in your head.
+                  Then: never bring it up to me
+                  again.",0.0,[ 1.0971731 -0.8053198],[ 1.4486213 -1.4870241]
+DANNY,Uh-huh.    So what are you saying?,0.0,[-1.0455618  1.3856696],[ 1.846322  -1.7989012]
+RUSTY,"I'm saying: this is like trying
+                  to build a house of cards on the
+                  deck of a speeding boat.",0.0,[-0.364367   0.7285547],[ 1.4614178 -1.5529958]
+DANNY,"Really? I thought it was much
+                  harder than that --
+
+     Suddenly the Security Guard's flashlight beam hits them
+     square in the eyes. Danny and Rusty put their hands up
+     to block the light.",0.125,[0.35700315 0.09682097],[ 1.6330918 -1.6531266]
+DANNY,"Jesus, Oscar, lower it a little,
+                  will ya?",-0.1875,[-0.12607902  0.4584434 ],[ 1.5296406 -1.4704531]
+DANNY,"Yeah, thanks. You mind if we
+                  borrow a couple drawings for the
+                  night? Make some copies.",0.2,[ 0.6525212  -0.47793624],[ 1.8633373 -1.8813486]
+DANNY,'Preciate it.,0.0,[0.16490574 0.68482965],[ 1.4463543 -1.444996 ]
+RUSTY,"I need a reason. And don't say
+                  money.
+                         (beat)
+                  Why do this?",0.0,[ 0.9306514  -0.42478427],[ 1.6513425 -1.7506129]
+DANNY,"Why not do it?
+
+     Rusty stares at him:    enough bullshitting around.",0.0,[0.08606985 0.20775032],[ 1.7746632 -1.7772584]
+DANNY,"Because yesterday I walked out of
+                  the joint wearing my entire
+                  wardrobe and you're colddecking
+                  TeenBeat coverboys.
+                         (beat)
+                  Because the house always wins.
+                  You play long enough, never
+                  changing stakes, the house takes
+                  you. Unless, when that special
+                  hand comes around, you bet big.
+                  And then you take the house.
+
+     A beat.   Rusty smiles.",0.1011904761904762,[ 0.938494  -0.6933475],[ 1.4374019 -1.5678684]
+RUSTY,"You're been practicing that
+                  speech, haven't you?",0.0,[-1.4007214  1.4526929],[ 1.5034833 -1.3890109]
+DANNY,"A little. Did I rush it?   It felt
+                  like I rushed it.",-0.1875,[ 0.7542457 -0.3227426],[ 2.0175388 -1.9683751]
+RUSTY,"No, it was good.
+
+     They step aboard the elevator.     As the door closes:",0.7,[-0.8576888  1.1780351],[ 1.8309238 -1.6996322]
+RUSTY,"I wonder what Reuben will say?
+
+     Danny and Rusty look at each other.",-0.125,[0.03407654 0.43620503],[ 1.8111175 -1.7514507]
+TISHKOFF,"Are you listening to me? You are,
+                  both of you, nuts. I know more
+                  about casino security than any man
+                  alive. I invented it, and it
+                  cannot be beaten. They got
+                  cameras, they got watchers, they
+                  got locks, they got timers, they
+                  got vaults. They got enough armed
+                  personnel to occupy Paris. Okay,
+                  bad example...",0.08,[ 0.9210739 -0.6483434],[ 1.1602112 -1.3190944]
+DANNY,It's never been tried.,0.0,[ 1.123104 -0.341942],[ 1.5352327 -1.429186 ]
+TISHKOFF,"Oh, it's been tried. A few guys
+                  even came close. You know the
+                  three most successful robberies in
+                  Vegas history?",0.35,[-0.7700034  0.8193319],[ 1.606403  -1.6286243]
+TISHKOFF,"And the closest any man has gotten
+                  to robbing a Las Vegas casino...",0.0,[-0.94214857  0.82882595],[ 1.4967655 -1.5060816]
+TISHKOFF,"Outside of Caesar's in '87.   He
+                  came, he grabbed, he got
+                  conquered.
+
+     RESUME ACTION: BULLETS rip the man to shreds and he
+     collapses on Caesar's steps a bloody pulp.",-0.2333333333333333,[ 0.60840786 -0.2531935 ],[ 0.51400983 -0.8407085 ]
+TISHKOFF,"But what am I saying? You guys
+                  are pros, the best. I'm sure you
+                  can make it out of the casino. Of
+                  course, lest we forget, once
+                  you're out the front door, you're
+                  still in the middle of the fucking
+                  desert!
+
+     Both Danny and Rusty look chastened.",0.1875,[ 0.78303236 -0.5213456 ],[ 1.5421367 -1.6109234]
+RUSTY,"You're right.
+                         (to Danny)
+                  He's right.",0.2857142857142857,[-0.69901985  1.0516553 ],[ 1.7018846 -1.6572217]
+DANNY,"Reuben, you're right. Our eyes
+                  are bigger than our stomachs.",0.1428571428571428,[-0.6842621   0.97488475],[ 1.2875593 -1.3198483]
+RUSTY,That's exactly it. Pure ego.,0.2142857142857142,[0.18170461 0.5291769 ],[ 0.97900414 -0.8851483 ]
+TISHKOFF,Yeah yeah blah blah.,0.0,[-0.943585   1.0850205],[ 1.4528085 -1.3994975]
+DANNY,"Thank you so much for setting us
+                  straight. Sorry we bothered you.
+
+     They both rise to go.",-0.0333333333333333,[-1.0412279  1.3491396],[ 1.8646395 -1.8165346]
+TISHKOFF,"Look, we all go way back. I owe
+                  you from that thing with the guy
+                  in the place, and I'll never
+                  forget it.",0.0,[ 0.8635153  -0.43931764],[ 1.6995069 -1.6758865]
+DANNY,It was our pleasure.,0.0,[-0.07032973  0.408891  ],[ 1.3855892 -1.2709416]
+RUSTY,I'd never been to Belize.,0.0,[ 1.3119565 -0.556077 ],[ 1.625771  -1.7138855]
+TISHKOFF,"Give Dominic your addresses, I got
+                  some remaindered furniture I wanna
+                  send you.
+
+     Danny and Rusty begin to circle the pool to leave.
+     Tishkoff, of course, won't let them go that easily.",0.4333333333333333,[ 0.9606588  -0.54480445],[ 1.4322948 -1.5625616]
+TISHKOFF,"Just out of curiosity, which
+                  casinos did you geniuses pick to
+                  rob?
+
+     Danny stops, almost as if he's been waiting for this
+     question, which of course he has.",0.0,[ 0.34275308 -0.12670974],[ 1.7939385 -1.9968611]
+DANNY,"The Bellagio, Mirage, and the
+                  M.G.M. Grand.",0.5,[0.19168974 0.24168143],[ 1.9745286 -1.9404892]
+TISHKOFF,"(nostrils flared,
+                           smelling a rat)
+                  Those are Terry Benedict's
+                  casinos.",0.0,[-0.48462886  0.68713826],[ 1.0257856 -1.2396182]
+RUSTY,"Say, you know, he's right.
+
+     Tishkoff waves them back, sipping on his umbrellaed
+     cocktail.",0.1428571428571428,[-0.48947406  0.62600344],[ 1.6733326 -1.719651 ]
+TISHKOFF,"You guys... Whadda you got against
+                  Terry Benedict?",0.0,[ 1.1835002  -0.75278986],[ 1.9440655 -1.9963702]
+DANNY,"What do you have against him?
+                  That's the real question.",0.2,[ 0.80081445 -0.3294676 ],[ 1.714326  -1.7172306]
+TISHKOFF,"He torpedoed my casino, muscled me
+                  out, now he's gonna blow it up
+                  next month to make way for another
+                  fuckin' eyesore. Don't think I
+                  don't see what you're doin'.",0.0,[ 0.93160534 -0.58367074],[ 0.84923434 -1.1870935 ]
+RUSTY,"What are we doing, Reuben?",0.0,[ 2.134881  -1.2596394],[ 1.8786746 -1.9641856]
+TISHKOFF,"You gonna steal from Terry
+                  Benedict, you better goddamn know.
+                  This sorta thing used to be
+                  civilized. You'd hit a guy, he'd
+                  whack you. Done. But Benedict...
+                         (bristles)
+                  At the end of this he better not
+                  know you're involved, not know
+                  your names, or think you're dead.
+                  Because he'll kill you, and then
+                  he'll go to work on you.",0.3,[ 1.0573156  -0.78132206],[ 1.2626557 -1.4136325]
+DANNY,"That's why we've got to be very
+                  careful. We have to be precise.
+                  We have to be well-funded.",0.135,[-0.08031665  0.369119  ],[ 1.7084192 -1.7266455]
+TISHKOFF,"Yeah, you gotta be nuts, too. And
+                  you're gonna need a crew as nuts
+                  as you are.
+                         (pregnant silence)
+                  Who do you have in mind?
+
+     Danny and Rusty both smile; they've hooked their fish.
+     And so it begins...",0.3166666666666666,[ 0.99905914 -0.65696424],[ 1.1307238 -1.3485416]
+RUSTY (V.O.),Alright.   Who's in?,0.0,[ 0.45801997 -0.01345153],[ 1.5559682 -1.5582434]
+DANNY (V.O.),Frank C. is in.,0.0,[ 1.1649879  -0.30973744],[ 1.4274021 -1.4486264]
+DANNY (V.O.),"Frank C. has developed a bad case
+                  of bronchitis and is putting in
+                  for a transfer to warmer climates.",-0.2999999999999999,[ 0.5908796  -0.21804744],[ 1.7977549 -1.8174592]
+DANNY (V.O.),What about drivers?,0.0,[ 1.3368347  -0.51994765],[ 1.6742684 -1.4273938]
+RUSTY (V.O.),I talked to the Malloys yesterday.,0.0,[0.02578422 0.5320349 ],[ 2.03353   -1.8818262]
+DANNY (V.O.),The Mormon twins?,0.0,[ 0.88510406 -0.14554396],[ 1.5938214 -1.6051211]
+RUSTY (V.O.),"They're both in Salt Lake City,
+               six months off the job. I got the
+               sense they're having trouble
+               filling the hours.
+
+     Lights flash red-to-yellow-to-green and while the TRUCK
+     COATS RUBBER on the track, Virgil's toy zips to a lead.
+     It's looking to be an embarrassment for Turk until he
+     jerks his wheel a little and -- ka-thunk -- flattens his
+     brother's vehicle.
+
+     Virgil pouts as he plucks up the wreckage of his entry.",-0.19375,[ 0.9121236 -0.606304 ],[ 1.6595482 -1.7371218]
+DANNY (V.O.),Electronics?,0.0,[ 1.1396784 -0.4946174],[ 1.5454825 -1.4668645]
+RUSTY (V.O.),Livingston Dell.,0.0,[0.5628733  0.01995364],[ 1.3450515 -1.2959551]
+RUSTY (V.O.),"Livingston's been doing freelance
+                  surveillance work of late for the
+                  F.B.I. Mob Squad.",-0.3,[-1.3702463  1.4170686],[ 2.070598 -2.067243]
+DANNY (V.O.),How are his nerves?,0.0,[ 2.1903183 -1.3436244],[ 1.5891242 -1.5452992]
+RUSTY (V.O.),"Okay.
+                         (beat)
+                  Not so bad you'd notice.
+
+     As a FBI Man reaches to adjust a monitor...",-0.0999999999999999,[-0.07839735  0.27045503],[ 1.8573304 -1.8505653]
+LIVINGSTON,"D-don't, don't-don't... touch... it.",0.0,[ 1.6573992 -1.3025087],[ 1.3677607 -1.3757699]
+LIVINGSTON,"Do you see me pulling the gun out
+                  of your holster and firing it?",0.0,[ 0.7111141  -0.39532056],[ 1.3177296 -1.4369366]
+RUSTY,"(next item on his
+                          list)
+                  Munitions.",0.0,[-0.26421598  0.5811397 ],[ 1.7961549 -1.8615372]
+DANNY,Phil Turentine.,0.0,[ 1.1013379 -0.4237719],[ 1.342206  -1.3662676]
+RUSTY,Dead.,-0.2,[0.4510798  0.20439374],[ 0.9049592 -0.8374256]
+DANNY,No shit?   On the job?,0.1,[-1.0580666  1.1258708],[ 1.9036189 -1.7557558]
+RUSTY,Sun cancer.,0.0,[-0.16243692  0.7611085 ],[ 0.9692526 -0.9737169]
+DANNY,You send flowers?,0.0,[ 0.6527538  -0.19082108],[ 1.7081258 -1.8138407]
+RUSTY,Dated his wife a while.,0.0,[0.31292677 0.33257756],[ 1.1435076 -1.1721032]
+DANNY,"(onto next candidate)
+                  Basher...",0.0,[0.0515478  0.32341018],[ 1.8278089 -1.9260107]
+RUSTY,"(checks his watch)
+                  We may be too late.",-0.3,[0.35671085 0.0003695 ],[ 1.8138503 -1.8077465]
+BASHER,"Sweet...
+
+     BANG! Wood shards and SPLINTERS of GLASS fly all around;
+     Basher merely ducks his head and whistles. As the dust
+     settles, three men move quickly past Basher and into
+     (what the settling fog now reveals to be) a dynamited
+     bank vault. ALARMS begin to sound: this is bad news.",0.03125,[0.113703  0.2539622],[ 1.252304  -1.4576195]
+BASHER,"(to the rest of his
+                          gang, his temper
+                          flaring)
+                  You know, you guys had one job to
+                  do.",0.0,[-0.04977992  0.3692111 ],[ 1.5327382 -1.5712221]
+BASHER,"Are you accusing me of booby-
+                  trapping?",0.0,[0.11201733 0.00282741],[ 1.7282976 -1.830851 ]
+RUSTY,"Isn't that right, Basher?",0.2857142857142857,[ 1.3542074  -0.53766876],[ 1.3576833 -1.3546888]
+BASHER,That's right.,0.2857142857142857,[-0.23288932  0.8131504 ],[ 1.0282716  -0.92415416]
+RUSTY,"(flashing badge,
+                          briefly)
+                  Peck, A.T.F. Let me venture a
+                  guess. A simple G4 mainliner,
+                  double-coil, backwound, quick
+                  fuse with a drag under 20 feet.
+                         (off Cop's reaction)
+                  That's our man. Tell me something
+                  else. Have you checked him for
+                  booby traps on his person? I mean
+                  really checked, not just for
+                  weapons...
+
+     The Cop looks bewildered. Rusty steps forward, yanks
+     Basher onto his feet, spins him around. He moves his
+     hands up and down Basher's legs, around his waist, under
+     his arms.",-0.0049603174603174,[ 1.7346658 -1.2643892],[ 1.6256648 -1.8740102]
+RUSTY,"Will you go find Griggs and tell
+                  him I need to see him?",0.0,[ 0.76420933 -0.4599422 ],[ 1.8308827 -1.9161751]
+RUSTY,"(loud)
+                  Just go find him, will you?
+                         (as Cop stalks off;
+                          under his breath)
+                  How fast can you put something
+                  together with what I passed you?",0.15,[ 1.0939215  -0.85270745],[ 1.5930961 -1.8036577]
+BASHER,Done.   Thirty seconds all right?,0.2857142857142857,[-0.8310369  1.3091732],[ 1.7520715 -1.593434 ]
+RUSTY,From when?,0.0,[ 1.6738943 -0.7487965],[ 1.4486741 -1.4096996]
+BASHER,"(as we hear something
+                           SNAP from behind his
+                           back)
+                  Now.",-0.2,[0.14597882 0.24958655],[ 1.5815724 -1.5931005]
+RUSTY,Ten seconds?,0.0,[ 1.0981731  -0.22772399],[ 1.5269524 -1.398527 ]
+BASHER,Not quite.   Is Danny here?,0.0,[ 0.7120262  -0.16941747],[ 2.0211158 -2.0697978]
+RUSTY,Around the corner.,0.0,[0.49882394 0.04899106],[ 1.1696889 -1.1266094]
+BASHER,"Be good working with professionals
+                  again.
+                         (beat)
+                  Okay: go.
+
+     And they both start running.",0.6,[-0.801476   0.8674786],[ 1.5095595 -1.4559398]
+RUSTY,"Everyone down! Get down!      There's
+                  a bomb in the...
+
+     And behind them the SQUAD CAR ERUPTS with a BANG! A
+     collective SCREAM rises from the crowd, everyone ducks,
+     cops hit the ground and cover their heads. Rusty and
+     Basher move briskly past them, dodging their splayed legs
+     like tires on an obstacle course. By the time the
+     Explosives Cop thinks to look around for Basher, they've
+     both disappeared.",-0.2847222222222222,[0.11002824 0.07546427],[ 1.2334093 -1.3816448]
+DANNY,So he can walk on a rope.,0.0,[-0.7122219  1.1687633],[ 1.1027774 -1.1381153]
+RUSTY,More than that.,0.5,[ 0.7978974 -0.0202315],[ 1.1336969 -1.0592684]
+DANNY,"So he can juggle. We need a
+               grease man, not an acrobat. Who
+               else is on the list?",0.0,[0.33053505 0.10134464],[ 1.2483634 -1.33971  ]
+RUSTY,He is the list.,0.0,[ 0.88854605 -0.12157018],[ 1.2578125 -1.2497767]
+DANNY,Who else?,0.0,[ 2.105698   -0.99241936],[ 1.4032546 -1.3823274]
+RUSTY,"Watch.
+
+     Halfway across the wire, the funambulist sits. And very
+     slowly, but without hesitation, he contorts himself into
+     a ball, never losing his balance. Even Danny is
+     impressed.",0.3049999999999999,[ 0.45168537 -0.13053316],[ 1.6365899 -1.6646689]
+RUSTY,There's your grease man.,0.0,[0.29431945 0.37891483],[ 1.2300993 -1.2472012]
+DANNY,We need Saul.,0.0,[0.48370293 0.22466663],[ 1.2539616 -1.2852244]
+RUSTY,"He won't come. He swore off the
+                  game a year ago.",-0.4,[ 0.47876534 -0.10032538],[ 1.5210358 -1.4965446]
+DANNY,He get religion?,0.0,[ 1.2556237  -0.53756005],[ 1.2535146 -1.1887904]
+RUSTY,Ulcers.,0.0,[-0.18697265  0.72586524],[ 0.90550464 -0.916821  ]
+DANNY,"You can ask him.
+
+     Rusty stops, stares at Danny, sighs.",0.0,[0.13642615 0.12476476],[ 1.851202  -1.7587821]
+RUSTY,I can ask.,0.0,[ 1.1605977  -0.42550677],[ 1.3772973 -1.231105 ]
+SAUL,"I saw you in the paddock before
+                  the second race, outside the men's
+                  room, when I placed my bet. I saw
+                  you before you even got up this
+                  morning.",0.0,[ 0.6249054  -0.36995056],[ 1.737569  -1.7184676]
+RUSTY,"How ya been, Saul?",0.0,[ 2.1432748 -1.143798 ],[ 1.7751476 -1.9158345]
+SAUL,Never better.,-0.25,[-0.10631989  0.71569026],[ 1.1151161 -1.0484935]
+RUSTY,What's with the orange?,0.0,[ 2.0526388 -1.2263308],[ 1.3369197 -1.424102 ]
+SAUL,My doctor says I need vitamins.,0.0,[-0.32000372  0.6706084 ],[ 1.6905493 -1.6587695]
+RUSTY,"So why don't you take vitamins?
+
+     For the first time, Saul cranes his neck and shoots a
+     look up at Rusty.",0.25,[-0.8435771  0.9643914],[ 1.5575913 -1.7040231]
+SAUL,"You come here to give me a
+                  physical?",0.0,[ 0.35251158 -0.00568849],[ 1.4227742 -1.6039786]
+RUSTY,I got a box seat. Come on.,0.0,[ 2.0057268  -0.99346244],[ 1.2142004 -1.0861441]
+RUSTY,"I thought you drank bloody Mary's
+                  at the track, Saul.",-0.8,[-0.83032876  0.8259933 ],[ 1.6106294 -1.6251702]
+SAUL,A man shouldn't drink on the job.,0.0,[0.2524588  0.06196681],[ 1.3258939 -1.1049294]
+RUSTY,"(re: race)
+                  Who we rooting for here?",0.0,[ 1.0147988 -0.6162442],[ 1.8087375 -1.9270004]
+SAUL,"Number four.
+
+     There's the BELL; the electronic rabbit is released and
+     the dogs break out of the gate. From this point on
+     Saul's eyes never leave the race.",0.0,[ 0.532373   -0.17729431],[ 1.0234782 -1.1066972]
+SAUL,"You gonna ask me? Or should I
+                  just say no and get it over with?",0.0,[ 1.6728026 -0.9691535],[ 1.6008575 -1.6138216]
+RUSTY,"Saul, you're the best there is.
+                  You're in Cooperstown. What do
+                  you want?",1.0,[ 1.1009829 -0.7479761],[ 2.0727475 -2.1029544]
+SAUL,"Nothin'. I got a duplex now, I
+                  got wall-to-wall and a goldfish,
+                  I'm seeing a nice lady, she works
+                  the unmentionables counter at
+                  Macy's. I've changed.",0.6,[ 0.21948333 -0.09300847],[ 1.4477695 -1.3842808]
+RUSTY,"Guys like us don't change, Saul.
+                  We stay sharp or we get sloppy,
+                  but we don't change.",-0.2708333333333333,[0.06102081 0.3125007 ],[ 1.6686503 -1.7433261]
+SAUL,Quit connin' me.,0.0,[ 0.7729456  -0.03330738],[ 1.3952047 -1.4127403]
+RUSTY,"That your hound way in the back
+                  there?",0.0,[ 0.52726644 -0.19270551],[ 1.6168613 -1.6744508]
+SAUL,"He breaks late. Everyone knows
+                  this.
+
+     On the track: The dogs are now coming around the back
+     stretch, and the crowd on the bleachers rises, cheering.",-0.15,[-0.00057627  0.3512628 ],[ 1.7367865 -1.6519412]
+SAUL,"You gonna treat me like a grownup
+                  at least? Tell me what the scam
+                  is?
+
+     Under the noise: Rusty leans in and whispers in Saul's
+     ear. Saul's eyes widen, then glaze over as all around
+     him people are standing and shouting.
+
+     Rusty places an envelope in Saul's lap, then gets up and
+     walks out as, on the track, the #4 dog crosses the finish
+     line... last by several lengths.
+
+     Saul considers his options. In one hand: a fan of
+     losing tickets. In the other (courtesy of Rusty): a
+     ticket to Las Vegas.",-0.10625,[ 1.0957903 -0.774274 ],[ 1.6289595 -1.7490875]
+DANNY (V.O.),And Saul makes ten.,0.0,[0.5192794  0.03542281],[ 1.184913  -1.1939456]
+DANNY,"Ten should do it, don't you think?
+                         (as Rusty shrugs)
+                  You think we need one more?
+                         (as Rusty shrugs)
+                  You think we need one more.
+                         (as Rusty shrugs)
+                  Okay. We'll get one more.",0.4,[0.11502682 0.2017596 ],[ 1.3155442 -1.5298108]
+LINUS,Sorry 'bout that.,-0.5,[0.558198  0.1699397],[ 1.1762835 -1.0601172]
+DANNY,"Hi, Linus.   Sit down.",-0.1555555555555555,[-1.1226864  1.3648133],[ 1.6107488 -1.6553974]
+LINUS,Who are you?,0.0,[ 2.1991386 -1.200857 ],[ 1.411707  -1.4302005]
+DANNY,"A friend of Bobby Caldwell's.   Sit
+                  down.
+
+     Linus balks, prideful, but sense finds a way, and he
+     sits.",-0.1555555555555555,[ 0.8001083 -0.4604067],[ 2.0339608 -2.1315286]
+DANNY,"Bobby told me about you. Said you
+                  were the best set of hands he ever
+                  saw. Didn't expect to find you
+                  working wallets on the subway.",1.0,[0.10115719 0.06397933],[ 1.9679912 -2.0477197]
+LINUS,"That wasn't work, that was
+                  practice.
+
+     Danny reaches into his jacket and sets a plane ticket on
+     the table. He keeps his hand over it.",0.0,[ 0.44448912 -0.09155104],[ 1.7887951 -1.7577125]
+DANNY,"You're either in or out, right
+                  now.",0.2857142857142857,[ 0.7268414  -0.33427218],[ 1.7086437 -1.7099335]
+LINUS,What is it?,0.0,[ 2.317799  -1.2638294],[ 1.3920496 -1.3458811]
+DANNY,A plane ticket. A job offer.,0.0,[ 0.92064434 -0.40734586],[ 1.5735203 -1.4299244]
+LINUS,"You're pretty trusting pretty
+                  fast.",0.2333333333333333,[-0.5039577  0.7223068],[ 1.4066325 -1.4675789]
+DANNY,Bobby has every faith in you.,0.0,[-0.08880158  0.48386   ],[ 1.611907  -1.6787566]
+LINUS,"Fathers are like that.
+                         (off Danny's reaction)
+                  He didn't tell you?
+                         (as Danny shakes
+                          his head)
+                  He doesn't like me trading on his
+                  name.",0.0,[ 0.43438333 -0.12017804],[ 1.6207786 -1.6618624]
+DANNY,"You do this job, he'll be trading
+                  on yours.",0.0,[-0.06038804  0.13196984],[ 1.4477973 -1.53253  ]
+LINUS,What if I say no?,0.0,[ 2.0825691 -1.2966493],[ 1.7206686 -1.6263125]
+DANNY,"We'll get someone else who won't
+                  be quite as good. You can go back
+                  to feeling up stockbrokers.
+
+     Linus considers. He looks down at the ticket, then at
+     the wallet. It's one or the other.
+
+     A waitress passes, and Danny signals her for his bill.
+     When his attention returns to Linus, the wallet
+     remains... but the ticket beneath his hand is gone.
+     Linus is reading it.",0.1048611111111111,[ 1.1630356 -0.915725 ],[ 1.7110635 -1.8131703]
+DANNY,"That's the best lift I've seen you
+                  make yet.",1.0,[-0.66370493  0.8738766 ],[ 1.4011809 -1.298971 ]
+LINUS,"Las Vegas, huh?",0.0,[ 0.8679051  -0.19035125],[ 1.8056523 -1.6344551]
+DANNY,"America's playground.
+
+     And our MAIN THEME KICKS IN as we...",0.1666666666666666,[-1.1718882  1.283681 ],[ 1.1614136 -1.2647341]
+LIVINGSTON,"Trick or treat.
+
+     ... Livingston, Basher, Yen, the Malloys, Saul and Linus
+     crowding his doormat. A taxi-van pulls away behind them.",-0.4,[ 0.70873064 -0.3923358 ],[ 1.6796476 -1.7086194]
+TISHKOFF,"What, you guys get a group rate or
+                  something?",0.0,[ 0.31438988 -0.02370843],[ 1.8733805 -1.9507542]
+TURK,"You make it out to Utah much,
+                  Saul?",0.2,[-0.7566963  0.9555222],[ 1.5521995 -1.6070462]
+SAUL,"(last man you'd see
+                          in the Tabernacle)
+                  Not as much as I'd like.",0.1,[ 0.8438768 -0.4143909],[ 1.5999426 -1.6985902]
+TURK,"You should.   You'd like it.   You'd
+                  like Provo.",0.0,[-0.3006252   0.28259924],[ 1.8514057 -1.7399043]
+VIRGIL,"(scarfing a jumbo
+                          shrimp)
+                  Anybody see the salsa goes with
+                  this?
+
+     At the wet bar, Basher mixes a drink for Livingston; on a
+     couch, Yen balances coffee-table ornaments into a
+     skyscraper, to Frank's astonishment. In a corner, off on
+     his own, Linus watches the company, his eyes narrowing,
+     wary. Until...",0.0,[ 1.2412223  -0.88252103],[ 1.7102622 -1.8469262]
+DANNY,"Everybody eaten? Good. Everybody
+                  sober? Close enough. Most of you
+                  know each other already. You
+                  probably haven't met Linus
+                  Caldwell before, he's Bobby's kid
+                  outta Chicago.
+
+     Linus trades nods around the room.",0.2349999999999999,[ 1.2571234 -0.9566106],[ 1.8307842 -1.9664434]
+DANNY,"Okay. Before we start, nobody's
+                  on the line here yet. What I'm
+                  about to propose to you happens to
+                  be both highly lucrative and
+                  highly dangerous. If that doesn't
+                  sound like your particular brand
+                  of vodka, help yourself to as
+                  much food as you like and safe
+                  journey. No hard feelings.
+                         (pauses, soberly)
+                  Otherwise, come with me.
+
+     He turns and walks out of the living room, into another.
+     Rusty is close behind; he turns briefly, casts an eye
+     over the assembled and keeps going. The guys look each
+     other over, sizing things up.",0.0872916666666666,[ 1.4509552 -1.1761123],[ 1.679333 -1.844201]
+BASHER,"What the hell.
+
+     And he follows, along with Frank and Livingston. Then
+     Virgil, Turk and Yen. Then Saul. That leaves Linus,
+     watching the line of men disappear. He turns to find
+     Tishkoff by his side, staring at him.",0.0,[ 0.49055958 -0.0230912 ],[ 1.4791129 -1.7516347]
+LINUS,Hi.,0.0,[0.09959378 0.5184144 ],[ 1.0330917 -1.003076 ]
+TISHKOFF,"You're Bobby Caldwell's kid, huh?",0.0,[0.06247328 0.40438142],[ 1.620938  -1.6195933]
+LINUS,Yeah.,0.0,[-0.0112833  0.4965879],[ 0.8073447 -0.7215428]
+TISHKOFF,From Chicago?,0.0,[ 1.3201123 -0.6333111],[ 1.8053113 -1.7516941]
+LINUS,Yeah.,0.0,[-0.0112833  0.4965879],[ 0.8073447 -0.7215428]
+TISHKOFF,It's nice there. You like it?,0.6,[ 1.9918425 -1.2073675],[ 1.5876787 -1.6688882]
+LINUS,Yeah.,0.0,[-0.0112833  0.4965879],[ 0.8073447 -0.7215428]
+TISHKOFF,"That's wonderful. Get in the
+                  goddamn room.",1.0,[-1.341715   1.5523599],[ 0.9514705  -0.96523166]
+DANNY,"Gentlemen: the 14000 block of Las
+                  Vegas Boulevard. Otherwise known
+                  as the Bellagio, the Mirage,
+                  the M.G.M. Grand. Together,
+                  they're the three most profitable
+                  casinos in Las Vegas...",0.5,[-0.00639965  0.11944521],[ 1.719438  -1.7554017]
+DANNY,"Gentlemen: the Bellagio vault.
+                  Located below the Strip, beneath
+                  two hundred feet of solid earth.
+                  It safeguards every dime that
+                  comes through each of the three
+                  casinos above it.
+                         (beat)
+                  And we're going to rob it.
+
+     Everyone takes a breath, awed.",0.0,[ 1.0802022 -0.7363169],[ 1.3848451 -1.699071 ]
+LINUS,"Smash-and-grab job, huh?",0.0,[-0.819417   1.0066916],[ 1.5648872 -1.3734456]
+RUSTY,"It's a little more complicated
+                  than that.
+
+     Danny picks up a remote control and flips on a panel of
+     Tvs.",-0.071875,[0.13946469 0.13784051],[ 1.8810309 -1.8834957]
+DANNY,"Courtesy of Frank Catton, new
+                  blackjack dealer at the Bellagio,
+                  security tapes from the three
+                  casinos.
+
+     On the monitors: three montages of black-and-white
+     security tapes, starting within the three casinos' cages,
+     moving into the tunnels, then (as the TVs unite in their
+     images) pushing into the elevator and eventually the
+     vault.
+
+     As the group's glances shoot back and forth from the TV
+     to the corresponding section of the model, i.e. from a
+     POV of the tunnel to the miniature tunnel itself...",0.0454545454545454,[ 0.97083217 -0.6605568 ],[ 1.9922065 -2.0764198]
+DANNY,"Okay.    Bad news first. This place
+                  houses   a security system which
+                  rivals   most nuclear missile silos.
+                  First:    we have to get within the
+                  casino   cages --",0.16,[-0.43022782  0.5852921 ],[ 1.0976347 -1.2167192]
+RUSTY,"(indicating)
+                  -- here, here, and here --",0.0,[0.1682552  0.11475673],[ 1.6516637 -1.7700874]
+DANNY,"-- which anyone knows takes more
+                  than a smile. Next: through
+                  these doors, each of which
+                  requires a different six-digit
+                  code changed every twelve hours.
+                  Past those lies the elevator, and
+                  this is where it gets tricky: the
+                  elevator won't move without
+                  authorized fingerprint
+                  identifications --",0.11,[ 1.1911445 -0.898636 ],[ 1.6091303 -1.6847017]
+RUSTY,-- which we can't fake --,-0.5,[ 0.39685324 -0.06395821],[ 1.58335  -1.550868]
+DANNY,"-- and vocal confirmations from
+                  both the security center within
+                  the Bellagio and the vault below - -",-0.1,[-0.71804464  0.78788465],[ 1.9968549 -2.0567734]
+RUSTY,-- which we won't get.,0.0,[ 0.6689931  -0.09471247],[ 1.3359636 -1.2522259]
+DANNY,"Furthermore, the elevator shaft is
+                  rigged with motion detectors --",0.0,[-1.3328991  1.2623248],[ 1.5179943 -1.5861455]
+RUSTY,"-- meaning if we manually override
+                  the lift, the shaft's exit will
+                  lock down automatically and we'll
+                  be trapped.",-0.1777777777777778,[-0.2204464   0.25223753],[ 1.6300617 -1.6998025]
+DANNY,"Once we've gotten down the shaft,
+                  though, then it's a walk in the
+                  park: just three more guards with
+                  Uzis and predilections toward not
+                  being robbed, and the most
+                  elaborate vault door conceived by
+                  man. Any questions?",0.3361111111111111,[ 0.7397721 -0.5361482],[ 1.5361301 -1.6995376]
+RUSTY,"(in response)
+                  No. Tunneling is out. There are
+                  Richter scales monitoring the
+                  ground for one hundred yards in
+                  every direction. If a groundhog
+                  tried to nest there, they'd know
+                  about it. Anyone else?
+
+     Another silence. Either the guys are too dumbfounded by
+     that bilingual exchange or too numbed by the task ahead
+     of them to speak.",0.0,[ 1.5565661 -1.0702976],[ 1.4319458 -1.4848154]
+TURK,"You said something about good
+                  news...",0.7,[-1.4549481  1.6102891],[ 1.8492006 -1.9277102]
+DANNY,"(smiles, happy
+                          someone asked)
+                  The Nevada Gaming Commission
+                  stipulates: a casino must hold in
+                  reserve enough cash to cover every
+                  chip at play on its floor. As I
+                  mentioned, this vault services
+                  each of the three casinos above
+                  it. That means: during the week,
+                  by law, it must hold anywhere from
+                  sixty to seventy million dollars
+                  in cash and coin. On a weekend,
+                  between eighty and ninety million.
+                  On a fight night, like the one two
+                  weeks from tonight, the night
+                  we're going to rob it, at least a
+                  hundred and fifty million. Without
+                  breaking a sweat.
+                         (gazing about room)
+                  Now there are eleven of us. Each
+                  with an equal share. You do the
+                  math.
+
+     MOVING AROUND the table ON ten faces, as everyone does
+     precisely that, in their heads, except for Virgil who
+     does it on his fingers. He whistles.",0.1285714285714286,[ 1.4145395 -1.1049621],[ 1.5868908 -1.8485192]
+RUSTY,That's what I said.,0.0,[ 0.7614709  -0.04293588],[ 1.3963867 -1.2897934]
+SAUL,"I have a question.
+                          (as Danny turns
+                           to him)
+                  Say we do get into the cage, and
+                  through the security doors there,
+                  and down the elevator we can't
+                  move, and past the guards with
+                  guns, and into the vault we can't
+                  open...",-0.1351851851851851,[ 1.5014833 -1.1778606],[ 1.5767609 -1.7724081]
+RUSTY,Without being seen by the cameras.,0.0,[0.00301782 0.5373682 ],[ 1.5047678 -1.4048648]
+DANNY,"(off everyone's
+                          astonishment)
+                  Oh, right. Sorry. I forgot to
+                  mention that.",-0.1071428571428571,[-0.2782002  0.5837376],[ 1.8227127 -1.8589226]
+SAUL,"Say we do all that. We're just
+                  supposed to walk outta there with
+                  a hundred million dollars in cash
+                  on us without getting stopped?
+
+     Danny smiles, his broad, sure-of-himself grin, the one
+     Rusty couldn't deny earlier and these guys won't deny
+     now.",0.03125,[-0.16778202  0.33090052],[ 1.5080733 -1.5839294]
+DANNY,"Yeah.
+
+     Saul looks panic-stricken; like that, his ulcer has
+     flared up, and he pops a Rolaid in his mouth.",0.0,[-0.5925459  0.7765771],[ 1.7158362 -1.7996787]
+DANNY,Alright.   Here's how we'll begin.,0.0,[-1.3232604  1.5190729],[ 1.5092021 -1.4090124]
+DANNY (V.O.),"First task: reconnaissance. I
+                  want to know everything that's
+                  going on in all three casinos.
+                  From the rotation of the dealers
+                  to the path of every cash cart...",0.25,[ 0.6996859 -0.4968111],[ 2.0113244 -2.1229625]
+DANNY (V.O.),"I wanna know everything about
+                  every guard, every watcher, anyone
+                  with a security pass. I wanna
+                  know where they're from, what
+                  their nicknames are, how they take
+                  their coffee...",0.0,[ 0.4684508 -0.2074573],[ 1.6466717 -1.7911309]
+DANNY (V.O.),"Most of all, I want you guys to
+                  know these casinos. They were
+                  built as labyrinths, to keep
+                  people in. I want you guys to
+                  know the quick routes out.
+
+     Their job done, the Malloys start toward the casino's
+     exit... in different directions. They begin to argue:
+     The exit's that way -- no, it's that way.",0.2777777777777777,[ 0.4602244  -0.20627186],[ 1.1109923 -1.2447652]
+DANNY (V.O.),"Second task: power. On the night
+               of the fight, we're gonna throw
+               the switch on sin city. Basher,
+               it's your show.
+
+     Basher drops into the hole, pulling the cover over him,
+     as we PULL UP OVER the Bellagio and...",0.0,[ 1.0396873 -0.5405848],[ 1.6382996 -1.8335572]
+DANNY (V.O.),"Third task: surveillance. Casino
+               security has an eye and ear on
+               everything, so we'll want an eye
+               and ear on them. Livingston...",0.0,[-0.22946991  0.32008833],[ 1.437189  -1.5283068]
+LIVINGSTON,"Well, it's not the least
+               accessible system I've seen, but
+               it's close. I don't suppose they
+               have a closed-circuit feed I could
+               tap into?",0.0375,[ 1.0982248 -0.8283372],[ 1.7001528 -1.7435117]
+LIVINGSTON,"Then this is definitely a black
+                  bag job. Do they employ an in-
+                  house technician?
+
+     Danny looks to Rusty who, behind them, tampers with
+     Livingston's audio-video setup: several portable
+     monitors, a laptop and modem, telephone headset, etc.",-0.1888888888888888,[ 0.32628274 -0.09240609],[ 1.8127017 -1.6998252]
+RUSTY,"Two.   And one of them is lonely.
+
+     DANCE MUSIC overwhelms the SOUNDTRACK...",-0.0999999999999999,[-0.42052582  0.7878357 ],[ 2.0587177 -1.8429092]
+RUSTY,"Thanks, Charmaine. I'll have it
+                  back within the hour.
+                         (as he goes)
+                  Say hello to your mom for me.",0.1,[-0.03981008  0.2463927 ],[ 1.7467662 -1.7440528]
+VIRGIL,"Who you calling 'bud,' pal?",0.0,[ 1.9006625  -0.99198544],[ 1.6953918 -1.8806943]
+VIRGIL,"Who you calling 'friend'...
+                      (can't think of
+                       another)
+               ... bud...
+
+     And with the Sentry out of position...
+
+     ... Livingston (dressed now in a technician's uniform,
+     don't worry about how he got it) goes quickly to the door
+     and swipes the newly-acquired keycard and when it flashes
+     red-to-green, he enters...",0.3333333333333333,[ 1.2796125  -0.91285187],[ 1.8347048 -2.0723364]
+VIRGIL,"You hear about this new medical
+               discovery they made? It's called
+               a 'sense of direction.'
+               Apparently we're all supposed to
+               have one...",0.0621212121212121,[-1.1415666  1.1639749],[ 1.9136938 -2.1037605]
+TURK,"Yeah yeah yeah, whatever, balloon
+               boy.",0.0,[-0.954902  1.025545],[ 1.636485  -1.6342252]
+DANNY,"Why do they paint hallways that
+               color?",0.0,[0.01246515 0.23986652],[ 1.5226288 -1.5406436]
+RUSTY,They say taupe is very soothing.,0.2,[-1.0797048  1.2662984],[ 1.9198121 -1.8689072]
+DANNY,Uh-oh.,0.0,[0.35072523 0.16240123],[ 1.1827317 -1.1009059]
+LIVINGSTON,"Fine, thanks.
+
+     Livingston continues on, and maybe for a second he thinks
+     he's in the clear, especially when he sees the exit
+     looming ahead, but then Fat turns behind him and hails
+     him back...",0.0452380952380952,[0.11800949 0.04523628],[ 1.8444684 -2.0126576]
+VIRGIL,Hey... get your own balloons.,0.6,[0.08775595 0.27541986],[ 1.5238072 -1.5448748]
+LIVINGSTON,"Thanks.
+
+     And he's out.",0.2,[-1.7964387  1.9177908],[ 1.7971033 -1.7654396]
+DANNY,Well...,0.0,[0.13232414 0.38027796],[ 1.393544 -1.282022]
+RUSTY,Yeah...,0.0,[-0.02442063  0.555547  ],[ 1.2205447 -1.1480573]
+DANNY,Fourth task:    construction...,0.0,[-0.0939451   0.38829288],[ 2.0610762 -1.9493517]
+DANNY (V.O.),"We need to build an exact, working
+                  replica of the Bellagio vault.",0.25,[-0.67045027  0.84186286],[ 1.8252523 -1.8865277]
+RUSTY (V.O.),For practice.,0.0,[-0.01131435  0.6291847 ],[ 1.2379317 -1.1532556]
+DANNY (V.O.),"Something like that.
+
+     As Linus hauls in materials, Danny takes him aside.",0.0,[-1.1994364  1.231732 ],[ 1.6624867 -1.8025109]
+DANNY,"Fifth task: intelligence. We
+                  need those codes, Linus. From the
+                  only man who has all three.",0.0,[ 0.604369  -0.3399091],[ 1.5812573 -1.7803572]
+LINUS,Benedict.,0.0,[ 0.83719987 -0.03709789],[ 1.2646645 -1.3065888]
+DANNY,"Learn to love his shadow.
+                         (back to the team)
+                  Sixth task: transport...",0.25,[ 0.33908916 -0.03297423],[ 1.9499983 -2.072429 ]
+LINUS,"(young and eager)
+                  Wait, wait, wait. All I get to do
+                  is watch him?",0.1,[ 0.34881896 -0.06361388],[ 1.8985916 -1.9472474]
+DANNY,"For now. You gotta walk before
+                  you crawl.",0.0,[ 1.0805029  -0.49283287],[ 1.4056307 -1.4734164]
+RUSTY,"(to Linus, correcting Danny)
+                  Reverse that.",0.0,[-0.15875654  0.5727316 ],[ 1.6887792 -1.7401445]
+DANNY,"(toward the Malloys)
+                  Sixth task: transport...",0.0,[0.06998756 0.04848828],[ 1.994116 -2.080232]
+FRANK,"(playing a bit of
+                          a dandy)
+                  Oh, I understand perfectly. They
+                  are beautiful vans. Well, I thank
+                  you for your time, Mister...?",0.925,[-0.5483811  0.7136103],[ 1.7127119 -1.6958652]
+FRANK,"Yes, Denham, like a jean.
+                         (they shake)
+                  You know: you have lovely hands
+                  -- do you moisturize?",0.5,[ 0.21890657 -0.00676896],[ 1.4671577 -1.7078217]
+FRANK,"I swear by it. I try all sorts of
+                  lotions. I went through a
+                  fragrance-free period last year,
+                  but now I'm liking this new brand
+                  fortified with rose hip. My
+                  sister, you know, she uses the
+                  aloe vera with the sun screen
+                  built in...",0.2454545454545454,[ 0.2018284  -0.07856221],[ 1.6471424 -1.6625286]
+FRANK,"I did. You know: they say
+                  cinnamon is wonderful for your
+                  pores. Read that on the internet.
+                  And that ideally you should be
+                  wearing gloves to bed, but I find
+                  that would interfere with my
+                  social agenda. Problem is: I get
+                  a reaction to camphor so I can't
+                  use traditional remedies...",0.4833333333333333,[-0.14648837  0.20627618],[ 1.3936316 -1.5296077]
+FRANK,"(big smile)
+                  That would be lovely.",0.2666666666666666,[-0.56510955  0.758057  ],[ 1.5917605 -1.6350485]
+DANNY,"... Power, surveillance,
+                  transport...",0.0,[-0.98849183  1.1856192 ],[ 1.9417049 -1.8579757]
+TISHKOFF,"Anything I can do?
+
+     Danny's eyes flash from Tishkoff to Saul, behind him,
+     dressed in his usual frumpy attire: that's what he
+     missed.",-0.325,[0.05089288 0.1234882 ],[ 1.9904692 -2.067538 ]
+DANNY,Get your wallet.,0.0,[ 1.0123483  -0.26469818],[ 1.0993491 -1.1605749]
+SAUL,This is nice material.,0.6,[-1.4409692  1.6114196],[ 1.1128682 -1.1437578]
+DANNY,"It's Armani, Saul.",0.0,[ 0.7543118 -0.2055091],[ 1.7090127 -1.6587993]
+SAUL,"It's very nice.
+
+     Saul's not fooling anyone: he's scared, right down to
+     his Florsheims. Danny nods to the tailor: ""Give us a
+     moment.""",0.3033862433862434,[ 0.5183812  -0.15991467],[ 1.6406096 -1.7932453]
+DANNY,"Saul, you sure you're ready to do
+                  this?
+
+     Saul turns away, and when he faces Danny again, his
+     entire aspect has changed: His features stone, his eyes
+     icicles.",0.2333333333333333,[ 0.75443274 -0.30749848],[ 1.8286418 -2.0004902]
+SAUL,"If you ever question me again,
+                  Daniel, you won't wake up the
+                  following morning.
+
+     They exchange a long, fierce glance; Saul's eyes never
+     waver.",-0.025,[ 0.9524887  -0.48064396],[ 1.666247  -1.9014068]
+DANNY,"You're ready.
+
+     Danny signals Tishkoff: let's pay, and Saul immediately
+     slumps into his old self. To a mirror, he practices...",0.15,[ 0.36089122 -0.04982881],[ 1.7224287 -1.9257228]
+SAUL,"Hello.  My name is Lyman Zerga...
+                         (this time a little
+                          deeper)
+                  My name is Lyman Zerga...",-0.1875,[ 0.5756899  -0.16539046],[ 1.7095245 -1.9541163]
+SAUL,"My name is Lyman Zerga... My name
+               is Lyman Zerga...
+
+     Danny passes him an envelope full of $100 bills.",0.35,[ 0.5697655  -0.25428116],[ 1.7911872 -2.075456 ]
+DANNY,"There's a little over twenty grand
+               there, Saul. Try to make it last.
+
+     Saul pats down his pockets for something he can't find...",0.0392361111111111,[-0.28336322  0.3718357 ],[ 1.5681987 -1.7714262]
+SAUL,You seen my...,0.0,[ 1.1181972 -0.2975486],[ 1.978035 -1.908444]
+DANNY,"(handing him Rolaids)
+               Bought you a fresh roll.
+
+     The limo pulls to a stop, and outside there is a flurry
+     of FOOTSTEPS before Saul's door swings open, and Turk and
+     Virgil (both costumed as bodyguards) stand waiting for
+     him.",0.0999999999999999,[ 0.48884675 -0.21976084],[ 1.5637408 -1.8367144]
+VIRGIL,"Mr. Zerga, we're here.",0.0,[ 1.3317631  -0.53085685],[ 1.715043  -1.7446574]
+DANNY,"Good luck, Lyman.",0.7,[0.28046745 0.3358967 ],[ 1.4595076 -1.3777176]
+SAUL,"(hesitates, then gets
+                       out)
+               Luck is for losers.",-0.2,[-0.33633605  0.7158811 ],[ 1.514381  -1.5334815]
+SAUL,"My name is Lyman Zerga.   I'd like
+                   a suite, please.",0.0,[ 1.2744173  -0.84304404],[ 1.8329976 -2.0350466]
+SAUL,"(long glare at him)
+                   I don't make reservations.
+
+      A longer glance at Lyman's bodyguards tells the Concierge
+      this is not a man to be denied. As he jumps to it...",-0.05,[ 0.7657526  -0.34764728],[ 1.7949702 -1.9429252]
+RUSTY,Okay.   Tell me about Benedict.,0.5,[-1.046523   1.3804156],[ 1.7187845 -1.6309459]
+LINUS,The guy is a machine.,0.0,[-0.41849917  0.9477575 ],[ 0.9861734 -0.9583322]
+RUSTY (V.O.),What do they talk about?,0.0,[ 1.8207    -0.9842226],[ 1.6011833 -1.5214541]
+LINUS,"Give him another ten seconds.
+
+     Around the corner comes Benedict, carrying his black
+     portfolio.",-0.0833333333333333,[-0.3312044  0.5951742],[ 1.7723597 -1.892419 ]
+LINUS,As I said:   a machine.,0.0,[-1.2807835  1.7954246],[ 1.4083952 -1.2590374]
+RUSTY,"And that portfolio contains the
+               codes to all the cage doors?",0.0,[-0.3278161   0.33794495],[ 1.617524  -1.7473177]
+LINUS,"Two minutes after they've been
+                  changed, he's got 'em in hand.
+                         (beat)
+                  I'll tell you: you guys picked
+                  a helluva target. He is as smart
+                  and ruthless as they come. The
+                  last guy caught cheating here,
+                  Benedict not only sent him up for
+                  ten years, he got the bank to
+                  seize the guy's home and
+                  bankrupted --",-0.1571428571428571,[ 0.8211663  -0.59592557],[ 1.5528017 -1.6556679]
+RUSTY,"-- his brother-in-law's tractor
+                  dealership, I heard.",0.0,[-0.9861743  1.1215346],[ 1.7012755 -1.6423321]
+LINUS,"He doesn't just go after your
+                  knees, he goes after your
+                  livelihood. And everyone-you-
+                  ever-met's livelihood.",0.0,[-0.09953335  0.12729463],[ 1.4933363 -1.5889878]
+RUSTY,You scared?,0.0,[ 1.83647    -0.99542385],[ 1.5286139 -1.490986 ]
+LINUS,You suicidal?,0.0,[ 1.5460504 -0.8936391],[ 1.5045272 -1.6217893]
+RUSTY,"Only in the morning.
+                         (beat)
+                  Now what?",0.0,[ 0.5028098  -0.20970684],[ 1.6949432 -1.7511122]
+LINUS,"Now comes the girl... if she comes
+                  in after he does, that means
+                  they're in a snit.",0.0,[-0.3259911   0.41458145],[ 0.07617098 -0.12939477]
+RUSTY,Where's she come from?,0.0,[ 2.2181835 -1.3822597],[ 0.03061823 -0.00297385]
+LINUS,"The museum downstairs. She's the
+                  curator there. Wait... here she
+                  is. You'll like this.
+
+     Rusty looks up as...
+
+     ... a beautiful woman (the one Danny saw on Benedict's
+     arm in the New York Times photo) appears. Elegantly
+     dressed, a knockout, she moves very much in her own
+     private space. And Rusty's face just about drops at the
+     sight of her.",0.391060606060606,[ 0.5509278  -0.32338822],[ 1.2899064 -1.375364 ]
+LINUS,"I don't know if we can use her
+                  yet. I haven't even caught her
+                  name.",0.0,[ 1.4839967  -0.95872563],[ 1.7373487 -1.6799495]
+RUSTY,Tess.,0.0,[0.60427815 0.04682157],[ 0.7255132  -0.67111635]
+LINUS,What?,0.0,[ 1.4070891  -0.49027988],[ 1.2503315 -1.1553091]
+RUSTY,"(looks very certain
+                          about this, very
+                          certain and very
+                          upset)
+                  Her name is Tess.",0.2523809523809524,[ 0.79834056 -0.5691371 ],[ 1.799805 -1.907944]
+TISHKOFF,"This looks familiar. Where'd you
+                get this?",0.375,[ 1.1145781 -0.8498206],[ 1.8329507 -1.9096559]
+VIRGIL,Off your Rolls.,0.0,[0.3185926  0.24841082],[ 0.81817204 -0.84066665]
+TISHKOFF,"Danny!   Tell 'em not to touch the
+                Rolls!
+
+      Overlooking the whole enterprise is Danny, grinning from
+      ear to ear, happy in his work. He checks a stopwatch in
+      his hand as...
+
+      ... the false top to the cash cart before him flies open,
+      revealing Yen within, his arms, legs and torso folded
+      into a three-by-four foot space. He whips an air hose
+      from his mouth and inhales deeply. Danny checks his
+      watch.",0.1833333333333333,[ 0.48410004 -0.25691858],[ 1.6724633 -1.7742114]
+DANNY,"29:47.   Everything okay in there?
+
+      Yen responds. Of course, Danny doesn't understand him.
+      But Rusty does, appearing behind him.",0.0499999999999999,[0.38758194 0.02195926],[ 1.9473697 -2.0126379]
+RUSTY,"But what doesn't beat the shit out
+                of being a circus performer?
+
+      Danny turns to Rusty:    he looks very, very serious.",-0.3166666666666666,[-0.5366603  0.5688237],[ 1.7233671 -1.7226411]
+DANNY,What is it?,0.0,[ 2.317799  -1.2638294],[ 1.3920496 -1.3458811]
+RUSTY,"Tell me this isn't about her. Or
+                   I'll walk off the job right now.
+                          (off Danny's reaction)
+                   Tess. She's with Terry Benedict
+                   now. Tell me this isn't about
+                   screwing the guy who's screwing
+                   your wife.",0.2857142857142857,[ 0.3828987  -0.10302959],[ 0.6593083 -0.6555866]
+DANNY,Ex-wife.,0.0,[0.36013138 0.23636717],[ 0.45674968 -0.33918074]
+RUSTY,Tell me.,0.0,[ 1.0874459  -0.23851967],[ 1.2731608 -1.1391562]
+DANNY,"It's not.   About that.   Entirely.
+
+      A beat.",0.0,[ 0.7002799 -0.390066 ],[ 1.7984935 -1.7589282]
+DANNY,"You said you needed a reason.
+                   Well, this is mine.
+                          (beat)
+                   When we started in this business,
+                   we had three rules. We weren't
+                   gonna hurt anybody. We weren't
+                   gonna steal from anybody didn't
+                   have it coming. And we were gonna
+                   play the game like we had nothing
+                   to lose. Well, I lost something.
+                   Someone. That's why I'm here.
+
+      A beat.",-0.4,[ 1.3898627 -1.0399634],[ 1.6481069 -1.74259  ]
+RUSTY,"Here's the problem: we're
+                   stealing two things now. And when
+                   push comes to shove, if you can't
+                   have both, which are you gonna
+                   choose? And remember: Tess
+                   doesn't divide eleven ways.
+
+      A beat.",0.0,[ 1.6142182 -1.2437727],[ 1.2649282 -1.4143207]
+DANNY,"If things go to plan, I won't be
+                   the one who has to make that
+                   choice.
+
+      The two men stand quietly for a moment.",0.0,[ 0.5035903  -0.21284905],[ 1.6473552 -1.6471704]
+DANNY,"How'd she look by the way?
+                   Tess...",0.0,[ 0.90676135 -0.5519287 ],[ 1.4442347 -1.5102173]
+RUSTY,I've seen her happier.,0.0,[0.03802065 0.6208643 ],[ 1.3896595 -1.2872579]
+TESS,"He painted it in the summer of
+                   1912, after the break-up with
+                   Fernande Olivier.",0.0,[-0.5622727  0.7455985],[ 1.9220921 -2.004397 ]
+TESS,"You can see the conflict. He
+                   makes her both erotic and
+                   grotesque. He's hopelessly drawn
+                   to her, and yet she drives him
+                   crazy.",-0.15,[-0.02046948  0.2017417 ],[ 0.6852987  -0.69205725]
+TESS,"Mr. Benedict is never late.
+
+      Just then the double doors to the gallery swing open, and
+      Terry Benedict enters, right on time.",0.1089285714285714,[-0.7682557   0.80697703],[ 1.9028666 -1.9343672]
+BENEDICT,Am I late?,-0.3,[ 1.966476  -1.2064743],[ 1.437035  -1.4335552]
+TESS,"Not at all, Mr. Benedict.
+                          (greeting him)
+                   Allow me to introduce to you Mr.
+                   Jean Santaniello.",0.0,[ 0.6934887 -0.3992565],[ 2.0904968 -2.2252026]
+BENEDICT,"(to Seller)
+                   Mr. Santaniello, I apologize if I
+                   kept you. I had to iron out a few
+                   issues with my fight promoter. I
+                   gave him an unlimited budget, and
+                   he exceeded it.",-0.2,[ 0.6928281 -0.3693165],[ 1.8690118 -1.9989842]
+BENEDICT,"We hope.
+
+      Tess angles Benedict toward the painting.",0.0,[-0.2126733   0.55091596],[ 1.6873711 -1.6599607]
+TESS,"Here it is.
+
+      Benedict moves toward the painting, and as he does he
+      catches Tess in his glance, and his smile deepens. Then:",0.3,[ 0.5203259  -0.12481792],[ 1.9345421 -2.1059349]
+BENEDICT,"Magnificent! I've been following
+                   her for fifteen years now. At
+                   last I've made her a home.
+                          (to Tess)
+                   All the arrangements and so
+                   forth...",0.3333333333333333,[ 0.4768511 -0.3327436],[ 1.9596443 -2.1321714]
+BENEDICT,"Not mine. She belongs to everyone
+                   who comes into my hotel. Isn't
+                   that right, Ms. Ocean?",0.2857142857142857,[ 0.3733518  -0.15636128],[ 0.8311511 -0.9869782]
+TESS,"Yes, Mr. Benedict.",0.0,[0.2570687  0.37235695],[ 1.4582478 -1.5136011]
+BENEDICT,"She's lovely, isn't she?
+                          (as the Seller is
+                           confused; Benedict
+                           specifies painting)
+                   I can't be the only one who was
+                   after her.",0.0333333333333333,[ 1.03894    -0.60611874],[ 1.5974563 -1.682098 ]
+BENEDICT,"Ah, but this... You can't put a
+                   price on beauty. But I shouldn't
+                   philosophize. I own casinos,
+                   after all.",0.6,[ 0.19920923 -0.03655035],[ 1.3861951 -1.5436457]
+BENEDICT,"Of course, of course.
+
+      Tess understands: she is not to be part of the photo.
+      Benedict and the Seller pose together and...
+
+      Flash!",0.0,[-0.16021062  0.39961544],[ 1.4013962 -1.3409317]
+TESS,You like it?,0.0,[ 1.8857692 -1.0615739],[ 1.6441296 -1.5949987]
+BENEDICT,"I like that you like it.
+                          (beat)
+                   I have some bad news from the
+                   world of high fashion. It seems
+                   Mike Tyson will be wearing red on
+                   Saturday night. Red trunks with a
+                   white stripe.",-0.1079999999999999,[-0.18145435  0.36009595],[ 1.7164835 -1.6914446]
+TESS,Oh?,0.0,[ 0.83438724 -0.10708818],[ 1.2486252 -1.1839556]
+BENEDICT,"And you, as I recall, will be
+                   wearing a red Donna Karan? And
+                   when the TV cameras pick us up in
+                   the front row, that red dress...",0.0,[-0.4471043   0.48057505],[ 1.4268321 -1.2817509]
+TESS,I see.,0.0,[-0.00405507  0.5472863 ],[ 1.169933  -1.0319955]
+BENEDICT,"He's a charming man, but no one's
+                   going to be watching him when they
+                   can make a study of you. I've
+                   asked Paolo to find three or four
+                   things for you to try. I hope
+                   you're not too disappointed.
+
+      She is, but she buries it.",-0.025,[ 1.0938781  -0.85703903],[ 1.4659511 -1.3995575]
+BENEDICT,"Are you sure?
+
+      She nods, smiles faintly.",0.0,[0.0157207  0.25008082],[ 1.7815465 -1.8016316]
+BENEDICT,"I'll see you tonight.
+
+      Instinctively she leans in to kiss him.        He recoils ever
+      so slightly.",-0.1666666666666666,[0.23935056 0.13390109],[ 1.0813354 -1.0371836]
+TESS,"What?    We're alone.
+
+      He lets his eyes wander along the length of the ceiling,
+      over all the eye-in-the-sky cameras hidden there. She
+      follows his look.",-0.1666666666666666,[0.21359217 0.07372486],[ 1.799235  -1.7379631]
+BENEDICT,"In my hotels, there's always
+                   someone watching.
+
+      But he kisses her anyway.",0.0,[-0.1381032   0.46664992],[ 1.3222003 -1.2411584]
+TESS,"I'll see you tonight.
+
+      He glances once more on the Picasso as he moves away.",0.5,[0.07106812 0.32048997],[ 1.9425522 -1.942212 ]
+BENEDICT,"Actually, I do like it.
+
+      And Tess remains, thinking:         he's rich, he's handsome and
+      wooing, but is she happy?",0.41875,[ 0.5086021  -0.27398068],[ 1.4818966 -1.5747498]
+SAUL,"I don't believe in weakness. It
+                 costs too much. I don't believe
+                 in questions, either.",0.2,[ 1.6279641 -1.0035266],[ 1.4819444 -1.5170587]
+BENEDICT,Eddie.    Anything for me?,0.0,[ 1.0194     -0.60650736],[ 2.0149531 -2.1691434]
+BENEDICT,Who is he?,0.0,[ 2.2861762 -1.2511379],[ 1.2106743 -1.3574954]
+BENEDICT,Zerga?    Never heard of him.,0.0,[-0.60983473  1.0505391 ],[ 1.6356888 -1.6694405]
+BENEDICT,He's staying here?,0.0,[ 1.4264401  -0.77517235],[ 1.7385232 -1.8637294]
+BENEDICT,How's he doing?,0.0,[ 2.1722052 -1.2529176],[ 1.6990079 -1.7711335]
+BENEDICT,"(knowing he can't
+                           duck this)
+                   Good for him...",0.7,[-0.8510658  1.1438062],[ 1.4296969 -1.5241904]
+TESS,"(without looking
+                            at him)
+                   You're thirty seconds late. I was
+                   about to send out a search
+                   party...
+                          (recognizing the hands,
+                            she turns, stunned)
+                   Danny...",-0.3,[ 0.964887   -0.62791204],[ 1.801036  -1.9590352]
+DANNY,"(standing over her,
+                           grinning)
+                   Hello, Tess.",0.0,[0.00419307 0.37778845],[ 1.5957555 -1.6831795]
+TESS,"(thrilled and petrified
+                           and stunned to see
+                           him, but outraged
+                           mostly)
+                   What are you doing here?",0.0666666666666666,[ 0.84908074 -0.51448226],[ 1.8883256 -1.8909531]
+DANNY,I'm out.,0.0,[ 1.076175   -0.21198165],[ 1.2482656 -1.1165303]
+TESS,You're out.,0.0,[0.68158305 0.06354178],[ 1.2602274 -1.0892746]
+DANNY,"Of prison. You remember. The day
+                   I went for cigarettes and never
+                   came back. You must have noticed.",0.0,[0.05377438 0.07952489],[ 1.8346864 -1.7804434]
+TESS,"I don't smoke.
+                          (as he sits)
+                   Don't sit --",0.0,[ 0.64377815 -0.42283544],[ 1.7174461 -1.7609984]
+DANNY,"(but he does)
+                   They said I'd paid my debt to
+                   society.",0.0,[-0.5007594   0.84037393],[ 1.707519  -1.8147814]
+TESS,"Funny, I never got a check.
+
+      Danny smiles.    Tess stares daggers.",0.25,[-0.7394529  0.8751391],[ 1.749162  -1.7593007]
+DANNY,"You're not wearing your ring.
+
+      A beat.",0.0,[0.42574596 0.02196135],[ 1.3892056 -1.3445243]
+TESS,"I sold it. And I don't have a
+                   husband. Or didn't you get the
+                   papers?",0.0,[ 0.82784086 -0.55162555],[ 1.6904985 -1.75364  ]
+DANNY,My last day inside.,0.0,[0.38250864 0.307575  ],[ 1.5533124 -1.4285837]
+TESS,"I told you I'd write.
+
+      Danny reaches his hand (ringed) for hers (ringless), but
+      she removes it from the table.",0.0,[ 0.52812356 -0.03906932],[ 1.6153316 -1.708265 ]
+TESS,Danny.   Go.   Now. Before...,0.0,[ 0.6368044  -0.39780408],[ 1.6148123 -1.5613103]
+DANNY,"Benedict?
+
+      She freezes: Danny knows.       He smiles:   it's okay.   Then,
+      to a passing waiter:",0.5,[-0.5786039  0.7104531],[ 1.8823196 -1.8200401]
+DANNY,"(his fingers two
+                           inches apart)
+                   Whiskey and --
+                          (then one inch
+                           apart)
+                   -- whiskey.",0.0,[ 1.0100151 -0.5996108],[ 1.4621022 -1.6720476]
+TESS,Danny...,0.0,[ 0.932384   -0.22349381],[ 1.5110925 -1.443199 ]
+DANNY,"You're doing a great job curating
+                   the museum.
+
+      She sighs, exasperated.",0.8,[-1.4674478  1.5270549],[ 1.91468   -1.8393117]
+DANNY,"The Vermeer is quite good. Simple
+                   but vibrant. Although his work
+                   definitely fell off as he got
+                   older.",0.2066666666666666,[ 0.564467   -0.18171754],[ 1.8148999 -1.8740044]
+TESS,Remind you of anyone?,0.0,[ 2.1425412 -1.3922656],[ 2.0477924 -2.0830476]
+DANNY,"And I still get Monet and Manet
+                   confused. Which one married his
+                   mistress?",-0.075,[ 0.7569931 -0.4726223],[ 1.2104985 -1.356414 ]
+TESS,Monet.,0.0,[0.6100683  0.01108941],[ 1.0546912 -1.025609 ]
+DANNY,Right.   Manet had syphilis.,0.2857142857142857,[-1.6516219  1.9460607],[ 1.0312291 -1.1664846]
+TESS,"They also painted occasionally.
+
+      A beat.",0.0,[0.13644715 0.23731074],[ 1.6617206 -1.6078378]
+DANNY,"You don't know how many times I
+                   played this conversation out in my
+                   head the last two years.",0.25,[-0.01729135  0.42891124],[ 1.7731756 -1.5617385]
+TESS,Did it always go this poorly?,-0.4,[ 2.2522821 -1.347597 ],[ 1.7347664 -1.6288747]
+DANNY,Yes.,0.0,[0.35707092 0.19407618],[ 0.7713877 -0.6977943]
+TESS,Sounds frustrating.,-0.4,[-0.65724957  1.1913221 ],[ 1.3952719 -1.2285817]
+DANNY,"You were never easy.
+                          (as she shrugs)
+                   Okay. I'll make this quick. I came
+                   here for you. I'm gonna get on with
+                   my life, and I want you with me.",0.2055555555555555,[ 1.1174123 -0.5577854],[ 1.7068979 -1.7252483]
+TESS,You're a thief and a liar.,0.0,[0.35224152 0.25112256],[ 0.80445963 -0.6591282 ]
+DANNY,"I only lied about being a thief.
+                   But I don't do that anymore.",0.0,[-0.3964536  0.5929317],[ 1.6089336 -1.5809664]
+TESS,Steal?,0.0,[ 1.5484055 -1.0972692],[ 1.3769059 -1.5626911]
+DANNY,Lie.,0.0,[0.1788227 0.3488216],[ 0.8239002 -0.7424134]
+TESS,"I'm with someone now who doesn't
+                   have to make that kind of
+                   distinction.",0.6,[0.36245367 0.05167577],[ 1.296753  -1.3813013]
+DANNY,"No, he's very clear on both.",0.13,[ 0.5894558  -0.00510015],[ 1.4447623 -1.3834442]
+TESS,"Nice.   Work on that for two years, too?",0.6,[-2.2862728  2.297978 ],[ 1.6716055 -1.5873182]
+DANNY,"Year and a half.
+
+      A light smile from Tess.",0.1777777777777777,[-0.43215165  0.6824813 ],[ 2.0305948 -1.9677173]
+TESS,Do you know what your problem is?,0.0,[ 2.189068  -1.2838881],[ 1.8980658 -1.9000202]
+DANNY,I only have one?,0.0,[ 1.9681951 -1.1356814],[ 1.7515161 -1.6744682]
+TESS,"You've met too many people like you.
+                          (then)
+                   I'm with Terry now.",0.5,[-0.12387361  0.4587947 ],[ 1.8673565 -1.881731 ]
+DANNY,Does he make you laugh?,0.3,[ 1.683006  -1.0345212],[ 1.8920364 -1.9455711]
+TESS,He doesn't make me cry.,0.0,[ 1.0411493 -0.2817593],[ 1.7371163 -1.5976026]
+FRANK,"Bank wins -- natural nine.
+
+      Benedict steps forward.",0.2,[-0.7614749  0.871019 ],[ 1.7203232 -1.7686344]
+BENEDICT,Mr. Weintraub.     How's everything?,0.0,[-0.6175762  0.9412097],[ 2.0641565 -2.0925524]
+BENEDICT,"And here I thought you were
+                   drinking vodka.
+                          (turning attention to
+                           Saul)
+                   Mr. Zerga.",0.0,[-0.58203304  0.6652872 ],[ 1.8020159 -1.8537405]
+SAUL,"Mr. Benedict. I recognize you
+                   from the TV. You know, nine
+                   casinos out of ten, owner comes
+                   up in the middle of the hand to
+                   ask me what I want. I respect
+                   your waiting.",0.0,[ 0.35108364 -0.12909634],[ 1.865413  -2.0437799]
+BENEDICT,"You're the guest, sir.",0.0,[ 0.8232636  -0.12957355],[ 1.4535228 -1.4347137]
+SAUL,"And I have to impose on your
+                   hospitality. Can you sit in for a
+                   hand?",0.0,[ 0.8726577  -0.44705778],[ 1.3863536 -1.50117  ]
+BENEDICT,"I'd love to, Mr. Zerga, but the
+                   gaming board would feed me to my
+                   white tigers.",0.25,[0.11258568 0.24987128],[ 1.0404195 -1.0650626]
+SAUL,"That's a shame. You're the king
+                   of Vegas and you have to play
+                   craps in the alley.",0.0,[-1.0313966  1.2221595],[ 1.2907747 -1.3865391]
+BENEDICT,"No shame at all. Reminds me of my
+                   youth.",0.0,[-0.19146405  0.54978573],[ 1.7099917 -1.6420783]
+SAUL,"The fight is Saturday, is it not?",0.0,[ 1.9926428 -1.1265   ],[ 1.4932696 -1.4736286]
+BENEDICT,Yes.   I can get you seats...,0.0,[-0.86387855  1.1228547 ],[ 1.5436882 -1.4008808]
+SAUL,"No, no. Hand-to-hand combat
+                   doesn't interest me. I have a
+                   package arriving here Saturday
+                   evening. A black briefcase,
+                   standard size, the contents of
+                   which are very valuable to me.",0.0111111111111111,[ 1.1656228 -1.0014464],[ 1.8636409 -1.9009179]
+BENEDICT,"I'd be happy to put it in the
+                   house safe for you.",0.65,[ 0.54233104 -0.11185475],[ 1.145645  -1.3128054]
+SAUL,"The house safe is for brandy and
+                   grandmother's pearls. I'm afraid
+                   I need something more secure.",0.2,[ 0.43576437 -0.32132894],[ 1.3229433 -1.3632907]
+BENEDICT,"I can assure you, the house safe
+                   is utterly...",0.25,[-0.10005381  0.27999404],[ 1.7079858 -1.8040681]
+SAUL,"(his looks stops
+                           Benedict)
+                   I can assure you, Mr. Benedict,
+                   your generosity in this matter
+                   will not go overlooked. Now:
+                   what can you offer me besides the
+                   safe?
+
+      Saul's eyes are pure steel: he is not a man familiar
+      with being denied. And Benedict recognizes that fact.",0.3630952380952381,[ 1.453909  -1.0554453],[ 1.7464952 -2.0180504]
+TESS,"See, the kind of people you steal
+                   things from, they have insurance
+                   to compensate them. They get made
+                   whole again. I had to leave New
+                   York to get away from what
+                   happened. How do I get my five
+                   years back, Danny?",0.2340909090909091,[ 0.5096445  -0.38177404],[ 1.4253346 -1.5811217]
+DANNY,"You can't. But what you can do is
+                   not throw away another five years.",0.0,[ 1.0499686 -0.5383519],[ 1.46131   -1.3965031]
+TESS,You don't know anything about --,0.0,[ 1.4335071 -0.8391503],[ 1.7419786 -1.6772522]
+DANNY,"(leaning in)
+                   Listen, you don't love me anymore,
+                   you want to make a life with
+                   someone else? Fine, I'll have to
+                   live with that. But not him.",0.351010101010101,[ 0.75502276 -0.3739908 ],[ 1.1641936 -1.2318786]
+TESS,Spoken like a true ex-husband.,0.35,[0.19608836 0.5034128 ],[ 1.2380763 -1.2443533]
+DANNY,"I'm not joking, Tess.",0.0,[ 0.7503471  -0.14909983],[ 1.4080981 -1.3417276]
+TESS,"I'm not laughing.
+                          (beat)
+                   You have to admit there's a
+                   conflict of interest when you give
+                   me advice about my love life.
+
+      Danny exhales and leans back.",0.25,[0.09276027 0.12575632],[ 1.9066936 -1.9805242]
+DANNY,"Yes. But that doesn't mean I'm
+                   wrong.
+
+      She looks at him, and maybe part of her knows that he
+      isn't. She looks down at his ring, somewhat wistful.
+      He sees her looking at it.",-0.3226851851851852,[ 1.3465449 -0.8405776],[ 1.5443603 -1.590044 ]
+TESS,"Do you remember what I said to you
+                   when we first met?",0.25,[ 0.69612056 -0.25726452],[ 1.9701468 -1.9852022]
+DANNY,"You said: you better know what
+                   you're doing.",0.5,[-0.7585675   0.86786556],[ 1.5525634 -1.5680549]
+TESS,"Do you? Now? Because -- truly --
+                   you should walk out the door if
+                   you don't.",0.0,[ 0.84189475 -0.60692036],[ 1.5054651 -1.5852782]
+DANNY,I know what I'm doing.,0.0,[-0.04261932  0.7278265 ],[ 1.6904634 -1.583903 ]
+BENEDICT,"What are you doing?
+
+      Terry Benedict is hovering over them, fresh from his
+      meeting with Saul.",0.3,[-0.47535372  0.5998963 ],[ 1.9486525 -2.0417697]
+DANNY,Catching up.,0.6,[ 0.96128666 -0.13990024],[ 1.5238086 -1.5173804]
+TESS,"Terry, meet my ex-husband...",0.0,[ 0.7834243  -0.27920654],[ 1.7255379 -1.7480521]
+DANNY,"(extending his hand)
+                   Danny Ocean.",0.0,[0.61347425 0.01843253],[ 1.8925029 -2.0385668]
+BENEDICT,"(taking it)
+                   Mr. Ocean.
+                          (to Tess)
+                   Forgive me for being late. A
+                   guest required my attention.",-0.3,[ 0.47120708 -0.18646929],[ 1.9232112 -2.1036763]
+TESS,"Danny was just walking through the
+                   restaurant and spotted me.",0.0,[-0.8581812  0.9616153],[ 2.0095885 -2.0894608]
+BENEDICT,Is that right?,0.2857142857142857,[ 1.9308642 -0.968508 ],[ 1.2775886 -1.2873884]
+DANNY,I was shocked myself.   Imagine the odds.,-0.7,[-0.59456515  1.2156054 ],[ 1.7358555 -1.503441 ]
+BENEDICT,"'Of all the gin joints in all the
+                   world...'
+                          (beat)
+                   You've been in prison until
+                   recently, isn't that right? How
+                   does it feel to be out?",0.1428571428571428,[ 0.65458816 -0.41174373],[ 1.7725242 -1.9165468]
+DANNY,"About the same. Everything you
+                   want is still on the other side.",-0.0625,[ 0.66937333 -0.31645042],[ 1.7758979 -1.729669 ]
+BENEDICT,"There's the human condition for
+                   you.",0.0,[0.07459719 0.39743388],[ 1.4765855 -1.4435822]
+TESS,"Terry, Danny was just about to...",0.0,[ 0.98993593 -0.28173816],[ 1.5305979 -1.485103 ]
+DANNY,"I just wanted to say hello.   For
+                   old time's sake.",0.1,[0.05990098 0.48551854],[ 1.7916344 -1.8010259]
+BENEDICT,"Stay for a drink, if you like.",0.0,[ 1.9614731 -1.1721065],[ 1.4303502 -1.403315 ]
+TESS,He can't --,0.0,[ 1.1393939  -0.34295267],[ 1.4751877 -1.3758239]
+DANNY,"(simultaneously)
+                   -- I can't.
+
+      An awkward silence.    Benedict takes Tess's hand in his.",-0.6,[ 0.844351   -0.21050891],[ 1.7162111 -1.7710928]
+BENEDICT,"Well, then I don't imagine we'll
+                   be seeing you again, Mr. Ocean.",0.0,[-0.15799673  0.49763492],[ 1.6679085 -1.7120569]
+DANNY,You never know.,0.0,[ 0.6996755  -0.16305262],[ 0.95538723 -0.84613276]
+BENEDICT,"I know everything that happens in
+                   my hotels.",0.0,[-0.6079412  1.0117089],[ 1.8085822 -1.6987556]
+DANNY,So I should put those towels back.,0.0,[ 1.1773864  -0.48686862],[ 1.1685106 -1.2315329]
+BENEDICT,The towels you can keep.,0.0,[0.23216467 0.36375806],[ 1.1286746 -1.1336857]
+DANNY,"(smiles, rises)
+                   Good seeing you, Tess.",0.7,[-0.8822978  1.0058692],[ 1.7358668 -1.7724504]
+TESS,"Take care, Danny.
+
+      Danny goes.    When he's out the door...",0.0,[-0.06760893  0.3006173 ],[ 1.7649456 -1.7825518]
+TESS,I'm sorry --,-0.5,[ 0.74530345 -0.00326603],[ 1.6426417 -1.5475744]
+BENEDICT,"(like lightning)
+                   Don't be.",0.0,[ 0.571097   -0.11955931],[ 1.6820081 -1.5504552]
+BASHER,"(eyes never leave
+                           his work)
+                   Just jumping into the shower, can
+                   you come back later?
+
+      The maid moves on, on TV:     A Reporter broadcasts live...",0.0454545454545454,[ 0.37491822 -0.07585937],[ 1.6800171 -1.6560463]
+BENEDICT,Good to see you.,0.7,[-1.2578152  1.5686522],[ 1.3518206 -1.3052472]
+BENEDICT,"I hope there's as much dynamite in
+                the Paradiso as there will be in
+                this Saturday's fight.
+
+      ... and -- WHOOMPH -- the PLUNGER comes down and -- write
+      your own onomatopoeia here -- the PARADISO IMPLODES.
+      Reuben wipes a tear from his eye.",0.2148148148148148,[ 0.20263465 -0.06102411],[ 1.3968428 -1.5399572]
+BASHER,"Shit.
+
+      As he scrambles out the door, making sure to post a ""Do
+      Not Disturb"" sign...",0.15,[-0.39293832  0.4967952 ],[ 1.7555872 -1.8515426]
+RUSTY (V.O.),"Saturday day is yours. Do
+                   whatever you like with it.",0.0,[ 0.5131375  -0.27146542],[ 1.5532604 -1.5765871]
+RUSTY,"Call is at five-thirty. Makeup
+                   and costume. Saul's package
+                   arrives at seven-fifteen, and
+                   Linus grabs our codes. All goes
+                   well there and we're a go. Seven-
+                   thirty Virgil and Turk deliver Yen
+                   and we're committed. From that
+                   point, we have thirty minutes to
+                   blow the power or he suffocates.
+
+      We DESCEND ONTO the miniature of the vault, then --",0.0,[ 1.5758793 -1.2899642],[ 1.8015785 -1.989436 ]
+RUSTY (V.O.),"Once the electricity goes, all
+                   entry points to the vault and its
+                   elevator will automatically lock
+                   down for two minutes. That's when
+                   we make our move...
+
+      Two guards wheel in a cash cart and leave it in the
+      vault's center and march out again, closing the thick
+      metal door behind them. When the vault LOCKS CLICK...
+
+      ... We STOP DESCENDING, just above the cash cart. There
+      is silence for a spell, the lights flicker out, then...
+
+      ... the false top of the cart springs open, revealing Yen
+      within, folded neatly.",-0.1069444444444444,[ 1.0068952  -0.71351826],[ 1.5082369 -1.7230777]
+RUSTY,"Okay: they've put you in the
+                   middle of the room, far from
+                   everything. You have to get from
+                   here to the door without touching
+                   the floor. What do you do?
+
+      A WIDER ANGLE reveals we're...",0.275,[ 1.2922012 -0.9281056],[ 1.6410786 -1.679543 ]
+FRANK,Fin says he shorts it.,0.0,[0.14850812 0.39990813],[ 1.4001108 -1.3865612]
+LIVINGSTON,"Make it a sawbuck.
+
+      From a dead squat, Yen leaps, hands first, from the cash
+      cart to a ledge five yards away, and grips it safely with
+      both hands without touching the floor. From this
+      position, he'll inch his way to a counter, then, to the
+      door...
+
+      Frank pays up. Behind him, a DOOR SLAMS, and he turns to
+      see Basher, at last. Sniffing the air, he double-takes
+      -- Basher's covered head-to-toe in sewage.",0.1083333333333333,[ 1.6751734 -1.1956848],[ 1.3960861 -1.7105039]
+BASHER,"(and he's not happy)
+                   We're in deep shit.",-0.2,[-0.09560689  0.59204936],[ 1.6964327 -1.6798464]
+BASHER,"The damn demo crew didn't use a
+                   coaxial lynch to back the
+                   mainline! Onioned the mainframe
+                   couplet!
+
+      Reuben leans into Livingston...",0.0,[-0.2058532  0.3430056],[ 1.7209278 -1.8486738]
+LIVINGSTON,I'll explain later.,0.0,[ 1.045541   -0.31333533],[ 1.2891613 -1.0818211]
+BASHER,"Blew the backup grid one by one!
+                   Like dominoes!",0.0,[-0.3942536   0.74912804],[ 1.663376  -1.6798817]
+DANNY,"(as he hardly
+                           understands
+                           this either)
+                   Basher. What happened?",-0.2916666666666667,[ 1.1461259  -0.68145645],[ 1.839851  -1.9635385]
+DANNY,So...,0.0,[ 0.740791   -0.14651547],[ 1.3507608 -1.2897704]
+BASHER,"So unless we decide to do this job
+                   in Reno, we're screwed.
+
+      Danny rises and paces, frustrated.      He's come too far for
+      things to go awry now.",-0.3,[-0.00366398  0.21556333],[ 1.5931903 -1.5440305]
+RUSTY,We could --,0.0,[ 1.413043   -0.71431786],[ 1.467746  -1.4081389]
+DANNY,"By tomorrow?
+
+       Danny keeps pacing; Rusty hangs his head and thinks;
+       Basher dries his hair.",0.0,[ 0.33770087 -0.1165382 ],[ 1.8149629 -1.8328032]
+BASHER,"(an idea occurs
+                            to him)
+                    We could use a pinch.
+
+       Danny stops; Rusty looks up.",0.0,[ 0.635712   -0.29093775],[ 1.7900416 -1.9198836]
+DANNY,What -- is a pinch?,0.0,[ 2.0486894 -1.2516819],[ 1.504779  -1.4962119]
+RUSTY,For how long?,-0.05,[ 1.9758887 -1.1340284],[ 1.4833504 -1.4153731]
+BASHER,About ten seconds.,0.0,[0.07955167 0.5466118 ],[ 1.4838277 -1.3269933]
+DANNY,"Could a pinch take out the power
+                    of an entire city? Like, I
+                    don't...",0.0,[ 1.039308  -0.6872119],[ 1.6070004 -1.6790663]
+BASHER,"Las Vegas?
+                           (beat)
+                    But there's only one pinch in the
+                    world big enough to handle it.
+
+       Danny and Rusty trade a look:        They have their answer.",0.0,[ 1.0103539 -0.5519551],[ 1.5389391 -1.6368905]
+DANNY,Where?,0.0,[ 1.9808651 -1.024796 ],[ 1.1707782 -1.1646423]
+BASHER,"(a beat, then balefully)
+                    Pasadena.",0.0,[0.23474282 0.19085324],[ 1.6871338 -1.6813709]
+DANNY,"(to Basher and Yen)
+                    You two ready?
+
+       They nod and, with Danny, start out the van's rear door.
+       Linus starts to follow but...",0.2,[ 1.0168622 -0.5809524],[ 1.7047111 -1.792504 ]
+DANNY,What are you doing?,0.0,[ 2.013884  -1.2099693],[ 1.7089423 -1.7421534]
+LINUS,"Coming with you.
+
+       Danny smiles and shakes his head.",0.0,[-0.34556612  0.57205534],[ 1.8814822 -1.8930185]
+LINUS,"(furious)
+                    But...",0.0,[0.1933415  0.20835435],[ 1.806642  -1.8248378]
+VIRGIL,Are you a man?,0.0,[ 1.9291253 -1.1941799],[ 1.4765253 -1.4493996]
+TURK,Yes.    Nineteen.,0.0,[-1.4642493  1.737794 ],[ 1.5590004 -1.4278318]
+VIRGIL,Are you alive?,0.1,[ 2.1266603 -1.3059896],[ 1.7225788 -1.8429245]
+TURK,Yes.    Eighteen.,0.0,[-1.4105479  1.6432277],[ 1.7273897 -1.5577685]
+VIRGIL,Evel Knievel.,0.0,[ 0.95789367 -0.23547232],[ 1.4861113 -1.5499507]
+TURK,"Shit!   Okay, your turn...",0.125,[-1.9495932  2.1230114],[ 1.6298449 -1.5327321]
+VIRGIL,Co-sign squared over .0455.,0.0,[ 1.6911238 -0.8367015],[ 1.6245857 -1.6131104]
+TURK,No.    Co-sign squared over .0415.,0.0,[0.18504898 0.09713046],[ 1.8836118 -1.8348849]
+VIRGIL,.04-five-five.,0.0,[ 1.2957274 -0.5307741],[ 1.3704504 -1.3503605]
+TURK,One-five.,0.0,[0.2820449 0.3625225],[ 1.1356235 -1.0770344]
+VIRGIL,You're so wrong.,-0.5,[0.32504642 0.4247603 ],[ 1.4060777 -1.2631723]
+TURK,"You don't know your string theory,
+                   bitch.",0.0,[-0.43823063  0.7712356 ],[0.11732649 0.05786497]
+VIRGIL,Mom told me she loves me more.,0.5,[-1.2562766  1.7801813],[ 1.5698068 -1.6616305]
+TURK,"She told me she was going to tell
+                   you that.",0.0,[-0.8113734  1.0522982],[ 0.8539797 -0.7817196]
+DANNY,"We got it.   Let's go.
+
+      Turk floors it, and they're off.",0.0,[0.14948963 0.38502547],[ 1.2099543 -1.1959019]
+DANNY,"Wait a minute.
+
+      Turk brakes, and they're not.",0.0,[-0.51715034  0.90490514],[ 1.4898459 -1.5251176]
+DANNY,"Where's Linus?
+
+      Everyone realizes:    he's not here.   Just then:
+
+      SIRENS and ALARMS and lights come to life.      Uh-oh.
+
+      Danny spins to look out the back of the van, Basher by
+      his side. His eyes scan the compound, then:",0.0,[0.09287493 0.17428765],[ 1.8648452 -1.9136804]
+DANNY,There he is.,0.0,[0.27732462 0.29722777],[ 1.1983262 -1.2323015]
+BASHER,"(who speaks Danny's mind)
+                   Then there'll be two of us who
+                   need saving.",0.0,[-0.13600431  0.38190344],[ 1.7050675 -1.7118042]
+DANNY,He knows where we are.,0.0,[ 1.0481666 -0.339841 ],[ 1.5343045 -1.5407711]
+TURK,"(off Danny's look)
+                    What?
+                           (then, realizing their
+                            goof, to his brother,
+                            remonstratively)
+                    Would you -- shouldn't someone be
+                    behind the wheel?",-0.4,[ 0.9460066 -0.7080277],[ 1.6026493 -1.795944 ]
+DANNY,"Alright, back it up, back it up!
+
+       Virgil leaps into the driver's seat, shifts into reverse.",0.0,[-0.18171677  0.3983253 ],[ 1.5604817 -1.7746316]
+DANNY,"(appearing from
+                            the rear doors)
+                    C'mon, c'mon...
+
+       Linus scrambles back over the van, and Danny and Yen pull
+       him in. Virgil hits the gas for a quick getaway, but he
+       does so before the rear doors are closed, and one of them
+       slams shut right on Yen's hand -- CRUNCH!",0.1476190476190476,[ 0.77407116 -0.49162105],[ 1.6223029 -1.7257751]
+DANNY,"I say stay in the van, you stay in
+                    the van, got it? 'Cause you lose
+                    focus for one second in this game,
+                    and someone gets hurt.",-0.2,[ 0.52728444 -0.15470347],[ 1.6526204 -1.5433321]
+LINUS,"(he's had just
+                            about enough of
+                            Danny's shit)
+                    I got it.
+
+       They continue staring daggers at one another as...",-0.1,[0.2647302  0.18860668],[ 1.5164452 -1.5565912]
+TISHKOFF,"Where are they? That's what I
+                want to know. Where are they?",0.0,[ 1.3186916  -0.85556173],[ 1.8791399 -1.9779452]
+SAUL,"(as Lyman)
+                They'll be here.",0.0,[-0.20529647  0.61921144],[ 1.723276 -1.711632]
+TISHKOFF,"(to himself, mocking
+                        ""Lyman"")
+                'They'll be here.' Thanks a lot,
+                Fidel.",0.2,[-1.1515121  1.3883246],[ 1.7343483 -1.8865274]
+LIVINGSTON,Yikes.,0.0,[0.47102457 0.14998746],[ 1.2757249 -1.2180425]
+RUSTY,"You boys have a nice trip?
+
+      Rusty, smiling, looks to Linus, glowering, then to Danny.
+      Before Danny can explain the doors part at the Mirador
+      Suite, where Livingston greets them urgently.",0.6,[-0.13780214  0.31751588],[ 1.9545819 -2.068412 ]
+LIVINGSTON,We have a problem.,0.0,[0.6661096 0.1140551],[ 1.4414859 -1.3599837]
+LIVINGSTON,"You've been red-flagged. It means
+                   the moment you step on the casino
+                   floor, they'll be watching you.
+                   Like hawks. Hawks with video
+                   cameras.",0.0,[-0.17751734  0.3728096 ],[ 1.4617395 -1.4400665]
+DANNY,"This is a problem.
+
+      A pall falls over the room: this is more than a problem,
+      this is disastrous. Only SAUL dares make a noise,
+      HUMMING and SPLASHING in the next room.",-0.0499999999999999,[ 0.7444961  -0.25726718],[ 1.1699024 -1.259466 ]
+RUSTY,Saul:   time to get out.,0.0,[-0.15845864  0.59774256],[ 1.5782887 -1.6180599]
+RUSTY,"Now!
+
+      We hear HIM JUMP-TO-IT out of the tub...",0.0,[-0.8770033  1.1807795],[ 1.0170076 -1.1655498]
+RUSTY,"(back to Danny)
+                   You have any idea how this
+                   happened?
+
+      Before Danny can answer...",0.0,[ 0.8028085  -0.33781514],[ 1.7457663 -1.8148812]
+LINUS,"I do. He's been chasing
+                   Benedict's woman. Got into a real
+                   snarl with him two nights ago.
+                          (off Danny's look)
+                   I was tailing you.",0.2,[ 0.5123169 -0.1910128],[ 1.1715823 -1.1661078]
+DANNY,"Who told you to do that?
+
+      Before Linus can answer...",0.0,[-0.04269243  0.37987775],[ 1.0854458 -1.2312495]
+RUSTY,"I did.
+                          (he and Danny
+                           hold a stare)
+                   I knew you couldn't leave Tess
+                   alone.",0.0,[ 0.9522144  -0.44069114],[ 1.8253497 -1.8541882]
+TISHKOFF,Who's Tess?,0.0,[ 2.0648098 -0.9942113],[ 1.1225754 -1.1292336]
+DANNY,My wife.,0.0,[0.5938044  0.27809095],[ 0.5590743  -0.46425542]
+RUSTY,Ex-wife.,0.0,[0.36013138 0.23636717],[ 0.45674968 -0.33918074]
+SAUL,"(appearing in a
+                           bathrobe)
+                   Tess is here?",0.0,[0.08457151 0.12815034],[ 1.415698  -1.5673393]
+RUSTY,"(eyes still on
+                           Danny)
+                   I'm sorry. I didn't know if it
+                   would sting you, but it did.
+                          (the most difficult
+                           words he's ever
+                           had to say)
+                   You're out, Danny.",-0.1666666666666666,[ 1.3583099 -0.8160811],[ 1.7812487 -1.8014127]
+TISHKOFF,He's out?!,0.0,[0.51741296 0.12105034],[ 1.488888  -1.4935893]
+RUSTY,"It's that or we shut down right
+                   now. His involvement puts us all
+                   at risk.
+
+      Danny and Rusty face off, furious with each other.",0.0017195767195767,[0.33357224 0.06352354],[ 1.3144115 -1.4186286]
+DANNY,This isn't your call.,0.0,[ 1.2435218 -0.5748764],[ 1.5826796 -1.4026555]
+RUSTY,"You made it my call. When you put
+                   her ahead of us. You made it mine.",0.0,[ 0.85736465 -0.23824957],[ 1.3370543 -1.3562206]
+DANNY,This is my job.,0.0,[-0.64256614  0.98565865],[ 1.4761952 -1.3142647]
+RUSTY,"Not anymore.
+
+      Danny stares daggers at Rusty. But he can see: everyone
+      in the room is on Rusty's side. Defeated, he stalks out
+      of the room, onto a balcony, but not without staring down
+      Linus.",-0.1555555555555555,[ 1.2030321 -0.7145951],[ 1.6085802 -1.7112049]
+TISHKOFF,"But, but... he can't just be out.
+                   Who's gonna take his place?
+
+      Rusty turns to Linus.",0.0,[ 1.0034723  -0.47332266],[ 1.6142118 -1.7572082]
+RUSTY,"Kid, you up for it?
+
+      Linus's eyes drift to Danny outside -- whatever acrimony
+      he felt before, he never meant to kick Danny off the job.
+      He nods, half-cocksure/half-scared-pissless: he's up for
+      it.",0.0,[ 1.3648068 -0.8429164],[ 1.7646278 -1.8579267]
+RUSTY,"(to Livingston)
+                   Find everyone else. Let 'em know
+                   the change in plan. Curtain goes
+                   up at seven.
+
+      Livingston exits. Everyone else in the room staggers
+      about, like witnesses after an execution. Rusty steps
+      out onto the balcony, perhaps to console Danny, but (as
+      Linus watches them from inside) their words cannot be
+      heard.",0.0,[ 1.3219587 -0.9147898],[ 1.8297598 -1.8963772]
+SAUL,"Tess is with Benedict now?
+                          (as nobody responds)
+                   She's too tall for him.",0.0,[-0.08698664  0.38564906],[ 0.81713206 -0.8146857 ]
+BENEDICT,"(on phone)
+                   Yes. Yes. No. Very much no.
+                          (beat)
+                   Then inform Mr. Levin he'll find a
+                   better view of the fight in front
+                   of his television. Surely he must
+                   have H.B.O.
+
+      Hanging up, Benedict approaches her, puts his hands on
+      her shoulders...",0.3076923076923077,[ 1.017088   -0.80426216],[ 1.9013168 -1.9802483]
+BENEDICT,What are you thinking about?,0.0,[ 2.2264636 -1.3618613],[ 1.932427  -1.9447452]
+TESS,"You.
+
+      She smiles at him in the mirror.    His glance in it,
+      turns from her to himself.",0.0,[-0.32122388  0.49281296],[ 1.449757  -1.5072502]
+BENEDICT,Any sign of Ocean?,0.0,[ 2.2666402 -1.2659308],[ 1.5059532 -1.6401929]
+BENEDICT,"(shakes his head)
+                Put a guy on him. He's here for a
+                reason. I'd like to know what it
+                is. But if he comes anywhere near
+                Tess, take it to the next level.",0.05,[ 1.1437972 -0.6829591],[ 1.3679564 -1.4770606]
+SAUL,Mr. Benedict.,0.0,[0.40170342 0.27406684],[ 1.421946  -1.4774905]
+BENEDICT,"Mr. Zerga. It's a very busy night
+                for me. Are we on schedule?",0.13,[ 1.2681065 -0.9433419],[ 2.1132758 -2.0707517]
+SAUL,"I have no reason to suspect
+                otherwise. My couriers should be
+                here momentarily.
+
+      A beat as Benedict studies Saul.",0.0,[ 0.7305599 -0.4537647],[ 1.5180842 -1.6352053]
+BENEDICT,"It's a nice evening. Shall we
+                wait outside?",0.3,[ 0.9832208 -0.7110326],[ 1.6268189 -1.7204891]
+TURK,"Mr. Zerga.   A gift from Mr. Hesse.
+
+      Turk extends the briefcase to Saul, so that they both
+      clasp the handle, as Virgil produces a key, unlocks the
+      cuff on Turk's wrist, transfers it to Saul's, clamps it
+      shut, and hands Saul the key.",0.0,[ 0.8597926 -0.5448882],[ 1.4690673 -1.830385 ]
+SAUL,"Thank you, Friedrich, Gunther.
+
+      He turns, nods to Benedict, and they retreat into the
+      hotel, the security guards and Malloys flanking them.",0.0,[-0.54481786  0.710004  ],[ 1.6710807 -1.7988993]
+FRANK,"(as he busts)
+                Lookin' like a bad night for the
+                house.
+
+      MOVING WITH Benedict as he spies out of the corner of his
+      eye Danny, lurking at a slot machine. To one of his
+      guards...",-0.6999999999999998,[ 0.6213141 -0.3989884],[ 1.6822563 -1.8514642]
+BENEDICT,"Find Mr. Walsh. Tell him Mr.
+                Ocean's in the west slots.",0.0,[0.13407835 0.05954108],[ 1.6644503 -1.8032086]
+BENEDICT,"I'm afraid I can't allow my
+                   private security personnel
+                   inside the casino cages. I hope
+                   you don't mind...",-0.3,[ 0.5682964 -0.3108838],[ 1.29289   -1.3889056]
+SAUL,"Of course not.
+
+      Saul turns to dismiss Virgil and Turk when...
+
+      ... passing by, on his way to a sports betting window, an
+      old RACETRACK DENIZEN happens past this cabal and, worse
+      yet, happens to recognize Saul.",-0.1833333333333333,[-0.3996533  0.4315401],[ 1.2929997 -1.5022968]
+SAUL,"Friedrich, Gunther.
+
+      An order: dispose of this man. Virgil and Turk pick up
+      the Denizen by his elbows and haul him away.",0.0,[ 1.2183348  -0.70613426],[ 1.1592255 -1.4027513]
+SAUL,"Mr. Benedict...
+                          (gesturing to the
+                           cage; re: his
+                           briefcase-cuff)
+                   Please: I have never enjoyed the
+                   touch of steel to my skin.
+
+      They proceed.",-0.25,[ 1.0394353 -0.7349685],[ 1.5799752 -1.8221551]
+DANNY,"Pops, you won.
+
+       ... then slips away.",0.0,[-0.88634735  1.1831857 ],[ 1.7645875 -1.6252388]
+RUSTY,"Where you gonna put your hands?
+
+       Linus clasps them.",0.0,[ 0.5607052 -0.1505481],[ 1.3134042 -1.4398013]
+RUSTY,"No...
+
+       Linus goes for his pockets.",0.0,[-0.6733691  0.7753789],[ 1.3825357 -1.5317577]
+RUSTY,"Not the pockets, either. And
+                    don't touch your tie. Look at
+                    me...
+
+       Linus does.",0.0,[ 1.0714709 -0.7942394],[ 1.3320987 -1.5234829]
+RUSTY,"That how you gonna stand?
+
+       Linus shifts his balance.",0.0,[-0.21123105  0.6384566 ],[ 1.6606165 -1.7826731]
+RUSTY,"Wrong again. I ask you a
+                    question, you have to think of the
+                    answer, where you gonna look?
+
+       Linus looks down.",-0.3277777777777778,[ 1.148168  -0.8605865],[ 1.850458  -1.9659332]
+RUSTY,"Death. You look down, they know
+                    you're lying --
+
+       Linus looks up.",-0.1555555555555555,[-0.04672396  0.25671026],[ 1.4552684 -1.5795264]
+RUSTY,"-- and up they know you don't know
+                    the truth. Don't use three words
+                    when one will do, don't shift your
+                    eyes, look always at your mark but
+                    don't stare, be specific but not
+                    memorable, funny but don't make
+                    him laugh, he's gotta like you
+                    then forget you the moment you've
+                    left his sight, and for God's
+                    sakes whatever you do, don't under
+                    any circumstances --",0.06,[ 1.3281425 -0.9982594],[ 1.8582754 -1.9076766]
+RUSTY,"(wandering off)
+                    Sure thing.
+
+       Linus is left utterly bewildered, a thousand commandments
+       to remember and fifteen minutes to remember them in.",0.1666666666666666,[ 0.79063565 -0.38402277],[ 1.6624651 -1.830839 ]
+BENEDICT,"They're very beautiful.   A gift.
+
+      Saul stares at him:     none of your fucking business.",0.2,[-0.5401816  0.7404569],[ 0.78944063 -0.8409269 ]
+BENEDICT,"Can you lift them out, please?
+
+      Saul lifts the velvet tray out of the case, and Benedict
+      pats down the case's interior. Saul replaces the tray.",-0.1555555555555555,[ 0.99215895 -0.48225477],[ 1.7203971 -1.8919562]
+BENEDICT,"Alright, Mr. Zerga. I acknowledge
+                   that the case does not contain any
+                   dangerous or illicit material. I
+                   further agree to take custody of
+                   your case for a twenty-four hour
+                   period to store in our secured
+                   vault. While I cannot permit you
+                   to accompany the case to the
+                   vault...",-0.3,[ 1.3003421 -1.0395912],[ 1.6799592 -1.8459939]
+SAUL,Why not?,0.0,[ 1.9193989 -1.1547934],[ 1.094062  -1.0516711]
+BENEDICT,"Insurance, for one. Security,
+                   another. And I don't trust you.
+
+      There is a KNOCK at the door, and Walsh the casino
+      manager enters. He speaks low in Benedict's ear.",0.0,[ 0.7998573  -0.48580018],[ 1.4732538 -1.6681448]
+BENEDICT,"Mr. Zerga, this is Mr. Walsh, my
+                   casino manager. If you will allow,
+                   he will arrange for your briefcase
+                   to be stored inside our vault while
+                   you watch on a security monitor.
+                          (beat)
+                   Those are my terms. Yes or no?
+
+      Saul and Benedict eyeball each other.",-0.125,[ 0.873534   -0.72196555],[ 1.7029582 -1.961187 ]
+SAUL,"You leave me no choice.
+
+      Saul unlocks the cuff from his wrist.",0.0,[0.21210499 0.20214546],[ 1.4253718 -1.6053365]
+LINUS,"(breathes deep)
+                Thanks.",0.1,[-0.5215062   0.89909077],[ 1.8139192 -1.8055016]
+TURK,"Who ordered the penne?
+
+      Livingston raises a hand, and as Turk serves him his
+      plate, Virgil whips off the cart's tablecloth:
+      underneath it's the false-lid cash cart. Rusty turns to
+      a corner.",0.0,[ 0.9973689  -0.58975935],[ 1.5261792 -1.7468281]
+RUSTY,"You ready?
+
+      In it, Yen finishes bandaging his busted hand and nods.",0.2,[0.3691814  0.02939025],[ 1.9827352 -2.0163949]
+WALSH,"This is our security center, where
+                   we oversee all gaming in the
+                   casino as well as our vault.
+                   You'll be able to monitor your
+                   briefcase from here.
+
+      Walsh, finding Fat and Slim as they are, coughs; the two
+      watchers leap immediately to their feet. Benedict checks
+      his watch.",0.2,[ 0.18886888 -0.04915112],[ 1.7091414 -1.8371216]
+SAUL,Don't let me keep you.,0.0,[ 1.6640718 -0.8373725],[ 1.3128039 -1.2725754]
+BENEDICT,"Mr. Zerga...
+
+      And Benedict takes his leave...",0.0,[-1.039735   1.2295139],[ 1.7657    -1.7868992]
+RUSTY,Linus... you're up.,0.0,[ 0.7238733  -0.09667736],[ 1.4428757 -1.5191556]
+LINUS,"Deep breaths, deep breaths.
+
+      ... and here comes Benedict, exiting the cage just as his
+      assistant arrives with his portfolio. As he turns toward
+      the restaurant...",0.0,[-0.3439123  0.4724396],[ 1.8115869 -1.9491702]
+LINUS,Mr. Benedict...,0.0,[ 0.8668521  -0.19460386],[ 1.7542614 -1.7757657]
+BENEDICT,Yes?,0.0,[ 1.4607874  -0.62893206],[ 1.1038216 -1.0922269]
+LINUS,"(presents proper
+                           identification)
+                   Sheldon Wills. Nevada Gaming
+                   Commission. Could I have two
+                   minutes of your time?
+
+      Benedict sighs -- his evening's been sidetracked enough
+      already -- but...",0.0,[ 1.1185523 -0.7884295],[ 2.0135672 -2.1961744]
+BENEDICT,Of course.   Anything for the,0.0,[-1.9177712  2.1237283],[ 1.3069866 -1.2648029]
+RUSTY,"Okay: when do you make the
+                   deposit?",0.5,[ 0.55922    -0.28870344],[ 1.8185036 -1.9530627]
+TURK,Not until we get your signal.,0.0,[0.6589024  0.14678362],[ 1.5586642 -1.4780457]
+VIRGIL,"Hey. What do we look like: a
+                   couple of peckerwood jackasses or
+                   something?
+
+      No one responds.",-0.5,[ 0.873174  -0.5330785],[ 1.3747145 -1.4653449]
+RUSTY,"(turning his attention
+                            to Yen, squeezed into
+                            the cart)
+                   Amazing: how's it feel? You
+                   alright?
+                          (as Yen nods)
+                   Want something to read? Magazine?
+
+      From the tangle of limbs, a middle finger protrudes to
+      show Rusty what he can do with a magazine.",0.3,[ 1.1883491 -0.8361104],[ 1.6114968 -1.8876077]
+RUSTY,"Okay. I'm counting down.    Thirty
+                   minutes of breathing time
+                   starts... now.
+
+      On ""now"" a RUNNING CLOCK APPEARS ON-SCREEN, descending
+      from 29:59. It will REMAIN there for the duration of the
+      pre-pinch heist, jumping at times BETWEEN SCENES.
+
+      Rusty seals Yen inside the cash cart, then gives the top
+      a tug: it's shut tight. As Virgil redresses it with the
+      tablecloth, Turk snatches back Livingston's penne on the
+      way to the door.",0.1331746031746031,[ 1.1524984  -0.84419817],[ 1.5183882 -1.70493  ]
+LIVINGSTON,You get no tip.,0.0,[ 1.0722787  -0.51100427],[ 1.3518828 -1.2975676]
+LINUS,"It only came to our attention this
+                morning, Mr. Benedict. Apparently
+                he has a record longer than my
+                arm.",0.025,[ 0.18823378 -0.01866764],[ 1.7532656 -1.8711677]
+BENEDICT,"If he is who you say he is.
+                          (hailing a PIT BOSS)
+                   Charlie. Call over Ramon
+                   Escalante.",0.0,[ 0.73992646 -0.37437657],[ 1.7835346 -1.942971 ]
+RUSTY,Did you make it out?,0.0,[ 2.16641 -1.21219],[ 1.9267391 -1.8100243]
+LIVINGSTON,"His head blocked the last two
+                   numbers.
+                          (into his microphone)
+                   We missed it, Linus. You gotta
+                   grab the combination yourself.",0.0,[ 0.7245118  -0.34300527],[ 1.803317  -1.8516192]
+BENEDICT,You new at the commission?,0.1363636363636363,[ 1.7461687 -0.9251156],[ 2.1717823 -2.0875032]
+LINUS,Been there about two years.,0.0,[0.41407132 0.15900522],[ 1.8299805 -1.7571335]
+BENEDICT,"I know Hal Lindley over there.
+                   You work with him at all?",0.0,[ 0.27523863 -0.20094272],[ 1.9422826 -1.9303795]
+LINUS,"(a pause; will he
+                           pass?)
+                   Not since he died last year.
+
+      He passes.    The Pit Boss returns with Frank in tow.",0.0,[ 0.9428629 -0.5184078],[ 1.7509567 -1.9428823]
+BENEDICT,"Mr. Escalante. Would you come
+                   with us, please?",0.0,[ 0.9176058 -0.4709507],[ 1.9338558 -2.0087335]
+FRANK,What's this about?,0.0,[ 2.054613  -1.1941824],[ 1.3868017 -1.4469051]
+BENEDICT,"I think it's better if we talked
+                   off the floor.
+
+      Linus and Benedict lead Frank away.       As they pass an
+      elevator...
+
+      ... its doors open, revealing Turk and Virgil, dressed
+      now as security guards, pushing out the false-lid cash
+      cart. They leave behind a pile of dishes, waiter
+      uniforms, a tablecloth.",0.0333333333333333,[0.20367375 0.01507458],[ 1.5118448 -1.6908693]
+TISHKOFF,"Good evening, Marcel. My nieces
+                   and I would like a table.
+                   Something quiet before the fight.",0.35,[ 0.5500696  -0.21261325],[ 1.6194636 -1.6329709]
+TISHKOFF,"Quick as you can.
+                          (re: the girls)
+                   The meter's running here.
+
+      The Maitre d' turns to his next customer:         Tess.   She, of
+      course, merits a table instantly.",0.1111111111111111,[ 0.43783915 -0.17085117],[ 1.1656879 -1.264985 ]
+DANNY,"Try to keep your tongue in your
+                   mouth.",0.0,[-0.01350739  0.39129347],[ 1.1174546  -0.96656483]
+TISHKOFF,"(shocked to see Danny;
+                           thinks he's off the
+                           job, but covering)
+                   Yeah, pal, well only if you take
+                   your thumb out of your...
+
+      ... Reuben gets brushed from behind by the two
+      Plainclothes Goons following Danny.",-0.22,[-0.04047915  0.1977041 ],[ 1.6284167 -1.7593942]
+TISHKOFF,"(outraged)
+                   Hey: you have any idea who I
+                   think I am?",-0.9,[ 1.0984389  -0.73216796],[ 2.0054572 -2.078019 ]
+TESS,Danny:    No.,0.0,[-0.05845391  0.5307685 ],[ 1.7298268 -1.6340158]
+DANNY,I'll just be a moment.,0.0,[ 1.3069111  -0.39161754],[ 1.8381497 -1.7296704]
+TESS,"I'm having you thrown out of
+                   here.
+
+      She starts past him; he grabs her arm to keep her, and
+      she wheels on him.",-0.25,[0.3505913  0.05597331],[ 0.6423236  -0.77494216]
+TESS,"You're up to something, Danny.
+                   What? And don't say you came here
+                   for me. You're pulling a job,
+                   aren't you?",0.0,[-0.59721345  0.5462233 ],[ 1.5570623 -1.5442911]
+DANNY,Tess...,0.0,[ 1.3552238  -0.49990186],[ 1.1777967 -1.1181184]
+TESS,"Well, know this: no matter what
+                   it is, you won't win me back. I
+                   can't afford it.",0.4,[ 1.2374774  -0.66043425],[ 1.1961066 -1.2651767]
+DANNY,I just came to say good-bye.,0.0,[ 1.2469866  -0.47785214],[ 1.5576929 -1.4094948]
+TESS,Oh... then... good-bye.,0.0,[0.1023912  0.44574246],[ 1.3385938 -1.2344843]
+DANNY,"Good-bye.
+
+      Danny starts for her cheek, stops to see if it's alright
+      with her -- she, sad-eyed, does not recoil -- and then
+      gently kisses it...",0.2,[ 0.9851962  -0.66358924],[ 1.853823  -1.9047577]
+DANNY,"Be good.
+
+      Danny leaves her.       Tess watches him go.",0.7,[-0.01020424  0.33589503],[ 1.5865977 -1.6321167]
+TESS,"(already missing him)
+                   Good-bye, Danny.",-0.2,[ 0.6742522  -0.06314731],[ 2.0113125 -1.9460689]
+DANNY,"(resignedly, these men
+                           are much too big to
+                           tangle with)
+                   I thought he might.
+
+      The Plainclothes Goons escort Danny away, right past
+      Reuben who frowns, concerned.",0.0589285714285714,[ 0.7328115  -0.39038107],[ 1.4067446 -1.5035435]
+LINUS,"Thank you for your cooperation,
+                   Mr. Escalante.
+                          (as Frank nods,
+                           not at all)
+                   Or should I call you Mr. Catton?",0.0,[0.31159648 0.00735451],[ 2.0976703 -2.230381 ]
+LINUS,"You are Frank Catton? Formerly of
+                   the Tropicana, the Desert Inn and
+                   the New York State penitentiary
+                   system?",0.0681818181818181,[ 0.34917277 -0.05805974],[ 2.0268042 -2.154517 ]
+FRANK,"(under his breath)
+                   Goddamn cracker...",0.0,[0.29098067 0.06354275],[ 1.4285641 -1.5116483]
+LINUS,"(a pause; he can't
+                           believe he just
+                           heard that)
+                   Pardon me.",0.0,[0.11229153 0.28779915],[ 1.7839481 -1.7706991]
+FRANK,"(leering at Linus,
+                           simmering)
+                   You heard me. Just 'cause a black
+                   man tries to earn a decent wage in
+                   this state...",-0.0333333333333333,[-0.52240294  0.6914594 ],[ 1.4188273 -1.4430138]
+LINUS,That has nothing to do with...,0.0,[ 1.4534627 -0.8826651],[ 1.5914383 -1.5933858]
+FRANK,"(over him, ranting)
+                   ... some cracker cowboy like you's
+                   gotta kick him out on the street.
+                   Want me to jump down, turn around,
+                   pick a bale of cotton, won't let
+                   me deal cards, might as well call
+                   it whitejack.",-0.1555555555555555,[ 1.2294853  -0.88182163],[ 1.1618029 -1.3834829]
+LINUS,"(a beat, then)
+                   I resent your implication that
+                   race has anything to do with this.
+                          (to Benedict)
+                   Now, as I was saying, the Nevada
+                   Gaming Commission strictly forbids
+                   the employment of the colored...
+                          (whoops)
+                   ... I mean...
+
+      That does it: Frank attacks Linus, lunging at the man,
+      and as Benedict steps in to separate the two...",-0.3125,[ 0.5995427 -0.3386685],[ 1.3968502 -1.6135472]
+FRANK,"Okay, okay, I'm cool.",0.45,[-0.9118636  1.2990235],[ 1.3760577 -1.3217752]
+BENEDICT,"(to Linus)
+                   You alright?",0.0,[ 0.62351197 -0.19828692],[ 1.88931  -2.065263]
+LINUS,"(a beat, then)
+                   Yeah.",0.0,[-0.41981083  0.7813784 ],[ 1.5358993 -1.5327994]
+RUSTY,"(hearing this)
+                   He's got it.
+                          (into his mike)
+                   Virgil, Turk: deliver your
+                   package.",0.0,[0.25382602 0.01560578],[ 1.7452413 -1.9396764]
+VIRGIL,"Aw, I think... Jesus.    I lost my
+                   card.
+
+      The guards frown at him.     A SECURITY OFFICER approaches.",0.0,[-0.00352125  0.32939187],[ 1.8253378 -1.8624655]
+VIRGIL,"I think... Jesus! I lost my
+                   keycard.",0.0,[0.28504384 0.02753779],[ 1.8801807 -1.8878187]
+WALSH,There it is now.,0.0,[0.69771963 0.07831065],[ 1.192496  -1.0965428]
+SAUL,"(beginning to sweat
+                        this a bit, nerves
+                        overtaking him)
+                Wonderful.",1.0,[-0.22691979  0.43932498],[ 1.6402607 -1.5631362]
+RUSTY,"That's my cue.
+                       (as he exits)
+                Give Basher the go.",0.0,[0.01582884 0.39090645],[ 1.5847765 -1.6633593]
+LIVINGSTON,"(into mike)
+                Bash, what's your status?",0.0,[ 1.2870554 -0.6787436],[ 1.878558 -2.068404]
+BASHER,"(turning Bronte down)
+                No need to yell.",-0.1555555555555555,[-0.21600999  0.62942976],[ 1.7416701 -1.66776  ]
+BASHER,"I'm there.
+
+      And he SCREECHES to a halt on the parking structure's
+      top level. Vegas can be seen in every direction.",0.5,[-0.27992502  0.6132186 ],[ 1.6175201 -1.6335839]
+BENEDICT,"Please show this man off the
+                premises.
+                       (to Frank)
+                Don't step foot in my casino
+                again.",0.0,[ 0.7539348  -0.44792813],[ 1.0654298 -1.2397803]
+FRANK,"(as he's led away,
+                         over his shoulder,
+                         to Linus)
+                Cracker.
+
+      Benedict checks his watch again:    he's really running
+      late.",-0.0499999999999999,[ 0.6360608  -0.40036651],[ 1.7336254 -1.945911 ]
+BENEDICT,"Mr. Wills, if you don't mind...
+                       (as Linus forgets
+                        to respond)
+                Mr. Wills?",0.0,[ 0.39677396 -0.12523586],[ 1.7618827 -2.0336795]
+LINUS,"Of course.
+
+      They start toward the exit.   But halfway there...",0.0,[-1.1029903  1.277069 ],[ 1.539924  -1.5063735]
+LINUS,"My beeper.   I'm sorry.   I forgot
+                it.
+
+      Benedict hesitates: He's in an enormous hurry now, he's
+      behind schedule -- he hates being behind schedule -- but
+      leaving even a member of the Gaming Commission alone in
+      his cage is a security risk. One glace at the cameras
+      all about and he decides to risk it.",-0.325,[ 0.76508504 -0.46510753],[ 1.749682 -1.857325]
+BENEDICT,You know how to get back out?,0.0,[ 1.5635194  -0.87169874],[ 1.7488053 -1.7777871]
+LINUS,Of course.   Enjoy the fight.,0.4,[-1.7462894  1.9514401],[ 1.4837672 -1.4738791]
+BENEDICT,"(shaking his hand,
+                        then hurrying away)
+                Thank you.
+
+      Linus smiles after him, withdrawing the page of
+      combinations he lifted off the man.",0.0,[ 0.49549013 -0.11539887],[ 1.7180535 -1.9888974]
+FRANK,"Thanks, fellas.
+
+      ... but they snarl at him before returning inside.   Frank
+      smiles and goes on his way, his job complete.",0.15,[-0.5237594   0.69680196],[ 1.5536121 -1.5775219]
+DANNY,"How much longer do you think Mr.
+                Benedict will be?",0.2,[0.28967738 0.07996092],[ 1.6455138 -1.7440827]
+DANNY,"No cameras in this room, huh?
+                Don't want anyone seeing what
+                happens here?
+
+      The Goons say nothing.   Danny checks his watch.",0.0,[-0.8005742   0.92712384],[ 1.6458267 -1.5794117]
+DANNY,"He's not coming, is he?
+
+      The Goons look at each other; Danny has called their
+      bluff.",-0.125,[-0.35505423  0.6612773 ],[ 1.5318772 -1.6505208]
+DANNY,"Who is?
+
+      There's a KNOCK at the door, and the Goons smile:
+      Danny's about to find out who. One Goon rises to usher
+      in...
+
+      ... the BRUISER, come to beat the shit out of Danny
+      Ocean. The guy's at least six-six, three hundred pounds,
+      but it's not his size that draws attention, it's his
+      teeth...",-0.0666666666666666,[ 0.79863507 -0.4661796 ],[ 1.1411959 -1.3578724]
+DANNY,"I guess Mr. Benedict didn't like
+                   me talking to his girl.
+
+      The Goons shake their heads. Danny smiles at the
+      Bruiser, and the Bruiser snarls back, showing off those
+      gums. He rolls up his shirtsleeves, itching to tear a
+      hole in this man. The Goons head for the door.",0.0,[0.1536138  0.16061556],[ 0.77680504 -0.8896497 ]
+DANNY,"Jesus, Bruiser, not 'til later.",0.0,[ 2.1254756 -1.1805768],[ 1.4717833 -1.4923943]
+DANNY,"S'okay.
+                          (shaking it off)
+                   How's the wife?",0.5,[ 0.3287525  -0.04882157],[ 0.9796726 -0.9722934]
+DANNY,Then we better get to work.,0.5,[-0.10321684  0.6283589 ],[ 1.1834477 -1.0811782]
+LIVINGSTON,Oh shit...,-0.2,[-0.1918671  0.6955975],[ 1.6085476 -1.4667434]
+WALSH,"Does that satisfy you, Mr. Zerga?",0.0,[ 1.7071561 -0.9819575],[ 1.7300917 -1.7902557]
+SAUL,"Yes, I'm very satisfied.",0.65,[-0.8652962  1.3651614],[ 1.6081927 -1.584507 ]
+WALSH,"(to Slim)
+                    Close it up.
+
+       On the monitor, the vault door closes, but Saul looks
+       anything but satisfied. He's sweaty, his mouth's so dry
+       he can't swallow, and he keeps patting down his pockets
+       for his Rolaids, without finding them.",0.0925925925925926,[ 1.2988666  -0.88050866],[ 1.701347  -1.8219061]
+LIVINGSTON,"Almost there, kid.",0.0,[ 0.789931   -0.11169098],[ 1.4403754 -1.3863231]
+LIVINGSTON,Going to video now.,0.0,[ 1.2821313 -0.4473262],[ 1.3020531 -1.1531161]
+WALSH,"(as Saul passes out)
+                Call for a doctor.",0.0,[-0.24880275  0.57137007],[ 1.7660879 -1.7886744]
+DANNY,"You didn't really think I was
+                gonna sit this one out, did you?",0.2,[0.54372406 0.07625312],[ 1.5718492 -1.593394 ]
+LINUS,"What, didn't you trust me?",0.0,[ 1.6263067 -0.8107314],[ 1.9428837 -1.8755718]
+DANNY,"I do now.
+
+      He reaches down and pulls Linus, wide-eyed, up to the
+      roof of the elevator.",-0.1555555555555555,[0.09842434 0.30028346],[ 1.7425672 -1.8456126]
+RUSTY,Someone called for a doctor?,0.0,[ 1.362734   -0.52465653],[ 1.7793967 -1.785196 ]
+LINUS,How'd you get here?,0.0,[ 1.9933487 -1.1691127],[ 1.8139868 -1.7870747]
+DANNY,"Crawlspace. And I had to give
+                 away a couple mil.",0.0,[ 0.7961357 -0.3409689],[ 1.689643  -1.7265447]
+LINUS,"But what about -- I mean, that
+                 whole thing with Rusty...
+
+       Danny just smiles at him.",-0.0562499999999999,[-0.02533093  0.18994215],[ 1.8128778 -1.9066168]
+DANNY,You think the kid bought it?,0.0,[ 1.821052  -1.2239426],[ 1.5986699 -1.5566341]
+RUSTY,"Hell, I think Reuben bought it,
+                 and he knew we were screwing
+                 around.
+                         (beat)
+                 You sure about this?",0.5,[ 0.3702156  -0.21372086],[ 1.3746482 -1.522658 ]
+DANNY,"(nods)
+                 Bobby Caldwell threw me into the
+                 pool first time. Least I could do
+                 is give his kid a push.",-0.0249999999999999,[ 0.3744386  -0.00532357],[ 1.7112747 -1.7363772]
+LINUS,"Why'd you make me go through all
+                 this? Why not just tell me?",0.0,[ 0.9726124 -0.3941233],[ 1.7607683 -1.7027018]
+DANNY,"Well, where's the fun in that?
+                        (starting toward
+                         elevator shaft
+                         ladder)
+                 C'mon: Yen's got about three
+                 minutes of air left.",0.0999999999999999,[ 0.736658  -0.3806651],[ 1.5514743 -1.6848037]
+RUSTY,"He's gone.
+
+       Walsh, Fat and Slim all bow their heads.     At the door,
+       two paramedics arrive with a stretcher.",0.0,[-0.5639544   0.81348634],[ 1.7855612 -1.7457613]
+WALSH,"You're too late, guys.   He's dead.
+
+       The first paramedic turns to his partner and admonishes
+       him:",-0.0833333333333333,[-0.04133307  0.2913234 ],[ 2.0803142 -2.0986214]
+VIRGIL,"(to Turk)
+                    I told you to hurry.",0.0,[-0.5647461  0.8795676],[ 1.6889883 -1.7147478]
+DANNY,Who do you like tonight?,0.0,[ 2.3107023 -1.3291531],[ 1.3828186 -1.4698237]
+LINUS,Huh?,0.0,[ 1.1789259  -0.37781826],[ 1.2160033 -1.2256861]
+DANNY,Tyson or Lewis.,0.0,[ 1.441094  -0.5327594],[ 0.98860645 -0.9989234 ]
+LINUS,"The fight...?
+                           (as Danny nods)
+                    Lewis.
+                           (as Danny shoots him
+                            a look)
+                    You like Tyson?
+                           (as Danny nods)
+                    How strongly do you feel about it?",0.4333333333333333,[ 1.2166904 -0.8843461],[ 1.7725121 -2.0403864]
+DANNY,You looking for action?,0.1,[ 1.611417  -0.8777442],[ 1.9224466 -1.95751  ]
+LINUS,"(shrugs)
+                    I'd go in for a buck.",0.0,[0.40129927 0.01621333],[ 1.4066359 -1.5386275]
+DANNY,"A buck it is.
+
+       And they're ready, poised at the top, looking into the
+       abyss of an elevator shaft scattered with infrared
+       sensors.",0.35,[-0.27045283  0.55922776],[ 1.5146981 -1.5919809]
+DANNY,"(into his mike)
+                    Livingston, we're set.",0.0,[-0.58251506  0.9036772 ],[ 1.5391953 -1.5821484]
+RUSTY,"(into his mike)
+                    Livingston, we're set.",0.0,[-0.58251506  0.9036772 ],[ 1.5391953 -1.5821484]
+LIVINGSTON,"(hearing this, into
+                            his mike)
+                    Basher, we're set.",0.0,[0.24887072 0.15788725],[ 1.6229094 -1.6785899]
+BASHER,"(fixing the pinch atop
+                            his van)
+                    Just give me a minute.",0.0,[0.21262115 0.27796093],[ 1.7550668 -1.761877 ]
+BASHER,"Then give me thirteen seconds.
+
+      And Basher leaps down to hook up the pinch's wires to his
+      van's engine.",-0.1555555555555555,[-0.50855047  0.69927686],[ 1.6870933 -1.637488 ]
+LINUS,You ever rappelled before?,0.0,[ 1.7259071 -1.042999 ],[ 1.7828637 -1.8183075]
+DANNY,Never.   You?,0.0,[-0.28779623  0.70123184],[ 1.7641222 -1.7134827]
+LINUS,Nope.,0.0,[0.52963895 0.10025548],[ 0.9449149 -0.8784879]
+BASHER,"(into his mike)
+                   Ready.",0.2,[0.34162924 0.17501125],[ 1.5913097 -1.6434354]
+BASHER,... One...,0.0,[ 1.192224   -0.49405748],[ 1.5743921 -1.5233835]
+DANNY,"Now!
+
+      And he and Linus lean forward and fall...",0.0,[-0.90836567  1.1977257 ],[ 1.4953114 -1.631904 ]
+BASHER,"... eight, nine...
+
+      And SNAP -- the CORDS reach their full extension, and
+      Danny and Linus bounce up, watching the floor recede.",0.35,[-0.5074783  0.7910563],[ 1.778915  -1.7966158]
+LINUS,Aaaaahhhhh!,0.0,[0.41346943 0.2745891 ],[ 1.3232002 -1.2398659]
+BASHER,"... ten...
+
+      In the distance, lights come up again, first at the
+      Mirage, then the MGM, gradually approaching...",0.0833333333333333,[0.05773583 0.2968153 ],[ 1.8988532 -1.9673585]
+BENEDICT,What the hell was that?,0.0,[ 2.076832  -1.1309336],[ 1.461639  -1.4013797]
+BENEDICT,"(to himself)
+                   The first goddamn round.",0.0249999999999999,[0.29359344 0.26853666],[ 1.603224  -1.7140512]
+BASHER,Viva Las Vegas.,0.0,[0.12448774 0.4111884 ],[ 1.4163154 -1.3515154]
+LINUS,You alright?,0.0,[ 1.932437  -0.9824695],[ 1.6621649 -1.7022184]
+DANNY,"No, but you're sweet to ask.",0.35,[ 1.0680783  -0.41347447],[ 1.7111341 -1.6164895]
+FRANK,Are they in?,0.0,[ 2.1423223 -1.2505697],[ 1.6096159 -1.6480066]
+LIVINGSTON,"One second.
+                          (a look at him)
+                   I thought you got kicked out?",0.0,[0.02444366 0.32571012],[ 1.8546895 -1.911821 ]
+LIVINGSTON,"This tape's from last night.   Same
+                   guards, same...
+
+      His eyes fixing on Saul's briefcase pushing closer to the
+      edge of the cash cart as Yen tries to free himself.",0.06,[-0.12934758  0.2546709 ],[ 1.903766 -1.971453]
+LIVINGSTON,... shift.,0.0,[0.14973651 0.42637536],[ 1.3069721 -1.1817981]
+DANNY,"Not yet.
+                           (a beat; another
+                             beat; then)
+                    Okay.",0.5,[ 0.5079909  -0.10905179],[ 1.7030009 -1.7366993]
+LINUS,You think Yen made it out okay?,0.5,[ 1.2644416  -0.44871363],[ 1.6916125 -1.630659 ]
+DANNY,I'm sure he's fine.,0.4583333333333333,[0.60836285 0.13678882],[ 1.6275734 -1.572434 ]
+LINUS,"(jaw dropping)
+                    Jesus...",0.0,[0.4124729 0.2546184],[ 1.8410629 -1.849636 ]
+DANNY,"There's a Chinese man with a
+                    hundred sixty million dollars
+                    behind that door. Let's get him
+                    out.
+
+       Danny takes a flat hand and slaps the door hard.",-0.1791666666666667,[ 0.3286655  -0.11606347],[ 0.9316558 -1.1629177]
+FRANK,Fin says he shorts it.,0.0,[0.14850812 0.39990813],[ 1.4001108 -1.3865612]
+LIVINGSTON,No bet.,0.0,[ 1.4885157 -0.6920212],[ 1.0588871 -0.9934242]
+LIVINGSTON,"(wishing he had bet)
+                   Shit.",-0.2,[0.4866569  0.00519912],[ 1.5970023 -1.647726 ]
+DANNY,Okay.,0.5,[0.18276115 0.53094697],[ 0.928708   -0.86421824]
+FRANK,That's it?,0.0,[ 1.2201656  -0.25785437],[ 1.1325144 -1.0475764]
+LIVINGSTON,"There's still the five pins and
+                   the floor sensor. Not much we can
+                   do about that from this side of
+                   the door. But from this side...
+
+      He punches up the image of Yen in the vault.",-0.1,[ 0.8114163 -0.4727809],[ 1.6403099 -1.7309774]
+BASHER,"... a little bit of Semtex should
+                   do the trick.",-0.1875,[-0.315555   0.5040587],[ 1.4051588 -1.4434615]
+DANNY,"Counting down from twenty --
+                            (checking watch)
+                    -- now.",-0.1555555555555555,[ 0.32108846 -0.06420301],[ 1.819497 -2.006635]
+DANNY,"-- seventeen, sixteen, fifteen --",0.0,[ 1.0118204  -0.31324133],[ 1.7053632 -1.6414258]
+DANNY,"-- eleven, ten, nine --",0.0,[ 1.0698042 -0.3137113],[ 1.6545981 -1.6365867]
+LIVINGSTON,"(into his mike)
+                    Linus, can you read me? Linus,
+                    do not blow the door, you're
+                    about to kill Yen.",0.0,[ 0.7045335  -0.36242846],[ 1.218335  -1.4291328]
+LINUS,"-- five, four, three --",0.0,[ 1.3704482 -0.5938979],[ 1.5545046 -1.495166 ]
+DANNY,"-- one --
+
+        He presses his detonator.
+
+        Nothing.",0.0,[0.31190962 0.13183129],[ 1.5466033 -1.6262742]
+LINUS,What's wrong?,-0.5,[ 2.2129862 -1.2313751],[ 1.4186631 -1.452809 ]
+DANNY,"I don't know.
+
+        Linus comes over to look.",0.0,[ 0.5770337  -0.18255696],[ 1.7800062 -1.7680942]
+LINUS,"You check the batteries?
+
+        Danny blanches.    Linus shoots him a look.",0.0,[-0.30189267  0.43725863],[ 1.765206  -1.8927249]
+SAUL,Everything going okay?,0.5,[0.6412584  0.06616134],[ 1.728925 -1.756049]
+LINUS,"You know, you lose focus for one
+                    second in this game --",-0.2,[ 0.43903884 -0.05041857],[ 1.9390736 -1.8657534]
+DANNY,"-- and someone gets hurt, yeah
+                    yeah. I don't hear Yen complaining.
+
+       He takes the batteries, inserts them in his detonator,
+       then slaps the door twice more.",0.5,[-0.3541217  0.486093 ],[ 1.5606381 -1.7341647]
+DANNY,"Do it.
+
+       Linus pulls... and the door opens.",0.0,[0.17859523 0.13642198],[ 1.3443533 -1.3869251]
+DANNY,"Amazing?
+
+       Linus goes to one of the racks and tentatively opens
+       it...
+
+       Yen pops up from within, his hair on end, looking like he
+       just dropped out of a cyclone.",0.6000000000000001,[ 0.25819767 -0.16435084],[ 1.8674557 -2.005129 ]
+SAUL,Ever been in love?,0.5,[ 1.8505844 -0.9084572],[ 1.6613942 -1.6205451]
+FRANK,"(considers it for
+                            a moment)
+                    No, I guess not. Not really.",-0.1,[ 0.65000886 -0.33248916],[ 1.8272284 -1.81051  ]
+SAUL,This is better.,0.5,[-0.5359008  1.1631018],[ 1.1672109 -1.1154773]
+BENEDICT,You gonna answer it?,0.0,[ 2.0402296  -0.99936056],[ 1.472154  -1.5345318]
+TESS,"I don't have a cell phone.
+
+      They keep moving, but the RING pursues them. Finally,
+      Benedict stops, pulls Tess's purse from her shoulder and
+      opens it: inside, he finds a CELL PHONE, RINGING.",0.0,[ 1.0930845 -0.5566945],[ 1.521666  -1.6675497]
+TESS,It isn't mine.,0.0,[ 1.4755665  -0.61566615],[ 1.2614797 -1.210415 ]
+BENEDICT,"See who's on the other end.
+
+      She takes the phone, activates it.",-0.125,[-0.4046259   0.73592335],[ 1.2715223 -1.2286295]
+TESS,Hello?,0.0,[ 1.5538689  -0.66343164],[ 1.4267398 -1.4074689]
+RUSTY (V.O.),"May I have a word with Mr.
+                 Benedict, please?
+
+      Tess looks up, confused.",-0.4,[ 0.7854626 -0.3713069],[ 1.7489591 -1.9080278]
+TESS,"It's for you.
+
+      Benedict takes the phone.",0.0,[-0.31372744  0.6892998 ],[ 1.953843  -1.9464191]
+BENEDICT,Who the hell is this?,0.0,[ 2.079461  -1.0609406],[ 1.086475  -1.1889129]
+RUSTY,The man who's robbing you.,0.0,[-0.07333538  0.30336705],[ 1.5027555 -1.5288099]
+BENEDICT,"What the hell is going on down
+                there in the vault?",-0.1555555555555555,[ 0.881291  -0.5776472],[ 1.5618973 -1.6381499]
+BENEDICT,"Show me.
+
+      Fat points to the security-cam view of the vault corridor
+      and vault -- Livingston's tape.",0.0,[0.14385621 0.13191167],[ 1.8546692 -1.9687606]
+BENEDICT,"(on phone,
+                        venomously)
+                I'm afraid you're mistaken.",-0.6,[ 0.7528287  -0.21824685],[ 1.6427761 -1.6211656]
+RUSTY (V.O.),"You're watching your monitor?
+                Okay, keep watching.
+
+      Livingston punches in numbers...",0.5,[-0.8899091  1.149251 ],[ 1.7342571 -1.8918921]
+BENEDICT,Jesus Christ...,0.0,[ 1.1999271  -0.33465013],[ 1.5192088 -1.5180664]
+RUSTY (V.O.),"In this town, your luck can change
+                 just that quickly.",0.3333333333333333,[0.31266147 0.12414222],[ 1.7293099 -1.6836458]
+BENEDICT,"(close to apoplectic,
+                         takes a breath and
+                         cups the phone, then
+                         barks at Walsh)
+                 Find out how much money we have
+                 down there.
+
+       Tess, amid all this chaos, is still curious: how did
+       that cell phone get into her handbag? And suddenly it
+       hits her...",-0.0138888888888888,[ 1.1242222 -0.8628746],[ 1.7074299 -1.7287074]
+DANNY,"Good-bye.
+
+       Danny starts for her cheek, stops to see if it's alright
+       with her -- she, sad-eyed, does not recoil -- and then
+       gently kisses it...
+
+       ... as he slips the cell phone into her handbag,
+       unnoticed.",0.0,[ 0.8554197 -0.5705155],[ 1.8847365 -1.9322793]
+BENEDICT,"(on phone)
+                 Alright. You've proved your
+                 point. You've broken into my
+                 vault. Congratulations: you're a
+                 dead man.
+
+       Tess leaves.",-0.3,[-0.32374573  0.5317049 ],[ 1.4469104 -1.6286448]
+RUSTY (V.O.),Maybe.,0.0,[0.45124835 0.12634736],[ 0.92405224 -0.84286803]
+BENEDICT,"May I ask: how do you expect to
+                 leave here, hmm?",0.0,[ 1.372718  -0.9691845],[ 1.6242073 -1.7962586]
+BENEDICT,"Do you believe I'll simply allow
+          you to parade bags full of my
+          money out my casino doors?
+
+A distance beyond Rusty, Tess exits the cages. She
+stops, puzzling over what to do, happens to spot him.",0.0333333333333333,[ 1.0086958  -0.58360577],[ 1.1934607 -1.3319151]
+RUSTY,"No.   You're gonna carry it out for
+          us.",0.0,[-0.72376573  0.9602068 ],[ 1.2573247 -1.1232628]
+BENEDICT,"(has to laugh)
+          And why would I do that?",0.3,[0.06570418 0.26522723],[ 1.58403   -1.5947787]
+RUSTY,"Take a closer look at your
+          monitor...",0.0,[ 0.29178888 -0.12443562],[ 1.8736248 -1.844406 ]
+RUSTY (V.O.),"As your manager's probably
+                reporting to you by now, you have
+                a little over a hundred sixty
+                million in your vault tonight.
+
+      And, as if Rusty was in the room watching, Walsh
+      approaches with the night's cash count: $163,156,759.",-0.1875,[ 0.75102895 -0.5841809 ],[ 1.8302966 -1.9037812]
+RUSTY (V.O.),"You may notice: we're only
+                packing up about half that. The
+                other half we're leaving in your
+                vault, booby-trapped, as a
+                hostage.",-0.1145833333333333,[ 1.141704  -0.8397411],[ 1.6788832 -1.7339967]
+RUSTY,"You let our eighty million go, and
+                you get to keep your eighty.
+                That's the deal. You try and stop
+                us, we'll blow both cash loads.",0.0,[-0.1729317   0.24043748],[ 0.80936027 -0.951288  ]
+RUSTY,"(holding her glance)
+                   Mr. Benedict: you can lose eighty
+                   million dollars secretly tonight
+                   or you can lose a hundred sixty
+                   million dollars publicly. It's
+                   your decision.
+
+      He cups the phone.",-0.2,[ 0.7898452 -0.6144834],[ 1.744654  -1.8225174]
+RUSTY,Hi.,0.0,[0.09959378 0.5184144 ],[ 1.0330917 -1.003076 ]
+BENEDICT,"(to Walsh)
+                   Make the call.
+
+      Walsh grabs a phone, punches numbers...",0.0,[0.4100095  0.03429941],[ 1.76367   -1.9087425]
+WALSH,We have an incident here...,0.0,[ 0.8727699  -0.20941329],[ 1.7864212 -1.7235268]
+BENEDICT,"(uncupping his
+                            phone)
+                   Okay.   You have a deal.",0.5,[-0.43246582  0.68365693],[ 1.5686078 -1.6093127]
+TESS,Where's Danny?,0.0,[ 1.9549352 -1.0465248],[ 1.3296883 -1.3464915]
+RUSTY,"He's fine. He wants you to go
+                upstairs, and watch TV.",0.3083333333333333,[-0.63927335  0.8179195 ],[ 1.5401305 -1.5188401]
+TESS,"(a little pissed)
+                He does?",-0.1875,[0.39182284 0.03029971],[ 1.7832351 -1.8140122]
+RUSTY,"It's alright, Tess. I promise.
+                       (back on phone)
+                Good. Here's what you do. Five
+                minutes from now, the men in the
+                vault are going to deposit six
+                bags in the vault elevator.
+
+      Tess isn't sure what to do. As Rusty continues on the
+      phone, she backs off, debating: can she blow the whistle
+      on her ex?",0.3999999999999999,[ 0.81201655 -0.5874594 ],[ 1.3748251 -1.4164118]
+RUSTY (V.O.),"If they meet anyone, we'll blow
+                the money in the bags and the
+                money in the vault.",0.0,[ 0.19753937 -0.02783395],[ 1.2182909 -1.343938 ]
+RUSTY (V.O.),"One minute after that, the
+                elevator will rise to your cages.
+                Six of your guards will pick up
+                the bags and carry them out into
+                the casino.
+
+      Six guards do precisely that.",0.4,[-0.26840487  0.40966013],[ 1.0610658 -1.1985275]
+RUSTY,"If they take more than twenty
+                seconds to reach the casino floor
+                or if there's any indication a
+                switch has been made, we'll blow
+                the money in the vault and the
+                money in the bags.
+
+      A SLOT MACHINE RINGS behind him...",0.0499999999999999,[ 1.27501   -0.9480348],[ 1.2892433 -1.5522567]
+BENEDICT,"(to Walsh)
+                He's in the casino right now.",0.2857142857142857,[0.1050169  0.18483135],[ 1.7406915 -1.7993789]
+RUSTY (V.O.),"Of course, I'm in the casino. In
+                fact, I'm staying in your hotel.
+                And I have two words for you:
+                mini-bar.
+                       (back to business)
+                Now as soon as your guards hit the
+                casino floor...",0.0,[ 0.23584777 -0.08574274],[ 1.4871985 -1.6787506]
+RUSTY (V.O.),"... a white unmarked van is going
+                to pull up in your valet station.",0.0,[-1.2181339  1.2483526],[ 1.7030386 -1.6147096]
+RUSTY (V.O.),"Your guards will load the bags
+                into the van's rear. If anyone so
+                much as approaches the driver's
+                door, we blow everything.",0.2,[ 0.6712174  -0.40415487],[ 1.1927843 -1.2502009]
+RUSTY (V.O.),"Now, when I get word that the van
+                   hasn't been followed, that the
+                   money is secure, my men will exit
+                   the building, and once their
+                   safety is confirmed, you'll get
+                   your vault back.",0.2666666666666666,[ 0.3742774  -0.21630964],[ 1.2743887 -1.4434704]
+BENEDICT,"Sir, I have complied with your
+                   every request, would you agree?",0.0,[ 0.6779241  -0.29768577],[ 1.867823 -2.008486]
+RUSTY (V.O.),I would.,0.0,[ 0.7566642  -0.13089633],[ 1.0309108 -0.9335618]
+BENEDICT,Good.   Now I have one of my own.,0.6499999999999999,[-1.7357639  1.9665629],[ 1.6303684 -1.4505956]
+RUSTY (V.O.),Yes?,0.0,[ 1.4607874  -0.62893206],[ 1.1038216 -1.0922269]
+BENEDICT,"(at last, his venom
+                           released)
+                   Run and hide. If you get picked
+                   up next week buying a $100,000
+                   sports car in Newport Beach, I'll
+                   be supremely disappointed.
+                   Because I want my people to find
+                   you. And rest assured: when they
+                   do, they won't hand you over to
+                   the police.
+                          (beat)
+                   Run and hide. That's all I ask.
+
+      And during the above rant by Benedict, we view...",-0.1875,[ 0.93370616 -0.6315234 ],[ 1.4006947 -1.5473269]
+WALSH,"Our guys say the van is headed
+                   toward McCarren Airport.",0.0,[-0.9608626  0.9160428],[ 2.1527884 -2.061193 ]
+BENEDICT,"Get everyone in position. I want
+                   my vault back before that van hits
+                   the tarmac.
+
+
+       LONGER MONTAGE now, CUTTING BETWEEN:",-0.3,[ 1.2038478 -0.8337716],[ 1.3949926 -1.4780296]
+BENEDICT,"(on second
+                           inspection)
+                   Where's Zerga?
+                          (off Walsh's sheepish
+                           look)
+                   Mr. Zerga? With the briefcase?",0.0,[ 0.8961929 -0.7299783],[ 1.7286875 -1.9636891]
+WALSH,"He's -- he died.
+
+       Benedict shoots him a slow, sideways glance.",-0.3,[-0.11511871  0.3715903 ],[ 1.888965  -1.9811994]
+BENEDICT,Do it.,0.0,[ 0.956327  -0.1414738],[ 1.1178795 -1.0563399]
+BENEDICT,"(into intercom)
+                What's the situation down there?",-0.1555555555555555,[ 0.9178223  -0.36026543],[ 1.9840716 -1.9263619]
+BENEDICT,"(to Walsh, soberly)
+                Tell them to take the van. I'm
+                going down there.
+                       (as an afterthought,
+                         to Slim)
+                Find out how they fiddled with our
+                cameras.",-0.0277777777777777,[ 0.60338944 -0.41782376],[ 1.6260381 -1.6104726]
+BENEDICT,Yes.,0.0,[0.35707092 0.19407618],[ 0.7713877 -0.6977943]
+BENEDICT,"(doesn't want to hear
+                        anymore; the SWAT
+                        team failed him)
+                Take your men out now.
+
+      HOLD ON Benedict, seething, as the SWAT Leader steps
+      away...",-0.5,[ 0.8011994 -0.3117226],[ 1.4085125 -1.4848183]
+BENEDICT,"(into walkie-talkie he
+                        has with him)
+                Walsh: How are we with the van?
+
+
+265   EXT. McCARREN AIRPORT - NIGHT                                   265
+
+      The stalemate with the van continues.    Still no movement
+      from inside.",0.0,[ 1.4704849 -1.1241153],[ 2.0762713 -2.146856 ]
+TISHKOFF,"Enough monkey business.
+
+      Virgil brings the van to a stop, then readies a
+      distinctive red button on his remote.",-0.0375,[-0.6692756  0.9155314],[ 1.7092502 -1.6913824]
+BENEDICT,Yes?,0.0,[ 1.4607874  -0.62893206],[ 1.1038216 -1.0922269]
+BENEDICT,And?,0.0,[ 1.3612583 -0.5778481],[ 1.2316357 -1.1856554]
+BENEDICT,"(dropping his walkie-
+                          talkie to his side)
+                Shit.",-0.2,[-0.04082574  0.35699514],[ 1.5569932 -1.7017525]
+BENEDICT,"What, Walsh?",0.0,[ 1.6160034  -0.75161064],[ 1.5056316 -1.4864416]
+BENEDICT,What?!,0.0,[0.72110945 0.02711186],[ 1.2827951 -1.1345874]
+BENEDICT,"What do you mean there was no
+                money in the bags?",-0.3125,[ 0.3149847  -0.12306372],[ 1.5295577 -1.649056 ]
+BENEDICT,"Walsh, cue up the tape of the
+                   robbery.",0.0,[-0.7383931  1.121745 ],[ 1.6857941 -1.6154139]
+WALSH,"(on walkie-talkie)
+                   No, sir. It doesn't. I -- I
+                   don't understand...",0.0,[ 0.66854906 -0.16687357],[ 1.9647633 -1.9720383]
+BENEDICT,"We had that installed on Tuesday.
+                   The image we saw of the men
+                   robbing us was a tape.",0.0,[-1.2146435  1.3243958],[ 1.5675483 -1.5148245]
+BENEDICT,"Someone built a double of my
+                   vault, then made a tape of them
+                   robbing it. When we saw them
+                   putting money in those bags, that
+                   wasn't actually happening.",0.0,[-0.2580962   0.27517995],[ 1.2560066 -1.3586715]
+WALSH,"Then, sir...",0.0,[ 0.9112631  -0.33809635],[ 1.4802779 -1.4806892]
+LIVINGSTON,9-1-1.   Emergency response.,0.0,[-0.60278064  1.1406773 ],[ 1.9446377 -1.8422884]
+RUSTY,"(hiding his voice)
+                Prepare to cut power!",0.0,[-0.5991808  0.8687675],[ 1.8259696 -1.8038281]
+LINUS,"Guys, someone's here!",0.0,[ 1.7065676 -0.7937333],[ 1.8662034 -1.9210551]
+RUSTY,"Las Vegas P.D. This is Officer
+                Brooks, New Jersey Probation
+                Division. I have a violator in
+                your jurisdiction...
+                        (cupping phone)
+                Hit it.
+
+      Turk hits the gas and the VEHICLE PEELS away, carrying its
+      cadre of new multi-millionaires far away from the
+      Bellagio Hotel and Casino.",0.1242424242424242,[ 0.9014267  -0.56725097],[ 1.5925967 -1.630954 ]
+BENEDICT,"(and it finally occurs
+                         to him)
+                Ocean...",0.0,[0.3459881  0.06656264],[ 1.8157929 -1.9695979]
+BENEDICT,Where's Ocean?,0.0,[ 2.0195055 -1.0739671],[ 1.1987058 -1.2100586]
+BENEDICT,Open that door.,0.0,[ 0.70902604 -0.16492051],[ 0.6440959 -0.5657376]
+BENEDICT,"Wake him up.
+
+      The Goons step in, slap Danny alert.       At last, Danny
+      recognizes Benedict in the room.",0.0,[0.15017848 0.3126095 ],[ 1.4298662 -1.4792663]
+DANNY,"(a little punchy)
+                   Heya, Benedict... How's the other
+                   fight going?
+
+      Benedict keeps his cool.",0.0124999999999999,[ 0.6167521  -0.24462861],[ 1.7715899 -1.9658271]
+BENEDICT,"Did you have a hand in this?
+                          (beat)
+                   Did you?",0.0,[ 0.7150683 -0.3633345],[ 1.8394457 -1.8360802]
+DANNY,"Did I have a hand in what?
+
+      Benedict scrutinizes Danny: Is he bluffing?       He looks at
+      Bruiser, then Danny again, and decides: no.",0.0,[ 0.299352   -0.02982479],[ 1.8094717 -1.8595071]
+BENEDICT,"Get him out of here.
+
+      As the Goons scoop him up and drag him out, Danny catches
+      Bruiser's eye for just a moment. And barely winks.",-0.025,[0.3026126  0.11947491],[ 1.5272044 -1.5629336]
+TESS,Hello?,0.0,[ 1.5538689  -0.66343164],[ 1.4267398 -1.4074689]
+DANNY,"You get robbed or something,
+                   Benedict? Geez, that's a shame.
+
+      Benedict looks up, suspicious.",0.0,[-0.01367264  0.27498165],[ 1.7924193 -1.8732008]
+BENEDICT,"Stop there.
+
+      The Goons stop, spin Danny around to face Benedict.",0.0,[-0.8545771  1.1066705],[ 1.3136307 -1.3901685]
+BENEDICT,"Where.   Is.   My. Money.
+
+      They hold each other's eye.",-0.125,[ 0.37432748 -0.22094426],[ 1.4345332 -1.5003561]
+DANNY,"What would you say if I told you
+                   you could get your money back...
+                          (beat)
+                   ... if you gave up Tess?
+                          (beat)
+                   What would you say?",0.0,[ 0.947401   -0.73924977],[ 1.526645 -1.90104 ]
+BENEDICT,I would say yes.,0.0,[ 1.6145332 -0.7987195],[ 1.039189  -1.0053829]
+DANNY,"Well, that's very interesting...
+                          (beat)
+                   ... but I didn't have anything to
+                   do with it.
+
+       He grins.   Benedict sinks.",0.275,[ 0.1737385  -0.01758781],[ 1.7255703 -1.8194797]
+BENEDICT,"(to his Goons)
+                   Escort Mr. Ocean to the exit. And
+                   contact the police. I would
+                   imagine Mr. Ocean is in violation
+                   of his parole.",0.0,[ 0.53955173 -0.21799102],[ 1.262801 -1.421836]
+WALSH,Maybe we should have held him.,0.0,[ 1.3599135  -0.69281995],[ 1.5066129 -1.423694 ]
+BENEDICT,No.   Follow him. Everywhere.,0.0,[-0.4906913  0.6412406],[ 1.4722253 -1.5756091]
+BENEDICT,"Tess...
+                             (as she doesn't
+                              stop)
+                   Tess?",0.0,[ 0.44229436 -0.13185135],[ 1.3929356 -1.5343591]
+TESS,"You of all people should know,
+                   Terry: in your hotel, there's
+                   always someone watching.",0.0,[-0.78368676  0.85483027],[ 1.6367756 -1.6195824]
+TESS,"Wait!
+
+      They do. As Danny is handcuffed and prepared for loading
+      in the back, he and Tess hold each other's glance.",-0.0625,[-0.39200073  0.658949  ],[ 1.7187376 -1.7106706]
+TESS,"Danny...
+                          (beat)
+                   I'm sorry.",-0.5,[0.27061096 0.21146575],[ 1.9122083 -1.9125262]
+DANNY,"I knew what I was doing.
+
+      A beat.",0.0,[-0.02710358  0.60780644],[ 1.7092693 -1.6390008]
+TESS,I didn't.,0.0,[ 0.70830876 -0.0426957 ],[ 1.4235268 -1.2456535]
+TESS,How long will you be?,-0.05,[ 2.233912  -1.3311951],[ 1.9285309 -1.8639029]
+DANNY,"(shrug)
+                   Three to six months, I should
+                   think.
+
+      The squad car door closes him in and Tess stands vigil as
+      it pulls away.",0.0,[ 0.8627113 -0.4577188],[ 1.7389175 -1.7424351]
+RUSTY,Looking for someone?,0.0,[ 1.8973901 -1.159448 ],[ 1.6652533 -1.7320006]
+DANNY,"Thirteen million and you drive
+                   that piece of shit cross country
+                   to pick me up?",-0.1,[ 0.2380753 -0.0786486],[ 1.2454243 -1.244403 ]
+RUSTY,"Hello to you, too.
+
+      They shakes hands.    Rusty looks Danny over.",0.0,[-0.11454029  0.3871816 ],[ 1.8113443 -1.8053805]
+RUSTY,Your hair's grayer.,0.0,[-0.35885516  0.8809272 ],[ 1.2819108 -1.3474146]
+DANNY,"Your eyes got closer together.
+                          (beat)
+                   How's life?",0.0,[ 0.5137885  -0.11451712],[ 1.7467769 -1.8572121]
+RUSTY,"Life... is a roomful of pillows.
+                          (beat)
+                   C'mon...
+
+      MOVING WITH Danny and Rusty toward the Mercedes, together
+      again.",0.0,[ 0.8962262 -0.5900638],[ 1.7372321 -1.8678308]
+RUSTY,Where do you want to go first?,0.25,[ 2.2910357 -1.4760555],[ 1.7185866 -1.787904 ]
+DANNY,"To a phone.
+
+      Rusty had anticipated this.",0.0,[-0.55435854  0.9297789 ],[ 1.6841005 -1.5520722]
+RUSTY,"I stopped and picked up your
+                   personal effects, put them in the
+                   back seat.",0.0,[ 0.25611    -0.00838028],[ 1.8019449 -1.7837677]
+DANNY,"My what?
+
+      Danny gets to the passenger door and looks in to see Tess
+      sitting in the back. She smiles at him.",0.0,[0.2356198  0.02901128],[ 1.6424779 -1.5719167]
+DANNY,"(smiling back,
+                           then)
+                   I'm not sure these belong to me.",-0.125,[ 0.51125914 -0.15767008],[ 1.6763886 -1.7945788]
+TESS,"Sure they do.
+
+      Danny and Rusty get in.      Danny kisses Tess.   Rusty STARTS
+      the CAR.",0.5,[-0.33602753  0.5192498 ],[ 1.2277447 -1.224987 ]
+DANNY,We need to find Rusty a girl.,0.0,[ 1.5025507 -0.6516569],[ 0.5909642  -0.66110617]
+RUSTY,"There's a women's prison just down
+                   the road...",-0.1555555555555555,[-0.62720436  0.77324647],[ 0.41911262 -0.38386676]
+DANNY,You said you sold this.,0.0,[ 0.52777725 -0.11653607],[ 1.6320193 -1.5762736]
+TESS,That's what I said.,0.0,[ 0.7614709  -0.04293588],[ 1.3963867 -1.2897934]
+DANNY,Liar.,0.0,[-0.32494748  0.8475387 ],[ 0.54121697 -0.45833564]
+TESS,"Thief.
+
+      As they drive away...
+
+      ... another car STARTS its ENGINE begins to follow.   At
+      the wheel: Benedict's goons.",0.0,[-0.17617448  0.41969478],[ 0.9491378 -0.9699398]

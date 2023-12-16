@@ -1,0 +1,580 @@
+Unnamed: 0,Name,Movie,Line,Sentiment,Irony,Hate,Intimacy
+0,Vers,captain_marvel.txt,Can't sleep.,0.0,[ 1.3417286  -0.39300784],[ 1.4152566 -1.2958093],0.05515849590301514
+1,Yon-Rogg,captain_marvel.txt,There are tabs for that.,0.0,[0.09317578 0.45658094],[ 1.5656387 -1.5282512],0.02573147416114807
+2,Vers,captain_marvel.txt,"Yeah, but then I'd be sleeping.",0.0,[ 0.9931153  -0.29375187],[ 1.3163303 -1.2302364],0.08741596341133118
+3,Yon-Rogg,captain_marvel.txt,Dreams again?,0.0,[ 1.2819821 -0.7283287],[ 1.8824941 -1.599785 ],0.029703080654144287
+4,Vers,captain_marvel.txt,Wanna fight?,0.0,[ 1.9199158 -1.0774909],[ 1.2607627 -1.4234742],0.03453800082206726
+5,Vers,captain_marvel.txt,I slipped.,0.0,[ 0.70949733 -0.0390355 ],[ 1.4472471 -1.3806614],0.06176680326461792
+6,Yon-Rogg,captain_marvel.txt,Right. You slipped as a result of me punching you in the face.,0.2857142857142857,[ 1.1964622  -0.54289275],[ 1.1939155 -1.1586105],0.17754529416561127
+7,Vers,captain_marvel.txt,I was already slipping when you happened to punch me in the face. The two events are not related.,-0.05,[ 1.8009603 -1.0877172],[ 1.6426175 -1.6053338],0.09639996290206909
+8,Yon-Rogg,captain_marvel.txt,Anything new?,0.1363636363636363,[ 2.1249404 -1.2504989],[ 1.625489  -1.5946227],0.027744710445404053
+9,Vers,captain_marvel.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+10,Yon-Rogg,captain_marvel.txt,You've got to let go of your past.,-0.25,[ 1.3313636  -0.46962526],[ 1.6784059 -1.6000826],0.16769371926784515
+11,Yon-Rogg,captain_marvel.txt,"It's causing you doubt, and doubt makes you vulnerable.",-0.5,[ 0.99084073 -0.42304444],[ 1.9173995 -1.8110474],0.12631440162658691
+12,Yon-Rogg,captain_marvel.txt,Control it.,0.0,[0.10717741 0.45855024],[ 1.1507275  -0.98879695],0.04983037710189819
+13,Yon-Rogg,captain_marvel.txt,Lose control again and you'll have to convene with the Supreme Intelligence. There is nothing more dangerous to a warrior than emotion.,-0.0499999999999999,[ 1.2814698 -0.6068088],[ 1.3964986 -1.4373412],0.05261543393135071
+14,Yon-Rogg,captain_marvel.txt,Humor is a distraction. And anger? Anger only serves the enemy.,-0.4666666666666666,[ 1.1203688  -0.48194602],[ 1.2671825 -1.2146524],0.04354056715965271
+15,Vers,captain_marvel.txt,Has anybody seen what the Supreme Intelligence really looks like?,0.2,[ 1.469717  -0.7637358],[ 1.7371454 -1.7430071],0.033631354570388794
+16,Yon-Rogg,captain_marvel.txt,"No-one can look upon the Supreme Intelligence in its true form. You know that. Our subconscious chooses the way they appear to us. So it's sacred, it's personal. The Kree divulges it ever.",0.1166666666666666,[ 1.7289342 -1.0457304],[ 1.5694383 -1.5407635],0.0648500919342041
+17,Vers,captain_marvel.txt,Who do you see? Your brother?,0.0,[ 2.1732318 -1.3980995],[ 1.6531204 -1.7773474],0.16108179092407227
+18,Yon-Rogg,captain_marvel.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+19,Vers,captain_marvel.txt,Father?,0.0,[ 1.4737633 -0.5877843],[ 1.5353731 -1.4712232],0.080270916223526
+20,Vers,captain_marvel.txt,Your old commander?,0.1,[ 1.5426118  -0.73044145],[ 1.7578412 -1.7684189],0.09823286533355713
+21,Yon-Rogg,captain_marvel.txt,Vers...,0.0,[0.57336843 0.05796251],[ 1.1268356 -1.0734862],0.028760164976119995
+22,Vers,captain_marvel.txt,(smug),0.0,[ 1.721973  -0.7707761],[ 1.1105412 -1.1460118],0.024967491626739502
+23,Vers,captain_marvel.txt,(laughing),0.0,[0.81513816 0.07677364],[ 1.0107096 -0.8799908],0.09499579668045044
+24,Yon-Rogg,captain_marvel.txt,Yes. But you won't succeed in changing my mind on the subject.,-0.1666666666666666,[ 1.9168637 -1.1767765],[ 1.5178902 -1.4028643],0.10044270753860474
+25,Vers,captain_marvel.txt,What is the point of giving me these [gestures to her hands] if you don't want me to use them?,0.0,[ 1.8215014 -1.244542 ],[ 1.1973082 -1.3566493],0.1758318990468979
+26,Yon-Rogg,captain_marvel.txt,You're going to use them. The Supreme Intelligence made me the responsibility of showing you how to use them.,0.0,[ 0.65832114 -0.0329953 ],[ 1.4438739 -1.3295326],0.08149054646492004
+27,Vers,captain_marvel.txt,I know how.,0.0,[ 1.0209726  -0.06750643],[ 1.5238622 -1.3167435],0.05377510190010071
+28,Yon-Rogg,captain_marvel.txt,"Well if that were true, you'd knock me down without them.",0.0972222222222222,[ 1.1725684  -0.43089044],[ 1.3046182 -1.2332488],0.1407398283481598
+29,Yon-Rogg,captain_marvel.txt,"Control your impulses. Stop using this [points to her chest, above her heart] and start using this [gestures towards her head]. I need you to be the best version of yourself.",0.5,[ 1.6096267 -1.0549445],[ 1.0716151 -1.1303035],0.1695518046617508
+30,Supreme Intelligence,captain_marvel.txt,Vers.,0.0,[ 0.6373272  -0.05781407],[ 0.8025179  -0.73050445],0.026037752628326416
+31,Vers,captain_marvel.txt,Intelligence.,0.0,[0.34034926 0.42610866],[ 1.0412891  -0.98756045],0.03197053074836731
+32,Supreme Intelligence,captain_marvel.txt,Your commander insists that you're fit to serve.,0.4,[-0.6148586  1.1815993],[ 1.6110063 -1.6803788],0.1199415922164917
+33,Vers,captain_marvel.txt,I am.,0.0,[ 1.4863999 -0.6114007],[ 1.2464242 -1.1461014],0.1089407205581665
+34,Supreme Intelligence,captain_marvel.txt,"You struggle with your emotions, with your past which fuels them.",-0.25,[ 0.98718953 -0.46627527],[ 2.1521366 -1.8783582],0.16133248805999756
+35,Supreme Intelligence,captain_marvel.txt,You are just one victim of the Skrull expansion that has threatened our civilisation for centuries. Imposters who silently infiltrate then take over our planets.,-0.0375,[-0.32662162  0.6986671 ],[ 0.49561095 -0.67700684],0.06918486952781677
+36,Supreme Intelligence,captain_marvel.txt,Horrors which you remember and so much which you do not.,0.2,[ 1.004329   -0.50110626],[ 2.211364  -1.9052558],0.04070010781288147
+37,Vers,captain_marvel.txt,It's all... blank. My life. You're supposed to take the form of you I most admire but I don't even remember who this person was to me.,0.25,[ 1.8842305 -1.1403445],[ 2.0549629 -2.1075227],0.17209136486053467
+38,Supreme Intelligence,captain_marvel.txt,"Perhaps this is a mercy, sparing you from a deeper pain. Freeing you to do what all Kree must. Put your people's needs before your own. We've given you a great gift, a chance to fight for the good of all Kree.",0.6999999999999998,[ 1.6074429 -0.857398 ],[ 2.0827506 -2.1809158],0.1757904291152954
+39,Vers,captain_marvel.txt,I want to serve.,0.0,[0.55605996 0.23098421],[ 1.6573333 -1.6205351],0.1479865312576294
+40,Supreme Intelligence,captain_marvel.txt,Then master yourself; what was given can be taken away.,0.0,[ 1.7337694 -1.0897715],[ 1.852419 -1.813241],0.09220141172409058
+41,Vers,captain_marvel.txt,I won't let you down.,-0.1555555555555555,[ 1.2667098 -0.5095944],[ 1.4986538 -1.4235095],0.17753270268440247
+42,Supreme Intelligence,captain_marvel.txt,We'll know soon enough. You have a mission. Serve well and with honor.,0.0,[ 1.6942776  -0.79160464],[ 1.7961448 -1.6719052],0.17221876978874207
+43,Vers,captain_marvel.txt,Why?,0.0,[ 1.8556874 -0.9093038],[ 1.1259345 -1.0720764],0.06853637099266052
+44,Vers,captain_marvel.txt,Well maybe if you were more attractive then it would be less disturbing.,0.1583333333333333,[-0.176626   0.4420133],[ 1.0000739  -0.95734125],0.1328766942024231
+45,Yon-Rogg,captain_marvel.txt,Listen up team! Knock it off (pointing at Carol).,0.0,[ 0.89320534 -0.22001722],[ 0.999666 -0.954532],0.019803673028945923
+46,Yon-Rogg,captain_marvel.txt,"Alright, prepare for a search and rescue of our spy, Soh-Larr. The Skrulls have invaded yet another border planet, this time Torfa. Soh-Larr sent a warning signal, which we've intercepted, that his cover's blown. The Skrull General Talos has sent kill units to find him. Should they reach him before we do, the intelligence he has acquired over three years is as good as theirs. The accusors will bomb a Skrull stronghold here in the south. We slip in, we locate Soh-Larr and we get out, leaving them none the wiser. The Torfa populace; we are not to interfere with them nor them with us. Nothing compromises the security of our mission. Proceed with caution. Follow protocol before extracting him.",0.375,[ 1.7378237 -1.1465625],[ 0.8304919 -1.1697868],0.058340251445770264
+47,Yon-Rogg,captain_marvel.txt,"This is a dangerous mission, we must all be ready to join the collective if that is our fate today. For the good of all Kree!",0.1583333333333333,[ 2.0562384 -1.2862841],[ 2.0090768 -2.0713232],0.09700429439544678
+48,Yon-Rogg,captain_marvel.txt,"Vers, track Soh-Larr's beacon. Att-Lass and Minn-Erva find elevation.",0.0,[ 1.8440098 -1.1408083],[ 1.8551434 -2.0694034],0.02604079246520996
+49,Yon-Rogg,captain_marvel.txt,Minn-Erva?,0.0,[ 1.9501562 -1.0441772],[ 1.4969059 -1.58961  ],0.029613792896270752
+50,Yon-Rogg,captain_marvel.txt,Repeat.,0.0,[ 0.95815384 -0.25102034],[ 0.9275694  -0.83469737],0.026349425315856934
+51,Vers,captain_marvel.txt,His beacon's coming from that temple. Let's move.,0.0,[ 1.2519661  -0.48168242],[ 1.1467751 -1.2937657],0.07025381922721863
+52,Yon-Rogg,captain_marvel.txt,"No. This is the perfect spot for an ambush. Only one way in, only one way out.",0.3333333333333333,[ 1.227193  -0.6375322],[ 1.04847 -1.22163],0.024378687143325806
+53,Yon-Rogg,captain_marvel.txt,We don't know if they are locals. Too risky.,0.0,[ 1.8874217 -1.2393612],[ 1.487882  -1.5026515],0.03712502121925354
+54,Vers,captain_marvel.txt,You don't have to go with me. I'll go alone.,0.0,[ 2.192899  -1.4839271],[ 1.4362346 -1.273453 ],0.12016317248344421
+55,Yon-Rogg,captain_marvel.txt,No! You won't.,0.0,[ 0.871488  -0.2160264],[ 1.2093211 -1.1197616],0.09771329164505005
+56,Yon-Rogg,captain_marvel.txt,"Right. Keep a close radius, we lose comms we meet back at the Helion. Come on.",0.1428571428571428,[ 1.9928737 -1.0896943],[ 1.3984914 -1.4540112],0.03141161799430847
+57,Yon-Rogg,captain_marvel.txt,Get back!,0.0,[ 1.780274   -0.92924577],[ 1.3133471 -1.2631844],0.07040280103683472
+58,Yon-Rogg,captain_marvel.txt,Get back. Back!,0.0,[ 1.7254429 -1.0699654],[ 1.4850191 -1.4879109],0.044937074184417725
+59,Yon-Rogg,captain_marvel.txt,"Minn-Erva, do you have eyes on this?",0.0,[ 2.3684037 -1.4528184],[ 1.7791039 -1.9130174],0.07907819747924805
+60,Yon-Rogg,captain_marvel.txt,(to the locals) Get back! Minn-Erva!,0.0,[ 1.9233749  -0.97600985],[ 1.8363575 -2.0235722],0.027037382125854492
+61,Yon-Rogg,captain_marvel.txt,I don't want to hurt you. Get back! Stay back!,0.0,[ 2.0297494 -1.2850195],[ 0.8286349 -0.9348758],0.1783795952796936
+62,Vers,captain_marvel.txt,HGX-78,0.0,[ 1.6202794 -0.8281691],[ 1.2900788 -1.2992474],0.023738324642181396
+63,Yon-Rogg,captain_marvel.txt,Skrulls!,0.0,[0.5383494  0.12178638],[ 1.0621299 -1.0323544],0.024501115083694458
+64,Yon-Rogg,captain_marvel.txt,Vers!,0.0,[0.3456479  0.35564312],[ 0.8903209 -0.8355746],0.029612243175506592
+65,Yon-Rogg,captain_marvel.txt,Back to the Helion!,0.0,[ 1.5100394  -0.68352157],[ 1.3218058 -1.413184 ],0.017665892839431763
+66,Vers,captain_marvel.txt,How did you know the code?,0.0,[ 2.0855343 -1.3615904],[ 1.7963371 -1.7018672],0.02727675437927246
+67,General Talos (voiceover),captain_marvel.txt,Where are we?,0.0,[ 2.1594737 -1.2222228],[ 1.5449764 -1.6130606],0.03414362668991089
+68,Maria,captain_marvel.txt,Where's your head at?,0.0,[ 2.2334514 -1.293452 ],[ 1.3534056 -1.2661258],0.13918977975845337
+69,Vers,captain_marvel.txt,In the clouds. Where's yours?,0.0,[ 2.1424816 -1.2326211],[ 1.6292433 -1.6393291],0.029373764991760254
+70,Maria,captain_marvel.txt,On my shoulders. About to show these boys how to do it. You ready?,0.2,[ 1.8844359 -1.0244244],[ 1.4656861 -1.5559202],0.17672976851463318
+71,Vers,captain_marvel.txt,"Higher, further, faster baby.",0.125,[ 1.3475378 -0.5923141],[ 0.92633253 -1.0083851 ],0.051552534103393555
+72,Maria,captain_marvel.txt,That's right.,0.2857142857142857,[-0.23289101  0.8131516 ],[ 1.0282716  -0.92415416],0.03901517391204834
+73,General Talos (voiceover),captain_marvel.txt,This can't be right.,0.2857142857142857,[ 1.3214387 -0.4697495],[ 1.198614 -1.137002],0.05679541826248169
+74,General Talos (voiceover),captain_marvel.txt,Go back even further.,0.0,[ 1.4363923 -1.0467875],[ 1.7113069 -1.6727017],0.02650630474090576
+75,General Talos (voiceover),captain_marvel.txt,Who is this person? Are we in the right...?,0.2857142857142857,[ 2.0216074 -1.3429649],[ 1.6919131 -1.8258395],0.11390195786952972
+76,General Talos (voiceover),captain_marvel.txt,Am I the only one who's confused here?,-0.2,[ 2.2004135 -1.2039168],[ 1.7394183 -1.7338227],0.06223168969154358
+77,Maria,captain_marvel.txt,"Get your butt's inside, it's time to eat.",0.0,[ 1.4252825  -0.47489563],[ 0.01745443 -0.16854747],0.1646443009376526
+78,Carol,captain_marvel.txt,Prepare for takeoff Lieutenant Trouble.,-0.2,[ 0.8993963  -0.25893983],[ 1.5153135 -1.5849357],0.032499223947525024
+79,General Talos (voiceover),captain_marvel.txt,Charming memory.,0.7,[0.07627404 0.30709726],[ 1.5498315 -1.4854299],0.026936590671539307
+80,Vers,captain_marvel.txt,Early start to your morning.,0.1,[-1.5541683  1.7379392],[ 1.279036 -1.27798 ],0.05807727575302124
+81,Vers,captain_marvel.txt,Flying airplanes never feels like work.,0.0,[-1.8497957  1.8794922],[ 1.6779017 -1.5085715],0.0354824960231781
+82,Vers,captain_marvel.txt,I prefer the view from up there.,0.0,[ 0.8423094  -0.22779036],[ 1.434548  -1.2865616],0.03669697046279907
+83,General Talos (voiceover),captain_marvel.txt,"Wait, wait, wait. That's her. Get her back.",0.0,[ 1.5771079 -0.7883572],[ 0.9375523 -0.9995501],0.17686207592487335
+84,Vers,captain_marvel.txt,I prefer the view from up there.,0.0,[ 0.8423094  -0.22779036],[ 1.434548  -1.2865616],0.03669697046279907
+85,General Talos (voiceover),captain_marvel.txt,What's that on her shirt? I couldn't read it.,0.0,[ 1.9910381 -1.0471119],[ 1.223734  -1.2714871],0.12945081293582916
+86,Vers,captain_marvel.txt,I prefer the view from up there.,0.0,[ 0.8423094  -0.22779036],[ 1.434548  -1.2865616],0.03669697046279907
+87,General Talos (voiceover),captain_marvel.txt,Focus.,0.0,[ 1.1088718  -0.31923655],[ 1.0549139  -0.99645627],0.029467523097991943
+88,Vers,captain_marvel.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+89,General Talos (voiceover),captain_marvel.txt,Look down.,-0.1555555555555555,[ 1.0171239  -0.33322546],[ 1.5174071 -1.4864553],0.0291329026222229
+90,General Talos (voiceover),captain_marvel.txt,"Focus. Pegasus, Dr. Wendy Lawson. That's her.",0.0,[ 1.3493599 -0.6564356],[ 1.2644106 -1.3305618],0.1321151703596115
+91,Carol,captain_marvel.txt,Can you hear that?,0.0,[ 1.6317748  -0.62875915],[ 1.5568008 -1.352677 ],0.07435056567192078
+92,General Talos (voiceover),captain_marvel.txt,Do we have the location?,0.0,[ 2.3245273 -1.4924234],[ 1.684394  -1.6392808],0.026508748531341553
+93,General Talos (voiceover),captain_marvel.txt,Now track Lawson until we find the energy signature.,0.0,[ 1.2312165  -0.51559925],[ 1.7611604 -1.8008071],0.027055442333221436
+94,General Talos (voiceover),captain_marvel.txt,Interesting.,0.5,[-0.37192324  0.7307346 ],[ 1.1964412 -1.1757178],0.09069207310676575
+95,General Talos (voiceover),captain_marvel.txt,Huh. Hold on. Go back right before this. Go back.,0.0952380952380952,[ 1.8358288 -1.1184181],[ 1.6102378 -1.5382992],0.01926860213279724
+96,Carol,captain_marvel.txt,"That's no MIG, Lawson.",0.0,[ 1.0044239  -0.34584954],[ 1.1681541 -1.19751  ],0.024566322565078735
+97,General Talos (voiceover),captain_marvel.txt,"This is it. Now, let me see where you're headed. That's right, look at the coordinates. (Vers begins having flashbacks to directly after the explosion) Focus. (Vers shuts here eyes) Open, please. That's it. That's it. (Vers begins looking at the coordinates, but her vision is fuzzy)You're almost there.You're almost there. (Vers shuts her eyes, squeezing them shut) Don't fight it. (Vers visions about the explosion come back, this time focusing on the fire around the plane) Focus!",0.0964285714285714,[ 1.5902338 -0.9400574],[ 1.6179303 -1.6149031],0.049888670444488525
+98,General Talos (voiceover),captain_marvel.txt,Get her back. Get her back now!,0.0,[ 1.97343   -1.1260803],[ 0.6426799  -0.76375365],0.17728091776371002
+99,Vers,captain_marvel.txt,What did you do to me?,0.0,[ 2.1804729 -1.2883091],[ 2.0600078 -1.9305391],0.17223450541496277
+100,Vers,captain_marvel.txt,What did you put in my head?,0.0,[ 2.0870135 -1.2109306],[ 1.8902785 -1.6829373],0.14153268933296204
+101,Vers,captain_marvel.txt,But those aren't my memories.,0.0,[ 1.5305289  -0.71783537],[ 1.8564001 -1.6051201],0.13824668526649475
+102,Vers,captain_marvel.txt,Enough of your mind games! What do you want?,0.0,[ 2.0286202 -1.2225554],[ 1.390648  -1.2188884],0.170036181807518
+103,Vers,captain_marvel.txt,I don't know any Doctor Lawson.,0.0,[ 1.2148743  -0.50155485],[ 1.5548387 -1.5318004],0.05973806977272034
+104,Vers,captain_marvel.txt,You wouldn't know how these things come off would ya? No? Fine.,-0.2083333333333333,[ 1.599435  -0.9886869],[ 1.3895539 -1.2730339],0.11507028341293335
+105,Vers,captain_marvel.txt,Hey!,0.0,[0.6611168  0.13126478],[ 1.1559635 -1.1226578],0.02856665849685669
+106,Talos,captain_marvel.txt,Leaving so soon? We're just getting to know each other.,-0.125,[ 1.0109318  -0.17992386],[ 1.9928192 -1.880921 ],0.07474863529205322
+107,Vers,captain_marvel.txt,Vers to Star Force Command. Do you read me?,0.0,[ 1.8710848  -0.98937565],[ 1.8674012 -2.0113857],0.045261919498443604
+108,Vers,captain_marvel.txt,Hello? Do you copy?,0.0,[ 1.6466141 -1.0379527],[ 1.909583  -1.9932941],0.04717087745666504
+109,Vers,captain_marvel.txt,"Hi, I'm Vers. Kree Star Force. Is this C-53? Do you understand me? Is my universal translator working?",0.0,[ 2.05873   -1.2444651],[ 2.0822418 -2.1514318],0.043044328689575195
+110,Vers,captain_marvel.txt,"Oh, good. Are you in charge of security for this district?",0.7,[0.2929668  0.07844112],[ 2.1190221 -2.0433922],0.16593323647975922
+111,Vers,captain_marvel.txt,Where can I find communications equipment?,0.0,[ 2.015971  -1.1902038],[ 1.9387585 -1.9022944],0.023078322410583496
+112,Vers,captain_marvel.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+113,Vers,captain_marvel.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+114,Yon-Rogg,captain_marvel.txt,"Vers. Verify, CTC39.",0.0,[ 1.2773988  -0.72562057],[ 1.8100623 -1.7827163],0.031292468309402466
+115,Vers,captain_marvel.txt,"GRX31600, and I'm fine thank you for asking. Is everyone ok, what happened?",0.4583333333333333,[ 2.0739715 -1.3166907],[ 1.9819269 -2.0459645],0.10302923619747162
+116,Yon-Rogg,captain_marvel.txt,Skrull ambush. I thought we'd lost you. Did you find Soh-Larr?,0.0,[ 1.9753203 -1.2492087],[ 1.883953 -2.149878],0.06825047731399536
+117,Vers,captain_marvel.txt,"It wasn't Soh-Larr. Talos simmed him, even knew his code.",0.0,[ 1.6010634  -0.89921576],[ 1.649979  -1.7739434],0.06946754455566406
+118,Yon-Rogg,captain_marvel.txt,That's impossible. That code was buried in his unconscious.,-0.6666666666666666,[ 1.3753269  -0.81221926],[ 1.6683804 -1.6223211],0.06636929512023926
+119,Vers,captain_marvel.txt,"The Skrulls messed with my mind. The machine that they used, I think it was how they extracted Soh-Larr's code.",0.0,[ 1.2750006 -0.7567574],[ 1.5806183 -1.5895718],0.03208106756210327
+120,Yon-Rogg,captain_marvel.txt,"Vers, where are you?",0.0,[ 2.0916336 -1.108873 ],[ 1.5612348 -1.6301743],0.06245708465576172
+121,Vers,captain_marvel.txt,I'm on planet C-53. The Skrulls are looking for someone named Lawson.,0.0,[ 1.498149  -0.7971522],[ 1.7433397 -2.0135553],0.030277669429779053
+122,Yon-Rogg,captain_marvel.txt,Who?,0.0,[ 1.9149289 -0.9018236],[ 1.2673016 -1.2214421],0.03859183192253113
+123,Vers,captain_marvel.txt,She's... who I see...,0.0,[ 1.1244029  -0.48465243],[ 1.6065601 -1.6654133],0.10295063257217407
+124,Yon-Rogg,captain_marvel.txt,"She's what? Vers. Vers, what?",0.0,[ 1.5687271 -0.8696851],[ 0.9876425 -1.0903538],0.04110357165336609
+125,Vers,captain_marvel.txt,"She's a scientist. They think that she's cracked the code on light speed tech. I have to get to her before they do, or else they'll be able to invade new galaxies.",0.3454545454545454,[ 0.49392653 -0.01665271],[ 0.45423725 -0.4563347 ],0.044884681701660156
+126,Yon-Rogg,captain_marvel.txt,No. You've been caught once already. How far to C-53?,0.1,[ 2.0885422 -1.436641 ],[ 1.4121987 -1.400782 ],0.03239530324935913
+127,Yon-Rogg,captain_marvel.txt,"Vers. Hold your position until we get there, keep your comms online so that we can contact you.",0.0,[ 1.9422904 -1.2988389],[ 1.9213791 -1.7265567],0.09439525008201599
+128,Vers,captain_marvel.txt,No! What if they get a hold of it before...,0.0,[ 1.5902855 -1.0022897],[ 1.2319851 -1.3148737],0.05746302008628845
+129,Yon-Rogg,captain_marvel.txt,Vers? Vers!,0.0,[ 0.8410938  -0.10277101],[ 1.576208  -1.6714717],0.029568254947662354
+130,Yon-Rogg,captain_marvel.txt,She's stronger than you think.,0.0,[ 0.7503324  -0.05470343],[ 1.0224024 -0.7328172],0.14384223520755768
+131,Fury,captain_marvel.txt,"Excuse me miss, do you know anything about a lady who went through the roof of that Blockbuster over there? Witness says she was dressed for laser tag.",-0.05,[ 1.7192646 -0.9492161],[ 0.20685841 -0.10990387],0.0716659426689148
+132,Vers,captain_marvel.txt,"Oh. Yeah, I think she went that way.",0.0,[0.4205384 0.1324332],[ 1.0762833  -0.97014415],0.12018004059791565
+133,Fury,captain_marvel.txt,"Ah. I'd like to ask you some questions. Maybe give you the 4-1-1 on late night drop-bys. Could I see some identification, please?",-0.3,[ 2.0115037 -1.1748438],[ 2.345048 -2.304036],0.05889767408370972
+134,Vers,captain_marvel.txt,Vers. Kree Star Force. We don't carry identification on metal cards.,0.0,[ 1.4838536  -0.73668545],[ 1.6532052 -1.7183994],0.02721509337425232
+135,Fury,captain_marvel.txt,Vers. Star Force. How long are you planning on being in town?,-0.05,[ 2.148284  -1.3789283],[ 1.8981723 -2.0733612],0.03865876793861389
+136,Vers,captain_marvel.txt,"Oh, I'll be out of your hair as soon as I track down the Skrulls which are infiltrating your planet.",-0.1555555555555555,[-0.36589563  0.84072536],[ 0.4250863 -0.5900061],0.12349310517311096
+137,Fury,captain_marvel.txt,Skrulls?,0.0,[ 1.5652753 -0.8688722],[ 1.4464968 -1.428785 ],0.02432316541671753
+138,Vers,captain_marvel.txt,"Shape-shifters. They can transform into any lifeform down to the DNA. Oh boy, you guys don't have a clue do you?",-0.1555555555555555,[-0.33532375  0.8239204 ],[ 0.92528915 -1.0095745 ],0.053126126527786255
+139,Fury,captain_marvel.txt,"Oh, oh, oh, oh. Hold on. How do we know that you're not one of those... shapeshifters?",0.0,[ 1.6204475 -0.9906129],[ 1.5718461 -1.740637 ],0.1276545524597168
+140,Vers,captain_marvel.txt,Congratulations Agent Fury. You have finally asked a relevant question.,0.2,[-0.7860525  1.3168101],[ 1.7841431 -1.7759959],0.02896219491958618
+141,Fury,captain_marvel.txt,Oh! Congratulations to you Star Force Lady. You're under arrest.,-0.05,[-1.4767376  1.817295 ],[ 0.71121764 -0.6468139 ],0.17949680984020233
+142,Fury,captain_marvel.txt,Let's greet them at the station.,0.0,[0.33094466 0.21019655],[ 1.7223457 -1.7227607],0.08702576160430908
+143,Fury,captain_marvel.txt,You're saying he's not from around here?,0.0,[ 1.4189627  -0.73203886],[ 1.8817203 -1.9173744],0.08108174800872803
+144,Fury,captain_marvel.txt,"Well, I'd say fine. But it can't believe what it's seeing.",0.4166666666666667,[ 1.3565544 -0.6049628],[ 1.6369989 -1.4749702],0.036067426204681396
+145,Fury,captain_marvel.txt,Talked like him too.,0.0,[0.00361556 0.50947726],[ 1.3984805 -1.3812684],0.08383703231811523
+146,Fury,captain_marvel.txt,The word she used was infiltration.,0.0,[0.5055214  0.17996123],[ 1.2550591 -1.1779882],0.03526008129119873
+147,Fury,captain_marvel.txt,Not 'till I say this.,0.0,[ 1.0980425  -0.25286308],[ 1.3014878 -1.2161673],0.06839287281036377
+148,Fury,captain_marvel.txt,"I got to find Blockbuster girl. I got word on a motorcycle thief which fits her description. She can tell us why these lizards are here, maybe she can tell us how to kick them to the curb.",0.0,[ 1.6269383 -0.9812467],[-0.38045865  0.39324176],0.06901213526725769
+149,Fury,captain_marvel.txt,Yes sir.,0.0,[0.26986057 0.28475237],[ 1.1048143 -1.0551014],0.1003294587135315
+150,Vers,captain_marvel.txt,Where was this photograph taken?,0.0,[ 2.0587997 -1.2974107],[ 1.4990553 -1.4498577],0.019293099641799927
+151,Vers,captain_marvel.txt,Where's Pegasus?,0.0,[ 1.8737242  -0.95429003],[ 1.2118567 -1.231136 ],0.0231783390045166
+152,Fury,captain_marvel.txt,That's classified. Not unlike the file I started on you.,0.0,[ 1.4736801  -0.86001956],[ 1.6673619 -1.7384888],0.022728830575942993
+153,Fury,captain_marvel.txt,But I see you changed it up a bit since then. Grunge is a good look for you.,0.7,[0.20068377 0.15007132],[ 1.700479  -1.7813591],0.1757085919380188
+155,Fury,captain_marvel.txt,"It's cool. You know, space invasion, big car chase, got to watch an alien autopsy. Typical 9 to 5.",-0.0166666666666666,[-1.7363485  1.8857832],[ 1.5331209 -1.5137371],0.035805076360702515
+156,Vers,captain_marvel.txt,So you saw one?,0.0,[ 1.6256107  -0.74570143],[ 1.8291354 -1.7572511],0.03690794110298157
+157,Fury,captain_marvel.txt,I was never one to believe in aliens. But I can't unsee that.,0.0,[ 1.2039765  -0.68163526],[ 1.081347  -1.1398499],0.04681360721588135
+158,Vers,captain_marvel.txt,This is gonna get a little awkward but I gotta ask.,-0.39375,[ 1.7399375 -0.8561264],[ 1.5191151 -1.4764473],0.1398867666721344
+159,Fury,captain_marvel.txt,You think I'm one of those green things.,-0.2,[0.28425533 0.27822292],[ 1.8513476 -1.8158878],0.0835975706577301
+160,Vers,captain_marvel.txt,Can't be too careful.,-0.1,[ 1.6343083  -0.85676694],[ 1.412762  -1.3879793],0.09293454885482788
+161,Fury,captain_marvel.txt,You are looking at 100 percent red-blooded Earthman.,0.0,[-0.04392627  0.3817946 ],[ 1.2894053 -1.3489821],0.05557280778884888
+162,Vers,captain_marvel.txt,I'm afraid I'm gonna need proof.,-0.6,[ 1.8361564 -1.0131825],[ 1.6620438 -1.5543101],0.11104270815849304
+163,Fury,captain_marvel.txt,We talking cheek swab or urine sample.,0.0,[ 1.5861856 -0.685015 ],[ 1.3713168 -1.4134506],0.043225616216659546
+164,Carol,captain_marvel.txt,No. The DNA would match.,0.0,[ 1.6407919 -0.8894382],[ 1.3160244 -1.2792851],0.024342358112335205
+165,Fury,captain_marvel.txt,Well my AOL password.,0.0,[0.50485903 0.18940467],[ 1.4839997 -1.4636085],0.04125255346298218
+166,Vers,captain_marvel.txt,Skrulls can only assume recent memories of their host bodies.,0.0,[0.16880135 0.35497776],[ 1.575065  -1.6047978],0.04065290093421936
+167,Fury,captain_marvel.txt,Oh oh! You wanna get personal.,0.0,[-0.7349936  1.2787803],[ 1.6028609 -1.5148867],0.1368599534034729
+168,Vers,captain_marvel.txt,Where were you born?,0.0,[ 2.0929546 -1.2664087],[ 1.48111   -1.5094222],0.10294100642204285
+169,Fury,captain_marvel.txt,"Huntsville, Alabama. But technically I don't remember that part.",0.0,[ 1.4595304 -0.8278219],[ 1.7158139 -1.6231636],0.0214461088180542
+171,Fury,captain_marvel.txt,Mr. Snuffers.,0.0,[0.6117254  0.07343993],[ 1.3535284 -1.3882467],0.03638237714767456
+172,Vers,captain_marvel.txt,Mr. Snuffers?,0.0,[ 1.7589867 -1.0508853],[ 1.6546332 -1.7357956],0.041541874408721924
+173,Fury,captain_marvel.txt,That's what I said. Did I pass?,0.0,[ 1.8152726 -1.2502643],[ 1.8978401 -1.8322169],0.06196591258049011
+174,Vers,captain_marvel.txt,Not yet. First job?,0.25,[ 1.9793365 -1.3122004],[ 1.7746233 -1.6484851],0.04104822874069214
+175,Fury,captain_marvel.txt,"Soldier, straight out of high school. Got the ranks of full breed Colonel.",0.2366666666666666,[0.25282714 0.46314266],[ 1.4455036 -1.4073408],0.10871069133281708
+176,Vers,captain_marvel.txt,And then?,0.0,[ 1.307575   -0.51672727],[ 1.2989872 -1.2086838],0.05902370810508728
+177,Fury,captain_marvel.txt,Spy.,0.0,[-0.21711953  0.6785158 ],[ 1.1860055 -1.228022 ],0.04023754596710205
+178,Vers,captain_marvel.txt,Where?,0.0,[ 1.9808646 -1.0247959],[ 1.1707782 -1.1646423],0.027119338512420654
+179,Fury,captain_marvel.txt,"It was the Cold War, we were everywhere. Uh... Belfast, Bucharest, Belgrade, Budapest.",-0.6,[-0.04225469  0.4861618 ],[ 1.6516094 -1.7493469],0.027952134609222412
+180,Vers,captain_marvel.txt,Now?,0.0,[ 1.3685389 -0.5163302],[ 1.0818685 -1.0180184],0.03200832009315491
+181,Fury,captain_marvel.txt,"Been riding a desk for the past few years, trying to figure out where our future enemies are coming from. Never occurred to me that they'd be coming from above.",-0.1125,[ 1.4492908  -0.62905556],[ 1.2941272 -1.4238837],0.0672960877418518
+182,Vers,captain_marvel.txt,Name a detail so bizarre a Skrull could never fabricate it.,0.4,[ 1.2004383  -0.30584642],[ 1.6052176 -1.5316491],0.04626008868217468
+183,Fury,captain_marvel.txt,"If toast is cut diagonally, I can't eat it. You didn't need that did you?",0.0,[ 2.0645602 -1.309373 ],[ 1.2831618 -1.2533048],0.03803160786628723
+184,Vers,captain_marvel.txt,"No. No, I didn't. But I enjoyed it.",0.5,[ 1.503685   -0.85350657],[ 1.7343326 -1.6091768],0.12682755291461945
+185,Fury,captain_marvel.txt,Ok. Your turn. Prove you're not a Skrull.,0.0,[0.4134286  0.17520744],[ 1.5323169 -1.5226796],0.16765177249908447
+186,Fury,captain_marvel.txt,And how is that supposed to prove to me that your not a Skrull?,0.0,[ 1.7466356 -1.0907928],[ 1.6315528 -1.6986424],0.13995419442653656
+187,Vers,captain_marvel.txt,It's a photon blast.,0.0,[-0.3870426   0.91178834],[ 1.1158742 -1.0885147],0.02751743793487549
+188,Fury,captain_marvel.txt,And...?,0.0,[ 0.8593663  -0.22060171],[ 1.4210433 -1.4005157],0.06076258420944214
+189,Vers,captain_marvel.txt,A Skrull can't do that. So a full-bred colonel turned spy turned SHIELD agent must have pretty high-security clearance. Where's Pegasus?,0.25,[ 0.7455789  -0.22588477],[ 1.356825  -1.4332775],0.02450728416442871
+190,Fury,captain_marvel.txt,"So the Skrulls are alien races which infiltrate and overtake alien planets. And you're a Kree, a race of noble warriors.",0.0333333333333333,[-0.88871026  1.2649305 ],[ 0.7206396 -0.9126053],0.047829508781433105
+191,Vers,captain_marvel.txt,Heroes. Noble warrior heroes.,0.6,[0.592396   0.34081787],[ 1.4968175 -1.4820417],0.03534168004989624
+192,Fury,captain_marvel.txt,So um. What do Skrulls want with Dr. Lawson?,0.0,[ 2.0244737 -1.297505 ],[ 1.885232  -1.9477077],0.04574286937713623
+193,Vers,captain_marvel.txt,They believe she developed a light speed engine at Pegasus.,0.25,[-0.555247   0.8741102],[ 1.4201783 -1.3638021],0.023640155792236328
+194,Fury,captain_marvel.txt,"Light speed engine? I've got to admit, that's not the craziest thing I've heard today.",0.4,[0.35299116 0.2591006 ],[ 1.677843  -1.6578867],0.04810228943824768
+195,Vers,captain_marvel.txt,"Well, it's still early.",0.1,[ 0.9914897  -0.33544454],[ 1.3402969 -1.2625406],0.0239526629447937
+196,Fury,captain_marvel.txt,"And you, what do you want?",0.0,[ 2.2640321 -1.2974361],[ 1.598287  -1.6445473],0.14610111713409424
+197,Vers,captain_marvel.txt,To stop the Skrulls before they become unstoppable.,0.0,[0.722102   0.09352381],[ 1.2366902 -1.2555494],0.027453243732452393
+198,Fury,captain_marvel.txt,"And...? Look, war is a universal language. I know a rogue soldier when I see one, you've got a personal stake in this.",0.0,[ 0.69366044 -0.16929233],[ 1.3223408 -1.4000993],0.03095299005508423
+199,Fury,captain_marvel.txt,"Nicholas Joseph Fury, Agent of SHIELD.",0.0,[0.68463105 0.08696149],[ 1.6673561 -1.829789 ],0.029815852642059326
+200,Vers,captain_marvel.txt,"Nicholas Joseph Fury, you have three names?",0.0,[ 1.8112456  -0.85702866],[ 1.7439412 -1.9863441],0.031985849142074585
+201,Fury,captain_marvel.txt,"Everybody calls me Fury. Not Nicholas, not Joseph, not Nick. Just Fury.",0.0,[ 1.6811221  -0.70206004],[ 1.6447746 -1.8862226],0.03158959746360779
+202,Vers,captain_marvel.txt,What does your mom call you?,0.0,[ 2.0106788 -1.1098533],[ 0.92774373 -0.98209226],0.15689221024513245
+203,Fury,captain_marvel.txt,Fury.,0.0,[ 0.83972836 -0.03036506],[ 1.0148046 -1.0929264],0.04307001829147339
+204,Vers,captain_marvel.txt,What do you call her?,0.0,[ 2.3117242 -1.3918229],[ 1.0910293 -1.0376568],0.17310215532779694
+205,Fury,captain_marvel.txt,Fury.,0.0,[ 0.83972836 -0.03036506],[ 1.0148046 -1.0929264],0.04307001829147339
+206,Vers,captain_marvel.txt,What about your kids?,0.0,[ 1.8921484 -1.0703218],[ 1.5453836 -1.5881524],0.14933530986309052
+207,Fury,captain_marvel.txt,"If I have them, they'll call me Fury.",0.0,[ 1.5621084  -0.58487976],[ 1.4559498 -1.5559236],0.09249567985534668
+208,Fury,captain_marvel.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+209,Fury,captain_marvel.txt,"Oh, hold up. You look like somebody's disaffected niece. Put that on.",0.0,[0.19677076 0.36581734],[ 0.42718023 -0.23581043],0.15582847595214844
+210,Vers,captain_marvel.txt,What is this? [gesturing towards the logo],0.0,[ 1.6736889 -1.0073129],[ 1.6903818 -1.7917696],0.022303283214569092
+211,Fury,captain_marvel.txt,It's the SHIELD logo.,0.0,[-0.06404732  0.75812536],[ 1.6695663 -1.660353 ],0.02765747904777527
+212,Vers,captain_marvel.txt,Does announcing your identity on clothing help with the covert part of your job.,0.0,[-1.0965924  1.2158189],[ 2.0537348 -2.0202172],0.07688170671463013
+213,Fury,captain_marvel.txt,Said the space soldier who was wearing a rubber suit.,0.0,[-0.86831194  1.3556792 ],[ 1.6634912 -1.7014631],0.023196041584014893
+214,Fury,captain_marvel.txt,Lose the flannel.,0.0,[ 1.1554265 -0.4760413],[ 1.4186153 -1.2781914],0.06283220648765564
+215,Fury,captain_marvel.txt,We're agents of SHIELD.,0.0,[-0.23350076  0.7504693 ],[ 1.901623  -1.9021096],0.02727872133255005
+216,Vers,captain_marvel.txt,We're looking for a woman named Lawson.,0.0,[ 1.4856737  -0.76225895],[ 1.1773514 -1.0375646],0.1238868236541748
+217,Fury,captain_marvel.txt,A Dr. Wendy Lawson.,0.0,[ 0.7085542  -0.03121449],[ 1.5480373 -1.4765768],0.028277158737182617
+218,Vers,captain_marvel.txt,Do you know her?,0.0,[ 2.3093772 -1.4469204],[ 1.4545588 -1.3251005],0.1736171394586563
+219,Vers,captain_marvel.txt,Hmm.,0.0,[0.46135253 0.14027444],[ 0.9871795 -0.9763826],0.03250190615653992
+220,Fury,captain_marvel.txt,"Are you familiar with the phrase ""Welcome Wagon""?",0.5875,[ 1.3660843 -0.8796133],[ 2.0041165 -2.130615 ],0.030044257640838623
+221,Vers,captain_marvel.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+222,Fury,captain_marvel.txt,"Well, this ain't it.",0.0,[ 1.2222426  -0.43487605],[ 1.080735  -1.0732409],0.05140259861946106
+223,Vers,captain_marvel.txt,Is that a communicator?,0.0,[ 1.9225624 -1.0354251],[ 1.3586538 -1.408157 ],0.026567429304122925
+224,Fury,captain_marvel.txt,Yeah. State-of-the-art two-way pager.,0.0,[-0.08759553  0.49199012],[ 1.5241005 -1.4183334],0.02486768364906311
+225,Vers,captain_marvel.txt,Who are you paging?,0.0,[ 2.0731146 -1.2690874],[ 1.4470843 -1.6091069],0.06645271182060242
+226,Fury,captain_marvel.txt,"My mom. Don't worry, I didn't mention you.",0.0,[ 0.78770113 -0.10940009],[ 1.5064528 -1.351752 ],0.17696154117584229
+227,Fury,captain_marvel.txt,After you.,0.0,[0.20743693 0.35619888],[ 1.2421751 -1.1664512],0.17431315779685974
+228,Vers,captain_marvel.txt,Impressive.,1.0,[-0.6401767  1.0838788],[ 1.2114359 -1.1253328],0.028023362159729004
+229,Fury,captain_marvel.txt,Oh. You should see what I can do with a paperclip.,0.0,[0.33874664 0.1701211 ],[ 1.4046489 -1.3146211],0.02009880542755127
+230,Fury,captain_marvel.txt,"Hey, there. How are you?",0.0,[ 1.7434566  -0.97599834],[ 1.4400736 -1.4377606],0.10592098534107208
+231,Fury,captain_marvel.txt,Oh my goodness. Look at you. Just look at you. Aren't you the cutest little thing.,-0.1875,[ 1.1042817 -0.3455864],[ 1.470213  -1.5211776],0.17394565045833588
+232,Fury,captain_marvel.txt,"Aren't you cute? And what's your name, huh? What's your name? ""Goose"", cool name for a cool cat.",0.3999999999999999,[ 1.5127398  -0.82529277],[ 1.4378341 -1.6550163],0.12658317387104034
+233,Vers,captain_marvel.txt,Fury.,0.0,[ 0.83972836 -0.03036506],[ 1.0148046 -1.0929264],0.04307001829147339
+234,Fury,captain_marvel.txt,(to Goose),0.0,[ 1.6300794  -0.61541134],[ 1.3032311 -1.3343357],0.022094279527664185
+235,Fury,captain_marvel.txt,Oh. Let me get my fingerprint out. Just let me unravel this puppy.,0.0,[ 1.1816126 -0.3550569],[ 1.3508846 -1.3360738],0.17497269809246063
+236,Fury,captain_marvel.txt,You sat there and watched me play with tape? When all you had to do was... [Fury imitates Vers shooting the energy],0.0,[ 1.6766849 -0.8794837],[ 1.8181801 -1.8318595],0.14887696504592896
+237,Vers,captain_marvel.txt,I didn't want to steal your thunder.,0.0,[ 1.3422583  -0.48036996],[ 1.7936596 -1.7433087],0.17275743186473846
+238,Vers,captain_marvel.txt,Huh. Lawson.,0.0,[ 0.83694154 -0.18772349],[ 1.3930873 -1.3827688],0.027676165103912354
+239,Vers,captain_marvel.txt,Ha. Lawson's plan for the light-speed engine. I wonder why they terminated the project.,0.0,[-0.5091581  0.8313631],[ 1.782637  -1.7116058],0.02259114384651184
+240,Fury,captain_marvel.txt,"Um, maybe because she's cuckoo.",0.0,[0.59524786 0.01883332],[ 0.3323862 -0.3696219],0.12754389643669128
+241,Vers,captain_marvel.txt,Kree glyphs?,0.0,[ 1.8211831 -0.9081688],[ 1.3269675 -1.3907503],0.024337559938430786
+242,Fury,captain_marvel.txt,Hmm?,0.0,[ 1.3303497 -0.5555852],[ 1.1393756 -1.1483731],0.043827444314956665
+243,Vers,captain_marvel.txt,Lawson is not cuckoo. She's Kree.,0.0,[ 1.7627547 -1.1174383],[ 0.3607847  -0.38823327],0.09338220953941345
+244,Fury,captain_marvel.txt,"Well, she's dead.",-0.2,[0.11901574 0.48979756],[ 1.0979346 -0.9487823],0.08380475640296936
+245,Vers,captain_marvel.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+246,Fury,captain_marvel.txt,"She crashed the ASIS aircraft during an unauthorized test flight. Took a pilot down with her. That's why security here's so unfriendly. They're covering up a billion dollar mistake. Oh, and your light-speed engine is toast.",-0.1555555555555555,[ 0.50871193 -0.008524  ],[ 0.7022387 -0.6364649],0.06882250308990479
+247,Vers,captain_marvel.txt,When did this crash happen?,0.0,[ 1.7444059  -0.99292624],[ 1.6947533 -1.6314272],0.016962647438049316
+248,Fury,captain_marvel.txt,Six years ago. 1989.,0.0,[0.67154294 0.03178569],[ 1.6547643 -1.4725676],0.026521384716033936
+249,Vers,captain_marvel.txt,Who was the pilot?,0.0,[ 2.1690397 -1.2072868],[ 1.5820365 -1.6557103],0.03815615177154541
+250,Fury,captain_marvel.txt,"Um, most of this thing's redacted but there is a testimonial here from a Maria Rambeau. Last person to see them both alive.",0.1999999999999999,[ 1.8218879  -0.94702303],[ 2.1243336 -1.9345766],0.050161272287368774
+251,Fury,captain_marvel.txt,You OK?,0.5,[ 1.9878678 -0.9771111],[ 1.5412841 -1.5957687],0.10375893115997314
+252,Vers,captain_marvel.txt,Mm-hmm.,0.0,[ 1.0811328 -0.4028922],[ 1.5380157 -1.4788505],0.04750245809555054
+253,Fury,captain_marvel.txt,Back in a minute.,0.0,[ 1.4675621 -0.5227692],[ 1.0772868 -0.9520042],0.02347603440284729
+254,Vers,captain_marvel.txt,I know Lawson was Kree. She was here on C-53 and died in a plane crash. Do you know anything about this?,0.0,[ 2.2370522 -1.2873566],[ 1.9678383 -1.9754726],0.05134397745132446
+255,Yon-Rogg,captain_marvel.txt,"I just discovered a mission report sent from C-53. There's only so much I'm cleared to tell you Vers, but... [looks to see no one is looking] Lawson was an undercover Kree operative named Mar-Vell. She was working on a unique energy core. Experimenting with tech that apparently could help us win the war.",0.285,[ 1.4611666 -0.7955447],[ 2.0987942 -2.1748226],0.02260756492614746
+256,Fury,captain_marvel.txt,She's co-operating with the investigation sir.,0.0,[-0.2981395   0.65634453],[ 1.692353  -1.5739695],0.07597923278808594
+257,Vers,captain_marvel.txt,Does it say anything about me?,0.0,[ 2.004337  -1.1823037],[ 1.6124529 -1.6362582],0.1293732076883316
+258,Yon-Rogg,captain_marvel.txt,"Anything about you? No, of course not. Why would it?",0.0,[ 2.0539503 -1.4762183],[ 1.7313931 -1.6546723],0.15757708251476288
+259,Vers,captain_marvel.txt,I found evidence that I had a life here.,0.0,[ 0.46024004 -0.08806024],[ 2.2200158 -2.2414868],0.08769026398658752
+260,Yon-Rogg,captain_marvel.txt,On C-53?,0.0,[ 1.931034   -0.96953356],[ 1.7138507 -1.707146 ],0.0233384370803833
+261,Vers,captain_marvel.txt,Mar-Vell is who I see in the Supreme Intelligence. I knew her. And I knew her as Lawson.,0.0,[ 1.8837833 -1.0655632],[ 1.7279783 -1.6104405],0.11906024813652039
+262,Yon-Rogg,captain_marvel.txt,This sounds like Skrull simulation Vers.,0.0,[-0.41612878  0.9054725 ],[ 1.5641053 -1.4974108],0.024800539016723633
+263,Vers,captain_marvel.txt,No its not! 'Cause I remember I was here!,0.0,[ 1.2317171  -0.50520283],[ 2.0296626 -1.9135908],0.0706217885017395
+264,Yon-Rogg,captain_marvel.txt,Stop! Remember your training. Know your enemy. It could be you. Do not let your emotions undermine your judgment.,0.0,[ 2.0719438 -1.3520695],[ 1.6956854 -1.7101592],0.1359412670135498
+265,Fury,captain_marvel.txt,"She's on sub-level 6. I'll get off on 5, take the stairs in case she runs for it. Do a pincer move, like we did in Havana.",0.0,[ 2.219693  -1.2907012],[0.03499435 0.00310484],0.052455365657806396
+266,Yon-Rogg,captain_marvel.txt,We're nearing the jump-point. Leave your beacon on so I can find you. We'll get to the bottom of this Vers. Together.,0.0,[ 2.163749  -1.3466771],[ 1.9905938 -1.9201871],0.04942202568054199
+267,Vers,captain_marvel.txt,Ok.,0.0,[0.1868244  0.41053426],[ 0.8985693  -0.84607965],0.028676271438598633
+268,Fury,captain_marvel.txt,Vers!... Vers!,0.0,[0.3906785 0.3140918],[ 1.5772408 -1.6714518],0.028300851583480835
+269,Vers,captain_marvel.txt,You called them in?,0.0,[ 1.617     -0.8169899],[ 1.7208294 -1.6046727],0.12604689598083496
+270,Fury,captain_marvel.txt,My bad!,-0.8749999999999998,[0.5846453  0.10478459],[ 1.3027661 -1.2305841],0.16707894206047058
+271,Fury,captain_marvel.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+272,Vers,captain_marvel.txt,Your communicator. You obviously can't be trusted with it.,0.0,[ 1.7782314 -1.1176593],[ 1.4597336 -1.2797815],0.04318344593048096
+273,Fury,captain_marvel.txt,Do you know how to fly this thing?,0.8,[ 2.1996615 -1.3225931],[ 1.5082103 -1.3772279],0.0329974889755249
+274,Vers,captain_marvel.txt,Uh... we'll see.,0.0,[ 0.91402835 -0.29157984],[ 1.1749681 -1.0808767],0.026712268590927124
+275,Fury,captain_marvel.txt,That's a yes or no question.,0.0,[ 1.8249482 -1.0333569],[ 1.1439182 -1.0949124],0.036114513874053955
+276,Vers,captain_marvel.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+277,Fury,captain_marvel.txt,That's what I'm talking about!,0.0,[ 1.3161877 -0.6236698],[ 1.638345 -1.623017],0.08665162324905396
+278,Fury,captain_marvel.txt,We've got a stowaway.,0.0,[ 1.325911 -0.528627],[ 1.6213886 -1.6640307],0.024871408939361572
+279,Vers,captain_marvel.txt,Hang on Goose.,0.0,[ 1.0963799  -0.32586053],[ 0.9619571 -0.9569105],0.0282537043094635
+280,Fury,captain_marvel.txt,"Who's a good kitty huh? Huh Goose? Yes, that's right. Who's a good kitty Goose? You're a good kitty.",0.5964285714285713,[ 0.84740496 -0.46902567],[ 1.2718691 -1.415694 ],0.15795740485191345
+281,Vers,captain_marvel.txt,"See anyone you know? Funny story... I arrived on Hala, near dead, no memory... That was six years ago.",0.0499999999999999,[ 1.335956  -0.7195688],[ 2.2476518 -2.227002 ],0.08008897304534912
+282,Fury,captain_marvel.txt,So you think you're the pilot that went down with Dr Lawson.,-0.1555555555555555,[-0.31140107  0.7692007 ],[ 1.8321983 -1.8512083],0.05303514003753662
+283,Vers,captain_marvel.txt,I'm saying that the last person to see them alive can probably tell us.,0.05,[ 1.8376818 -0.9558255],[ 1.597577  -1.5570935],0.04397431015968323
+284,Fury,captain_marvel.txt,Maria Rambeau.,0.0,[0.57932574 0.02502277],[ 1.3962723 -1.3747387],0.029302865266799927
+285,Carol,captain_marvel.txt,Mmhmm. So how do we get to Louisianna?,0.0,[ 2.012609  -1.2998834],[ 1.7089707 -1.7720314],0.11574104428291321
+286,Fury,captain_marvel.txt,Due East. Hang a right at Memphis.,0.0803571428571428,[ 1.6644887 -0.8183767],[ 1.175858  -1.0898379],0.02940937876701355
+287,Vers,captain_marvel.txt,"That agent, that stopped the Skrulls from fighting us...",0.0,[0.18130045 0.43364814],[ 1.7404841 -1.8678489],0.022260069847106934
+288,Fury,captain_marvel.txt,Coulson. New guy. Guess he doesn't hate me yet.,-0.3318181818181818,[ 1.3898077 -0.7834231],[ 1.7255944 -1.8122394],0.12962409853935242
+289,Vers,captain_marvel.txt,"Yeah well, give him time.",0.0,[0.16348983 0.45569137],[ 1.3486632 -1.2688864],0.08245229721069336
+290,Fury,captain_marvel.txt,"I guess he had a feeling, went with his gut against orders. It's a really hard thing to do. That's what keeps us human.",-0.1458333333333333,[ 0.89119834 -0.24160975],[ 1.7257828 -1.7081094],0.13979530334472656
+291,Vers,captain_marvel.txt,I get in trouble for that. A lot.,-0.2,[0.22619335 0.18988052],[ 1.51762   -1.4646627],0.10044261813163757
+292,Fury,captain_marvel.txt,I see that about you (Vers and Fury laugh about this). Rescuing the guy how sold you out to the Skrulls. I guess that's not standard Kree operating procedure.,0.15,[0.15254104 0.24154797],[ 1.6394578 -1.6655489],0.0709179937839508
+293,Vers,captain_marvel.txt,"Well, I won't tell your boss if you don't tell mine.",0.0,[ 1.0747592  -0.45131683],[ 1.4549804 -1.2581257],0.15240870416164398
+294,Yon-Rogg,captain_marvel.txt,Ronan.,0.0,[0.15615977 0.3500255 ],[ 1.0375407 -0.9707275],0.03286561369895935
+295,Yon-Rogg,captain_marvel.txt,It was a trap. To lure our operative Vers to talk for her kidnapper.,0.0,[0.38794726 0.12111462],[ 1.0939536 -0.9733999],0.11609300971031189
+296,Yon-Rogg,captain_marvel.txt,By bombing them out of the galaxy. No. We'll handle this.,0.0,[0.7497274  0.03649616],[ 0.69050276 -0.7708311 ],0.03473493456840515
+297,Yon-Rogg,captain_marvel.txt,"Lost. They are lost, for now. But we will find them.",0.0,[ 2.0624948 -1.2683324],[ 1.7713903 -1.6536261],0.037779271602630615
+298,Yon-Rogg,captain_marvel.txt,Maintain the course for C-53.,0.0,[ 1.2314079  -0.37504253],[ 1.7209139 -1.689444 ],0.02833312749862671
+299,Vers,captain_marvel.txt,"Excuse me, I'm looking for Maria Rambeau.",-0.05,[ 0.9159046  -0.28426006],[ 1.9001008 -1.8986542],0.10110053420066833
+300,Monica,captain_marvel.txt,"Aunty Carol? Mom, it's Aunty Carol! I knew it, everybody said you were dead but we knew they were lying.",-0.2,[0.8335992  0.04181777],[ 1.5400308 -1.4479021],0.15608756244182587
+301,Vers,captain_marvel.txt,I'm not really who you think I am.,-0.1,[ 1.1303165 -0.3723289],[ 1.8296775 -1.7655629],0.1243307888507843
+302,Maria,captain_marvel.txt,That is the craziest shit I have ever heard.,-0.2,[-0.2787879  0.779391 ],[ 1.4546657 -1.301505 ],0.09083673357963562
+303,Monica,captain_marvel.txt,Green-transforming aliens? There's no such thing.,0.0,[-0.547294    0.82287675],[ 0.3917293 -0.4073745],0.022880077362060547
+304,Fury,captain_marvel.txt,"You're absolutely right, young lady. There is no such thing. 'Cause if there were, we would want to keep that to ourselves. (Fury looks towards Vers accusingly)",0.1285714285714285,[ 1.4570177  -0.73209137],[ 0.4398803  -0.42486927],0.171207994222641
+305,Vers,captain_marvel.txt,You don't believe me.,0.0,[ 1.3111212 -0.5573135],[ 1.6236883 -1.416638 ],0.13959243893623352
+306,Monica,captain_marvel.txt,No way. That's so cool.,0.35,[-0.7449074  1.2050338],[ 1.3893934 -1.2817005],0.11570960283279419
+307,Fury,captain_marvel.txt,"Oh, ho. She can do a lot more than just make tea with those hands.",0.5,[ 0.9680844  -0.30689794],[ 0.585881   -0.51088476],0.10891357064247131
+308,Monica,captain_marvel.txt,Like what? Show us.,0.0,[ 1.2470216  -0.44645363],[ 1.5727985 -1.537246 ],0.048152416944503784
+309,Monica,captain_marvel.txt,"I kept all your stuff, I'll go get it.",0.0,[ 1.4674832 -0.8791126],[ 1.7401425 -1.752003 ],0.08610787987709045
+310,Fury,captain_marvel.txt,Mmm??,0.0,[ 1.3949376 -0.6737491],[ 1.3234783 -1.2793598],0.07008418440818787
+311,Maria,captain_marvel.txt,You don't remember anything?,0.0,[ 1.4835447 -0.676633 ],[ 1.9488614 -1.7698814],0.03777921199798584
+312,Vers,captain_marvel.txt,"I see... flashes. Little moments, but I can't tell what's real. If I could just piece together what happened that morning, maybe it'll all make sense?",0.00625,[ 1.5684174 -0.8633684],[ 2.1063845 -1.9600147],0.0356099009513855
+313,Maria,captain_marvel.txt,"You woke me up, banging on my door at dawn. Your usual move. Back then we had to get up so early, the Air Force still wasn't letting women fly combat, so testing Lawson's planes was our only shot at doing something that mattered. And you wanted to race to base, in your old Mustang, and I wasn't about to argue, 'cause I knew my Camaro would dominate. But you cheated, took a shortcut.",-0.0071428571428571,[ 1.111468   -0.29497206],[-0.01304951  0.19605754],0.11882218718528748
+314,Vers,captain_marvel.txt,Since when is a shortcut cheating?,0.0,[ 0.76625407 -0.17875507],[ 1.54184   -1.6447076],0.025056302547454834
+315,Maria,captain_marvel.txt,Since it violates the pre-determined rules of engagement.,0.0,[-0.00606781  0.3374524 ],[ 1.7353007 -1.7530419],0.026529312133789062
+316,Vers,captain_marvel.txt,I definitely don't remember those.,0.0,[ 1.0914729  -0.38525397],[ 1.4561971 -1.3459959],0.04579934477806091
+317,Maria,captain_marvel.txt,"Mmm, of course you don't. (both Maria and Vers laugh for a bit) When I got to the hanger, Lawson was agitated, she said 'she had lives to save'. She was trying to take the Aces up herself, but you said...",0.3,[ 1.7739346 -1.0244385],[ 1.0119661 -1.0171527],0.15902985632419586
+318,Vers,captain_marvel.txt,"'If there were lives at stake, I would fly the plane.'",0.8,[ 1.3904876 -0.6444942],[ 1.172889 -1.309332],0.03297796845436096
+319,Maria,captain_marvel.txt,"Yup. Big hero moment. The kind of moment we've both been waiting for. The Doc was always unique. That's why I liked her. But, now you're saying she's from another planet.",0.39375,[ 1.0683292 -0.2564696],[ 1.6493481 -1.6610931],0.17570462822914124
+320,Vers,captain_marvel.txt,I know this must be hard for you.,-0.2916666666666667,[ 0.8592151  -0.10780289],[ 1.652335 -1.418594],0.1714014708995819
+321,Maria,captain_marvel.txt,"What, this part right here? No, no. Know what's hard? Losing my best friend, in a mission so secret they act like it never even happened. Hard... is knowing you were out there somewhere, too damn stubborn to die. And now you come up in here after 6 years... with your super-charged fire-hands and you expect me to call you... I don't even know what... 'Vers'? Is that really who you are now?",0.0837301587301587,[ 2.1361463 -1.2911481],[ 2.0590217 -1.9873836],0.1394360214471817
+322,Vers,captain_marvel.txt,I don't know.,0.0,[ 1.0438293  -0.30109733],[ 1.2361151 -1.1215701],0.050982773303985596
+323,Monica,captain_marvel.txt,Come look.,0.0,[ 0.8553074  -0.22306886],[ 1.430272  -1.3858258],0.054222941398620605
+324,Monica,captain_marvel.txt,This is me and you on Halloween.,0.0,[ 0.98556846 -0.44811273],[ 1.656093 -1.659284],0.12247121334075928
+325,Monica,captain_marvel.txt,"I'm Amelia Earhart and you're Janis Joplin. Oh, this is you when you were little, you didn't get along with your parents so Mom said we became your real family.",0.00625,[ 0.88723683 -0.21743849],[ 1.6950536 -1.5489845],0.1759081333875656
+326,Monica,captain_marvel.txt,This is us on Christmas. I got more...,0.5,[ 1.5324101  -0.96149695],[ 1.7734157 -1.7957493],0.05487987399101257
+327,Monica,captain_marvel.txt,"Here's another picture of when you were little. And this is how you right after you graduated... (Monica continues to talk, but the words start to mix together).",0.0491071428571428,[ 1.5979325  -0.88791126],[ 2.0490644 -1.8250576],0.07801178097724915
+328,Monica,captain_marvel.txt,"Oh wait. I forgot, your jacket. Mom doesn't let me wear it anymore after I spilled ketchup on it.",0.0,[ 1.3400599 -0.6998644],[ 1.388308  -1.4301107],0.10810114443302155
+329,Maria,captain_marvel.txt,That was all that survived the crash. Or so we thought.,0.0,[-0.07638524  0.66480243],[ 1.5942456 -1.5806655],0.027709364891052246
+330,Vers,captain_marvel.txt,Don't answer that.,0.0,[ 1.5452008 -0.8074099],[ 1.2338293 -1.1528512],0.041463255882263184
+331,Maria,captain_marvel.txt,It's just my neighbor.,0.0,[0.68064505 0.08329403],[ 1.349383  -1.3886925],0.07782012224197388
+332,Vers,captain_marvel.txt,They can change into anyone.,0.0,[0.8242328  0.03438321],[ 1.2913172 -1.2160013],0.02896544337272644
+333,Vers,captain_marvel.txt,What do you want?,0.0,[ 2.326533  -1.3948891],[ 1.563152  -1.5864993],0.12887749075889587
+334,Maria,captain_marvel.txt,Hey Tom. This is my friend Carol.,0.0,[ 1.4872744 -0.8227742],[ 1.8927664 -1.8279124],0.0974963903427124
+335,Vers,captain_marvel.txt,A closer looksie?,0.0,[ 2.0513737 -1.2713628],[ 1.5843531 -1.622234 ],0.021707236766815186
+336,Vers,captain_marvel.txt,"To see the bird parked out by the road. You're really working overtime to sell this one, aren't you Talos?",0.2,[-0.29424077  0.7266295 ],[ 1.438042  -1.4224664],0.02710232138633728
+337,Maria,captain_marvel.txt,"I'm sorry. Tom, this isn't really a good time. I'll come by tomorrow? Okay?",0.2333333333333333,[ 1.7854898 -1.0556432],[ 1.9581331 -1.8726747],0.14242243766784668
+338,Maria,captain_marvel.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+339,Talos,captain_marvel.txt,"You know, you really should be kinder to your neighbors. You never know when you're gonna need to borrow some sugar.",0.2,[0.3283309  0.03904443],[ 1.3000876 -1.3971153],0.1447361260652542
+340,Talos,captain_marvel.txt,"Now, hang on a second, before you go swinging those jazz hands around, making a mess in your friend's house - and... it's a lovely home.",0.1083333333333333,[-0.08733115  0.36759022],[ 1.0938306 -1.1773224],0.17200630903244019
+341,Maria,captain_marvel.txt,Oh my God. What the hell?!,0.0,[ 1.5976079 -0.8009784],[ 1.8071817 -1.6524171],0.10628098249435425
+342,Talos,captain_marvel.txt,"No one's gonna hurt the girl. Just, don't kill me. That would really complicate the situation.",0.2,[ 2.0803275 -1.356076 ],[ 0.8468342  -0.80008465],0.17647424340248108
+343,Fury,captain_marvel.txt,I'm about five seconds from complicating that wall with some ugly-ass Skrull brains.,0.0,[0.7890798  0.02791285],[ 0.5517987  -0.43943316],0.09933242201805115
+344,Talos,captain_marvel.txt,I'm sorry I simmed your boss. But now I stand before you as my true self. Without deception.,-0.075,[ 1.4684405 -0.7352517],[ 1.7549628 -1.6915917],0.17797055840492249
+345,Vers,captain_marvel.txt,"And who is that, out there?",0.0,[ 2.247017  -1.3022718],[ 1.3852823 -1.5597655],0.05971589684486389
+346,Talos,captain_marvel.txt,"Okay, that's a fair point. But I'm sure that you understand, I had to take some precautions. I saw you crush 20 of my best men with your hands bound. I just wanna talk.",0.675,[ 1.6620646  -0.87274134],[ 1.5038298 -1.4045745],0.16819876432418823
+347,Vers,captain_marvel.txt,"Last time we talked, I ended up hanging from my ankles.",0.0,[ 0.91602486 -0.20080733],[ 1.9337535 -1.9250978],0.1338624656200409
+348,Talos,captain_marvel.txt,"That was before I knew who you were. Before I found what made you different from the others. I have an audio recording from Pegasus, of your voice, from a plane crash six years ago. On a device I believe you call a 'black box'.",-0.0833333333333333,[ 1.9503442 -1.1030905],[ 2.1739423 -2.0658524],0.045552074909210205
+349,Maria,captain_marvel.txt,They told me it was destroyed in the crash. How'd you get it?,0.0,[ 1.9511498 -1.3435465],[ 1.9022204 -1.8970724],0.0632762610912323
+350,Talos,captain_marvel.txt,Does she not understand? Young lady I have a special skill that kinda allows me to get into places I'm not supposed to be.,0.2285714285714286,[ 1.2881685 -0.658389 ],[ 0.4371055  -0.22241578],0.09433215856552124
+351,Maria,captain_marvel.txt,"Call me young lady again, and I'm gonna put my foot in a place it's not supposed to be.",0.1,[ 1.5960656 -0.7676667],[ 0.2909451  -0.19406179],0.1477988362312317
+352,Talos,captain_marvel.txt,Am I supposed to guess where that is?,0.0,[ 2.107468  -1.3021368],[ 1.5739022 -1.5154152],0.03481203317642212
+353,Talos,captain_marvel.txt,"Okay, I get it. We're all a little on edge here. But look, I just need your help decoding some coordinates. If you sit down, you listen to this, I assure you, it'll be worth your while.",0.1142361111111111,[ 2.140742  -1.3269669],[ 2.1234715 -2.049187 ],0.08703577518463135
+354,Carol,captain_marvel.txt,Call your buddy back inside and I'll listen.,0.0,[ 1.7174647  -0.78246355],[ 1.7417129 -1.6902294],0.16352850198745728
+355,Talos,captain_marvel.txt,Deal.,0.0,[0.32937127 0.33231872],[ 0.94792545 -0.8823453 ],0.02507650852203369
+356,Talos,captain_marvel.txt,Oh my God! Get that thing away! How'd that get in here?,0.0,[ 1.841435  -1.0271477],[ 0.2888169  -0.33015737],0.10090813040733337
+357,Vers,captain_marvel.txt,"The cat? This isn't what you're afraid of, is it?",-0.6,[ 1.8262789 -1.0606947],[ 1.2772936 -1.4110765],0.0612756609916687
+358,Talos,captain_marvel.txt,That's not a cat. That's a Flerken.,0.0,[ 1.537636   -0.79316527],[ 1.0245088 -1.1126225],0.05776149034500122
+359,Fury,captain_marvel.txt,A Flerken? (Fury laughs),0.0,[ 1.9496509  -0.97184896],[ 1.4508156 -1.6016841],0.036537736654281616
+360,Monica,captain_marvel.txt,Mom?,0.0,[ 1.5407727 -0.6089358],[ 1.4239    -1.3770438],0.07694393396377563
+361,Monica,captain_marvel.txt,Why can't I listen to?,0.0,[ 2.171149 -1.107056],[ 1.7122496 -1.7340916],0.05447918176651001
+362,Vers,captain_marvel.txt,What's happening?,0.0,[ 2.0078354 -1.0701348],[ 1.6197182 -1.6225277],0.02224940061569214
+363,Fury,captain_marvel.txt,It's loading.,0.0,[0.18005417 0.490052  ],[ 1.3633639 -1.3321717],0.02243351936340332
+364,Vers,captain_marvel.txt,"That's no MIG, Lawson. Who the hell are they?",0.0,[ 2.2539241 -1.4133065],[ 0.94638664 -1.0660162 ],0.05550357699394226
+365,Vers,captain_marvel.txt,"Yes, ma'am. (Vers pushes a lever forward, causing the plane to speed up. The plane following them als also speeds up to catch them. The dogfight between the two planes continue, with Vers pushing the lever sideways in an effort to escape the other plane) What do they want?",-0.0625,[ 1.4959933  -0.80920935],[ 0.9551971 -1.0262326],0.026828140020370483
+366,Vers,captain_marvel.txt,"Here come some G's. (Vers pulls the lever backwards, causing the plane to flip in the air. After the flip, Vers and Lawson are trailing the other plane. However, when Vers fires the other plane fires back). They're firing backward. Hold on! (Vers pushes the lever sideways and the plane tilts into another revolution. However, the plane is hit and the wing bursts into flames. Vers struggles to regain control of the plane, but fails to do so]",-0.1875,[ 1.5379976  -0.91750056],[ 1.1766926 -1.3366402],0.018737226724624634
+367,Vers,captain_marvel.txt,"Bail out! Bail out! Bail out! Stay with me Lawson! (Vers ejects the cockpit from the plane, and struggles to regain control. Once Vers has aligned the plane parallel to the ground, the plane crashes into a beach)",0.0,[ 1.5725701  -0.80136216],[ 1.4559354 -1.6268514],0.05007097125053406
+368,Maria,captain_marvel.txt,"Danvers, do you copy?",0.0,[ 1.762343  -1.0638622],[ 1.8777307 -1.8956455],0.06378453969955444
+369,Vers,captain_marvel.txt,"Yeah, I copy. We hit ground.",0.0,[ 1.016303   -0.16104457],[ 1.4030358 -1.2449818],0.02126815915107727
+370,Maria,captain_marvel.txt,Can anyone hear me?,0.0,[ 1.9451034 -0.929295 ],[ 1.5886188 -1.5427974],0.09228193759918213
+371,Vers,captain_marvel.txt,Yeah. I copy! Doc?,0.0,[ 1.5845642 -0.9313719],[ 1.9373646 -1.9198506],0.02320849895477295
+372,Vers,captain_marvel.txt,Your blood... it's blue.,0.0,[ 1.1621232  -0.58784246],[ 1.6259693 -1.6577319],0.16553567349910736
+373,Vers,captain_marvel.txt,What? Lawson?,0.0,[ 1.7911993  -0.93311363],[ 1.5060501 -1.4361635],0.02558690309524536
+374,Vers,captain_marvel.txt,I would say that your delusional but we just got shot down by a spaceship and your blood is blue.,-0.0777777777777777,[ 1.2302638  -0.55452853],[ 1.3096335 -1.2150286],0.15548676252365112
+375,Vers,captain_marvel.txt,Save who? How?,0.0,[ 1.7023039 -0.9551557],[ 1.7367657 -1.8228801],0.02787339687347412
+376,Yon-Rogg,captain_marvel.txt,We have no interest in hurting you.,0.0,[ 1.0440838 -0.5569103],[ 1.7534541 -1.7529038],0.17605063319206238
+377,Vers,captain_marvel.txt,No?! Because all the shooting kinda gave me the wrong impression!,-0.625,[ 0.8909719 -0.3050644],[ 1.700703  -1.8777844],0.07636713981628418
+378,Yon-Rogg,captain_marvel.txt,"The energy core, where is it?",0.0,[ 2.2307522 -1.231956 ],[ 1.4504665 -1.6403134],0.021583378314971924
+379,Vers,captain_marvel.txt,Pararescue's on the way. You have two minutes until you're surrounded.,0.0,[ 1.3760545 -0.7427347],[ 1.7233201 -1.664696 ],0.02770310640335083
+380,Yon-Rogg,captain_marvel.txt,Then I see no reason to prolong this conversation.,0.0,[ 0.9015008  -0.43422127],[ 1.5395132 -1.5138444],0.07867318391799927
+381,Vers,captain_marvel.txt,No wait. (Vers gestures towards the engine of the plane) You mean that energy core?,-0.3125,[ 1.5248382 -0.821887 ],[ 1.6931742 -1.8864442],0.020277798175811768
+382,Yon-Rogg,captain_marvel.txt,Hold your fire.,0.0,[ 0.7351977  -0.23866045],[ 1.0418109 -0.9877577],0.12303173542022705
+383,Yon-Rogg,captain_marvel.txt,She absorbed its power. She's coming with us.,0.3,[ 1.3179051 -0.664611 ],[ 0.83374584 -0.780492  ],0.08957338333129883
+384,Vers,captain_marvel.txt,He lied to me.,0.0,[0.355405   0.22955191],[ 1.473054  -1.3573531],0.15758439898490906
+385,Vers,captain_marvel.txt,Everything that I knew was a lie.,0.0,[0.50189066 0.26629728],[ 1.658678  -1.4704943],0.06865689158439636
+386,Talos,captain_marvel.txt,Now you understand.,0.0,[-0.53813994  1.2497063 ],[ 1.3979388 -1.2187271],0.0636121928691864
+387,Vers,captain_marvel.txt,What? What do I understand now?,0.0,[ 1.8345749  -0.83769405],[ 1.8520656 -1.7454284],0.030186772346496582
+388,Talos,captain_marvel.txt,Yon-Rogg killed Mar-Vell. He killed her. Because she found out that she was on the wrong side of an unjust war.,-0.3,[ 0.88729334 -0.2908239 ],[ 1.4097594 -1.6042012],0.09193536639213562
+389,Vers,captain_marvel.txt,No. Your people are terrorists... that kill innocents. I saw the ruins on Torfa.,-0.15,[ 0.93652815 -0.2807979 ],[ 0.7007687 -1.0129819],0.07832491397857666
+390,Talos,captain_marvel.txt,"Ruins that the Accusers are responsible for. My people lived as refugees on Torfa. Homeless, ever since we resisted Kree rule and they destroyed our planet. Now the handful of us that are left, will be slaughtered next...unless you will help me finish what Mar-Vell started. The coordinates you found, would've powered a lightspeed ship capable of carrying us to safety. A new home, where the Kree can't reach us.",0.0772727272727272,[ 1.3524368 -0.7540396],[ 0.48006403 -0.7074393 ],0.08823224902153015
+391,Maria,captain_marvel.txt,"Lawson always told us that her work at Pegasus wasn't to fight wars, but to end them.",0.0,[-0.6369094  0.9158332],[ 1.7514611 -1.7126259],0.041648805141448975
+392,Talos,captain_marvel.txt,She wanted you to help us find the core.,0.0,[ 0.9869757 -0.2763335],[ 1.8349926 -1.7602485],0.17456097900867462
+393,Vers,captain_marvel.txt,"Well, I already destroyed it.",0.0,[0.48085257 0.23583776],[ 1.6070352 -1.4433692],0.04280048608779907
+394,Talos,captain_marvel.txt,"No, you destroyed the engine. The core that powered it is in a remote location. If you help us decode those coordinates, we can find it.",-0.1,[ 1.8390464 -1.1415302],[ 1.7133096 -1.7607629],0.018717527389526367
+395,Vers,captain_marvel.txt,You'll use it to destroy us.,-0.2,[0.42692345 0.29104933],[ 1.0647527 -1.031835 ],0.10725480318069458
+396,Talos,captain_marvel.txt,We just want a home. You and I lost everything at the hands of the Kree. Can't you see it now? You're not one of them.,0.0,[ 1.8934768 -0.8852611],[ 1.5147706 -1.6356615],0.1672939658164978
+397,Vers,captain_marvel.txt,You don't know me. You have no idea who I am. I don't even know who I am!,0.0,[ 2.1017683 -1.2514467],[ 1.7508134 -1.688288 ],0.12208482623100281
+398,Maria,captain_marvel.txt,"You are Carol Danvers. You are the woman on that black box risking her life to do the right thing. My best friend... who supported me as a mother, and a pilot when no one else did. You're smart and funny, and a huge pain in the ass. And you are the most powerful person I knew, way before you could shoot fire from your fist. You hear me? You hear me?",0.3479166666666666,[ 1.3136861  -0.54858184],[ 1.534693  -1.2574943],0.17538055777549744
+399,Talos,captain_marvel.txt,"I know I don't deserve your trust but you were our only lead. We discovered that your energy signature matched Mar-Vell's core. Now, we know why. If only you knew, the importance of it to me. I just need your help decoding the coordinates to Mar-Vell's lab.",0.0,[ 1.9739054 -1.2093028],[ 2.086912  -2.2282717],0.11084233224391937
+400,Carol,captain_marvel.txt,Those weren't coordinates. They're safe vectors.,0.5,[ 0.9477347  -0.35288817],[ 1.4904852 -1.5380046],0.01849457621574402
+401,Fury,captain_marvel.txt,Orbital positioning and velocity.,0.0,[0.3785424 0.4427961],[ 1.6065617 -1.5860772],0.026263892650604248
+402,Maria,captain_marvel.txt,"You didn't find her lab on Earth, because it's not on Earth.",0.0,[ 1.2963184 -0.8113431],[ 1.2305788 -1.3312294],0.04042065143585205
+403,Carol,captain_marvel.txt,"That was the location on the day of the crash six years ago. If we track its course, we'll find it, in orbit, right now.",0.2857142857142857,[ 1.5544162 -0.7894927],[ 1.6401279 -1.792906 ],0.022163212299346924
+404,Maria,captain_marvel.txt,It's just basic physics.,0.0,[-0.2744364  0.8520114],[ 1.3358389 -1.3299533],0.027950823307037354
+405,Talos,captain_marvel.txt,"In orbit? Was that so difficult to figure out? I mean, you're my science guy, right?",-0.1755952380952381,[ 0.83931446 -0.13699822],[ 1.7310975 -1.9395877],0.09778741002082825
+406,Carol,captain_marvel.txt,Yon-Rogg will catch up to you soon. We've got to get the core before he does.,0.0,[ 2.1284773 -1.2802393],[ 1.5258372 -1.5938073],0.14178742468357086
+407,Carol,captain_marvel.txt,In what?,0.0,[ 1.4432993 -0.6073912],[ 1.3643316 -1.2815529],0.03141915798187256
+408,Fury,captain_marvel.txt,Hmm. Your science guy.,0.0,[-0.5136081  0.9624678],[ 1.5255212 -1.63041  ],0.1559954136610031
+409,Carol,captain_marvel.txt,"Well, I could use a co-pilot.",0.0,[ 1.3993031  -0.59432054],[ 1.559727  -1.5302633],0.024676740169525146
+410,Maria,captain_marvel.txt,"No. No, I... I can't. I can't leave Monica.",0.0,[ 1.9735786 -1.0764103],[ 1.6219125 -1.4139228],0.07680752873420715
+411,Monica,captain_marvel.txt,Why? It's okay. I can stay with grandma and pop-pop.,0.5,[ 0.89924896 -0.22493172],[ 1.5181427 -1.46762  ],0.05471727252006531
+412,Maria,captain_marvel.txt,There's no way I'm going baby. It's too dangerous.,-0.6,[ 2.153105  -1.3264229],[ 1.2979287 -1.3093174],0.07136514782905579
+413,Monica,captain_marvel.txt,Testing brand new aerospace tech is dangerous. Didn't you used to do that?,-0.2318181818181818,[-0.632689   0.7930077],[ 1.9595538 -1.7860426],0.03324764966964722
+414,Maria,captain_marvel.txt,"Your plan is to leave the atmosphere in a craft not designed for the journey, and you anticipate hostile encounters with a technologically superior foreign enemy. Correct?",0.2875,[ 0.6287662  -0.14876099],[ 1.2416795 -1.2852772],0.04025191068649292
+415,Monica,captain_marvel.txt,That's what I'm saying. You have to go.,0.0,[ 2.0445583 -1.1942693],[ 1.2107888 -1.0721608],0.11254000663757324
+416,Maria,captain_marvel.txt,Monica...,0.0,[ 1.1818243 -0.357926 ],[ 1.4444041 -1.4187784],0.02504715323448181
+417,Monica,captain_marvel.txt,You have the chance to fly the coolest mission in the history of missions. And you're gonna give it up to sit on the couch and watch Fresh Prince with me? I just think that you should consider the kind of example you're setting for your daughter.,0.5666666666666668,[ 1.1386763 -0.5210484],[ 0.5775598 -0.5734378],0.14019440114498138
+418,Carol,captain_marvel.txt,"Your Mom's lucky. When they were handing out kids, they gave her the toughest one. Lieutenant Trouble.",0.0666666666666666,[ 0.7212161 -0.2918113],[ 1.168492  -1.1153399],0.17079168558120728
+419,Monica,captain_marvel.txt,You remember.,0.0,[0.60212725 0.19639534],[ 1.5058197 -1.2840854],0.09553572535514832
+420,Carol,captain_marvel.txt,"Is that mine? (Carol looks at the jacket sitting in Monica's lap. However, Carol protests when Monica attempts to hand it over). No, no. You hang onto it until I come back. But there is something that I need your help with. I can't wear these Kree colors anymore, and since you're obviously the only person around here with any sense of style...",0.0,[ 2.0598104 -1.4455941],[ 1.4795367 -1.55068  ],0.17407424747943878
+421,Monica,captain_marvel.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+422,Monica,captain_marvel.txt,Uh-uh.,0.0,[0.5893016  0.00452697],[ 1.0877014 -1.0301671],0.03135174512863159
+423,Monica,captain_marvel.txt,Definitely not. (Both Carol and Monica laugh),0.15,[0.8205032  0.00330815],[ 1.4118843 -1.3302559],0.0834035873413086
+424,Carol,captain_marvel.txt,"Well, since we're on the same team...",0.0,[ 0.79158443 -0.3012707 ],[ 1.6726794 -1.5612439],0.02167189121246338
+425,Carol,captain_marvel.txt,How do I look?,0.0,[ 1.9246818 -1.1939319],[ 1.7396597 -1.7782876],0.08022168278694153
+426,Monica,captain_marvel.txt,Fresh.,0.3,[0.38954198 0.18384734],[ 0.98735577 -0.9373517 ],0.031231343746185303
+427,Carol,captain_marvel.txt,What took you so long?,-0.05,[ 1.9110584 -0.9776327],[ 1.7005807 -1.6128312],0.13127553462982178
+428,Yon-Rogg,captain_marvel.txt,I'm fine. Thanks for asking.,0.3083333333333333,[ 0.9598791  -0.17286927],[ 1.6544775 -1.6045038],0.1316324919462204
+429,Carol,captain_marvel.txt,PRY46-B...,0.0,[ 1.5134751 -0.648786 ],[ 1.5200249 -1.5327705],0.023058652877807617
+430,Yon-Rogg,captain_marvel.txt,"No, no codes. That system is fallible, as we've learned.",0.0,[ 1.2799705  -0.63740975],[ 1.5237293 -1.3864337],0.017004817724227905
+431,Carol,captain_marvel.txt,"Okay, then let's do this.",0.5,[0.06132095 0.58629715],[ 1.0095831 -0.9493712],0.04915040731430054
+432,Yon-Rogg,captain_marvel.txt,Who do I see when I commune with the Supreme Intelligence?,0.0,[ 1.7858769 -1.0281281],[ 1.9131061 -1.9857652],0.033145010471343994
+433,Carol,captain_marvel.txt,"The person you most admire and respect, I guess. But you would never tell me who.",0.5,[ 0.90714645 -0.20604321],[ 1.742111  -1.7188003],0.15974758565425873
+434,Yon-Rogg,captain_marvel.txt,And what is your earliest memory of Hala?,0.0,[ 2.1639085 -1.3617886],[ 1.9860983 -1.9702111],0.10789346694946289
+435,Carol,captain_marvel.txt,The transfusion. Blue blood running through my veins.,0.0,[0.42604738 0.20227084],[ 1.6777142 -1.7917508],0.16402684152126312
+436,Yon-Rogg,captain_marvel.txt,Whose blood?,0.0,[ 2.2896695 -1.3202412],[ 1.4321717 -1.5182084],0.17136842012405396
+437,Carol,captain_marvel.txt,"(Carol looks sideways, confused and stumbed) Hmm.",-0.4,[ 1.552953  -0.7999554],[ 1.5593807 -1.6138474],0.02862381935119629
+438,Yon-Rogg,captain_marvel.txt,That's my blood that's coursing through her veins.,0.0,[ 0.97236174 -0.39828822],[ 0.42077756 -0.50880367],0.16803425550460815
+439,Yon-Rogg,captain_marvel.txt,What have you done with her?,0.0,[ 2.1752408 -1.3750048],[ 1.2914304 -1.2273958],0.16792146861553192
+440,Yon-Rogg,captain_marvel.txt,She knows?,0.0,[ 1.6357969 -0.8275375],[ 1.0216569  -0.85283136],0.09781262278556824
+441,Yon-Rogg,captain_marvel.txt,"Ronan, Skrulls have infiltrated C-53. Come at once.",0.0,[ 1.7649477 -0.9203476],[ 1.2815267 -1.3870939],0.02348768711090088
+442,Carol,captain_marvel.txt,Passing 500 and climbing.,0.0,[ 0.8339514  -0.04679907],[ 1.3895231 -1.3700594],0.02830389142036438
+443,Talos,captain_marvel.txt,"You know, you really shouldn't have that thing on your lap.",0.2,[ 1.2531173 -0.6982076],[ 1.4837848 -1.414713 ],0.16414326429367065
+444,Fury,captain_marvel.txt,"Our little alliance with you is tenuous at best. And as long as he continues to freak you out (Fury picks up Goose and shoves him towards Talos' face. Talos jerks backward in his seat) like that, yeah I'm gonna keep giving him all the love and hugs he needs, right?",0.3096428571428571,[ 1.4922302  -0.84319955],[ 1.3933886 -1.642746 ],0.1751723438501358
+445,Maria,captain_marvel.txt,Can I ask you something? Do you just turn into anything you want?,0.0,[ 2.34669   -1.3594569],[ 1.8697926 -1.9284395],0.109958216547966
+446,Talos,captain_marvel.txt,"Ah well, I have to see it first.",0.25,[ 1.1717767 -0.447291 ],[ 1.3653477 -1.2634163],0.051947832107543945
+447,Maria,captain_marvel.txt,Can you all do it?,0.0,[ 2.0236404 -1.0929047],[ 1.661353  -1.6576579],0.06782135367393494
+448,Talos,captain_marvel.txt,"Physiologically, yeah. But it takes practice and, um, dare I say it, talent to do it well.",0.0,[ 1.6620553 -1.0072175],[ 1.475032  -1.3984438],0.0475614070892334
+449,Fury,captain_marvel.txt,Can you turn into a cat?,0.0,[ 1.9078201 -1.0828261],[ 1.3975589 -1.4826428],0.05128985643386841
+450,Talos,captain_marvel.txt,What's a cat?,0.0,[ 1.9315408  -0.98264945],[ 1.3091401 -1.3746439],0.039669156074523926
+451,Maria,captain_marvel.txt,What about a filing cabinet?,0.0,[ 2.0229986 -1.2272892],[ 1.4369084 -1.3992343],0.025296926498413086
+452,Talos,captain_marvel.txt,Why would I turn into a filing cabinet?,0.0,[ 2.074228  -1.2718868],[ 1.6613538 -1.6326762],0.04816058278083801
+453,Fury,captain_marvel.txt,A venus fly trap. I'll give you $50 right now if you turn into a venus fly trap.,0.6285714285714287,[ 1.5689856 -1.0054662],[ 0.8395264 -0.8797606],0.04428422451019287
+454,Carol,captain_marvel.txt,"Switching engines from Scramjet to fusion. Buckle up, folks.",0.0,[0.17294857 0.2614427 ],[ 1.7737148 -1.7232205],0.02272135019302368
+455,Fury,captain_marvel.txt,"Hey. Is this normal, like space turbulence?",0.15,[ 1.6055055 -1.0052183],[ 1.7826811 -1.9380854],0.025204747915267944
+456,Carol,captain_marvel.txt,Pretty much.,0.225,[0.18452035 0.37707648],[ 1.0908598 -0.95024  ],0.05089086294174194
+457,Carol,captain_marvel.txt,Locking in coordinate grid.,0.0,[-0.05247596  0.60923964],[ 1.683369  -1.6556708],0.025555551052093506
+458,Maria,captain_marvel.txt,Where is it?,0.0,[ 2.299449  -1.3155113],[ 1.2319605 -1.246886 ],0.02389395236968994
+459,Talos,captain_marvel.txt,It's here. It's gotta be here.,0.0,[ 1.9283653 -1.026689 ],[ 1.3988215 -1.3639151],0.0442889928817749
+460,Fury,captain_marvel.txt,"Well, is it in front of all that nothing, or behind it?",-0.4,[ 2.1002893 -1.3081228],[ 1.6366364 -1.5940053],0.04928269982337952
+461,Maria,captain_marvel.txt,Is that it? The core?,0.0,[ 2.1417558 -1.242314 ],[ 1.4480125 -1.5608159],0.03001612424850464
+462,Carol,captain_marvel.txt,"In her notes, she called it the Tesseract.",0.0,[ 0.9481609 -0.3285675],[ 1.6505091 -1.6116668],0.047841817140579224
+463,Maria,captain_marvel.txt,Whoa. What was Lawson doing with all this kid stuff?,0.0,[ 1.5039368 -0.9083877],[ 1.7011508 -1.7190642],0.07250368595123291
+464,Maria,captain_marvel.txt,We're not alone.,0.0,[ 0.8632884 -0.0626051],[ 1.695886  -1.5636126],0.09118613600730896
+465,Carol,captain_marvel.txt,He didn't come here for the Tesseract.,0.0,[ 1.0912193 -0.5313882],[ 1.5596868 -1.6321024],0.041092365980148315
+466,Talos,captain_marvel.txt,You did the right thing.,0.2857142857142857,[0.5157111 0.1713784],[ 1.6849536 -1.5636903],0.11982658505439758
+467,Talos,captain_marvel.txt,"It's okay, it's okay. She's alright. She's a friend.",0.5,[ 1.0756466 -0.3375049],[ 1.776575  -1.6437651],0.1739463061094284
+468,Carol,captain_marvel.txt,I'm not gonna hurt you.,0.0,[ 1.0919713  -0.32931828],[ 1.510007  -1.4453572],0.174115389585495
+469,Talos,captain_marvel.txt,She led me to you.,0.0,[ 0.6098544  -0.04818691],[ 1.4057555 -1.3371276],0.1725039780139923
+470,Carol,captain_marvel.txt,I'm so sorry. I didn't know.,-0.5,[ 1.0766534  -0.30515128],[ 1.7882365 -1.6050459],0.16377925872802734
+471,Talos,captain_marvel.txt,"Carol, this is war. My hands are filthy from it too. But we're here now. You found my family. This is just the beginning. There's thousands of us separated from each other... scattered throughout the galaxy.",-0.4625,[ 1.8804015 -1.1019746],[ 1.7880864 -1.790726 ],0.1542639136314392
+472,Fury,captain_marvel.txt,If I played the same pinball machine for six years I'd have some high scores too.,0.08,[-0.11020678  0.6317635 ],[ 1.6332093 -1.4942956],0.028194427490234375
+473,Yon-Rogg,captain_marvel.txt,Fraternizing with the enemy?,0.0,[0.27038944 0.16404167],[ 1.4697076 -1.6384273],0.04779714345932007
+474,Yon-Rogg,captain_marvel.txt,What did you do to your uniform?,0.0,[ 2.0759153 -1.3701411],[ 1.8389932 -1.8099836],0.11627484858036041
+475,Talos,captain_marvel.txt,"You can see they're not soldiers, let them go. You can have me.",0.0,[ 1.7927388  -0.93920594],[ 0.9277198 -0.9282979],0.11046114563941956
+476,Yon-Rogg,captain_marvel.txt,And the core?,0.0,[ 1.8168286 -0.9368126],[ 1.54607   -1.6034175],0.03600248694419861
+477,Carol,captain_marvel.txt,You lied to me.,0.0,[0.36610264 0.29753357],[ 1.5666801 -1.4000205],0.1617904007434845
+478,Yon-Rogg,captain_marvel.txt,I made you a better version of yourself. What's given can be taken away.,0.5,[ 1.7553217 -0.9362101],[ 1.7728217 -1.7993551],0.15782120823860168
+479,Supreme Intelligence,captain_marvel.txt,There she is. Seems like you time on C-53 jogged the old memory. This jacket? It's killer by the way.,0.1,[ 1.6894177 -1.0837115],[ 1.4438177 -1.428223 ],0.10001075267791748
+480,Supreme Intelligence,captain_marvel.txt,"The music, it's a nice touch.",0.6,[-0.15625495  0.7369032 ],[ 1.4765238 -1.4190222],0.10645788908004761
+481,Carol,captain_marvel.txt,Let... me... out.,0.0,[ 1.0940595 -0.6610166],[ 1.3253828 -1.3348516],0.13544541597366333
+482,Supreme Intelligence,captain_marvel.txt,No can do.,0.0,[ 0.90238774 -0.07378166],[ 1.1294676 -0.971322 ],0.03673511743545532
+483,Carol,captain_marvel.txt,"If you hurt them, I will burn you to the ground.",0.0,[ 1.9798821 -1.1262144],[ 1.1236882 -1.1263739],0.14904716610908508
+484,Supreme Intelligence,captain_marvel.txt,With what exactly? Your powers came from us.,0.25,[ 0.5604711  -0.01422141],[ 1.4957092 -1.4415352],0.06626695394515991
+485,Carol,captain_marvel.txt,You didn't give me these powers. The blast did.,0.0,[ 0.988066   -0.36048633],[ 1.5393393 -1.6158868],0.05715608596801758
+486,Supreme Intelligence,captain_marvel.txt,"And yet, you've never had the strength to control them on your own.",0.6,[ 1.30851   -0.5204818],[ 1.6405319 -1.4683944],0.13565406203269958
+487,Fury,captain_marvel.txt,It's a cat. Not Hannibal Lecter.,0.0,[ 1.4860092 -0.6649724],[ 1.2174479 -1.470023 ],0.046970516443252563
+488,Fury,captain_marvel.txt,That thing is clearly busted.,0.1,[ 0.75882554 -0.08119503],[ 1.1529006 -1.0816233],0.021176517009735107
+489,Supreme Intelligence,captain_marvel.txt,"You did good, ace. Thanks to you, those insidious shapeshifters will threaten our borders no more.",0.2166666666666666,[-0.88455755  1.210096  ],[-0.44648087  0.41184825],0.1277308166027069
+490,Carol,captain_marvel.txt,I used to believe your lies. But the Skrulls are just fighting for a home. You're talking about destroying them because they won't submit to your rule. And neither will I.,-0.2,[0.54528    0.16491169],[ 1.2067672 -1.2231077],0.11621570587158203
+491,Supreme Intelligence,captain_marvel.txt,We found you. We embraced you as our own.,0.6,[ 1.3771197 -0.7313629],[ 2.0822167 -2.1833482],0.17171961069107056
+492,Carol,captain_marvel.txt,"You stole me. From my home, my family, my friends.",0.0,[ 1.5724432  -0.80152714],[ 1.8608565 -1.7859312],0.1656586080789566
+493,Supreme Intelligence,captain_marvel.txt,"It's cute how hard you try. Remember... without us...you're weak. (Carol pushes herself behind the wall, and sees a screen of her younger memories on Earth playing) You're flawed. Helpless. We saved you.",-0.1777777777777777,[ 1.1771744 -0.476682 ],[ 1.6043078 -1.4873648],0.17653495073318481
+494,Supreme Intelligence,captain_marvel.txt,Without us... you're only human.,0.0,[ 0.96541536 -0.27331358],[ 1.8928684 -1.8421274],0.07852527499198914
+495,Carol,captain_marvel.txt,You're right. I'm only human.,0.0952380952380952,[0.7591493  0.05179317],[ 1.7918175 -1.7021273],0.10764864087104797
+496,Supreme Intelligence,captain_marvel.txt,"On Hala, you were reborn. Vers.",0.0,[ 1.5301104  -0.67535084],[ 1.7459265 -1.8059579],0.14053483307361603
+497,Carol,captain_marvel.txt,My name... is Carol.,0.0,[ 1.1964784  -0.41209245],[ 1.5561621 -1.5461184],0.10117757320404053
+498,Carol,captain_marvel.txt,"I've been fighting with one arm tied behind my back. But what happens... (Carol pulls out the chip attached to her neck, causing the energy from her fists to spread to cover her entire body) ...when I'm finally set free?",0.0,[ 1.7610617 -0.9410966],[ 1.3465099 -1.3836341],0.17189189791679382
+499,Fury,captain_marvel.txt,"You know you're glowing, right?",0.2857142857142857,[-0.24657041  0.6368109 ],[ 1.4833351 -1.6709311],0.11407387256622314
+500,Carol,captain_marvel.txt,"I'll explain it later. (Carol opens the lunchbox to reveal the Tesseract glowing inside) Take the Tesseract, leaving the lunchbox.",0.0,[ 1.3289785 -0.6267399],[ 1.4270252 -1.4019341],0.01919063925743103
+501,Fury,captain_marvel.txt,(Fury has just unbuckled Goose's collar and is now holding her) Me?,0.0,[ 2.0944574 -1.3598709],[ 1.1715832 -1.4019059],0.1781424731016159
+502,Carol,captain_marvel.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+503,Fury,captain_marvel.txt,I'm not touching that thing.,-0.25,[ 1.5851562  -0.77648175],[ 0.98768413 -0.98883915],0.09401103854179382
+504,Carol,captain_marvel.txt,Want me to get you an oven mitt?,0.0,[ 2.0207226 -1.3689736],[ 1.528926 -1.61582 ],0.07688769698143005
+505,Carol,captain_marvel.txt,Get the Skrulls in the QuadJet and go. Take the Flerken with you.,0.0,[ 1.9262977 -1.3261955],[ 1.3102571 -1.3602124],0.057238101959228516
+506,Maria,captain_marvel.txt,What about you?,0.0,[ 2.135192  -1.2260127],[ 1.7640775 -1.7495345],0.17655116319656372
+507,Carol,captain_marvel.txt,I'll buy you some time!,0.0,[ 1.668157   -0.89460135],[ 1.5854563 -1.5181113],0.17783313989639282
+508,Fury,captain_marvel.txt,I'm picking you up now. I'm trusting you not to eat me.,0.0,[ 1.980853 -1.180694],[ 0.665309  -0.7822665],0.1733866184949875
+509,Carol,captain_marvel.txt,Hey Guys. Arm-wrestle for the Tesseract.,0.0,[ 0.97058254 -0.38427565],[ 1.7265953 -1.7112995],0.028432846069335938
+510,Yon-Rogg,captain_marvel.txt,I used to find you amusing. Let's put an end to this!,0.75,[0.33726072 0.22203696],[ 1.2113012 -1.2846717],0.14328180253505707
+511,Maria,captain_marvel.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+512,Fury,captain_marvel.txt,Good kitty.,0.7,[0.49218345 0.19333732],[ 1.2689309 -1.3786725],0.07036399841308594
+513,Carol,captain_marvel.txt,You knew all along. Is that why we never hung out?,0.0,[ 1.5679102 -0.7806234],[ 1.6399412 -1.6341751],0.16741548478603363
+514,Carol,captain_marvel.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+515,Fury,captain_marvel.txt,"Now! Come on! Do your thing. Come on! Dammit, Goose. Pick a side.",0.0,[ 2.0396702 -1.1436261],[ 1.2026238 -1.1487805],0.17739206552505493
+516,Talos,captain_marvel.txt,Play it cool. Just like Havana. Do you have the thing?,0.35,[ 1.6998647 -0.8433823],[ 1.905364 -1.795247],0.026317507028579712
+517,Fury,captain_marvel.txt,Flerken kitty ate it.,0.0,[ 1.043673   -0.27006814],[ 0.90180147 -0.9958434 ],0.07722160220146179
+518,Talos,captain_marvel.txt,Follow my lead. Cover her eyes. (to Soren),0.0,[ 1.9101758 -1.10069  ],[ 0.9974294 -0.9555403],0.17542901635169983
+519,Talos,captain_marvel.txt,"Get on the ship. Let's go, let's go.",0.0,[ 1.7446609 -0.7349774],[ 0.6899607 -0.9357978],0.04653468728065491
+520,Yon-Rogg,captain_marvel.txt,Nice diversion.,0.6,[-1.7665021  2.0764816],[ 1.2829413 -1.1681186],0.028147101402282715
+521,Carol,captain_marvel.txt,"I could've swore, I put it in there.",0.0,[ 1.6060982 -0.8265903],[ 1.6165856 -1.506021 ],0.09618234634399414
+522,Yon-Rogg,captain_marvel.txt,"Minn-Erva, take them down on a dropship.",-0.1555555555555555,[ 1.718608  -0.6303887],[ 1.1211019 -1.2772636],0.026829957962036133
+523,Fury,captain_marvel.txt,"You all right, friend?",0.2857142857142857,[ 1.8050663  -0.86891115],[ 1.8896872 -1.9161187],0.15359905362129211
+524,Talos,captain_marvel.txt,Never... better.,0.5,[0.20586686 0.33171096],[ 1.3239338 -1.2884337],0.09164801239967346
+525,Maria,captain_marvel.txt,We've got a bogey. Coming in hot.,0.25,[ 1.6316607 -0.6539118],[ 1.4001867 -1.3851882],0.02529624104499817
+526,Fury,captain_marvel.txt,Ha ha!,0.0,[-0.82591236  1.180092  ],[ 1.0728995 -1.0370103],0.03225782513618469
+527,Maria,captain_marvel.txt,Yes! Boom!,0.0,[-0.83764136  1.3042046 ],[ 1.0347357 -1.0003089],0.025502294301986694
+528,Fury,captain_marvel.txt,What the hell was that?,0.0,[ 2.0768323 -1.1309335],[ 1.461639  -1.4013797],0.05293768644332886
+529,Yon-Rogg,captain_marvel.txt,"I'm so proud of you. You've come a long way since I found you that day by the lake. But can you keep your emotions in check long enough to take me on? Or will it get the better of you, as always? I always told you... you'll be ready, the day you can knock me down as yourself. This is that moment. This is that moment, Vers! Turn off the light show, and prove, prove to me, you can beat me without...",0.2006944444444444,[ 2.2217603 -1.2695547],[ 1.6000968 -1.5308839],0.1727844476699829
+530,Carol,captain_marvel.txt,I have nothing to prove to you.,0.0,[ 1.238679   -0.41703218],[ 1.7008749 -1.5892922],0.17156103253364563
+531,Yon-Rogg,captain_marvel.txt,I can't go back empty-handed.,0.0,[ 1.9976939 -1.1681341],[ 1.4551191 -1.3890718],0.04406633973121643
+532,Carol,captain_marvel.txt,"You won't be empty-handed. I'm sending you with a message. Tell the Supreme Intelligence that I'm coming to end it. The war, the lies, all of it.",0.0,[ 1.6305425 -0.9115468],[ 1.3516808 -1.3722104],0.11084075272083282
+533,Yon-Rogg,captain_marvel.txt,You can't do this.,0.0,[ 1.147541  -0.4062163],[ 1.1267554 -1.0033424],0.07807612419128418
+534,Fury,captain_marvel.txt,"That was a close call, huh, Goosey? Huh? The bad guy's still in there somewhere- [Goose scratches Nick Fury's eye] Oh! MOTHER FLERKEN!!!",-1.0,[ 1.9434808 -1.1823233],[ 0.91006935 -1.1909354 ],0.08079314231872559
+535,Maria,captain_marvel.txt,You okay?,0.5,[ 1.9940616 -1.0107061],[ 1.6277424 -1.6502446],0.13329826295375824
+536,Fury,captain_marvel.txt,Yeah. It's just a scratch. [a serious scratch is shown on his left eye],-0.1666666666666666,[ 1.4737655  -0.81406975],[ 1.8843482 -1.9367619],0.03636825084686279
+537,Talos,captain_marvel.txt,No...,0.0,[ 1.03108    -0.24985173],[ 1.2106153 -1.1053911],0.028332144021987915
+538,Carol,captain_marvel.txt,I can't believe you got into the raddest dogfight ever.,0.0,[-0.16856003  0.7224592 ],[ 1.6118697 -1.5062133],0.07541888952255249
+539,Maria,captain_marvel.txt,I'd say you arrived just in time.,0.0,[ 1.0803177  -0.31149533],[ 1.8211325 -1.7571539],0.0643138587474823
+540,Fury,captain_marvel.txt,That's some nifty flying you did out there. SHIELD could always use a good pilot like you.,0.7,[ 0.8084348  -0.09405772],[ 1.5143589 -1.5950347],0.0362471342086792
+541,Maria,captain_marvel.txt,I'll consider it. As long as you don't call my flying nifty again. How's your eye?,-0.05,[ 1.983897  -1.2796899],[ 1.6080893 -1.5772126],0.15067285299301147
+542,Fury,captain_marvel.txt,Getting better every second.,0.25,[0.06795478 0.8088465 ],[ 1.3773509 -1.3188587],0.09025195240974426
+543,Carol,captain_marvel.txt,"Just so I'm clear, you were Soh-Larr, and the SHIELD agent?",0.1,[ 1.751585  -1.1056955],[ 1.914102  -2.0775332],0.07787716388702393
+544,Fury,captain_marvel.txt,"Keller. Tied my boss up, stole his identity.",0.0,[ 0.8299607  -0.27270234],[ 1.3748952 -1.4735146],0.15581434965133667
+545,Talos,captain_marvel.txt,I borrowed his likeness. I'm no thief.,0.0,[ 1.6202598 -1.0605773],[ 1.502381  -1.6693124],0.17238934338092804
+546,Talos,captain_marvel.txt,Whose side are you on?,0.0,[ 2.3453324 -1.4499176],[ 1.5904518 -1.6962162],0.09219041466712952
+547,Fury,captain_marvel.txt,"You're good to go here til you recover, but you and your family will need a new look.",0.4181818181818181,[ 1.802954 -1.141233],[ 1.9512056 -1.8501803],0.17328500747680664
+548,Talos,captain_marvel.txt,I could go back to being your boss.,0.0,[0.62630534 0.03473212],[ 1.5158539 -1.2896057],0.16368240118026733
+549,Fury,captain_marvel.txt,Please don't.,0.0,[ 1.0394514 -0.3235501],[ 1.3507206 -1.2571259],0.09042692184448242
+550,Talos,captain_marvel.txt,Come on. I love sporting his beautiful blue eyes.,0.45,[ 0.80924904 -0.11556414],[ 1.4330779 -1.3533577],0.19786188006401062
+551,Monica,captain_marvel.txt,"No way, you guys have the best eyes. Don't ever change your eyes.",1.0,[ 0.83091414 -0.33571476],[ 1.7032139 -1.5521222],0.17172393202781677
+552,Carol,captain_marvel.txt,I'll help you find a home. Finish what Mar-Vell started.,0.0,[ 1.2794106 -0.6294225],[ 1.9244736 -2.097138 ],0.060604214668273926
+553,Monica,captain_marvel.txt,"They can stay here with us, can't they, Mom?",0.0,[ 1.6343399  -0.82566226],[ 0.7364334 -0.6961072],0.14732879400253296
+554,Maria,captain_marvel.txt,"They won't be safe here, baby. Auntie Carol is right. They need their own home.",0.4619047619047619,[ 1.9430766 -1.1259345],[ 0.6045118 -0.73936  ],0.1362772434949875
+555,Carol,captain_marvel.txt,I'll be back before you know it.,0.0,[ 1.0924673  -0.18724155],[ 1.436221  -1.3504165],0.12259292602539062
+556,Monica,captain_marvel.txt,Maybe I can fly up and meet you halfway.,0.8,[ 1.6536359  -0.79645103],[ 1.6963459 -1.7100698],0.10216197371482849
+557,Fury,captain_marvel.txt,"Only if you learn to glow, like your Auntie Carol.",0.0,[0.28582206 0.24320564],[ 1.5503622 -1.5876113],0.0991707444190979
+558,Monica,captain_marvel.txt,Or maybe I'll build a spaceship. You don't know.,0.0,[ 1.7595549 -1.0195409],[ 1.2244436 -1.3293326],0.0553378164768219
+559,Carol,captain_marvel.txt,He doesn't.,0.0,[0.34835988 0.19458404],[ 1.0800933 -1.0053005],0.05472618341445923
+560,Carol,captain_marvel.txt,Keep the Tesseract on Earth. Hidden.,-0.1666666666666666,[ 0.86505395 -0.47057998],[ 1.445379  -1.3719536],0.021491587162017822
+561,Fury,captain_marvel.txt,You're sure that's what Marvel would want?,0.5,[0.01874762 0.3555619 ],[ 1.4595224 -1.403488 ],0.06886529922485352
+562,Carol,captain_marvel.txt,Mar-Vell.,0.0,[ 0.84643644 -0.15940768],[ 1.2844704 -1.2544652],0.030818194150924683
+563,Fury,captain_marvel.txt,That's what I said.,0.0,[ 0.7614709  -0.04293579],[ 1.3963867 -1.2897934],0.04673856496810913
+564,Carol,captain_marvel.txt,It's two words. Mar-Vell.,0.0,[ 1.6299974  -0.50515336],[ 1.7316657 -1.6550887],0.023945629596710205
+565,Fury,captain_marvel.txt,"Mar-Vell. Marvel sounds a lot better. You know, like the Marvelettes? [Singing] 𝅘𝅥𝅮 Oh, yeah, wait a minute Mr. Postman. Ay, ay, ay, ay, Mr. Postman. 𝅘𝅥𝅮 Not ringing any bells?",0.5,[0.10885532 0.21586934],[ 1.8438576 -2.113973 ],0.03977316617965698
+566,Carol,captain_marvel.txt,Keep singing. Maybe it'll come back to me.,0.0,[ 1.6149976  -0.78508335],[ 1.8455962 -1.7643285],0.14658603072166443
+567,Carol,captain_marvel.txt,"I upgraded it. Range should be, a couple galaxies, at least.",-0.3,[ 1.7665452  -0.92044187],[ 1.6369675 -1.5358852],0.021685868501663208
+568,Fury,captain_marvel.txt,What? You think I'm gonna crank call you?,0.0,[ 1.2972705  -0.37117037],[ 1.617683  -1.6010628],0.10928794741630554
+569,Carol,captain_marvel.txt,For emergencies only. Okay?,0.25,[ 1.8321254 -0.943356 ],[ 1.3122543 -1.3663834],0.02109086513519287
+570,Fury,captain_marvel.txt,"Well, if you're ever passing back through this galaxy, be sure to give a brother a shout.",0.25,[ 1.7880136 -1.1172224],[ 1.69988   -1.9009933],0.0782296359539032
+571,Monica,captain_marvel.txt,We got the ketchup stain off.,0.0,[0.6821685  0.15947649],[ 1.3111048 -1.3646616],0.02279871702194214
+572,Carol,captain_marvel.txt,"Thanks, Lieutenant Trouble. It's hard for me to say goodbye, too.",-0.0972222222222222,[ 0.98957235 -0.15328845],[ 2.2238038 -2.1432207],0.08134809136390686
+573,Maria,captain_marvel.txt,Go on.,0.0,[ 0.82060474 -0.06210131],[ 0.9919504 -0.8731159],0.029269307851791382
+574,Fury,captain_marvel.txt,I'll neither confirm nor deny the facts of that story.,0.0,[ 1.8430847 -1.091576 ],[ 1.5233635 -1.3643855],0.04581227898597717
+575,Fury,captain_marvel.txt,I'm sure it will turn up somewhere.,0.5,[ 1.3699051  -0.62270075],[ 1.4780899 -1.4574145],0.05058971047401428
+576,Fury,captain_marvel.txt,Then what?,0.0,[ 1.4769584  -0.72748303],[ 1.2653733 -1.1933383],0.05090394616127014
+577,Fury,captain_marvel.txt,We have no idea what other intergalactic threats are out there. And our one-woman security force had a prior commitment on the other side of the universe. SHIELD alone can't protect us. We need to find more.,0.0625,[ 1.464868  -0.7843092],[ 1.1263591 -1.1697406],0.025971531867980957
+578,Fury,captain_marvel.txt,More heroes.,0.5,[-1.1046685  1.6516509],[ 1.4893825 -1.4342245],0.051321178674697876
+579,Fury,captain_marvel.txt,We found her and we weren't even looking.,0.0,[ 1.1528887  -0.45763278],[ 1.8661243 -1.7586365],0.12109184265136719
+580,Carol,captain_marvel.txt,Where's Fury?,0.0,[ 1.9890789 -1.1039245],[ 1.2193171 -1.2820219],0.02141273021697998

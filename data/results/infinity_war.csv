@@ -1,0 +1,853 @@
+Unnamed: 0,Name,Movie,Line,Sentiment,Irony,Hate,Intimacy
+0,Ebony Maw,infinity_war.txt,"Hear me, and rejoice. You have had the privilege of being saved by the Great Titan.... You may think this is suffering... no. It is salvation. Universal scales tip toward balance because of your sacrifice. Smile... [Corvus Glaive stabs one of the lingering Asgardians] for even in death, you have become Children of Thanos.",0.3666666666666667,[ 1.5913451 -0.90669  ],[ 1.6877006 -1.8921767],0.15025493502616882
+1,Thanos,infinity_war.txt,[Looking out the large window we saw at the end of Thor,0.2142857142857142,[ 0.8347757  -0.21399912],[ 1.9605403 -2.0429919],0.025404751300811768
+2,Thor,infinity_war.txt,[Now being held by Thanos with one huge hand wrapping around his head; blood drools from his mouth] You talk too much.,0.3,[ 1.121099   -0.42585316],[ 1.2320923 -1.3891045],0.17384052276611328
+3,Thanos,infinity_war.txt,"[To Loki] The Tesseract, or your brother's head. I assume you have a preference.",0.0,[ 1.9230217 -1.2767003],[ 1.5262879 -1.7107325],0.13975262641906738
+4,Thor,infinity_war.txt,We don't have the Tesseract. It was destroyed on Asgard.,0.0,[ 1.4646192  -0.84138554],[ 1.2603177 -1.343675 ],0.02169322967529297
+5,Thor,infinity_war.txt,You really are the worst brother.,-0.4,[0.58043456 0.12550357],[ 1.4946197 -1.4380786],0.17634277045726776
+6,Thanos,infinity_war.txt,"Your optimism is misplaced, Asgardian.",-0.2,[ 0.6998632  -0.20954427],[ 1.6356721 -1.7308841],0.09290274977684021
+7,Ebony Maw,infinity_war.txt,Let him have his fun.,0.3,[-0.35658288  0.90483856],[ 0.958178  -1.0192766],0.15150943398475647
+8,Thanos,infinity_war.txt,That was a mistake.,0.0,[ 0.9466344  -0.19428241],[ 1.261592  -1.1338098],0.05324873328208923
+9,Thor,infinity_war.txt,NO!!! [After Thanos kills Heimdall] You're going to die for that!,0.0,[ 1.211564   -0.31952447],[ 0.7467332 -1.0167328],0.07687878608703613
+10,Ebony Maw,infinity_war.txt,[Shuts Thor's mouth with his telekinesis] Shh.,0.0,[0.7605556  0.02594839],[ 1.2746745 -1.2953066],0.09775301814079285
+11,Ebony Maw,infinity_war.txt,"[Kneels before Thanos, offering up the Tesseract] My humble personage… bows before your grandeur. No other being has ever had the might, nay the nobility, to wield not one, but two Infinity Stones. The universe lies within your grasp.",-0.06875,[ 1.655066   -0.74982214],[ 1.1347883 -1.4036714],0.1615629643201828
+12,Thanos,infinity_war.txt,"There are two more Stones on Earth. Find them, my children, and bring them to me on Titan.",0.5,[ 1.9779954 -1.2624608],[ 1.4425699 -1.5915855],0.07744717597961426
+13,Thanos,infinity_war.txt,[Unimpressed] If you consider failure experience.,-0.3166666666666667,[ 1.4493958 -1.0040102],[ 2.0172508 -1.9185746],0.02775976061820984
+14,Thanos,infinity_war.txt,"""Undying?"" You should choose your words more carefully.",0.2,[ 0.64868873 -0.0791874 ],[ 1.7206851 -1.7164856],0.12410920858383179
+15,Thor,infinity_war.txt,[Muffled] NO!,0.0,[ 1.8120747 -0.8432426],[ 1.4346725 -1.3747927],0.07623142004013062
+16,Thanos,infinity_war.txt,[Walks over and drops Loki's body in front of Thor.] No resurrections this time.,0.0,[ 0.9695993  -0.25247037],[ 1.4691265 -1.6338404],0.07626745104789734
+17,Thor,infinity_war.txt,No… Loki….,0.0,[ 1.2073697 -0.668623 ],[ 1.6609095 -1.7504013],0.033638328313827515
+18,Stephen Strange,infinity_war.txt,[Dressed in casual American clothes.] Seriously? You don't have any money?,-0.2777777777777778,[ 1.2685072  -0.72887903],[ 1.3397447 -1.4612253],0.0712546706199646
+19,Stephen Strange,infinity_war.txt,I'll tell the guys at the deli. [Wryly] Maybe they'll make you a metaphysical ham on rye.,0.0,[ 1.6154332  -0.83062136],[ 1.5609779 -1.5433012],0.0784061849117279
+20,Stephen Strange,infinity_war.txt,Dollars?,0.0,[ 1.6398934  -0.95990205],[ 1.5038286 -1.4181453],0.020936816930770874
+21,Stephen Strange,infinity_war.txt,Which is?,0.0,[ 2.0641446 -1.0972857],[ 1.0623132 -1.0625585],0.029134631156921387
+22,Stephen Strange,infinity_war.txt,What do you want?,0.0,[ 2.326533  -1.3948891],[ 1.563152  -1.5864993],0.12887749075889587
+23,Bruce Banner,infinity_war.txt,Thanos is coming. He's coming...,0.0,[ 1.0096241 -0.2288374],[ 1.1535467 -1.4892992],0.025975167751312256
+24,Stephen Strange,infinity_war.txt,"[Sharing a look with Wong, and now fully in his mage attire] Who?",0.0,[ 1.721951  -1.0364562],[ 1.8011754 -2.052451 ],0.07304349541664124
+25,Tony Stark,infinity_war.txt,"Slow down, slow down. I'm totally not kidding.",-0.1822222222222222,[ 1.4838818 -0.7640929],[ 1.4191283 -1.3441299],0.067088782787323
+26,Pepper Potts,infinity_war.txt,[Laughing slightly and talking over him] You're totally rambling.,-0.0833333333333333,[ 0.7727154  -0.14662777],[ 1.6851288 -1.6510475],0.141572043299675
+27,Tony Stark,infinity_war.txt,"[Also talking over her] No, I'm not.",0.0,[ 0.9326427  -0.21362782],[ 1.4901406 -1.4933025],0.12831512093544006
+28,Pepper Potts,infinity_war.txt,Lost me.,0.0,[ 0.9753946  -0.14604048],[ 1.48783   -1.4796073],0.1388367861509323
+29,Tony Stark,infinity_war.txt,"Look, you know how you're having a dream, and in the dream you gotta pee?",0.0,[-0.05878907  0.27266437],[ 1.9278475 -1.8758253],0.12894129753112793
+30,Pepper Potts,infinity_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+31,Tony Stark,infinity_war.txt,"Okay, and then you're like, 'Oh my god, there's no bathroom, what am I gonna do?', 'Oh! Someone's watching,' ''m gonna go in my pants.'",0.625,[ 1.3952966  -0.57971567],[ 1.5383022 -1.6510917],0.17874588072299957
+32,Pepper Potts,infinity_war.txt,"Right. And then you wake up, and in real life you actually have to pee.",0.1619047619047619,[-0.24409853  0.67616814],[ 1.588742 -1.586418],0.09677481651306152
+33,Tony Stark,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+34,Pepper Potts,infinity_war.txt,Yeah. Everybody has that.,0.0,[-0.04712077  0.7474882 ],[ 1.3290862 -1.2035385],0.027743101119995117
+35,Tony Stark,infinity_war.txt,"Right! That's the point I'm trying to make. Apropos of that, last night, I dreamt, we had a kid. So real. We named him after your eccentric uncle. Uh, what was his name?",0.1392857142857143,[ 1.784421  -1.0742052],[ 1.9510343 -2.1235075],0.17062057554721832
+36,Pepper Potts,infinity_war.txt,[Nodding in understanding] Right.,0.2857142857142857,[ 0.8126689  -0.02553865],[ 1.4788702 -1.4848951],0.032687246799468994
+37,Tony Stark,infinity_war.txt,Morgan! Morgan.,0.0,[ 0.60921055 -0.07943307],[ 1.4294908 -1.4636614],0.03055468201637268
+38,Pepper Potts,infinity_war.txt,"So you woke up, and thought that we were...",0.0,[ 0.64474684 -0.02489475],[ 2.1874259 -2.100939 ],0.10016390681266785
+39,Tony Stark,infinity_war.txt,Expecting.,0.0,[0.45009443 0.08271589],[ 1.3216497 -1.2320182],0.027513474225997925
+40,Pepper Potts,infinity_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+41,Tony Stark,infinity_war.txt,[Becoming excited] Yes?,0.4125,[ 1.4459778 -0.8057696],[ 1.6951271 -1.8237895],0.026417136192321777
+42,Pepper Potts,infinity_war.txt,[Shaking her head] No.,0.0,[ 1.4022708 -0.5529051],[ 1.2882864 -1.1620994],0.1353723406791687
+43,Tony Stark,infinity_war.txt,I had a dream about it. It was so real.,0.2,[ 0.94501853 -0.3278476 ],[ 1.901432  -1.6015133],0.0830373466014862
+44,Pepper Potts,infinity_war.txt,"If you wanted to have a kid, you wouldn't have done that.",0.0,[ 1.257377 -0.685997],[ 0.5943928 -0.7285874],0.09619098901748657
+45,Tony Stark,infinity_war.txt,"I'm glad you brought this up, 'cause it's nothing. It's just a housing unit for nano particles.",0.5,[0.00478852 0.49500367],[ 1.603438  -1.6700714],0.04126942157745361
+46,Pepper Potts,infinity_war.txt,"It's not helping your case, OK?",0.5,[ 0.83225065 -0.2428388 ],[ 1.4102205 -1.3288771],0.10927112400531769
+47,Tony Stark,infinity_war.txt,"No, no, it's an attachment, it's not a-",0.0,[ 1.7818587 -1.1141645],[ 1.8447332 -1.8028464],0.020758986473083496
+48,Pepper Potts,infinity_war.txt,[Insistently] You don't need that.,0.0,[ 1.7621803 -0.8695016],[ 1.5227283 -1.4931608],0.07490032911300659
+49,Tony Stark,infinity_war.txt,"I know. I had the surgery. I'm just trying to protect us. The future uses, and that's it. Just in case there's a monster in the closet, instead of, you know...",0.0,[ 1.6688827 -0.8303814],[ 1.801805  -1.8789202],0.14825189113616943
+50,Pepper Potts,infinity_war.txt,Shirts?,0.0,[ 1.7211921 -1.0777576],[ 1.397206  -1.4368259],0.024048566818237305
+51,Tony Stark,infinity_war.txt,You know me so well. You finish all my sentences.,0.0,[0.057306  0.8554309],[ 1.6806713 -1.5421951],0.14155668020248413
+52,Pepper Potts,infinity_war.txt,You should have shirts in your closet.,0.0,[ 1.1004688  -0.44980994],[ 1.560991  -1.4997907],0.09199941158294678
+53,Tony Stark,infinity_war.txt,Yeah. You know what there should be? No more surprises. We're gonna have a nice dinner tonight. Show off this Harry Win-stone. Right? And we should have no more surprises. Ever. I should promise you.,0.0964285714285714,[ 0.84280235 -0.24809447],[ 1.5197824 -1.641219 ],0.17271286249160767
+54,Pepper Potts,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+55,Tony Stark,infinity_war.txt,I will. [Tony kisses Pepper.],0.0,[ 1.5956069  -0.82523835],[ 1.6100239 -1.6560582],0.16054683923721313
+56,Stephen Strange,infinity_war.txt,"Tony Stark, I'm Doctor Stephen Strange. I need you to come with me. Oh, uh, congratulations on the wedding, by the way.",-0.125,[ 0.7599431  -0.15802231],[ 1.3563523 -1.5668783],0.1768951714038849
+57,Tony Stark,infinity_war.txt,"I'm sorry, you giving out tickets or something?",-0.5,[ 1.293802   -0.56928444],[ 1.9437985 -1.8786709],0.08729201555252075
+58,Stephen Strange,infinity_war.txt,"We need your help. Look, it's not overselling to say that the fate of the universe is at stake.",0.0,[ 1.9037757 -1.084958 ],[ 1.8158693 -1.9198922],0.06754040718078613
+59,Tony Stark,infinity_war.txt,"And who's ""we""?",0.0,[ 1.5502286  -0.74992067],[ 1.546015 -1.557758],0.08666062355041504
+60,Bruce Banner,infinity_war.txt,"[Emerges from behind Doctor Strange] Hey, Tony.",-0.225,[ 1.1422671  -0.39912197],[ 1.6799277 -1.9194534],0.03533807396888733
+61,Tony Stark,infinity_war.txt,[Looking surprised] Bruce.,0.1,[ 1.0953918  -0.30792296],[ 1.5882655 -1.6529007],0.03558748960494995
+62,Bruce Banner,infinity_war.txt,Pepper.,0.0,[0.331373  0.2299859],[ 0.9477673 -0.9012736],0.028599798679351807
+63,Pepper Potts,infinity_war.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+64,Tony Stark,infinity_war.txt,You okay?,0.5,[ 1.9940616 -1.0107061],[ 1.6277424 -1.6502446],0.13329826295375824
+65,Stephen Strange,infinity_war.txt,[Each Stone lights up as Dr. Strange names them.] Space. Reality. Power. Soul. Mind. And Time.,-0.05,[ 1.3291104 -0.8823479],[ 1.84296   -2.0372925],0.028636425733566284
+66,Tony Stark,infinity_war.txt,[Very attentive] Tell me his name again.,0.52,[ 1.8527552 -0.9164319],[ 1.7240822 -1.8623549],0.15224087238311768
+67,Bruce Banner,infinity_war.txt,"Thanos. He's a plague, Tony. He invades planets. He takes what he wants. He wipes out half the population. He sent Loki. The attack on New York. That's him.",0.0565656565656565,[0.28317553 0.2864084 ],[ 0.6493815 -1.024768 ],0.06863582134246826
+68,Tony Stark,infinity_war.txt,[Speaking to himself] This is it... What's our timeline?,0.0,[ 2.089027 -1.240487],[ 2.039475 -2.097392],0.09374117851257324
+69,Bruce Banner,infinity_war.txt,"No telling. He has the Power and Space Stones, that already makes him the strongest creature in the whole universe. If he gets his hands, on all six Stones, Tony...",0.2,[ 1.9378318 -1.0365554],[ 1.0549659 -1.2981049],0.03402256965637207
+70,Stephen Strange,infinity_war.txt,He can destroy life on a scale hitherto undreamt of.,-0.2,[ 1.5786197  -0.84786975],[ 1.260975  -1.3378469],0.07791000604629517
+71,Tony Stark,infinity_war.txt,"[Leans against a cauldron, stretching like he's about to go for a run.] Did you seriously just say ""hitherto undreamt of""?",-0.3333333333333333,[ 1.7597636 -1.1268312],[ 1.8511859 -2.1271245],0.0638304352760315
+72,Stephen Strange,infinity_war.txt,Are you seriously leaning on the Cauldron of the Cosmos?,-0.3333333333333333,[ 2.3286374 -1.6040343],[ 1.761026  -1.9230019],0.03013429045677185
+73,Tony Stark,infinity_war.txt,Is that what this is.... ?,0.0,[ 1.1170998 -0.5915965],[ 1.6131405 -1.6011969],0.0353168249130249
+74,Tony Stark,infinity_war.txt,"[Looking offended] [Straightening himself] I'm going to allow that. If Thanos needs all six, why don't we just stick this one down the garbage disposal?",-0.1555555555555555,[ 1.7738247 -0.9724775],[ 1.1210717 -1.3871644],0.09550812840461731
+75,Stephen Strange,infinity_war.txt,No can do.,0.0,[ 0.90238774 -0.07378166],[ 1.1294676 -0.971322 ],0.03673511743545532
+76,Tony Stark,infinity_war.txt,"And I swore off dairy, but then, Ben & Jerry's named a flavor after me, so....",0.0,[0.35958928 0.00730559],[ 1.4197866 -1.2316529],0.0404280424118042
+77,Stephen Strange,infinity_war.txt,Stark Raving Hazelnuts.,-0.2,[0.34404135 0.06576654],[ 1.2161231 -1.2820431],0.027594268321990967
+78,Tony Stark,infinity_war.txt,It's not bad.,0.3499999999999999,[0.2822251  0.44150916],[ 1.2516202 -1.1830143],0.07228642702102661
+79,Stephen Strange,infinity_war.txt,A bit chalky.,0.0,[ 0.8745213 -0.2857171],[ 1.4774946 -1.5033762],0.0968279242515564
+80,Bruce Banner,infinity_war.txt,That's a thing?,0.0,[-0.82373756  1.2268502 ],[ 1.3626709 -1.3623265],0.05980411171913147
+81,Tony Stark,infinity_war.txt,Whatever. Point is,0.0,[ 1.7112904  -0.83934855],[ 1.0796505 -1.0724632],0.023974478244781494
+82,Stephen Strange,infinity_war.txt,Our oath to protect the Time Stone cannot change. This Stone may be the best chance we have against Thanos.,1.0,[ 1.187975   -0.57841885],[ 1.3806964 -1.6712462],0.03001996874809265
+83,Tony Stark,infinity_war.txt,"And still conversely, it may also be his best chance against us.",1.0,[ 1.0728866  -0.40509036],[ 1.2396494 -1.1906245],0.05910775065422058
+84,Stephen Strange,infinity_war.txt,"Well, if we don't do our jobs.",0.0,[-0.59930897  1.0291913 ],[ 1.393751 -1.225042],0.09087023138999939
+85,Tony Stark,infinity_war.txt,"[Slightly condescending] What is your job exactly, besides making balloon animals?",0.0416666666666666,[ 1.3721812  -0.92441547],[ 1.7059976 -1.6914333],0.07386797666549683
+86,Stephen Strange,infinity_war.txt,"[Completely calm] Protecting your reality, douchebag.",0.3,[0.2901734 0.1955916],[ 1.4673817 -1.4294254],0.12199646234512329
+87,Bruce Banner,infinity_war.txt,"Okay, guys, could we table this discussion right now? The fact is that we have this Stone. We know where it is. Vision is out there somewhere with the Mind Stone, and we have to find him now.",0.3928571428571428,[ 2.2342153 -1.4988438],[ 1.8999363 -1.9767163],0.0450785756111145
+88,Tony Stark,infinity_war.txt,"[Awkwardly] Yeah, that's the... thing.",-0.6,[ 1.2451763  -0.56071573],[ 1.7072041 -1.7033578],0.1053030788898468
+89,Bruce Banner,infinity_war.txt,What do you mean?,-0.3125,[ 2.054106  -1.1554011],[ 1.4421924 -1.3994256],0.05629071593284607
+90,Tony Stark,infinity_war.txt,"Two weeks ago, Vision turned off his transponder. He's offline.",0.0,[ 1.1501206 -0.5643836],[ 2.0522192 -2.1175673],0.01994839310646057
+91,Bruce Banner,infinity_war.txt,"What? Tony, you lost another super bot?",0.3333333333333333,[0.05359567 0.4682535 ],[ 1.7432139 -1.8407594],0.03908863663673401
+92,Tony Stark,infinity_war.txt,I didn't lose him. He's more than that. He's evolving.,0.5,[ 2.3289456 -1.578025 ],[ 1.9829865 -2.021204 ],0.13779973983764648
+93,Stephen Strange,infinity_war.txt,"Who could find Vision, then?",0.0,[ 2.055537  -1.2590691],[ 1.5228903 -1.484489 ],0.02503722906112671
+94,Tony Stark,infinity_war.txt,[Quietly to himself] Shit. [To the other men in a normal tone] Probably Steve Rogers.,-0.04375,[ 1.1965464  -0.53982466],[ 1.5285679 -1.6262957],0.09714508056640625
+95,Stephen Strange,infinity_war.txt,"[Sighing in exasperation] Oh, great.",0.8,[-0.5191275   0.92835176],[ 1.7666706 -1.6491165],0.09369581937789917
+96,Tony Stark,infinity_war.txt,Maybe. But... [Sighs],0.0,[ 2.0922022 -1.2011577],[ 1.7785455 -1.7282785],0.0414297878742218
+97,Bruce Banner,infinity_war.txt,[Missing the events of the Avengers' Civil War] Call him.,-0.2,[ 1.4218771 -0.5587739],[ 1.8908993 -1.8986572],0.07844382524490356
+98,Tony Stark,infinity_war.txt,"It's not that easy. God, we haven't caught up in a spell, have we?",0.4333333333333333,[ 2.1945071 -1.2777978],[ 1.7673905 -1.7164328],0.11504235863685608
+99,Bruce Banner,infinity_war.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+100,Tony Stark,infinity_war.txt,The Avengers broke up. We're toast.,0.0,[0.37901002 0.4236891 ],[ 1.5568384 -1.4087517],0.07026016712188721
+101,Bruce Banner,infinity_war.txt,[Rather surprised and slightly let-down] Broke up? Like a band? Like The Beatles?,-0.0333333333333333,[ 1.8973247 -1.1579095],[ 2.1126633 -2.1957848],0.05719947814941406
+102,Tony Stark,infinity_war.txt,Cap and I fell out hard. We're not on speaking terms.,-0.2916666666666667,[ 2.005483  -1.1654378],[ 1.7538458 -1.7171775],0.06704586744308472
+103,Bruce Banner,infinity_war.txt,"[Almost pleading] Tony, listen to me. Thor's gone. Thanos is coming. It doesn't matter who you're talking to or not.",0.0,[ 1.6871165  -0.79846585],[ 1.2985488 -1.406597 ],0.08263584971427917
+104,Tony Stark,infinity_war.txt,"Say, Doc, you wouldn't happen to be moving your hair, would you?",0.0,[ 1.6174105  -0.99700683],[ 1.6255867 -1.5931048],0.17399466037750244
+105,Stephen Strange,infinity_war.txt,"[Looking up at his forelock fluttering] Not at the moment, no.",0.0,[ 1.6528473 -0.8817113],[ 1.6645973 -1.7699724],0.11905065178871155
+106,Tony Stark,infinity_war.txt,You okay?,0.5,[ 1.9940616 -1.0107061],[ 1.6277424 -1.6502446],0.13329826295375824
+107,Tony Stark,infinity_war.txt,"Help him! Wong, Doc.",0.0,[ 1.4057709  -0.61586183],[ 1.8249148 -1.8600003],0.08958667516708374
+108,Bruce Banner,infinity_war.txt,Go! Got it!,0.0,[ 1.0382041  -0.20285746],[ 1.0323064 -1.0043609],0.024311959743499756
+109,Tony Stark,infinity_war.txt,"[Putting on his sunglasses] F.R.I.D.A.Y., what am I looking at?",0.0,[ 1.9238747 -1.1936702],[ 2.0926487 -2.1469185],0.04965373873710632
+110,Tony Stark,infinity_war.txt,"Hey! You might wanna put that Time Stone in your back pocket, Doc!",0.0,[ 1.402502  -0.8245293],[ 1.775816  -1.8836697],0.10666827857494354
+111,Stephen Strange,infinity_war.txt,[Bands of spells are readied around his forearms] Might wanna use it.,0.0,[ 1.6699969 -0.840652 ],[ 1.4977026 -1.682099 ],0.0575430691242218
+112,Peter Parker,infinity_war.txt,"[Tapping his best friend in the seat in front of him] Ned, hey. I need you to cause a distraction.",1.0,[ 1.3458748  -0.56155896],[ 1.7859735 -1.922076 ],0.1728973388671875
+113,Tony Stark,infinity_war.txt,"F.R.I.D.A.Y., evac anyone south of 43rd Street, notify first responders.",0.25,[ 1.4910265 -0.8167146],[ 1.8875179 -1.9448986],0.021089911460876465
+114,Ebony Maw,infinity_war.txt,"Hear me, and rejoice. You are about to die at the hands of the Children of Thanos. Be thankful, that your meaningless lives are now contributing to...",-0.5,[ 0.63442856 -0.0752413 ],[ 1.1163822 -1.4028   ],0.16234421730041504
+115,Tony Stark,infinity_war.txt,"[Echoing the familiarly defiant 2008 Tony Stark] I'm sorry, Earth is closed today. You better pack it up and get outta here.",0.0149999999999999,[ 0.5817431  -0.03909693],[ 1.574394  -1.7636003],0.06481081247329712
+116,Ebony Maw,infinity_war.txt,[Looks at Doctor Strange] Stonekeeper... [Gestures to Tony] Does this chattering animal speak for you?,-0.05,[ 1.8264644 -1.1593682],[ 1.4524267 -1.6326798],0.07286620140075684
+117,Stephen Strange,infinity_war.txt,"Certainly not. I speak for myself. [Magical shields are readied with his fists, stepping forward.] But you’re trespassing in this city and on this planet. [Wong emulates him.]",0.1964285714285714,[ 1.6643097  -0.99966866],[ 0.60731584 -0.79677033],0.11511068046092987
+118,Tony Stark,infinity_war.txt,"It means get lost, Squidward!",0.0,[ 1.3675094 -0.5364388],[ 1.4396135 -1.6412122],0.0389399528503418
+119,Ebony Maw,infinity_war.txt,He exhausts me.,0.0,[0.47505805 0.34690666],[ 1.3671843 -1.3116025],0.15004104375839233
+120,Ebony Maw,infinity_war.txt,Bring me the Stone.,0.0,[ 1.7591766 -0.9610989],[ 1.3505299 -1.5356547],0.06872925162315369
+121,Tony Stark,infinity_war.txt,"Banner, you want a piece?",0.0,[ 2.332589  -1.4870876],[ 1.7420436 -1.8582785],0.10594424605369568
+122,Bruce Banner,infinity_war.txt,"No, not really, but when do I ever get what I want?",-0.1,[ 2.0791233 -1.2178965],[ 1.8683975 -1.7682977],0.07392257452011108
+123,Tony Stark,infinity_war.txt,That's right.,0.2857142857142857,[-0.23289101  0.8131516 ],[ 1.0282716  -0.92415416],0.03901517391204834
+124,Tony Stark,infinity_war.txt,"Been a while. Good to have you, buddy.",0.7,[ 1.1443468  -0.38760245],[ 1.4033757 -1.4216061],0.17324471473693848
+125,Bruce Banner,infinity_war.txt,"I just... I need to concentrate here for one second. Come on, come on, man.",0.0,[ 2.1563334 -1.1677572],[ 1.6042039 -1.4765531],0.16735970973968506
+126,Tony Stark,infinity_war.txt,Where's your guy?,0.0,[ 2.028498  -1.0687401],[ 1.3128074 -1.369005 ],0.1752539575099945
+127,Bruce Banner,infinity_war.txt,I don't know. We've sort been havin' a thing.,0.0,[ 1.5736375 -0.7613977],[ 1.9043285 -1.8264208],0.14241838455200195
+128,Tony Stark,infinity_war.txt,There's no time for a thing.,0.0,[ 1.5542717 -0.6312418],[ 1.4729799 -1.342945 ],0.023318618535995483
+129,Bruce Banner,infinity_war.txt,I know.,0.0,[0.3627474  0.27165455],[ 1.018171  -0.8657721],0.07816323637962341
+130,Tony Stark,infinity_war.txt,[Points at the approaching Obsidian] That's the thing right there. Let's go.,0.1428571428571428,[ 1.5513804  -0.74160445],[ 1.5411154 -1.6525851],0.022320181131362915
+131,Tony Stark,infinity_war.txt,"[Glances at Doctor Strange] Dude, you're embarrassing me in front of the wizards.",-0.05,[ 0.8200617  -0.11174946],[ 1.4202738 -1.5758905],0.11420279741287231
+132,Bruce Banner,infinity_war.txt,"Tony, I'm sorry. [Stammers] Either I can't or he won't--",-0.5,[ 2.034908  -1.1086012],[ 1.873317  -1.8878876],0.09269922971725464
+133,Tony Stark,infinity_war.txt,"It's okay. Hey, stand down. [to Wong] Keep an eye on him. Thank you.",0.1722222222222222,[ 1.2000074 -0.6647486],[ 1.8190777 -1.9105021],0.17586003243923187
+134,Bruce Banner,infinity_war.txt,Damn it.,0.0,[0.24215803 0.3330989 ],[ 1.0187782 -0.9229994],0.10668322443962097
+135,Bruce Banner,infinity_war.txt,Where'd that come from?,0.0,[ 2.1826255 -1.3820648],[ 1.2578026 -1.2596059],0.0253770649433136
+136,Tony Stark,infinity_war.txt,It's nano-tech. You like it? A little someth--,-0.1875,[ 1.5855933 -1.0981507],[ 2.0265543 -2.1057408],0.0736391544342041
+137,Stephen Strange,infinity_war.txt,"Dr. Banner, if the rest of your green friend won't be joining us....",-0.2,[ 1.2277952 -0.6452167],[ 1.6753632 -1.7549433],0.09175997972488403
+138,Tony Stark,infinity_war.txt,"Gotta get that stone outta here, now.",0.0,[ 1.8468704  -0.94147843],[ 0.9312774 -1.0662214],0.05103445053100586
+139,Stephen Strange,infinity_war.txt,It stays with me.,0.0,[ 1.4004945 -0.4597758],[ 1.5868565 -1.486672 ],0.13387727737426758
+140,Tony Stark,infinity_war.txt,Exactly. Bye.,0.25,[0.7438491  0.05108583],[ 1.0210215 -0.8891103],0.024749547243118286
+141,Bruce Banner,infinity_war.txt,"[Rushing over to Iron Man] Tony, you okay? How we doing? Good? Bad?",0.1666666666666667,[ 2.3352637 -1.3479906],[ 1.9205264 -2.1569393],0.11190557479858398
+142,Tony Stark,infinity_war.txt,"Really, really good. Really good. Do you plan on helping out?",0.7,[ 1.6422632 -1.1375358],[ 2.0378    -2.0378835],0.13157835602760315
+143,Bruce Banner,infinity_war.txt,I'm trying. He won't come out.,0.0,[ 1.2277175  -0.45749143],[ 1.7611872 -1.6815785],0.1390669047832489
+144,Tony Stark,infinity_war.txt,Hammer. [Pushes Bruce out of the way.],0.0,[ 1.5870428 -0.7482863],[ 1.1364131 -1.3722866],0.025717973709106445
+145,Bruce Banner,infinity_war.txt,"[Crawling out from under the branches. Desperate and confused] Come on, Hulk. What are you doing to me? [Starts slapping himself multiple times] Come out! Come out! Come out!",-0.3333333333333333,[ 1.9856678 -1.1917838],[ 0.8706155 -1.0537161],0.14784762263298035
+146,Bruce Banner,infinity_war.txt,"What do you mean, ""no""?!",-0.390625,[ 1.8930023 -1.204158 ],[ 1.8389207 -1.771103 ],0.050394296646118164
+147,Peter Parker,infinity_war.txt,"Hey, man. What's up, Mr. Stark?",-0.2,[ 1.9726803 -1.1426984],[ 1.8388318 -2.0600796],0.04360610246658325
+148,Tony Stark,infinity_war.txt,"Kid, where'd you come from?",0.0,[ 2.1440656 -1.2607427],[ 1.3693956 -1.4309684],0.09778773784637451
+149,Peter Parker,infinity_war.txt,Field trip to MoMA.,0.0,[-0.07457584  0.5751536 ],[ 1.5894408 -1.5916312],0.025600552558898926
+150,Peter Parker,infinity_war.txt,"What is this guy's problem, Mr. Stark?",-0.2,[ 2.0372484 -1.2371542],[ 1.6198896 -1.8478585],0.07904252409934998
+151,Tony Stark,infinity_war.txt,He's from space. He came here to steal a necklace from a wizard.,0.0,[ 0.58771557 -0.15963435],[ 1.4337004 -1.5933954],0.07072380185127258
+152,Ebony Maw,infinity_war.txt,Your powers are quaint. You must be popular with children.,0.6,[-0.41018653  0.82107824],[ 1.2863859 -1.1517442],0.12780708074569702
+153,Stephen Strange,infinity_war.txt,It's a simple spell but quite unbreakable.,0.0,[ 1.0444558 -0.2514928],[ 1.6918093 -1.5921041],0.04793006181716919
+154,Ebony Maw,infinity_war.txt,[Vehemently] Then I'll take it off your corpse.,0.0,[ 1.5808029 -0.6202971],[ 0.90684605 -1.098982  ],0.17668329179286957
+155,Stephen Strange,infinity_war.txt,You'll find... removing a dead man's spell... troublesome.,-0.2,[ 0.5327057  -0.32951224],[ 1.7411329 -1.8195851],0.12438814342021942
+156,Ebony Maw,infinity_war.txt,"You'll only wish you were dead. [Doctor Strange falls unconscious and to the ground; Maw raises a portion of street pavement to use as a carrier, but the Cloak of Levitation works its master loose of the cable spiral and flies Doctor Strange away.] NO!",-0.0778846153846153,[ 1.7380191 -1.0626513],[ 1.3040661 -1.5643018],0.05902254581451416
+157,Tony Stark,infinity_war.txt,"[Still fighting Cull Obsidian, as Doctor Strange passes through the park.] Kid, that's the wizard. Get on it.",-0.05,[ 1.3361198 -0.6520578],[ 1.2364448 -1.4365467],0.040427982807159424
+158,Peter Parker,infinity_war.txt,On it!,0.0,[ 1.4643058 -0.5610542],[ 0.9249017  -0.89430517],0.028839588165283203
+159,Peter Parker,infinity_war.txt,[Untangles himself] Not cool!,-0.21875,[ 1.1190866  -0.34795484],[ 1.4246485 -1.5871342],0.061316102743148804
+160,Peter Parker,infinity_war.txt,"Uhhh, Mr. Stark? I'm being beamed up!",-0.25,[ 0.72574127 -0.11584258],[ 1.9080555 -2.1839902],0.11176738142967224
+161,Tony Stark,infinity_war.txt,"Hang on, kid. [Cull Obsidian's hammer doubles as a claw, pinning Iron Man to the ground and shorting his suit. As Obsidian jumps towards Iron Man, blades ready to end this fight, he is sent through a portal instead. The alien turns and leaps to return the same way, but Wong closes it rapidly -- only Obsidian's severed hand makes it back to the park. Bruce kicks the hand away with a noise of disgust.]",-0.0099999999999999,[ 1.5989388  -0.88716185],[ 0.8321773 -1.1211843],0.05980980396270752
+162,Tony Stark,infinity_war.txt,"[Iron Man shakes himself free of the Dwarf's weapon, now powerless.] Wong, you're invited to my wedding. [Iron Man begins to fly towards the large ship] Give me a little juice, F.R.I.D.A.Y. [Iron Man's foot thrusters morph together into a single larger jet and increase his speed considerably.]",0.0944196428571428,[ 1.6940438  -0.99869245],[ 0.8571453 -1.1288432],0.11887480318546295
+163,Tony Stark,infinity_war.txt,"[Still in pursuit of the ship and his protege.] Unlock 17-A. [A pod launches from the upstate Avengers headquarters and curves up to the accelerating circular ship.] Pete, you gotta let go. I'm gonna catch you.",0.0,[ 1.7180613 -1.0289587],[ 1.2652954 -1.4826051],0.05164724588394165
+164,Peter Parker,infinity_war.txt,"But you said save the wizard! [Spider-Man, gasping from lack of oxygen, pulls off his mask] I can't breathe!",0.0,[ 1.2557166 -0.4628425],[ 1.7963789 -2.0146472],0.09667056798934937
+165,Tony Stark,infinity_war.txt,You're too high up. You're running out of air.,0.16,[ 1.7864649 -1.1227605],[ 1.2872771 -1.0762247],0.07721835374832153
+166,Peter Parker,infinity_war.txt,Yeah! That makes sense.,0.0,[-1.3503896  1.6267688],[ 1.0577796 -1.0102936],0.03734287619590759
+167,Peter Parker,infinity_war.txt,"Mr. Stark, it smells like a new car in here!",-0.0147727272727272,[0.37632522 0.12927118],[ 1.7072417 -1.8291728],0.061989426612854004
+168,Tony Stark,infinity_war.txt,"Happy trails, kid. F.R.I.D.A.Y, send him home.",0.8,[ 1.2895715  -0.58677363],[ 1.78769   -1.7764202],0.1588512361049652
+169,Peter Parker,infinity_war.txt,"OH, COME ON!",0.0,[ 0.90785205 -0.1856249 ],[ 0.7425173  -0.69486177],0.08981093764305115
+170,Pepper Potts,infinity_war.txt,"[Sounding heavily worried] Tony? Oh, my God. Are you all right? What's going on?",0.0428571428571428,[ 2.2096796 -1.3105313],[ 2.1098874 -2.1864114],0.0964275598526001
+171,Tony Stark,infinity_war.txt,"Yeah, I'm fine. I just think we might have to push our 8",0.4166666666666667,[ 1.3865875 -0.6098503],[ 1.7428477 -1.7146904],0.13645459711551666
+172,Pepper Potts,infinity_war.txt,Why?,0.0,[ 1.8556874 -0.9093038],[ 1.1259345 -1.0720764],0.06853637099266052
+173,Tony Stark,infinity_war.txt,[While looking at the ship around him] Just 'cause I'll... probably not make it back for a while.,0.0,[ 1.4906114 -0.71243  ],[ 1.8489691 -1.9318312],0.08202001452445984
+174,Pepper Potts,infinity_war.txt,Tell me you're not on that ship.,0.0,[ 0.9779591  -0.37154663],[ 1.5389525 -1.589249 ],0.09293195605278015
+175,Tony Stark,infinity_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+176,Pepper Potts,infinity_war.txt,"God, no. Please tell me you're not on that ship.",0.0,[ 1.7746533  -0.94606847],[ 1.2684225 -1.3494458],0.10293716192245483
+177,Tony Stark,infinity_war.txt,"Honey, I'm sorry. I'm sorry, I don't know what to say.",-0.5,[ 1.5367361 -0.6685463],[ 1.8695678 -1.7232122],0.16868352890014648
+178,Pepper Potts,infinity_war.txt,"Come back here, Tony. I swear to God….",0.0,[ 1.9703836 -1.1383753],[ 1.7011973 -1.9224473],0.15994837880134583
+179,Tony Stark,infinity_war.txt,Pep….,0.0,[ 0.8404664  -0.21420383],[ 1.3473791 -1.3836287],0.025108665227890015
+180,Pepper Potts,infinity_war.txt,Come back here right now! Come back!,0.119047619047619,[ 1.9129719 -1.1478059],[ 1.7063073 -1.8697437],0.13347876071929932
+181,Peter Parker,infinity_war.txt,Oh my God! [Looks at the rapidly-receding planet behind him] I should have stayed on the bus....,-0.4,[ 0.9984587  -0.34254086],[ 1.8139147 -1.9061282],0.10818590223789215
+182,Bruce Banner,infinity_war.txt,Where you going?,0.0,[ 2.1224513 -1.1647586],[ 1.4487323 -1.4768219],0.05962616205215454
+183,Bruce Banner,infinity_war.txt,[Holding Rogers' cell phone] I'm gonna make a call.,0.0,[ 1.3808619  -0.47638512],[ 1.8784425 -1.9266136],0.04675522446632385
+184,Peter Quill,infinity_war.txt,"[Chair-dancing to the song] Sing it, Drax!",0.0,[ 1.3582264  -0.23901314],[ 1.5338924 -1.5344876],0.04110708832740784
+185,Rocket,infinity_war.txt,[Yawns] Why are we doing this again?,0.0,[ 1.6707549  -0.92857474],[ 1.6177883 -1.6963664],0.06872391700744629
+186,Gamora,infinity_war.txt,"[Annoyed] It's a distress signal, Rocket. Someone could be dying.",-0.4,[ 1.9244674 -1.1258998],[ 1.8343002 -2.0226705],0.019621282815933228
+187,Rocket,infinity_war.txt,"I get that, but why are we doing it?",0.0,[ 1.7517735 -1.0775944],[ 1.6395702 -1.6775472],0.11307182908058167
+188,Peter Quill,infinity_war.txt,'Cause we're nice. And maybe whoever it is will give us a little cheddar cheese [Quill rubs his thumb against his other fingers] for our help.,0.0958333333333333,[ 1.5662314  -0.75350994],[ 1.3987187 -1.5109247],0.17578881978988647
+189,Gamora,infinity_war.txt,[Waves her index finger at Quill] Which isn't the point.,0.0,[ 1.4678692  -0.75023973],[ 1.3064104 -1.349871 ],0.11708563566207886
+190,Peter Quill,infinity_war.txt,[Points back at Gamora] Which isn't the point... I mean… if he doesn't pony up….,0.0,[ 1.7904853 -1.2517079],[ 1.6150764 -1.9290313],0.024843990802764893
+191,Drax,infinity_war.txt,We'll take his ship.,0.0,[7.5911349e-01 4.4198893e-04],[ 0.74560773 -0.8934239 ],0.10999271273612976
+192,Rocket,infinity_war.txt,Exactly!,0.3125,[0.30419767 0.47121984],[ 0.98602754 -0.9001669 ],0.024750322103500366
+193,Peter Quill,infinity_war.txt,B-b-b-bingo!,0.0,[ 1.1573237 -0.3229012],[ 1.507805  -1.5477738],0.09177857637405396
+194,Mantis,infinity_war.txt,[Reading her console] We are arriving.,0.0,[ 0.90579045 -0.17911118],[ 1.5732212 -1.5665239],0.02427917718887329
+195,Peter Quill,infinity_war.txt,"All right, Guardians. Don't forget, this might be dangerous, so let's put on our mean faces. [Groot rolls his eyes as Mantis makes a snarl. Groot's handheld Terran-vintage video game beeps.] Groot, put that thing away. Now. I don't wanna tell you again. [Game continues beeping] Groot.",-0.2853571428571428,[ 1.3877033  -0.69569117],[ 1.062935 -1.131264],0.0760108232498169
+196,Peter Quill,infinity_war.txt,Whoa!,0.0,[-0.33307102  0.89721924],[ 1.4939834 -1.4469297],0.08784335851669312
+197,Rocket,infinity_war.txt,Language!,0.0,[0.14212818 0.5360213 ],[ 1.1287184 -0.9564971],0.027906835079193115
+198,Gamora,infinity_war.txt,Hey!,0.0,[0.6611168  0.13126478],[ 1.1559635 -1.1226578],0.02856665849685669
+199,Drax,infinity_war.txt,Wow.,0.1,[-0.23829356  0.8402889 ],[ 1.0188035  -0.94825435],0.0306379497051239
+200,Peter Quill,infinity_war.txt,"You got some acorns on you, kid.",0.0,[ 1.3703933 -0.5881881],[ 1.2825015 -1.2458681],0.09397143125534058
+201,Rocket,infinity_war.txt,"Ever since you got a little sap, you're a total d-hole. Keep it up, and I'm gonna SMASH THAT THING TO PIECES!",-0.09375,[ 1.697299  -1.0204588],[ 0.33723688 -0.3649166 ],0.15762892365455627
+202,Mantis,infinity_war.txt,What happened?,0.0,[ 2.0429142 -1.0419959],[ 1.545624  -1.4592237],0.023649483919143677
+203,Rocket,infinity_war.txt,Looks like we're not getting paid.,0.0,[-0.6072025  0.7109252],[ 1.5622234 -1.4803795],0.08423960208892822
+204,Rocket,infinity_war.txt,[Waving his hands] Wipers! Wipers! Get it off!,0.0,[ 1.4856457 -0.6171484],[ 0.6459568  -0.52320445],0.024103105068206787
+205,Peter Quill,infinity_war.txt,How the hell is this dude still alive?,0.1,[ 1.9015222 -1.1461382],[ 1.2867398 -1.4344479],0.08701750636100769
+206,Drax,infinity_war.txt,"[Sounding awed] He is not a dude. You're a dude. This... this is a man. A handsome, muscular man.",0.5,[ 1.5702877 -0.8851321],[ 1.6299826 -1.7695007],0.1742047667503357
+207,Peter Quill,infinity_war.txt,[A little dented] I'm muscular.,-0.1875,[ 1.690924  -0.7561498],[ 1.691002 -1.77607 ],0.17497053742408752
+208,Rocket,infinity_war.txt,"Who are you kidding, Quill? You're one sandwich away from fat.",0.0,[ 1.7039875  -0.88058513],[ 1.1603817 -1.1412371],0.05751708149909973
+209,Peter Quill,infinity_war.txt,"Yeah, right.",0.2857142857142857,[-0.30520234  0.72482014],[ 0.93773454 -0.83652747],0.02732032537460327
+210,Drax,infinity_war.txt,It's true. You have gained a little weight…. [Drax motions to his chin and belly.],0.0812499999999999,[ 1.2221243 -0.6873428],[ 1.6366742 -1.8229078],0.1729947328567505
+211,Peter Quill,infinity_war.txt,"What? Gamora, do you think I'm…",0.0,[ 2.070513  -1.2364637],[ 1.739134  -1.9034541],0.040395140647888184
+212,Mantis,infinity_war.txt,He is anxious. Angry. He feels tremendous loss and guilt.,-0.1388888888888889,[ 1.3444016 -0.8598006],[ 2.0895383 -1.9771402],0.1352359652519226
+213,Drax,infinity_war.txt,It's like a pirate had a baby with an angel.,0.0,[0.36604106 0.28197944],[ 1.0811862 -1.1342388],0.17065921425819397
+214,Peter Quill,infinity_war.txt,Wow. This is a real wake-up call for me. Okay. I'm gonna get a Bow-flex. I'm gonna commit. I'm gonna get some dumbbells.,0.2666666666666666,[ 1.3462641  -0.61985314],[ 1.3321255 -1.2921909],0.16131103038787842
+215,Rocket,infinity_war.txt,"You know you can't eat dumbbells, right?",0.2857142857142857,[0.27916124 0.17211732],[ 1.1871587 -1.1108044],0.05734914541244507
+216,Gamora,infinity_war.txt,"[Reaches Drax's side and picks up Thor's left arm, stroking his triceps] It's like his muscles are made of Cotati metal fibers.",0.0,[ 1.3534849 -0.5664876],[ 1.4163866 -1.622413 ],0.1579991579055786
+217,Peter Quill,infinity_war.txt,"[Snidely to Gamora] Stop massaging his muscles. [Gamora, annoyed, drops the arm with a thump; quietly to Mantis] Wake him up.",-0.2,[ 1.5721565 -0.9049875],[ 1.1935754 -1.3771976],0.17090445756912231
+218,Mantis,infinity_war.txt,[Places hand on Thor's forehead] Wake.,0.0,[ 1.5105377  -0.53166306],[ 1.4495445 -1.6301255],0.03506588935852051
+219,Thor,infinity_war.txt,Who the hell are you guys?,0.0,[ 2.1005936 -1.0900776],[ 1.5862776 -1.7516338],0.15226922929286957
+220,Gamora,infinity_war.txt,"The entire time I knew Thanos, he only ever had one goal",0.0,[ 0.99504215 -0.1642426 ],[ 1.6414798 -1.7312841],0.037154555320739746
+221,Drax,infinity_war.txt,Including my own.,0.6,[ 1.0099503  -0.18876898],[ 1.4073306 -1.3769752],0.07942524552345276
+222,Gamora,infinity_war.txt,"If he gets all six Infinity Stones, he can do it with the snap of his fingers, like this. [She snaps her fingers.]",0.0,[ 1.6950861 -0.7970186],[ 1.2033906 -1.3722066],0.09862804412841797
+223,Thor,infinity_war.txt,You seem to know a great deal about Thanos.,0.8,[-1.1834444  1.439859 ],[ 1.4686359 -1.5625254],0.05612093210220337
+224,Drax,infinity_war.txt,Gamora... is the daughter of Thanos.,0.0,[0.50249094 0.10283154],[ 1.0881509 -1.2063625],0.034326255321502686
+225,Thor,infinity_war.txt,Your father killed my brother. [Thor stands and strides towards Gamora aggressively.],-0.2,[ 0.8083575  -0.20470965],[ 1.1111889 -1.2952789],0.11977201700210571
+226,Peter Quill,infinity_war.txt,"Oh, boy. Stepfather. Technically, she hates him as much as you do. [Thor softens a bit.]",0.1,[ 0.90232927 -0.45418635],[ 1.3813832 -1.364663 ],0.17299793660640717
+227,Thor,infinity_war.txt,"Families can be tough. [He claps a hand on Gamora's shoulder] Before my father died, he told me I had a half-sister... that he imprisoned in Hel. Then she returned home, and stabbed me in the eye, so... I had to kill her. It's life, isn't it, I guess. Goes round and round and... I feel your pain.",-0.262962962962963,[ 1.6861093  -0.88212276],[ 1.2163979 -1.29879  ],0.17577356100082397
+228,Peter Quill,infinity_war.txt,"And I feel your pain, as well. I mean it's not a competition, but I've been through a lot. My father killed my mother, then I had to kill my father. And that was hard. Probably even harder than having to kill a sister. Plus, I, came out of it with both of my eyes--",-0.2260416666666666,[ 2.2415514 -1.3516716],[ 1.8439312 -1.7457507],0.16575241088867188
+229,Thor,infinity_war.txt,"[Not paying attention as he stares at his soup spoon] I need a hammer, not a spoon…. (He attempts to fiddle with machinery) How do I open this thing? Is there some sort of a four-digit code maybe… maybe a birth date or something….",0.0,[ 2.1436603 -1.4875517],[ 1.8946165 -2.0002475],0.04157501459121704
+230,Peter Quill,infinity_war.txt,What are you doing?,0.0,[ 2.0138843 -1.2099693],[ 1.7089423 -1.7421534],0.08302116394042969
+231,Thor,infinity_war.txt,Taking your pod.,0.0,[0.60280865 0.17605755],[ 1.5760149 -1.5780578],0.06513261795043945
+232,Peter Quill,infinity_war.txt,"[Clears his throat then deepens his voice] No, you're not! [Mimics Thor’s accent] You'll not, be taking our pod today, sir.",0.0,[ 1.808853  -1.0884187],[ 1.3366619 -1.4498838],0.17718254029750824
+233,Rocket,infinity_war.txt,Quill. Are you making your voice deeper?,0.0,[ 1.8460388 -1.1842158],[ 1.8085917 -1.7527993],0.16495434939861298
+234,Peter Quill,infinity_war.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+235,Drax,infinity_war.txt,You are. You're imitating the god-man. It's weird.,-0.5,[ 0.7780921  -0.15990996],[ 1.562884  -1.5889739],0.13614614307880402
+236,Peter Quill,infinity_war.txt,No I'm not.,0.0,[0.57027745 0.03288168],[ 1.479349  -1.3880765],0.076846182346344
+237,Mantis,infinity_war.txt,[Gasp] He just did it again!,0.0,[ 1.1814561 -0.3714768],[ 1.6569083 -1.7402447],0.04817900061607361
+238,Peter Quill,infinity_war.txt,This is my voice!,0.0,[ 1.4580073 -0.4940261],[ 1.421239  -1.1754584],0.16706925630569458
+239,Thor,infinity_war.txt,[Steps closer to Quill] Are you mocking me?,0.0,[ 1.6507386 -0.9409928],[ 1.5743238 -1.7989639],0.08799946308135986
+240,Peter Quill,infinity_war.txt,Are you mocking me?,0.0,[ 1.4812922  -0.67386085],[ 1.6355053 -1.7028474],0.14143162965774536
+241,Thor,infinity_war.txt,Stop it. You did it again.,0.0,[ 0.6746629  -0.06512053],[ 1.4138073 -1.2117163],0.08620280027389526
+242,Peter Quill,infinity_war.txt,He's trying to copy me.,0.0,[-0.29434976  0.9073403 ],[ 1.4428593 -1.463277 ],0.07400745153427124
+243,Thor,infinity_war.txt,Would you stop doing that? He's doing it first.,0.25,[ 0.7845789 -0.3048457],[ 1.2463923 -1.3907838],0.09510892629623413
+244,Gamora,infinity_war.txt,Enough! We need to stop Thanos. Which means we need to find out where he's going next.,0.0,[ 1.008352  -0.4032323],[ 0.55575037 -0.94140965],0.04100924730300903
+245,Thor,infinity_war.txt,Knowhere.,0.0,[0.6089724  0.03367677],[ 0.9327146  -0.86993986],0.0353582501411438
+246,Mantis,infinity_war.txt,He must be going somewhere.,0.0,[ 1.2194786  -0.39084923],[ 1.2512969 -1.271053 ],0.06569972634315491
+247,Peter Quill,infinity_war.txt,"[Voice now normal] No. Knowhere? It's a place. We've been there. It sucks. Excuse me, that's our food. [To Thor as he rummages through their food stores.]",-0.0666666666666666,[ 1.5042355  -0.78662944],[ 1.9103054 -1.9527729],0.09120702743530273
+248,Thor,infinity_war.txt,Not anymore.,0.0,[ 1.0937148  -0.24834606],[ 1.2083896 -1.1219602],0.05255770683288574
+249,Gamora,infinity_war.txt,Thor… why would he go to Knowhere?,0.0,[ 1.899228  -1.3284879],[ 1.4594167 -1.6742723],0.045517027378082275
+250,Thor,infinity_war.txt,"Because for years, the Reality Stone has been safely stored, there with a man we call the Collector.",0.5,[ 0.86584413 -0.4646979 ],[ 1.8268226 -1.9594566],0.02282947301864624
+251,Peter Quill,infinity_war.txt,"If it's with the Collector, then it's not safe. Only an idiot would give that man a stone.",-0.35,[ 1.8675009 -1.1866412],[ 0.8528818 -1.1412504],0.06311050057411194
+252,Thor,infinity_war.txt,Or a genius.,0.0,[0.28321424 0.4331094 ],[ 1.2077596 -1.1794966],0.06937089562416077
+253,Gamora,infinity_war.txt,[To Thor] How do you know he's not going for one of the other Stones?,-0.125,[ 2.1001706 -1.3492986],[ 1.382709  -1.6959425],0.03934067487716675
+254,Thor,infinity_war.txt,"There's six stones out there. [Finishes rummaging and steps in front of Gamora] Thanos already has the Power Stone because he stole it last week, when he decimated Xandar. He stole the Space Stone from me when he destroyed my ship and slaughtered half my people. The Time and Mind Stones are safe on Earth. They're with the Avengers.",0.1111111111111111,[ 1.5341713 -0.8538388],[ 0.8872926 -1.1828059],0.04822039604187012
+255,Peter Quill,infinity_war.txt,The 'Avengers'?,0.0,[ 0.805768   -0.08789845],[ 1.6574546 -1.8213644],0.02914220094680786
+256,Thor,infinity_war.txt,[By way of explanation.] Earth's Mightiest Heroes.,0.0,[ 1.0503219 -0.3388536],[ 1.874513 -2.070419],0.02735072374343872
+257,Mantis,infinity_war.txt,Like Kevin Bacon?,0.0,[ 1.0259509 -0.3648374],[ 1.4848343 -1.644466 ],0.03394597768783569
+258,Thor,infinity_war.txt,"[Pause] He may be on the team. I don't know. Haven't been there in a while. As for the Soul Stone, well, no one's ever seen that. No one even knows where it is. Therefore, Thanos can't get it. Therefore, he's going to Knowhere. Hence, he'll be getting the Reality Stone. You're welcome.",0.8,[ 2.1562595 -1.3751512],[ 1.6071721 -1.8126197],0.047292083501815796
+259,Gamora,infinity_war.txt,Then we have to go to Knowhere now.,0.0,[ 1.6554211  -0.88341933],[ 1.5242232 -1.425469 ],0.025410443544387817
+260,Thor,infinity_war.txt,"Wrong! Where we have to go, is Nivadellir.",-0.625,[ 1.7215527 -1.0909579],[ 1.7335938 -1.844031 ],0.034007251262664795
+261,Drax,infinity_war.txt,That's a made up word.,0.0,[0.3283525 0.5009198],[ 1.3960518 -1.1543838],0.04247778654098511
+262,Thor,infinity_war.txt,All words are made up.,0.0,[0.34453782 0.38678387],[ 1.4333421 -1.140556 ],0.02602556347846985
+263,Rocket,infinity_war.txt,"Hold up, Nidavellir is real? [Climbing on to the table] Seriously? I mean, that place is a legend. [Increasingly gleeful] They make the most powerful, horrific weapons to ever torment the Universe. I would very much like to go there, please.",-0.0087499999999999,[ 1.570328  -1.0048723],[ 1.4045626 -1.5552622],0.0908174216747284
+264,Thor,infinity_war.txt,"The rabbit is correct, and clearly the smartest among you.",0.1,[ 0.9720394  -0.33840308],[ 1.4202174 -1.4928199],0.06374099850654602
+265,Rocket,infinity_war.txt,Rabbit?,0.0,[ 1.6446975 -0.93238  ],[ 1.2303749 -1.3113271],0.02358648180961609
+266,Thor,infinity_war.txt,"Only Eitri the dwarf king can make me the weapon I need. [To Rocket] I assume you're the captain, sir?",0.0,[ 1.5142959  -0.64009064],[ 1.4639595 -1.7386911],0.08885848522186279
+267,Rocket,infinity_war.txt,You're very perceptive.,0.2,[-0.69612616  1.0577868 ],[ 1.6081141 -1.4737651],0.14554360508918762
+268,Thor,infinity_war.txt,You seem like a noble leader. Will you join me on my quest to Nidavellir?,0.6,[ 1.472897  -0.6105949],[ 1.6788402 -1.9995905],0.1347067654132843
+269,Rocket,infinity_war.txt,"Lemme just ask the captain. Oh, wait a second, it's me! Yeah, I'll go.",0.0,[ 1.2644527  -0.45063615],[ 1.7526911 -1.8043082],0.15663978457450867
+270,Thor,infinity_war.txt,Wonderful.,1.0,[-0.88633245  1.4578586 ],[ 1.3129648 -1.1787865],0.11799365282058716
+271,Peter Quill,infinity_war.txt,Except for that I'm the captain.,0.0,[0.22074147 0.55246705],[ 1.4783878 -1.4830865],0.08048176765441895
+272,Thor,infinity_war.txt,Quiet!,0.0,[ 1.1260018  -0.15372112],[ 1.3250788 -1.2950698],0.040868133306503296
+273,Peter Quill,infinity_war.txt,That's my backpack.,0.0,[ 1.0694293  -0.30049998],[ 1.4122367 -1.4894475],0.04939746856689453
+274,Rocket,infinity_war.txt,Go sit down.,-0.1555555555555555,[0.76501566 0.01277352],[ 1.1558648 -0.9571422],0.026143968105316162
+275,Peter Quill,infinity_war.txt,"[To Thor] Look, this is my ship. And I'm not goin' to… [gropes for ""Nidavellir""] Wait, what kind of weapon are we talking about here?",0.6,[ 1.8544639 -1.046718 ],[ 1.3758987 -1.6480492],0.06754609942436218
+276,Thor,infinity_war.txt,The Thanos killing kind.,0.6,[0.264737   0.44302493],[ 1.0872592 -1.307705 ],0.024013370275497437
+277,Peter Quill,infinity_war.txt,Don't you think that we should all have a weapon like that?,0.0,[ 0.7403012  -0.29826143],[ 1.2551259 -1.2557818],0.04487049579620361
+278,Thor,infinity_war.txt,No. You simply lack the strength to wield them. Your bodies will crumble as your minds collapse into the madness.,0.0,[ 2.0271802 -1.3320796],[ 1.1682101  -0.93111455],0.1705680787563324
+279,Rocket,infinity_war.txt,Is it weird that I wanna do it even more now?,0.0,[ 1.5215948  -0.94175124],[ 1.7056442 -1.7641183],0.08282727003097534
+280,Thor,infinity_war.txt,A little bit. Yeah.,-0.1875,[ 0.89650273 -0.34485844],[ 1.3294138 -1.2060851],0.08636903762817383
+281,Gamora,infinity_war.txt,"If we don't go to Knowhere and Thanos retrieves another stone, he'll be too powerful to stop.",0.3,[ 1.2753665 -0.5860921],[ 1.1636897 -1.494378 ],0.03748297691345215
+282,Thor,infinity_war.txt,He already is.,0.0,[0.4620524  0.21142069],[ 1.0989546 -1.1033229],0.0753616988658905
+283,Rocket,infinity_war.txt,"I got it figured out. We got two ships, and a large assortment of morons. So me and Groot will go with the pirate-angel here, and the morons will go to Knowhere to try and stop Thanos. Cool? Cool.",-0.1371428571428571,[0.19841306 0.34952155],[ 0.78375816 -0.9706787 ],0.04075402021408081
+284,Thor,infinity_war.txt,So cool. [Smiles a big grin.],0.175,[-0.27272722  0.78511083],[ 1.634302  -1.7845691],0.16151350736618042
+285,Peter Quill,infinity_war.txt,[To Rocket] For the record… I know that you're only going with him because it's where Thanos isn't.,0.0,[ 1.1067293  -0.49857342],[ 1.5596416 -1.7974495],0.04523664712905884
+286,Rocket,infinity_war.txt,"You know, you shouldn't talk that way to your captain, Quill. [As he enters the pod] Come on, Groot. Put that game down, you'll rot your brain.",-0.2777777777777778,[ 2.074363  -1.1959597],[ 1.3777522 -1.5094986],0.12475475668907166
+287,Thor,infinity_war.txt,"I bid you farewell and good luck, morons. Bye.",-0.05,[ 0.9095327 -0.3516773],[ 1.3659364 -1.2019683],0.18002650141716003
+288,Vision,infinity_war.txt,[Gasps and holds his hand to the Mind Stone in pain.],0.0,[ 1.583537  -0.7527991],[ 1.7708915 -1.8673036],0.05956864356994629
+289,Wanda Maximoff,infinity_war.txt,Vis? Is it the stone again?,0.0,[ 2.1511035 -1.330867 ],[ 1.5071543 -1.685222 ],0.04107287526130676
+290,Vision,infinity_war.txt,It's as if it's speaking to me.,0.0,[ 0.94254917 -0.06500372],[ 1.5516585 -1.456535 ],0.08457663655281067
+291,Wanda Maximoff,infinity_war.txt,What does it say?,0.0,[ 1.973803  -1.1243967],[ 1.492204  -1.4809887],0.02416810393333435
+292,Vision,infinity_war.txt,I don't... I don't know. But something...,0.0,[ 2.0994794 -1.2841917],[ 1.7841233 -1.8192534],0.040737420320510864
+293,Vision,infinity_war.txt,Tell me what you feel.,0.0,[ 1.2850819 -0.3012981],[ 1.9847087 -1.7718965],0.14300188422203064
+294,Wanda Maximoff,infinity_war.txt,I just feel you.,0.0,[ 0.980582   -0.13010737],[ 1.6852075 -1.4709193],0.16954490542411804
+295,Wanda Maximoff,infinity_war.txt,So there's a 10 AM to Glasgow to give us more time together before you went back.,0.25,[0.35832646 0.15724632],[ 1.9041542 -1.817993 ],0.04145050048828125
+296,Vision,infinity_war.txt,What if I miss that train?,0.0,[ 2.01628   -1.2133348],[ 1.7492931 -1.6494542],0.03287631273269653
+297,Wanda Maximoff,infinity_war.txt,There is an 11.,0.0,[ 1.2404956 -0.3723069],[ 1.179899  -1.1506014],0.02703857421875
+298,Vision,infinity_war.txt,"What if I missed all the trains? What if this time, I didn't go back?",0.0,[ 1.5525761 -1.0167087],[ 2.0687523 -1.9945837],0.023024827241897583
+299,Wanda Maximoff,infinity_war.txt,You gave Stark your word.,-0.2,[0.7318585  0.00994969],[ 1.4813238 -1.498252 ],0.1519334316253662
+300,Vision,infinity_war.txt,I'd rather give it to you.,0.0,[ 1.3586745 -0.568372 ],[ 1.1332059 -1.1274815],0.17751969397068024
+301,Wanda Maximoff,infinity_war.txt,"There are people who are expecting me too, you know. We both made promises.",0.0,[ 0.9491258 -0.2709622],[ 1.989796  -1.9436101],0.1276043951511383
+302,Vision,infinity_war.txt,"Not to each other. [He puts his hands on her shoulders] Wanda… for two years, we've stolen these moments, trying to see if this could work. And... I don't know. [Stammers] You know what, I'm just gonna speak for myself -- I, I... I think...",-0.125,[ 1.8307776 -0.9287016],[ 2.043538  -2.0228171],0.17112533748149872
+303,Wanda Maximoff,infinity_war.txt,It works.,0.0,[-0.85211545  1.3181335 ],[ 1.1656724 -1.1084437],0.02566489577293396
+304,Vision,infinity_war.txt,It works.,0.0,[-0.85211545  1.3181335 ],[ 1.1656724 -1.1084437],0.02566489577293396
+305,Vision,infinity_war.txt,Then stay. Stay with me.,0.0,[ 1.6736223  -0.93414986],[ 1.232104  -1.3097985],0.17591115832328796
+306,Vision,infinity_war.txt,[Suddenly very uncertain] Or not. If I'm overstepping…,0.2,[ 2.067687  -1.4415039],[ 1.7809784 -1.916895 ],0.025625377893447876
+307,Wanda Maximoff,infinity_war.txt,[Fearful] What are they?,-0.9,[ 2.0699341 -1.2907537],[ 1.3882214 -1.5392647],0.043960511684417725
+308,Vision,infinity_war.txt,What the stone was warning me about. [He kisses her hand] I have to go.,0.0,[ 1.7150418 -0.9807935],[ 1.5193136 -1.6377331],0.1735164225101471
+309,Wanda Maximoff,infinity_war.txt,"No, Vision. Vision, if that's true… then maybe going isn't the best idea.",1.0,[ 1.4746022 -1.0239686],[ 1.8862104 -1.8372293],0.021419674158096313
+310,Vision,infinity_war.txt,"Wanda, I… [Corvus Glaive appears suddenly behind Vision, stabbing him through the back. Vision screams, loses his glamour to return to his green, red and gold appearance, and is thrown down into the street.]",-0.2365079365079365,[ 1.7308699 -0.9138679],[ 1.416536  -1.6638228],0.13831502199172974
+311,Wanda Maximoff,infinity_war.txt,"Vision! [She circles her hands, gathering up energy for a counterattack when Proxima Midnight blasts her from behind, knocking the Scarlet Witch across the street and through a bistro's window.]",-0.4,[ 1.3784482  -0.56858236],[ 0.7094332 -0.7664987],0.030857831239700317
+312,Vision,infinity_war.txt,The blade. It stopped me from phasing.,0.0,[ 1.3398982  -0.53805536],[ 1.4971544 -1.5207694],0.07049974799156189
+313,Wanda Maximoff,infinity_war.txt,Is that even possible?,0.0,[ 1.8776326 -1.111653 ],[ 1.2724385 -1.2180697],0.028327643871307373
+314,Vision,infinity_war.txt,"It isn't supposed to be. [His voice distorts electronically] My systems are failing. [The Scarlet Witch gestures over his gaping wound, using her magic to knit him back together. Vision continues in a gasping, wry tone] I'm beginning to think... we should have stayed in bed.",0.25,[ 1.8344972 -1.1612084],[ 1.4296005 -1.4793172],0.17205682396888733
+315,Wanda Maximoff,infinity_war.txt,Vis!,0.0,[0.41192925 0.30780712],[ 0.9502297 -0.8937311],0.02662193775177002
+316,Wanda Maximoff,infinity_war.txt,Hands off.,0.0,[0.35703924 0.26928028],[ 1.0508585 -1.0504843],0.022616833448410034
+317,Wanda Maximoff,infinity_war.txt,"[Hushed voice, pleading.] Come on. Come on. Come on, you gotta get up. You gotta get up. Come on. Hey. Hey. We have to go.",0.0,[ 2.2866948 -1.2677006],[ 1.8679997 -1.8254381],0.14258220791816711
+318,Vision,infinity_war.txt,Please. Please leave.,0.0,[ 1.3063804  -0.43930703],[ 0.7825942  -0.74794644],0.11056382954120636
+319,Wanda Maximoff,infinity_war.txt,You asked me to stay.... I'm staying.,0.0,[ 1.3571737 -0.5820857],[ 1.8659862 -1.8530624],0.16718828678131104
+320,Vision,infinity_war.txt,Please.,0.0,[0.56739235 0.1031842 ],[ 0.95920455 -0.8912096 ],0.07966578006744385
+321,Wanda Maximoff,infinity_war.txt,Get up.,0.0,[ 0.9856737  -0.18629628],[ 1.2532133 -1.224379 ],0.04385507106781006
+322,Natasha Romanoff,infinity_war.txt,[Coolly] We don't wanna kill you. But we will.,0.35,[ 1.660274 -0.830864],[ 1.4545702 -1.5823509],0.1180666983127594
+323,Vision,infinity_war.txt,"[Electricity shimmers over his surface, and his voice distorts] Thank you, Captain.",0.0,[ 1.1563975  -0.43519026],[ 1.722444  -1.9301915],0.17566542327404022
+324,Steve Rogers,infinity_war.txt,[Nods] Let's get you on the jet.,0.0,[ 1.5044407  -0.66513693],[ 1.4281895 -1.4904792],0.04877370595932007
+325,Natasha Romanoff,infinity_war.txt,"[Closing the doors to the Quinjet, while addressing Wanda] I thought we had a deal. Stay close, check in. Don't take any chances.",0.0,[ 1.4607936 -0.7624974],[ 1.7917651 -1.8468435],0.03320673108100891
+326,Wanda Maximoff,infinity_war.txt,I'm sorry. We just wanted time.,-0.5,[ 1.0170906  -0.22867066],[ 2.050545  -1.8168923],0.16775546967983246
+327,Steve Rogers,infinity_war.txt,Home.,0.0,[0.2650329  0.28305614],[ 0.9148712 -0.8536308],0.030481964349746704
+328,Ebony Maw,infinity_war.txt,Zehobereians…,0.0,[ 0.7305128  -0.06547296],[ 1.6347023 -1.8454654],0.029391318559646606
+329,Ebony Maw,infinity_war.txt,"Zen-Whoberis... Choose a side, or die.",0.0,[ 2.2434478 -1.3667834],[ 1.6350871 -1.8064502],0.04379063844680786
+330,Ebony Maw,infinity_war.txt,"One side is a revelation. The other, an honor known only to a few.",-0.1083333333333333,[ 1.2509148  -0.65927213],[ 1.7806109 -1.658858 ],0.0643145740032196
+331,Thanos,infinity_war.txt,"What's wrong, little one?",-0.34375,[ 2.228418  -1.3033483],[ 1.6854745 -1.7526938],0.10239377617835999
+332,Thanos,infinity_war.txt,[Kneels down to Gamora] What's your name?,-0.1555555555555555,[ 2.2046728 -1.2025058],[ 1.6922461 -1.9334319],0.059138745069503784
+333,Thanos,infinity_war.txt,"You're quite the fighter, Gamora. Come. Let me help you. [Thanos offers his hand; she wraps her little fingers around one massive finger, and he leads her to a pavilion, where he crouches to her eye level again and produces a small -- for him -- red-jeweled handle. Pressing the switch, razor-sharp blades pop out both ends.] Look. Pretty, isn't it? Perfectly balanced. As all things should be. Too much to one side, or the other… [He balances it on one finger, overbalances it purposefully and catches it.] Here. You try.",0.1589285714285714,[ 2.0620468 -1.4407066],[ 1.3053328 -1.3669523],0.1286080777645111
+334,Ebony Maw,infinity_war.txt,"Now go in peace, and meet your Maker.",0.0,[ 1.764691   -0.78484076],[ 1.4195839 -1.4916427],0.13894961774349213
+335,Thanos,infinity_war.txt,Concentrate. There! You've got it.,0.0,[0.09154145 0.41723195],[ 1.7864696 -1.7063291],0.0718102753162384
+336,Peter Quill,infinity_war.txt,"Gamora. Do you know if these grenades are the ""blow off your junk"" kind or the gas kind? 'Cause I was thinking I might hang a couple on my belt right here. But I don't want to--",0.4952380952380952,[ 2.0557342 -1.3228767],[ 1.1780256 -1.3643034],0.07066953182220459
+337,Gamora,infinity_war.txt,I need to ask a favor.,0.0,[ 1.8417115 -0.9455525],[ 1.5682175 -1.5503465],0.053949981927871704
+338,Peter Quill,infinity_war.txt,"Yeah, sure.",0.5,[-0.35265577  0.7194339 ],[ 1.0027777 -0.9140059],0.027217984199523926
+339,Gamora,infinity_war.txt,"One way or another, the path that we're on leads to Thanos.",0.0,[ 1.3505944 -0.6832138],[ 1.4110659 -1.5487128],0.018253982067108154
+340,Peter Quill,infinity_war.txt,Which is what the grenades are for. [Gamora silences him with a look.] I'm sorry. What's the favor?,-0.5,[ 1.1752837  -0.53429145],[ 1.449763 -1.612755],0.06008094549179077
+341,Gamora,infinity_war.txt,If things go wrong… If Thanos gets me… I want you to promise me… you'll kill me.,0.0,[ 1.986372  -1.1574357],[ 1.3634512 -1.6474917],0.17034408450126648
+342,Peter Quill,infinity_war.txt,[A beat. Confusion.] What?,0.0,[ 1.8101032 -1.0634686],[ 1.79763   -1.7831094],0.026751071214675903
+343,Gamora,infinity_war.txt,I know something he doesn't. If he finds out… the entire Universe could be at risk.,0.0,[ 1.952387  -1.2982025],[ 1.5329305 -1.7499306],0.036605000495910645
+344,Peter Quill,infinity_war.txt,What do you know?,0.0,[ 2.1374507 -1.249578 ],[ 1.5376052 -1.4173262],0.04943305253982544
+345,Gamora,infinity_war.txt,"If I tell you, you'd know, too.",0.0,[ 1.2279639  -0.38305643],[ 1.7540032 -1.5775005],0.10181672871112823
+346,Peter Quill,infinity_war.txt,"If it's so important, shouldn't I?",0.4,[ 1.1354078  -0.38888428],[ 1.4619918 -1.4345922],0.06367653608322144
+347,Gamora,infinity_war.txt,Only if you wanna die.,0.0,[ 1.1757177  -0.30880016],[ 1.4770626 -1.4922034],0.06412509083747864
+348,Peter Quill,infinity_war.txt,Why does somebody always have to die in this scenario?,0.0,[ 1.8847275 -0.9761009],[ 1.7539772 -1.718686 ],0.09105038642883301
+349,Gamora,infinity_war.txt,"Just… trust me. And possibly, kill me.",0.0,[ 1.5784076  -0.96983236],[ 1.6278485 -1.5860156],0.1713571846485138
+350,Peter Quill,infinity_war.txt,"I mean, I'd like to. I really would… [Gamora silences him by covering his mouth with her hand.]",-0.0562499999999999,[ 1.5076381 -0.8326078],[ 1.3889145 -1.3919315],0.1729983687400818
+351,Gamora,infinity_war.txt,Swear to me. Swear to me on your mother.,0.0,[ 1.8879824  -0.95703936],[ 0.6467482  -0.62849164],0.17218776047229767
+352,Peter Quill,infinity_war.txt,[A beat. One that rests with him significantly.] Okay.,0.5,[ 1.9103227 -1.0926789],[ 1.9030439 -2.005194 ],0.020448893308639526
+353,Peter Quill,infinity_war.txt,Dude. How long have you been standing there?,-0.05,[ 1.9070328 -1.2576833],[ 1.7187662 -1.6978731],0.12458387017250061
+354,Drax,infinity_war.txt,An hour.,0.0,[0.29850498 0.36191612],[ 1.1976167 -1.0481293],0.030911743640899658
+355,Peter Quill,infinity_war.txt,An hour? Are you serious?,-0.3333333333333333,[ 1.7097163 -0.889332 ],[ 1.603755  -1.4575645],0.06716251373291016
+356,Drax,infinity_war.txt,I've mastered the ability of standing so incredibly still... that I become invisible to the eye... watch.,0.9,[ 0.647509   -0.16352195],[ 1.7198416 -1.6736172],0.0774509608745575
+357,Peter Quill,infinity_war.txt,You're eating a zarg-nut.,0.0,[0.15076438 0.38290033],[ 1.341402  -1.2840315],0.03407737612724304
+358,Drax,infinity_war.txt,But my movement... was so slow... that it's imperceptible.,-0.25,[ 1.0547415  -0.64376014],[ 1.9137177 -1.8680495],0.115640789270401
+359,Peter Quill,infinity_war.txt,"Mmm, no. [Quill and Gamora shake their heads.]",0.0,[ 1.7002596  -0.91895044],[ 1.6613923 -1.679902 ],0.05694901943206787
+360,Drax,infinity_war.txt,I'm sure I'm invisible.,0.5,[ 0.9546974  -0.10537548],[ 1.7631596 -1.6507277],0.06348791718482971
+361,Mantis,infinity_war.txt,"Hi, Drax.",0.0,[0.53590673 0.26660088],[ 1.2695289 -1.3521227],0.03344959020614624
+362,Drax,infinity_war.txt,[Knowing when he is beat] Damn it.,0.0,[0.75184983 0.1259593 ],[ 1.3205942 -1.4208571],0.08396026492118835
+363,Peter Quill,infinity_war.txt,This place looks deserted.,0.0,[0.36543214 0.23133346],[ 1.7054623 -1.7582564],0.03948524594306946
+364,Drax,infinity_war.txt,I'm reading movement from the third quadrant.,0.0,[0.8359387  0.00463864],[ 1.58773  -1.645764],0.021125435829162598
+365,Peter Quill,infinity_war.txt,"Yep. I'm picking that up, too. Let's put it down right here.",0.065079365079365,[ 2.253442  -1.5633366],[ 1.4414533 -1.5037607],0.14316120743751526
+366,Thanos,infinity_war.txt,Everyone in the Galaxy knows you'd sell your own brother if you thought it would add the slightest trinket to your pathetic collection.,-0.2,[ 0.6744425  -0.31851736],[ 1.6461545 -1.7307079],0.15277862548828125
+367,Thanos,infinity_war.txt,"I know you have the Reality Stone, Tivan. Giving it to me will spare you a great deal of suffering. [Thanos places a heavy boot on the middle of the Collector's chest and presses.]",0.2,[ 1.8089623 -1.0635664],[ 1.2900263 -1.5644643],0.177252858877182
+368,Thanos,infinity_war.txt,I imagine it's like breathing for you.,0.0,[0.02863345 0.5116925 ],[ 2.0376966 -1.9101983],0.15017521381378174
+369,Thanos,infinity_war.txt,So you do understand. Not even you would surrender something so precious.,0.5,[ 1.3402833  -0.53918886],[ 1.7708056 -1.7360133],0.07957190275192261
+370,Thanos,infinity_war.txt,"Then you're more of a fool than I took you for. Last chance, charlatan. Where's the Stone?",0.25,[ 1.6467026 -0.9794301],[ 1.1471738 -1.1798891],0.12020246684551239
+371,Drax,infinity_war.txt,Today...,0.0,[0.32878488 0.3526338 ],[ 1.5049608 -1.388458 ],0.025979220867156982
+372,Peter Quill,infinity_war.txt,[Grasping the danger] Drax. Drax.,0.0,[ 1.805602  -0.8254605],[ 1.232581  -1.4638237],0.04075580835342407
+373,Drax,infinity_war.txt,...He pays for the deaths of my wife and daughter.,0.0,[0.03834587 0.43885753],[ 1.5348165 -1.5223316],0.16510571539402008
+374,Peter Quill,infinity_war.txt,"Drax, waaaaait! [Drax draws his long dagger from his leg scabbard.] Not yet, not yet, not yet. [Drax gives him a look and heads towards Thanos. Quill hurries as quietly as possible to catch up.] Drax, Drax, Drax. He doesn't have the Stone yet. We get it, and then we can stop him. We have to get the Stone first. Yeah.",0.0666666666666666,[ 2.0524383 -1.2730833],[ 1.0819079 -1.3941126],0.06952199339866638
+375,Drax,infinity_war.txt,No. No. For Ovette. For Camaria.,0.0,[ 2.0407224 -1.2448778],[ 1.4283005 -1.3965536],0.025616824626922607
+376,Mantis,infinity_war.txt,"Sleeeep. [Drax is knocked out, his falling body causing a loud crash. Everybody ducks.]",0.1,[ 0.9840836  -0.33967158],[ 1.5085325 -1.6826745],0.0423504114151001
+377,Peter Quill,infinity_war.txt,"Okay. Gamora, Mantis, you go right. I'm... [Gamora moves towards Thanos] The other right!",0.2544642857142857,[ 1.9308115 -1.1449072],[ 1.4065458 -1.6821003],0.05580583214759827
+378,Thanos,infinity_war.txt,"Why? [He falls down] Why you? Daughter… [He holds his hand out to her, blood pooling out from his neck wound, before collapsing completely. Gamora breaks down, sobbing.]",-0.0703703703703703,[ 1.9562389 -1.2086557],[ 1.7545937 -1.7392927],0.169086754322052
+379,Peter Quill,infinity_war.txt,[Surprised] That was quick.,0.2166666666666666,[0.67534703 0.11700732],[ 1.5676566 -1.5510572],0.018976449966430664
+380,Thanos,infinity_war.txt,"Is it sadness I sense in you, daughter? In my heart, I knew you still cared. But one ever knows for sure. Reality is often disappointing.",-0.0499999999999999,[ 2.1591358 -1.3246721],[ 1.8704973 -1.6835787],0.16635958850383759
+381,Thanos,infinity_war.txt,"That is, it was. Now… reality can be whatever I want.",0.0,[ 1.4546801  -0.67951596],[ 1.5372137 -1.4236196],0.060441017150878906
+382,Gamora,infinity_war.txt,"[Her face still wet, but no longer crying] You knew I'd come.",-0.15,[ 1.5707954 -0.6739728],[ 1.7641662 -1.5753189],0.17027771472930908
+383,Thanos,infinity_war.txt,"I counted on it. There's something we need to discuss, little one.",-0.1875,[ 2.1456869 -1.2495458],[ 1.669783  -1.6463647],0.036492615938186646
+384,Drax,infinity_war.txt,Thanos!,0.0,[0.4561624  0.37750405],[ 1.1192756 -1.2411954],0.02372613549232483
+385,Peter Quill,infinity_war.txt,"[Moving in, his blaster pointed right at Thanos] Let her go, Grimace!",0.3571428571428571,[ 1.4451423  -0.52509147],[ 0.3890751 -0.6335052],0.08025652170181274
+386,Gamora,infinity_war.txt,Peter…,0.0,[ 0.7669014  -0.21687049],[ 1.6219704 -1.7217535],0.03359988331794739
+387,Peter Quill,infinity_war.txt,[To Gamora] I told you to go right.,0.2857142857142857,[ 1.1290379  -0.28665718],[ 1.5073756 -1.5684105],0.027323544025421143
+388,Gamora,infinity_war.txt,Now? Really?,0.2,[ 0.95187   -0.2019982],[ 1.5045239 -1.3656242],0.03428265452384949
+389,Peter Quill,infinity_war.txt,You let her go!,0.0,[ 1.2276772  -0.47008598],[ 0.48322815 -0.36075166],0.1737639605998993
+390,Thanos,infinity_war.txt,"Ah, the boyfriend.",0.0,[-1.5053356  1.857832 ],[ 1.3234872 -1.4606854],0.1713455319404602
+391,Peter Quill,infinity_war.txt,I like to think of myself more as a Titan-killing long-term booty call. Let her go.,0.5,[ 1.4614028 -0.7782141],[ 0.25297207 -0.26859763],0.1779751181602478
+392,Gamora,infinity_war.txt,Peter…,0.0,[ 0.7669014  -0.21687049],[ 1.6219704 -1.7217535],0.03359988331794739
+393,Peter Quill,infinity_war.txt,Or I'm gonna blow that nut sack of a chin right off your face!,0.3571428571428571,[ 1.8251567 -0.880499 ],[ 0.07449204 -0.16861348],0.1944282054901123
+394,Gamora,infinity_war.txt,Not him.,0.0,[ 1.0505993  -0.25157663],[ 1.1280816 -1.106372 ],0.0909818708896637
+395,Gamora,infinity_war.txt,You promised! You promised.,0.0,[0.16046174 0.4495854 ],[ 1.5593332 -1.5453008],0.1463475227355957
+396,Thanos,infinity_war.txt,"Oh, daughter. You expect too much from him. [to Quill] She's asked, hasn't she? Do it. [There is a very tense and unpleasant pause. Thanos rolls his head and shoves Gamora towards Quill’s gun, egging him on.] DO IT!!",-0.4111111111111111,[ 1.6950076 -1.0408989],[ 0.788121  -0.7976055],0.125676691532135
+397,Peter Quill,infinity_war.txt,[Tearing up] I told you to go right.,0.2857142857142857,[ 1.1938512  -0.28399953],[ 1.7328424 -1.6919564],0.10127854347229004
+398,Gamora,infinity_war.txt,"I love you, more than anything.",0.5,[ 0.9687337  -0.30084664],[ 1.8539878 -1.7619076],0.18471205234527588
+399,Peter Quill,infinity_war.txt,"I love you, too.",0.5,[0.6803527  0.09174209],[ 1.7170883 -1.6696093],0.1828482449054718
+400,Thanos,infinity_war.txt,[Genuinely sincere] I like you.,0.5,[ 1.0345831 -0.3724329],[ 1.83237   -1.9017922],0.17283132672309875
+401,James Rhodes,infinity_war.txt,Satellites lost him somewhere over Edinburgh.,0.0,[ 0.70170593 -0.03032453],[ 1.4940722 -1.6861941],0.03958255052566528
+402,James Rhodes,infinity_war.txt,"You know they're only criminals because you've chosen to call them that, right, sir?",0.1428571428571428,[-0.24991302  0.68015873],[ 1.2527287 -1.4506296],0.11567272245883942
+403,James Rhodes,infinity_war.txt,"If it weren't for those Accords, Vision would've been right here.",0.2857142857142857,[ 1.4595956  -0.72463804],[ 1.7636832 -1.6285702],0.026993751525878906
+404,James Rhodes,infinity_war.txt,[Sounding a little bitter] That's right. And I'm pretty sure I've paid for that. [We get a good look at his leg braces],0.2413690476190476,[ 0.8113279  -0.27090025],[ 1.7335714 -1.7985679],0.17426379024982452
+405,James Rhodes,infinity_war.txt,Not anymore.,0.0,[ 1.0937148  -0.24834606],[ 1.2083896 -1.1219602],0.05255770683288574
+406,Steve Rogers,infinity_war.txt,Mr. Secretary.,0.0,[-0.19397295  0.695273  ],[ 1.2900405 -1.235004 ],0.02582317590713501
+407,Natasha Romanoff,infinity_war.txt,You could use some of that right now.,0.2857142857142857,[ 1.6698457  -0.97185373],[ 1.3880398 -1.2535549],0.1215766966342926
+408,Steve Rogers,infinity_war.txt,"I'm not looking for forgiveness. And I'm way past asking for permission. Earth just lost her best defender. So we're here to fight. [Steve takes a step forward, looking right at Ross] And if you wanna stand in our way... we'll fight you, too.",0.3452380952380952,[ 2.0740447 -1.2634856],[ 1.2536219 -1.3956276],0.15183928608894348
+409,James Rhodes,infinity_war.txt,"All over it. [Swipes off hologram; the computer beeps twice] That's a court-martial. It's great to see you, Cap.",0.8,[-0.54924166  1.1609317 ],[ 2.1062334 -1.9573015],0.051920533180236816
+410,Steve Rogers,infinity_war.txt,"[Hugging Rhodes] You too, Rhodey. [Natasha gets her own embrace.]",0.6,[ 1.6248     -0.99103767],[ 1.4247736 -1.6756577],0.17506009340286255
+411,James Rhodes,infinity_war.txt,Well. You guys really look like crap. Must've been a rough couple of years.,-0.2333333333333333,[-0.32354838  0.7771155 ],[ 1.6510794 -1.5246841],0.17937922477722168
+412,Bruce Banner,infinity_war.txt,"Uh, I think you look great. [Rhodes and Natasha long round to see Bruce walking in from the opposite end of the room.] Uh... heh... Yeah. I'm back.",0.11,[ 0.38540965 -0.03108262],[ 1.8565289 -2.076244 ],0.17476093769073486
+413,Natasha Romanoff,infinity_war.txt,"Hi, Bruce.",0.0,[-0.25748962  0.8623587 ],[ 1.4342552 -1.4362944],0.03319159150123596
+414,Bruce Banner,infinity_war.txt,Nat.,0.0,[ 0.6020947  -0.04703896],[ 0.7698318 -0.6987065],0.021020472049713135
+415,James Rhodes,infinity_war.txt,"So we gotta assume they're coming back, right?",0.1428571428571428,[ 0.6009346  -0.04784248],[ 1.4846543 -1.5461532],0.040050208568573
+416,Wanda Maximoff,infinity_war.txt,And they can clearly find us.,0.1,[0.2728065  0.34466717],[ 1.435249  -1.4190948],0.07798999547958374
+417,Bruce Banner,infinity_war.txt,We need all hands on deck. Where's Clint?,0.0,[ 2.2181852 -1.2770045],[ 1.446632  -1.4274744],0.025021135807037354
+418,Natasha Romanoff,infinity_war.txt,"After the whole Accords situation, he and Scott took a deal. It was too tough on their families, they're on house arrest.",-0.0796296296296296,[0.1395313  0.37212843],[ 2.0013673 -1.9440222],0.09568125009536743
+419,Bruce Banner,infinity_war.txt,Who's Scott?,0.0,[ 2.1423218 -1.2145025],[ 1.3319795 -1.4025365],0.037761539220809937
+420,Steve Rogers,infinity_war.txt,Ant-Man.,0.0,[0.41728917 0.17871138],[ 1.1604352 -1.1601783],0.028081119060516357
+421,Bruce Banner,infinity_war.txt,"There's an Ant-Man and a Spider-Man? Okay, look… Thanos has the biggest army in the universe. And he is not gonna stop until he... he gets... Vision's Stone.",0.5,[ 0.74520904 -0.14738455],[ 1.27646  -1.599571],0.04285323619842529
+422,Natasha Romanoff,infinity_war.txt,"Well then, we have to protect it.",0.0,[-0.09411249  0.6547499 ],[ 1.3192606 -1.3280782],0.08676362037658691
+423,Vision,infinity_war.txt,"No, we have to destroy it. I've been giving a good deal of thought to this entity in my head, about its nature. But also, its composition. I think if it were exposed to a sufficiently powerful energy source, something, very similar to its own signature, perhaps… its molecular integrity could fail. [Vision addresses Wanda as he nears her.]",0.15,[ 2.050837  -1.3955199],[ 1.2938584 -1.4573342],0.053911417722702026
+424,Wanda Maximoff,infinity_war.txt,"And you, with it. We're not having this conversation.",0.0,[ 1.7139418 -0.9426642],[ 0.8756321  -0.81729805],0.12925955653190613
+425,Vision,infinity_war.txt,Eliminating the stone is the only way to be certain that Thanos can't get it.,0.1071428571428571,[0.33459604 0.03771304],[ 0.9905145 -1.2998605],0.04381197690963745
+426,Wanda Maximoff,infinity_war.txt,That's too high a price.,0.16,[ 1.272187  -0.7185658],[ 1.2232602 -1.1297404],0.06764748692512512
+427,Vision,infinity_war.txt,"[Takes her face gently in both hands] Only you have the power to pay it. [Wanda walks away, distressed] Thanos threatens half the Universe. One life cannot stand in the way of defeating him.",0.0111111111111111,[ 1.8924572 -1.0408375],[ 0.7429353  -0.89210016],0.1508384495973587
+428,Steve Rogers,infinity_war.txt,"[Eyes diverted down] But it should. [Looks up at Vision] We don't trade lives, Vision.",-0.1555555555555555,[ 1.4875616  -0.95738024],[ 1.6591161 -1.89249  ],0.02242034673690796
+429,Vision,infinity_war.txt,"[Walking toward Steve] Captain, 70 years ago, you laid down your life to save how many millions of people. Tell me, why is this any different?",0.1148148148148148,[ 1.6738693 -0.9014763],[ 2.1100988 -2.2106864],0.11326706409454346
+430,Bruce Banner,infinity_war.txt,"Because you might have a choice. Your mind is made up of a complex construct of overlays. J.A.R.V.I.S., Ultron, Tony, me, the Stone. All of them mixed together. All of them learning from one another.",-0.15,[ 2.0277824 -1.3192966],[ 2.179057  -2.1044366],0.04256933927536011
+431,Wanda Maximoff,infinity_war.txt,You're saying Vision isn't just the stone?,0.0,[ 1.253016   -0.52741045],[ 1.9565706 -1.983565 ],0.03653004765510559
+432,Bruce Banner,infinity_war.txt,"I'm saying that if we take out the stone, there's still a whole lot of Vision left. Perhaps the best parts.",0.3999999999999999,[ 1.1737357 -0.6633943],[ 1.6443917 -1.8365859],0.05310133099555969
+433,Natasha Romanoff,infinity_war.txt,Can we do that?,0.0,[ 1.5955248 -0.8576613],[ 1.4923755 -1.4617593],0.054608702659606934
+434,Bruce Banner,infinity_war.txt,Not me. Not here.,0.0,[ 1.92023   -1.1151006],[ 1.5524082 -1.5194293],0.09118658304214478
+435,James Rhodes,infinity_war.txt,"You better find someone, and somewhere fast. Ross isn't exactly just gonna let you guys have your old rooms back.",0.21,[ 1.4420487 -0.9561426],[ 1.803842  -1.8181626],0.17155052721500397
+436,Steve Rogers,infinity_war.txt,I know somewhere.,0.0,[ 1.517222   -0.57122177],[ 1.3108224 -1.2656611],0.039439260959625244
+437,T'Challa,infinity_war.txt,And the Border Tribe?,0.0,[ 0.7389437  -0.22383013],[ 1.362654  -1.4712919],0.02974662184715271
+438,T'Challa,infinity_war.txt,Send word to the Jabari as well. M'Baku likes a good fight.,0.7,[ 1.3986946  -0.54866016],[ 1.607455  -1.8190094],0.030287981033325195
+439,T'Challa,infinity_war.txt,"This one may be tired of war. [James ""Bucky"" Buchanan Barnes is seen at a small distance throwing a bag from a pile on the ground onto a partly-filled cart, while two village children watch] But the White Wolf has rested long enough.",-0.14,[ 1.3487847 -0.671973 ],[ 1.2350378 -1.4651843],0.023121893405914307
+440,T'Challa,infinity_war.txt,On its way.,0.0,[ 0.72206587 -0.11781516],[ 1.1063696 -1.0221535],0.03546586632728577
+441,Ebony Maw,infinity_war.txt,"In all the time I've served Thanos, I've never failed him. If I were to reach our rendezvous on Titan with the Time Stone still attached to your vaguely irritating person, there would be... judgement. [The needles start to contact Dr. Strange's face, causing an obviously painful whitish subcutaneous glow at each touch] Give me... the stone.",-0.2249999999999999,[ 2.0488367 -1.261059 ],[ 1.4876541 -1.690322 ],0.12162235379219055
+442,Tony Stark,infinity_war.txt,"Wow you're a seriously loyal piece of outerwear, aren't you?",0.2166666666666666,[-0.92187196  1.1411595 ],[ 1.4261777 -1.4996725],0.1742589920759201
+443,Peter Parker,infinity_war.txt,"Yeah, uh, speaking of loyalty....",0.0,[-0.19228262  0.5658442 ],[ 1.7335781 -1.895232 ],0.12945717573165894
+444,Tony Stark,infinity_war.txt,What the--,0.0,[ 1.27281    -0.53016716],[ 1.369254  -1.3299423],0.0306817889213562
+445,Peter Parker,infinity_war.txt,I know what you're gonna say.,0.0,[0.6048082  0.27002335],[ 1.4377619 -1.2451986],0.11126048862934113
+446,Tony Stark,infinity_war.txt,You should not be here.,0.0,[ 1.3196535  -0.62238395],[ 1.3314288 -1.1849904],0.13291850686073303
+447,Peter Parker,infinity_war.txt,I was gonna go home--,0.0,[ 1.294523   -0.62733984],[ 1.4507776 -1.3221196],0.047186851501464844
+448,Tony Stark,infinity_war.txt,I don't wanna hear it.,0.0,[ 1.1611093  -0.32434386],[ 1.2745701 -1.083334 ],0.11862972378730774
+449,Peter Parker,infinity_war.txt,But it was such a long way down and I just thought about you on the way...,-0.0685185185185185,[ 1.5213858 -0.7726277],[ 2.1096969 -1.9539919],0.13037598133087158
+450,Tony Stark,infinity_war.txt,And now I gotta hear it.,0.0,[0.9862646  0.00661372],[ 1.3790861 -1.156073 ],0.07181656360626221
+451,Peter Parker,infinity_war.txt,"...And I kinda stuck to the side of the ship. And this suit is ridiculously intuitive, by the way. So if anything, it's kinda your fault that I'm here.",-0.3333333333333333,[ 0.75238115 -0.29875517],[ 1.8219193 -1.8904698],0.10724064707756042
+452,Tony Stark,infinity_war.txt,[Seriously] What did you just say?,-0.3333333333333333,[ 2.0479314 -1.2843956],[ 1.8481168 -1.7941824],0.03812888264656067
+453,Peter Parker,infinity_war.txt,I take that back. And now I'm here in space.,0.0,[ 1.0340202  -0.24347186],[ 1.5972198 -1.6145543],0.10082940757274628
+454,Tony Stark,infinity_war.txt,Yeah. [Tony crosses to stand right in front of Peter] Right where I don't want you to be. This isn't Coney Island. This isn't a field trip. It's a one-way ticket. You hear me? Don't pretend like you thought this through. You could not have possibly thought this through.,0.1904761904761904,[ 2.0648148 -1.2815007],[ 1.855347  -1.8300843],0.07918646931648254
+455,Peter Parker,infinity_war.txt,No. I did think this through.,0.0,[ 1.2675353  -0.65180063],[ 1.6985487 -1.6012093],0.0511244535446167
+456,Tony Stark,infinity_war.txt,You could not have possibly thought this through.,0.0,[ 1.4823065  -0.88706666],[ 1.4525095 -1.2681291],0.06814941763877869
+457,Peter Parker,infinity_war.txt,"It's just .. you can't be a friendly neighborhood Spider-Man if there's no neighborhood. [He waits for Tony's reaction] Okay. That didn't really make any sense, but you know what I'm trying to say.",0.3583333333333333,[ 1.4110676  -0.70515937],[ 1.9593146 -2.0840943],0.06633037328720093
+458,Tony Stark,infinity_war.txt,"[Breaths shakily] Come on. We got a situation. [He leads Peter over to a viewpoint on the torture below. Peter crouches to study the situation, the Cloak leaning over his shoulder.] See him down there? He's in trouble. What's your plan? Go.",-0.2296296296296296,[ 2.138611  -1.4026515],[ 1.889381  -2.1786768],0.15386269986629486
+459,Peter Parker,infinity_war.txt,"Um. Okay, okay... uh... [Peter and the Cloak pop back upright] Okay. Did you ever see this really old movie, Aliens?",0.32,[ 1.260805  -0.6539209],[ 1.86314   -2.0994232],0.03896903991699219
+460,Ebony Maw,infinity_war.txt,Painful aren't they? They were originally designed for microsurgery. And any one of them...,-0.1624999999999999,[ 1.139416   -0.58738315],[ 1.9896919 -1.9220334],0.029446423053741455
+461,Ebony Maw,infinity_war.txt,...Could end your friend's life in an instant.,0.0,[ 1.1668375 -0.4193229],[ 1.9061252 -1.7877086],0.16735759377479553
+462,Tony Stark,infinity_war.txt,"I gotta tell you, he's not really my friend. Saving his life is more a professional courtesy.",0.1666666666666666,[ 1.1863489 -0.627543 ],[ 1.7822312 -1.8082072],0.17748261988162994
+463,Ebony Maw,infinity_war.txt,"[Walks slowly towards Iron Man, beckoning very large, very solid metal objects to float behind him] You've saved nothing. Your powers are inconsequential compared to mine.",-0.1053571428571428,[ 1.3075634  -0.58554673],[ 1.3121039 -1.5878409],0.1075005829334259
+464,Tony Stark,infinity_war.txt,"Yeah, but the kid's seen more movies.",0.5,[0.28205532 0.231123  ],[ 1.3874305 -1.2721604],0.03416413068771362
+465,Peter Parker,infinity_war.txt,Yes! Wait what are those?!,0.0,[ 1.3459401 -0.5615432],[ 1.565332  -1.5980599],0.020961076021194458
+466,Peter Parker,infinity_war.txt,"Hey, we haven't officially met. [He offers the Cape his hand to shake. It ignores his offer and continues to Dr. Strange.] Cool.",0.1333333333333333,[ 1.2512796 -0.5666809],[ 1.8388602 -2.0623949],0.12178754806518555
+467,Stephen Strange,infinity_war.txt,We've gotta turn this ship around.,0.0,[ 1.2217175 -0.4276164],[ 1.3622293 -1.3535104],0.04577744007110596
+468,Tony Stark,infinity_war.txt,Yeah. Now he wants to run. Great plan.,0.5,[-2.160836   2.2131102],[ 1.2388629 -1.277472 ],0.04091620445251465
+469,Stephen Strange,infinity_war.txt,"No, I want to protect the stone.",0.0,[ 0.9667235  -0.13567322],[ 1.5825341 -1.6989479],0.1124204695224762
+470,Tony Stark,infinity_war.txt,"[Irritably] And I want you to thank me now. Go ahead, I'm listening.",0.0,[ 1.5776892 -0.7832469],[ 1.851731  -1.8649138],0.15829725563526154
+471,Stephen Strange,infinity_war.txt,For what? Nearly blasting me into space?,0.1,[0.55677915 0.03869475],[ 1.6154815 -1.6602347],0.09441769123077393
+472,Tony Stark,infinity_war.txt,Who just saved your magical ass? Me.,0.5,[ 1.059523   -0.51101786],[ 1.3165058 -1.2828782],0.17229589819908142
+473,Stephen Strange,infinity_war.txt,I seriously don't know how you fit your head into that helmet.,0.0333333333333333,[ 1.8161147 -0.9931043],[ 1.3362982 -1.1555508],0.12345664203166962
+474,Tony Stark,infinity_war.txt,Admit it. You should have ducked out when I told you to. I tried to bench you. You refused.,0.0,[ 1.8433189 -1.0495552],[ 1.3030889 -1.0773699],0.17671585083007812
+475,Stephen Strange,infinity_war.txt,"Unlike everyone else in your life, I don't work for you.",0.0,[0.22320077 0.33350447],[ 1.9390844 -1.6704859],0.16819527745246887
+476,Tony Stark,infinity_war.txt,"And due to that fact, we're now in a flying doughnut billions of miles away from Earth with no backup.",-0.125,[ 0.8096458  -0.13502666],[ 1.4957746 -1.625161 ],0.023852258920669556
+477,Peter Parker,infinity_war.txt,[Raises his hand] I'm backup.,0.0,[ 1.6647178  -0.66178006],[ 1.6184151 -1.7487439],0.09585538506507874
+478,Tony Stark,infinity_war.txt,No. You're a stowaway. [Waggles a finger between himself and Dr. Strange] The adults are talking.,-0.05,[ 1.3699404 -0.6750258],[ 1.1345466 -1.0488988],0.13967379927635193
+479,Stephen Strange,infinity_war.txt,"I'm sorry, I'm confused as to the relationship here. Wh-- what is he, your ward?",-0.45,[ 2.308759  -1.5444328],[ 1.8032323 -2.1219935],0.17562392354011536
+480,Peter Parker,infinity_war.txt,"No. I'm Peter, by the way.",0.0,[ 1.1616637  -0.45935258],[ 1.7416867 -1.8357512],0.11938774585723877
+481,Stephen Strange,infinity_war.txt,Dr. Strange.,-0.05,[ 0.73646665 -0.12235999],[ 1.3215837 -1.3342549],0.025614559650421143
+482,Peter Parker,infinity_war.txt,"Oh, we're using our made-up names. Um... I'm Spider-Man, then.",0.0,[-0.26641315  0.90528303],[ 1.8216658 -1.8802513],0.043290793895721436
+483,Tony Stark,infinity_war.txt,This ship is self-correcting its course. Thing's on autopilot.,0.0,[ 1.1867014  -0.40653896],[ 1.3872842 -1.3080783],0.018777906894683838
+484,Stephen Strange,infinity_war.txt,[Walks closer to Tony] Can we control it? Fly us home? [Tony is lost in bad memories and does not respond right away.] Stark?,0.0464285714285714,[ 2.024976  -1.3143212],[ 1.6797124 -1.8678774],0.03613138198852539
+485,Tony Stark,infinity_war.txt,Yeah?,0.0,[ 0.8216908  -0.10445262],[ 1.205829  -1.1815833],0.02401787042617798
+486,Stephen Strange,infinity_war.txt,Can you get us home?,0.0,[ 2.1500094 -1.1192665],[ 1.6772922 -1.652609 ],0.07173106074333191
+487,Tony Stark,infinity_war.txt,Yeah I heard you. I'm thinking... I'm not so sure we should.,0.5,[ 1.4529696 -0.7513322],[ 1.7168785 -1.7094615],0.1334919035434723
+488,Stephen Strange,infinity_war.txt,Under no circumstance can we bring the Time Stone to Thanos. I don't think you quite understand what's at stake here.,0.0,[ 1.6624154 -0.913996 ],[ 1.2802787 -1.465224 ],0.030128657817840576
+489,Tony Stark,infinity_war.txt,"[Stalks over to Strange] No. It's you who doesn't understand, that Thanos has been inside my head for six years since he sent an army to New York and now he's back! And I don't know what to do. So I'm not so sure if it's a better plan to fight him on our turf or his but you saw what they did, what they can do. At least on his turf, he's not expecting it. So I say we take the fight to him. Doctor. Do you concur?",0.131060606060606,[ 2.0515358 -1.2846974],[ 1.3114082 -1.4893223],0.11102700233459473
+490,Stephen Strange,infinity_war.txt,"[Pauses] Alright, Stark. We go to him. But you have to understand... if it comes to saving you or the kid or the Time Stone... I will not hesitate to let either of you die. I can't, because the fate of the universe depends on it.",-0.2,[ 2.1970942 -1.3176907],[ 1.3805128 -1.6084472],0.10466387867927551
+491,Tony Stark,infinity_war.txt,"Nice. Good. Moral compass. We're straight. [Stepping over to Peter, he formally taps each of Peter's shoulders with the edge of his hand, dubbing him as is done at a knighting.] Alright, kid. You're an Avenger now. [He doesn't look at him as he says those words, knowing well what he is signing him up for.]",0.3749999999999999,[ 0.58230543 -0.04431422],[ 1.4022367 -1.5649996],0.17201073467731476
+492,Thanos,infinity_war.txt,I thought you might be hungry.,0.0,[ 1.2478247  -0.50563765],[ 1.7524406 -1.8272681],0.09388145804405212
+493,Gamora,infinity_war.txt,I always hated that chair.,-0.9,[0.43414325 0.36014584],[ 1.3113276 -1.15553  ],0.10746687650680542
+494,Thanos,infinity_war.txt,So I've been told. Even so. I'd hoped you'd sit on it one day.,0.0,[ 1.8448849  -0.95032954],[ 1.4746219 -1.4261624],0.15923678874969482
+495,Gamora,infinity_war.txt,I hated this room. This ship. I hated my life.,-0.9,[ 1.4006145 -0.732903 ],[ 1.823688  -1.6427296],0.17896148562431335
+496,Thanos,infinity_war.txt,"You told me that too. [Thanos mounts two of the four steps to his throne, turns, and sits on the second from the top.] Every day. For almost twenty years.",0.25,[ 1.1503232  -0.38701892],[ 1.7156211 -1.9309797],0.10390610992908478
+497,Gamora,infinity_war.txt,I was a child when you took me.,0.0,[ 1.1026235  -0.47033033],[ 2.0069838 -1.7706127],0.14171504974365234
+498,Thanos,infinity_war.txt,I saved you.,0.0,[ 0.8029314 -0.0773946],[ 1.8454474 -1.7984653],0.17742110788822174
+499,Gamora,infinity_war.txt,No. No. We were happy on my home planet.,0.8,[ 0.77020794 -0.12870562],[ 1.6953062 -1.7638892],0.13327723741531372
+500,Thanos,infinity_war.txt,"Going to bed hungry, scrounging for scraps. Your planet was on the brink of collapse. I'm the one who stopped that. Do you know what's happened since then? The children born have known nothing but full bellies and clear skies. It's a paradise.",0.225,[ 0.7167378 -0.148828 ],[ 0.9205869 -1.1129642],0.12405991554260254
+501,Gamora,infinity_war.txt,Because you murdered half the planet.,-0.1666666666666666,[-0.86076474  1.242277  ],[ 1.1571224 -1.2453372],0.06964695453643799
+502,Thanos,infinity_war.txt,A small price to pay for salvation.,-0.25,[ 1.0750008 -0.3889613],[ 1.7101722 -1.6792088],0.07700815796852112
+503,Gamora,infinity_war.txt,You're insane.,-1.0,[0.20162657 0.5648712 ],[ 1.2628547 -1.0208169],0.10535505414009094
+504,Thanos,infinity_war.txt,"Little one, it's a simple calculus. This universe is finite, its resources finite. If life is left unchecked, life will cease to exist. It needs correction.",-0.0625,[ 1.9412541 -1.1983299],[ 1.1386753 -1.3987105],0.03166234493255615
+505,Gamora,infinity_war.txt,You don't know that!,0.0,[ 1.0227706  -0.32371274],[ 1.3980013 -1.2773236],0.10398229956626892
+506,Thanos,infinity_war.txt,"[Scowls as his egotistical narcissism prevents him from fully listening to her] I'm the only one who knows that. At least, I'm the only one with the will to act on it. [He stands again and walks back to Gamora] For a time... you had that same will... as you fought by my side. Daughter.",-0.06,[ 1.7168009 -0.8952519],[ 1.6288279 -1.6974545],0.17113502323627472
+507,Gamora,infinity_war.txt,I'm not your daughter. Everything I hate about myself you taught me.,-0.8,[ 1.3233083 -0.6312376],[ 1.1811019 -0.989734 ],0.17330963909626007
+508,Thanos,infinity_war.txt,"And in doing so, made you the fiercest woman in the galaxy. That's why I trusted you to find the Soul Stone.",0.0,[ 1.1104144  -0.40917775],[ 0.11897502 -0.13906902],0.1633194535970688
+509,Gamora,infinity_war.txt,I'm sorry I disappointed you.,-0.625,[ 0.98870164 -0.19536161],[ 1.7236522 -1.5954176],0.17801645398139954
+510,Thanos,infinity_war.txt,"I am disappointed. But not because you didn't find it. [Leans down to put their heads at a level, whispering fiercely] But because you did. [Looks at her] And you lied.",-0.4527777777777778,[ 1.7415961 -1.0381335],[ 1.8124677 -1.6992753],0.17345958948135376
+511,Gamora,infinity_war.txt,Nebula.,0.0,[0.4925164  0.09384003],[ 0.98715794 -0.9708196 ],0.028229981660842896
+512,Gamora,infinity_war.txt,Don't do this.,0.0,[ 1.1734295  -0.47600028],[ 1.2375945 -1.226128 ],0.07484492659568787
+513,Thanos,infinity_war.txt,"Some time ago, your sister snuck aboard this ship to kill me.",0.0,[ 1.103326   -0.44818762],[ 0.25596696 -0.2374601 ],0.1709062159061432
+514,Gamora,infinity_war.txt,Please don't do this.,0.0,[ 1.2677524 -0.5612348],[ 1.4161454 -1.393309 ],0.09650695323944092
+515,Thanos,infinity_war.txt,And very nearly succeeded. So I brought her here. To talk.,0.13,[ 1.5619295 -0.8372517],[ 1.410659  -1.2994399],0.1367708146572113
+516,Gamora,infinity_war.txt,"Stop. Stop it. [She puts her hands on the gauntlet, pulling it down] I swear to you on my life. I never found the Soul Stone.",-0.1555555555555555,[ 1.8839439  -0.96702504],[ 1.308656  -1.3860022],0.1118410974740982
+517,Thanos,infinity_war.txt,"[To Gamora, walking around behind her] You're strong. Me. You're generous. Me. But I never taught you to lie. That's why you're so bad at it. [His voice drips with disgust] Where is the Soul Stone? [He raises his gauntlet next to Gamora's face. Nebula shakes her head, expression terrified, to encourage her sister's silence but when Gamora does not answer, Thanos clenches the gauntlet again, brow furrowed at his adopted daughter as the Power and Space Stones are reactivated. Gamora grimaces in shared pain at her sister's screams, growing louder as Thanos increases the pressure.]",-0.1666666666666666,[ 1.7798327 -1.0082078],[ 0.97947645 -1.0520536 ],0.16340018808841705
+518,Gamora,infinity_war.txt,"Vormir! [Thanos unclenches his hand, and Nebula gasps in air as her parts snap back almost into place. Gamora goes to her and caresses her face.] The Stone is on Vormir.",0.0,[ 1.6501342 -0.8485999],[ 1.0587627 -1.2254418],0.17257943749427795
+519,Thanos,infinity_war.txt,[Satisfied.] Show me.,0.5,[ 1.5783275  -0.84571695],[ 1.5447285 -1.6265305],0.17099428176879883
+520,Rocket,infinity_war.txt,Tinkle in the cup. We're not looking. What's there to see? What's a twig? Everybody's seen a twig.,0.0,[ 2.0295017 -1.2950393],[ 1.4275025 -1.4030633],0.03453868627548218
+521,Thor,infinity_war.txt,"[While looking out the rear portholes] Tree, pour what's in the cup out in space, and go in the cup again.",0.0,[ 1.5873504  -0.85753703],[ 1.6087981 -1.7396727],0.022448718547821045
+522,Rocket,infinity_war.txt,You speak Groot?,0.0,[ 1.4570324  -0.68418646],[ 1.6437033 -1.5259603],0.06977429986000061
+523,Thor,infinity_war.txt,"Yes, they taught it on Asgard. It was an elective.",0.0,[-0.0381167   0.52335876],[ 1.6797293 -1.6390795],0.018604189157485962
+524,Thor,infinity_war.txt,You'll know when we're there. Nivadellir's forge harnesses the power of a blazing neutron star. [Nostalgically] It's the birth place of my hammer. It's truly awesome.,1.0,[ 1.4198898 -0.7588608],[ 1.5177225 -1.6962646],0.0872352123260498
+525,Rocket,infinity_war.txt,"[To himself] Okay, time to be the captain. [Walks to a console near by Thor, presses two buttons] So, dead brother, huh? Yeah, that can be annoying.",-0.1,[ 1.1646287  -0.39034194],[ 1.691481  -1.8543979],0.05868518352508545
+526,Thor,infinity_war.txt,"Well, he's been dead before, but this time I think it really might be true.",0.1166666666666666,[ 1.377447 -0.691207],[ 1.7175452 -1.7578491],0.043197035789489746
+527,Rocket,infinity_war.txt,And you said your sister and your dad?,0.0,[ 1.0677135 -0.240686 ],[ 1.8604063 -1.8031582],0.16923141479492188
+528,Thor,infinity_war.txt,Both dead.,-0.2,[0.76929915 0.09801534],[ 1.1889759 -1.0978956],0.02610144019126892
+529,Rocket,infinity_war.txt,"Still got a mom, though?",0.0,[ 1.5985347  -0.71823275],[ 0.9715458 -1.0564688],0.11982461810112
+530,Thor,infinity_war.txt,Killed by a dark elf.,-0.175,[ 0.93269503 -0.13833475],[ 0.9296167 -1.0916862],0.06520649790763855
+531,Rocket,infinity_war.txt,A best friend?,1.0,[ 1.5456134 -0.9006477],[ 1.605585  -1.6104974],0.1718941032886505
+532,Thor,infinity_war.txt,Stabbed through the heart.,0.0,[ 1.0446441  -0.30189005],[ 1.4651684 -1.4461987],0.1737915277481079
+533,Rocket,infinity_war.txt,Are you sure you're up to this particular murder mission?,0.3333333333333333,[ 2.101577  -1.3894764],[ 1.5769597 -1.7264258],0.06374210119247437
+534,Thor,infinity_war.txt,"[Smiling widely but also trying to convince himself] Absolutely. Rage, vengeance, anger, loss, regret... they're all tremendous motivators. They really clear the mind. So I'm good to go.",0.0888888888888888,[ 0.67331946 -0.10288869],[ 1.9164941 -1.8780814],0.10903647541999817
+535,Rocket,infinity_war.txt,"Yeah, but this Thanos we're talking about... he's the toughest there is.",0.0,[ 1.3555896  -0.49726242],[ 1.3366755 -1.4679065],0.09728032350540161
+536,Thor,infinity_war.txt,"Well, he's never fought me.",0.0,[0.5628142  0.07770079],[ 1.4321026 -1.4888233],0.14830638468265533
+537,Rocket,infinity_war.txt,"Yeah, he has!",0.0,[0.20553584 0.32044432],[ 1.501576  -1.4853829],0.024693548679351807
+538,Thor,infinity_war.txt,"He's never fought me twice. And I'm getting a new hammer, don't forget.",0.1363636363636363,[ 0.7007554  -0.13547903],[ 1.4480897 -1.5718628],0.11499090492725372
+539,Rocket,infinity_war.txt,Better be some hammer.,0.5,[ 1.2114583  -0.40520337],[ 1.1392144 -1.0331217],0.05805233120918274
+540,Thor,infinity_war.txt,"You know, I'm 1,500 years old. I've killed twice as many enemies as that, and every one would have rather killed me, but none succeeded. I'm only alive because fate wants me alive. Thanos is the latest in a long line of bastards and he will be the latest to feel my vengeance. Fate wills it so.",0.1409090909090909,[ 2.0715146 -1.0784068],[ 0.9571154 -1.2063317],0.13852281868457794
+541,Rocket,infinity_war.txt,And what if you're wrong?,-0.5,[ 1.7866904 -0.9243894],[ 1.6462535 -1.5575322],0.08710980415344238
+542,Thor,infinity_war.txt,If I'm wrong then... what more could I lose?,0.0,[ 2.1464384 -1.4572728],[ 1.6908938 -1.597338 ],0.07888668775558472
+543,Rocket,infinity_war.txt,[Under his breath] I could lose a lot. Me personally. I could lose a lot. [Rocket takes an eyeball from somewhere on his person] Okay. If fate does want you to kill that crapsack... you're gonna need more than one stupid eyeball. [He gives Thor the eyeball.],0.05,[ 1.94629   -1.2800695],[ 1.1950289 -1.3698334],0.1235499382019043
+544,Thor,infinity_war.txt,What's this?,0.0,[ 1.9054699 -1.0195407],[ 1.3470072 -1.330578 ],0.027962803840637207
+545,Rocket,infinity_war.txt,What's it look like? Some jerk lost a bet with me on on Contraxia.,0.0,[ 1.7290081 -1.0902214],[ 1.30169   -1.4784728],0.048910170793533325
+546,Thor,infinity_war.txt,He gave you his eye?,0.0,[ 1.331929  -0.6439702],[ 1.7657954 -1.7688537],0.17204149067401886
+547,Rocket,infinity_war.txt,He gave me 100 credits. I snuck in later that night and stole his eye.,0.0,[ 1.1762874 -0.7175088],[ 1.4478225 -1.5959858],0.17578551173210144
+548,Thor,infinity_war.txt,"Thank you, sweet rabbit.",0.35,[-0.5603528   0.82460165],[ 1.6254045 -1.7305484],0.09598767757415771
+549,Rocket,infinity_war.txt,"Hmm. Huh? Oh. I would've washed that. The only way I could sneak it off Contraxia was up my...[beeping] Hey, we're here!",0.0,[ 1.7767929 -1.0454745],[ 1.2197896 -1.4353365],0.11909991502761841
+550,Thor,infinity_war.txt,[Smacking his palm against the side of his head to get the eye calibrated] I don't think this thing works. Everything seems dark.,-0.15,[ 1.5280437 -0.853099 ],[ 1.9433273 -1.9748179],0.07898283004760742
+551,Rocket,infinity_war.txt,It ain't the eye.,0.0,[ 0.90554446 -0.07900741],[ 1.3201482 -1.245081 ],0.07105639576911926
+552,Thor,infinity_war.txt,Something's wrong. The star's gone out. And the rings are frozen.,-0.5,[ 1.9372984 -1.1014867],[ 1.5654837 -1.6590344],0.02150830626487732
+553,Rocket,infinity_war.txt,I hope these dwarves are better at forging than they are cleaning. Maybe they realized they live in a junk pile in the middle of space.,0.2121212121212121,[-0.48767066  0.80722564],[ 0.6337736 -0.7802973],0.034767746925354004
+554,Thor,infinity_war.txt,This forge hasn't gone dark in centuries....,-0.15,[ 1.0494099 -0.4295377],[ 1.69124   -1.8431015],0.026794344186782837
+555,Rocket,infinity_war.txt,"[Pauses, looking at a pedestal] You said Thanos had a gauntlet, right?",0.2857142857142857,[ 0.95929104 -0.38866845],[ 1.7275718 -1.9388105],0.036766767501831055
+556,Thor,infinity_war.txt,Yes. Why?,0.0,[ 1.9858463 -1.2380738],[ 1.5375975 -1.4545335],0.05365392565727234
+557,Rocket,infinity_war.txt,"Look anything like that? [In fact, it looks exactly like that]",0.25,[ 1.8890314 -1.1729964],[ 1.7585238 -1.8551579],0.028733402490615845
+558,Thor,infinity_war.txt,[Urgently] Go back to the pod.,0.0,[ 1.7738149 -1.0176153],[ 1.7029762 -1.7819153],0.022318631410598755
+559,Thor,infinity_war.txt,"Eitri, wait! Stop!",0.0,[ 1.1374165  -0.34046158],[ 0.9822124 -1.1310254],0.05123722553253174
+560,Eitri,infinity_war.txt,Thor?,0.0,[ 1.3858424 -0.5593797],[ 1.2686857 -1.2810466],0.026235759258270264
+561,Thor,infinity_war.txt,What happened here?,0.0,[ 1.9749781 -1.0551207],[ 1.6559712 -1.6082379],0.023263365030288696
+562,Eitri,infinity_war.txt,You were supposed to protect us. Asgard was supposed to protect us!,0.0,[ 0.6287141  -0.06320958],[ 1.0333241 -1.1735908],0.08605906367301941
+563,Thor,infinity_war.txt,"Asgard is destroyed. [Thor scrambles to his feet and points. Eitri stop his attack on Thor. He now believes Thanos had destroyed Asgard and leaving him in a similar survivor role like Eitri himself.] Eitri, the glove. What did you do?",0.0,[ 1.6499193 -0.9377267],[ 1.2784798 -1.4991101],0.08400589227676392
+564,Eitri,infinity_war.txt,"[He walks brokenly across the space to sit heavily, leaning against an ore skip. Rocket and Groot get to their feet, the sapling checking his game.] 300 dwarves lived on this ring. I thought if I did what he asked, they'd be safe. I made what he wanted. A device capable of harnessing the power of the stones. Then he killed everyone anyway. All except me. 'Your life is yours,' he said. 'But your hands are mine alone.' [He holds up his immobile metal fists, encased in hardened molten metal.]",-0.0833333333333333,[ 1.9137509 -1.0793949],[ 1.3346916 -1.5960506],0.13756057620048523
+565,Thor,infinity_war.txt,"Eitri, this isn't about your hands. Every weapon you've ever designed",0.0,[ 1.705719  -0.9527268],[ 1.6552855 -1.7141819],0.07423070073127747
+566,Peter Parker,infinity_war.txt,"[To Tony] Hey, what's going on?",0.0,[ 2.0776958 -1.1972468],[ 1.9458921 -2.1175315],0.024206876754760742
+567,Stephen Strange,infinity_war.txt,I think we're here.,0.0,[ 1.013566   -0.18853521],[ 1.5929631 -1.4942069],0.05200338363647461
+568,Tony Stark,infinity_war.txt,I don't think this rig has a self-park function. [Urgently] Get your hand into this steering gimbal. Close those around it. You understand?,0.0,[ 1.8355005 -1.2084149],[ 1.8566905 -1.7229495],0.04953327775001526
+569,Peter Parker,infinity_war.txt,"Yep, got it.",0.0,[-0.05044296  0.66322964],[ 1.0721139 -0.9439905],0.03856930136680603
+570,Tony Stark,infinity_war.txt,"This was meant for one big guy, so we gotta to move at the same time.",0.0,[ 1.7037643 -0.8252683],[ 1.5073894 -1.4752434],0.042065441608428955
+571,Peter Parker,infinity_war.txt,Okay. Okay. Ready.,0.3999999999999999,[ 1.1687471  -0.17724803],[ 1.1158623 -1.0643955],0.026510089635849
+572,Peter Parker,infinity_war.txt,We might wanna turn. Turn! Turn! Turn!!,0.0,[ 1.373492  -0.7381869],[ 1.4044343 -1.5095199],0.031064510345458984
+573,Tony Stark,infinity_war.txt,[To Doctor Strange] You alright? [Panting] That was close. I owe you one.,-0.05,[ 1.6612954 -0.9694068],[ 1.8468449 -2.0879683],0.16939203441143036
+574,Peter Parker,infinity_war.txt,"Let me just say, if aliens wind up implanting eggs in my chest or something, and I eat one of you, I'm sorry.",-0.5,[ 1.5119962 -0.8159511],[ 0.6644366 -0.8846996],0.17289391160011292
+575,Tony Stark,infinity_war.txt,[While pointing at Peter] I don't wanna hear another single pop culture out of you for the rest of the trip. You understand?,-0.0714285714285714,[ 1.5814372  -0.82026225],[ 1.971441  -1.9992408],0.09390553832054138
+576,Peter Parker,infinity_war.txt,I'm trying to say that... something is coming.,0.0,[ 1.683808   -0.75233066],[ 1.6802844 -1.6794869],0.058784663677215576
+577,Drax,infinity_war.txt,"[Yelling] THANOS!!!! [He flings a blade at Doctor Strange, who neatly deflects it with a mystical shield, and in return sends the Cloak of Levitation at Drax's face, half-smothering him and throwing him to the floor. Star-Lord and Iron Man have a brief dogfight until a magnetic disc pins Iron Man face-first to a structure.]",-0.025,[ 1.3841206 -0.6530427],[ 1.1881315 -1.4805518],0.07172289490699768
+578,Peter Parker,infinity_war.txt,[Crawling backwards frantically from an anxious-looking Mantis] AH! Whoawhoawhoawhoa! PLEASE DON'T PUT YOUR EGGS IN ME!,0.0,[ 1.7784891 -0.9035826],[ 0.4599464  -0.57925737],0.1069258600473404
+579,Peter Quill,infinity_war.txt,"Stay down, clown!",-0.1944444444444444,[0.5601491  0.10995402],[ 0.5908499  -0.65717953],0.08731544017791748
+580,Drax,infinity_war.txt,"[Struggling with the Cloak of Levitation] Die, blanket of death!",0.0,[ 1.8858289 -1.0444609],[ 1.5733231 -1.7971734],0.09881395101547241
+581,Peter Quill,infinity_war.txt,"Alright, everybody, stay where you are... chill the F out. [Star-Lord powers off his helmet] I'm gonna ask you this one time. Where's Gamora?",0.0,[ 1.9824667 -1.0978401],[ 1.5266725 -1.6910629],0.09894877672195435
+582,Tony Stark,infinity_war.txt,"[De-helmeting] Yeah, I'll do you one better. Who's Gamora?",0.5,[ 1.8817018 -1.0815313],[ 1.5611576 -1.6828398],0.10911431908607483
+583,Drax,infinity_war.txt,I'll do you one better. Why is Gamora?,0.5,[ 2.0147548 -1.215838 ],[ 1.5735708 -1.6416003],0.1110420972108841
+584,Peter Quill,infinity_war.txt,"Tell me where the girl is, or I swear to you, I'm gonna French-fry this little freak.",-0.1875,[ 2.209901  -1.2540958],[-0.29749978  0.27164397],0.171767920255661
+585,Tony Stark,infinity_war.txt,"Let's do it! You shoot my guy, I blast him. Let's go! [Tony extends his nano-tech cannon, looking uncannily like an electric shark about to eat Drax's face.]",0.0,[ 1.4079471 -0.6240502],[ 0.93958604 -1.201944  ],0.16438405215740204
+586,Drax,infinity_war.txt,"Do it, Quill! I can take it.",0.0,[ 1.7671952 -0.7916098],[ 1.1807914 -1.2140311],0.056762516498565674
+587,Mantis,infinity_war.txt,"No, he can't take it!",0.0,[ 1.4880439  -0.63852644],[ 0.9510267 -0.9808664],0.10195609927177429
+588,Stephen Strange,infinity_war.txt,[Completely deadpan] She's right. You can't.,-0.1321428571428571,[ 1.2589012  -0.43637067],[ 1.2352341 -1.0016025],0.12700116634368896
+589,Peter Quill,infinity_war.txt,Oh yeah? You don't wanna tell me where she is? That's fine. I'll kill all three of you and beat it out of Thanos myself. [To Spider-Man] Starting with you.,0.2083333333333333,[ 1.6982678 -0.8155227],[ 0.6921473 -0.7930831],0.16465690732002258
+590,Stephen Strange,infinity_war.txt,"Wait, what. Thanos? [Trying to inject clarity and sanity into the situation] Alright, let me ask you this one time",0.0,[ 1.3804443  -0.69278574],[ 1.8841041 -2.051214 ],0.043559521436691284
+591,Peter Quill,infinity_war.txt,"What master do I serve? What am I supposed to say? ""Jesus""?",0.0,[ 2.0776472 -1.2462854],[ 1.6615235 -1.8019079],0.09825339913368225
+592,Tony Stark,infinity_war.txt,[Getting it] You're from Earth?,0.0,[ 1.4914786  -0.86873436],[ 1.7942083 -1.9995698],0.027855992317199707
+593,Peter Quill,infinity_war.txt,I'm not from Earth. I'm from Missouri.,0.0,[ 1.4270158 -0.8069448],[ 1.7645134 -1.9054902],0.032190918922424316
+594,Tony Stark,infinity_war.txt,"Yeah, that's on Earth, dip-shit. What are you hassling us for?",0.0,[ 0.85601443 -0.39685917],[ 1.0878044 -1.2093338],0.11289560794830322
+595,Peter Parker,infinity_war.txt,"[Sounding slightly crushed] So, you're not with Thanos?",-0.1,[ 1.0967236 -0.4550303],[ 1.753941  -1.9568319],0.06071808934211731
+596,Peter Quill,infinity_war.txt,"[Indignantly] With Thanos?! No, I'm here to kill Thanos! He took my girl- Wai- who are you?",0.0,[ 1.9320672 -1.0576532],[ 1.009563  -1.1682624],0.15717945992946625
+597,Peter Parker,infinity_war.txt,"[De-helmets] We're the Avengers, man.",0.0,[ 1.1069549  -0.19775012],[ 1.6304492 -1.690728 ],0.03977668285369873
+598,Peter Quill,infinity_war.txt,Oh.,0.0,[0.23362726 0.3343799 ],[ 1.1222034 -0.9999814],0.03327369689941406
+599,Mantis,infinity_war.txt,You're the ones Thor told us about!,0.0,[-0.37305695  0.7589449 ],[ 1.6315318 -1.72261  ],0.08556506037712097
+600,Tony Stark,infinity_war.txt,You know Thor!?,0.0,[ 0.9711344 -0.3075926],[ 1.6683855 -1.6887203],0.04172465205192566
+601,Peter Quill,infinity_war.txt,"Yeah. Tall guy, not that good-looking, [Peter gives him an incredulous look] needed saving.",0.0,[ 1.6965196 -1.0218436],[ 1.7607259 -1.8561476],0.054983824491500854
+602,Rocket,infinity_war.txt,This is the plan? We're gonna hit him with a brick?,0.0,[0.34243956 0.2342855 ],[ 1.4631656 -1.5633832],0.06183040142059326
+603,Eitri,infinity_war.txt,"It's a mold. A king's weapon. Meant to be the greatest in Asgard. In theory, it could even summon the Bifrost.",1.0,[ 1.5787722  -0.84852666],[ 1.0514203 -1.2124938],0.029367953538894653
+604,Thor,infinity_war.txt,Did it have a name?,0.0,[ 2.3538735 -1.3806821],[ 1.7363056 -1.7078651],0.03852546215057373
+605,Eitri,infinity_war.txt,Stormbreaker.,0.0,[ 0.6138855  -0.01273889],[ 1.0842808 -1.0457562],0.029179871082305908
+606,Rocket,infinity_war.txt,That's a bit much.,0.2,[ 1.0864875 -0.3338176],[ 1.3151778 -1.2439232],0.09668239951133728
+607,Thor,infinity_war.txt,So how do we make it?,0.0,[ 2.1603367 -1.2443578],[ 1.6126503 -1.6030692],0.09789860248565674
+608,Eitri,infinity_war.txt,You'll have to restart the forge. Awaken the heart of a dying star.,0.0,[ 1.9545822 -1.0914215],[ 1.8833013 -1.9319777],0.035824328660964966
+609,Thor,infinity_war.txt,"Rabbit, fire up the pod.",0.0,[ 1.5356703 -0.783325 ],[ 1.1651229 -1.3150082],0.02665942907333374
+610,Peter Quill,infinity_war.txt,The heck happened to this planet? It's eight degrees off its axis. Gravitational pull is all over the place.,0.0,[ 1.5599265 -0.8288067],[ 1.1124228 -1.4701585],0.01733994483947754
+611,Tony Stark,infinity_war.txt,"Yeah, we got one advantage. He's coming to us. We'll use it. All right, I have a plan. Or at least the beginnings of one. It's pretty simple. We draw him in, pin him down, get what we need. Definitely don't wanna dance with this guy. We just want the gauntlet.",0.0133597883597883,[ 2.01894   -1.1294651],[ 1.0995594 -1.2437333],0.16828402876853943
+612,Tony Stark,infinity_war.txt,"Are you yawning? In the middle of this, while I'm breaking it down? Huh? Did you hear what I said?",-0.0777777777777777,[ 1.9287109 -1.1724042],[ 1.9419483 -1.9809144],0.12939661741256714
+613,Drax,infinity_war.txt,"I stopped listening after you said, ""We need a plan.""",0.0,[ 1.1269695 -0.2997238],[ 1.9697258 -1.8427619],0.04670226573944092
+614,Tony Stark,infinity_war.txt,"[To Quill] Okay, Mr. Clean is on his own page.",0.4888888888888889,[ 1.1042886  -0.36589772],[ 1.7056184 -1.8893012],0.07624104619026184
+615,Peter Quill,infinity_war.txt,"See, ""not winging it"" isn't really what they do.",0.2,[-0.32997352  0.7541796 ],[ 1.703667  -1.5855733],0.0482574999332428
+616,Peter Parker,infinity_war.txt,"Uh, what exactly is it that they do?",0.25,[ 1.7727095 -1.0868251],[ 1.7320274 -1.6823293],0.022996842861175537
+617,Mantis,infinity_war.txt,"[As fiercely as an 8-week-old kitten] Kick names, take ass.",0.0,[ 1.3325489  -0.54985887],[ 1.4184924 -1.4808148],0.17569470405578613
+618,Drax,infinity_war.txt,"Yeah, that's right. [Agrees quietly as he settles into a stance facing the remaining Avengers.]",0.1428571428571428,[ 0.8561441 -0.2892689],[ 1.6819159 -1.7772001],0.022079944610595703
+619,Tony Stark,infinity_war.txt,"[Tony pauses with an expression of deep hopelessness] Alright, just get over here, please. Mr. Lord, can you get your folks to circle up?",0.0,[ 1.9808373 -1.0925308],[ 1.9445211 -2.066724 ],0.16684505343437195
+620,Peter Quill,infinity_war.txt,"""Mr. Lord."" Star-Lord is fine. [Motions to Drax and Mantis,]",0.4166666666666667,[ 1.7050486 -0.7594327],[ 1.840221  -2.0958881],0.05238831043243408
+621,Tony Stark,infinity_war.txt,We gotta coalesce. 'Cause if all we come at him with is a plucky attitude....,0.0,[ 1.59548  -0.727893],[ 1.4280511 -1.617424 ],0.15034279227256775
+622,Peter Quill,infinity_war.txt,"Dude, don't call us plucky. We don't know what it means. Alright, we're optimistic, yes. I like your plan. Except it sucks, so let me do the plan, and that way it might be really good. [Peter Parker follows the conversation back and forth like a squash rally.]",0.1333333333333333,[ 0.77573484 -0.25822964],[ 1.7335745 -1.8830043],0.09098947048187256
+623,Drax,infinity_war.txt,Tell him about the dance-off to save the universe.,0.0,[-0.3632131   0.85787666],[ 1.6550978 -1.6014807],0.08717119693756104
+624,Tony Stark,infinity_war.txt,What dance-off?,0.0,[ 1.9563309 -0.9757829],[ 1.229267 -1.170062],0.03474748134613037
+625,Peter Quill,infinity_war.txt,It's not a... it's not... it's nothing.,0.0,[ 2.0542614 -1.2455276],[ 1.6635143 -1.6048096],0.039899230003356934
+626,Peter Parker,infinity_war.txt,"Like in Footloose, the movie?",0.0,[ 1.9571717 -1.0880635],[ 1.7628227 -1.8529081],0.024343818426132202
+627,Peter Quill,infinity_war.txt,[Excitedly] Exactly like Footloose. Is it still the greatest movie in history?,0.625,[ 1.8463589 -1.141435 ],[ 1.9997636 -2.1285841],0.05502891540527344
+628,Peter Parker,infinity_war.txt,It never was.,0.0,[0.6822477  0.01103207],[ 1.1409698 -1.0975362],0.06130930781364441
+629,Tony Stark,infinity_war.txt,"Don't encourage this, alright?",0.0,[ 1.2634255  -0.69720805],[ 1.4820682 -1.4872323],0.10970240831375122
+630,Peter Parker,infinity_war.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+631,Tony Stark,infinity_war.txt,We're getting no help from Flash Gordon here.,0.0,[ 0.67712325 -0.06082129],[ 1.8279219 -1.8222952],0.02175348997116089
+632,Peter Quill,infinity_war.txt,"Flash Gordon? By the way, that's a compliment. Don't forget, I'm half human. [Quill points at Stark and Parker] So that 50% of me that's stupid? That's 100% you.",-0.2916666666666666,[ 1.3533003 -0.7214206],[ 1.6757499 -1.8395214],0.1040574461221695
+633,Tony Stark,infinity_war.txt,Your math is blowing my mind.,0.0,[-0.45888194  1.0534217 ],[ 1.4989496 -1.3726091],0.12372761964797974
+634,Mantis,infinity_war.txt,"Excuse me, but... does your friend often do that?",-0.05,[ 1.2714078 -0.8513603],[ 1.7584795 -1.8672887],0.12201514840126038
+635,Tony Stark,infinity_war.txt,"Strange, we alright?",-0.05,[ 1.5933291 -0.5098811],[ 1.5722505 -1.645423 ],0.10042935609817505
+636,Tony Stark,infinity_war.txt,You're back. You're alright.,0.0,[ 1.0295918  -0.22868347],[ 1.8038102 -1.7722849],0.17481370270252228
+637,Peter Parker,infinity_war.txt,"Hey, what was that?",0.0,[ 2.0010886 -1.1450583],[ 1.7169565 -1.6811454],0.024170249700546265
+638,Stephen Strange,infinity_war.txt,[Panting] I went forward in time to view alternate futures. To see all the possible outcomes of the coming conflict.,0.0,[ 1.2610667  -0.75585663],[ 1.9652283 -1.9996105],0.025768160820007324
+639,Peter Quill,infinity_war.txt,How many did you see?,0.5,[ 2.0488179 -1.3340732],[ 1.977942  -1.9003853],0.05360245704650879
+640,Stephen Strange,infinity_war.txt,"14,000,605.",0.0,[0.45489952 0.15900564],[ 1.0352873  -0.94435054],0.02755245566368103
+641,Tony Stark,infinity_war.txt,How many did we win?,0.65,[ 2.178276  -1.3263988],[ 1.5594252 -1.4106642],0.03128021955490112
+642,Stephen Strange,infinity_war.txt,[Pause] One.,0.0,[ 1.6064667 -0.7704023],[ 1.5139287 -1.5164834],0.02622339129447937
+643,Thanos,infinity_war.txt,The stone had better be up there... for your sister's sake.,0.5,[ 1.7376897  -0.95883715],[ 1.0104523 -1.116149 ],0.1484278440475464
+644,Thanos,infinity_war.txt,You know us?,0.0,[ 1.8172418 -0.8595349],[ 1.8539982 -1.6924707],0.13874685764312744
+645,Thanos,infinity_war.txt,Where's the Soul Stone?,0.0,[ 2.1374114 -1.2326396],[ 1.4635729 -1.6092218],0.025933831930160522
+646,Thanos,infinity_war.txt,I am prepared.,0.0,[0.7173948 0.141723 ],[ 1.331905  -1.2355441],0.08644288778305054
+647,Thanos,infinity_war.txt,How is it you know this place so well?,0.0,[ 1.4971017 -0.7575249],[ 1.8224287 -1.6661576],0.08950814604759216
+648,Thanos,infinity_war.txt,What's this?,0.0,[ 1.9054699 -1.0195407],[ 1.3470072 -1.330578 ],0.027962803840637207
+649,Thanos,infinity_war.txt,Tell me what it needs.,0.0,[ 1.658702 -0.677   ],[ 1.7066318 -1.6155841],0.06822746992111206
+650,Thanos,infinity_war.txt,Of what?,0.0,[ 1.238865  -0.3823525],[ 1.3330553 -1.2630745],0.03219705820083618
+651,Gamora,infinity_war.txt,"All my life, I dreamed of a day... a moment when you would get what you deserved. And I was always so disappointed. But now... you kill and torture... and you call it mercy. The universe has judged you. You asked it for a prize, and it told you no. You failed. And do you wanna know why? Because you love nothing. No one.",-0.25,[ 1.8510513 -1.0032052],[ 1.6825165 -1.6892587],0.17202724516391754
+652,Thanos,infinity_war.txt,[Turns to face Gamora with tears in his eyes.],0.0,[ 1.333706  -0.5920329],[ 1.8625747 -1.8808588],0.13085564970970154
+653,Gamora,infinity_war.txt,Really? Tears?,0.2,[ 1.0992496 -0.529011 ],[ 1.6688219 -1.4213871],0.03670874238014221
+654,Gamora,infinity_war.txt,No! This isn't love!,0.625,[ 1.224794   -0.49716967],[ 1.3571357 -1.3955451],0.16886664927005768
+655,Thanos,infinity_war.txt,"[Thoroughly convicted.] I ignored my destiny once. I cannot do that again. Even for you. [Gamora stares down unseeing for a moment, then up at the resolution on his face. She grabs the red-jeweled dagger from his belt with lightning reflexes, triggers the blades and stabs herself in the stomach... except it's only bubbles.] I'm sorry, little one. [He grabs Gamora by the arm and walks inexorably to the precipice.]",-0.2107638888888889,[ 1.810509  -0.9924809],[ 1.2199157 -1.322702 ],0.15356698632240295
+656,Gamora,infinity_war.txt,No!,0.0,[0.7419055  0.01583339],[ 0.86186445 -0.79056174],0.028834402561187744
+657,Steve Rogers,infinity_war.txt,"[Walking up to the pilot's seat] Drop to 2600, heading 0-3-0.",0.0,[ 1.8738791 -1.0125102],[ 1.7827994 -1.8572147],0.026648283004760742
+658,T'Challa,infinity_war.txt,And what did you imagine?,0.0,[ 2.1678762 -1.2912279],[ 1.9584111 -1.8105943],0.056255340576171875
+659,Bruce Banner,infinity_war.txt,[To Rhodey] Should we bow?,0.0,[ 2.1822805 -1.3607283],[ 1.4508505 -1.72535  ],0.02591589093208313
+660,James Rhodes,infinity_war.txt,"[Seriously] Yeah, he's a king.",-0.3333333333333333,[0.60086924 0.19249487],[ 1.3639143 -1.5434523],0.045895665884017944
+661,Steve Rogers,infinity_war.txt,Seems like I'm always thanking you for something. [Shaking hands with King T'Challa.],0.0,[0.39045182 0.30034664],[ 1.6924789 -1.9251109],0.15819057822227478
+662,James Rhodes,infinity_war.txt,[Mock shocked] What are you doing?,-0.7,[ 1.981925  -1.2016008],[ 1.632139  -1.8257114],0.069795161485672
+663,T'Challa,infinity_war.txt,"Uh, we don't do that here. [He dissuades Bruce with a motion of his hand; Bruce shoots Rhodey a look, and is answered with a big grin] So how big of an assault can we expect?",0.0,[ 1.8839024 -1.2548709],[ 1.3600445 -1.5262045],0.11205524206161499
+664,Bruce Banner,infinity_war.txt,"Uh, sir, I think you can expect quite a big assault.",0.0,[ 0.51904    -0.09153792],[ 1.3227571 -1.3525907],0.0985974669456482
+665,Natasha Romanoff,infinity_war.txt,How we looking?,0.0,[ 2.1810083 -1.2374642],[ 1.4336826 -1.4458585],0.056756943464279175
+666,Steve Rogers,infinity_war.txt,"How you been, Buck?",0.0,[ 2.2305498 -1.2493771],[ 1.6636728 -1.8189454],0.06591659784317017
+667,Bruce Banner,infinity_war.txt,"Right, we had to attach each neuron non-sequentially.",0.2857142857142857,[0.5957672  0.02728743],[ 1.5953702 -1.5675014],0.015653491020202637
+668,Bruce Banner,infinity_war.txt,"[Uncertainly] Because, we didn't think of it.",0.0,[ 1.5918514  -0.79692584],[ 1.8620446 -1.8554469],0.03944709897041321
+669,Wanda Maximoff,infinity_war.txt,Can you do it?,0.0,[ 2.0819101 -1.1382194],[ 1.6045929 -1.5047792],0.0537182092666626
+670,Steve Rogers,infinity_war.txt,How long?,-0.05,[ 1.9784597 -1.1522006],[ 1.4260005 -1.3134805],0.03715837001800537
+671,James Rhodes,infinity_war.txt,"[also outside, and now in full War Machine armor watching three more ships burn through the sky] Yeah, don't start celebrating yet, guys. We got more incoming outside the dome.",0.27,[ 0.59495604 -0.04875909],[ 1.302079  -1.4495542],0.022599339485168457
+672,Vision,infinity_war.txt,[Struggling to sit up and slide off the exam table] It's too late. We need to destroy the stone now.,-0.25,[ 1.5490974 -0.8437548],[ 1.5212554 -1.480459 ],0.08159995079040527
+673,Natasha Romanoff,infinity_war.txt,"[Moving toward Vision] Vision, get your ass back on the table.",0.0,[ 1.4325607 -0.5840926],[ 1.7929636 -1.5005528],0.10615341365337372
+674,T'Challa,infinity_war.txt,"We will hold them off. [He, Okoye and the guards head for the door.]",0.0,[ 1.210034 -0.42079 ],[ 1.3374754 -1.4885415],0.09039875864982605
+675,Steve Rogers,infinity_war.txt,"[To Wanda] Wanda, as soon as the stone's out of his head... you blow it to hell.",0.0,[ 1.9026158 -0.9027015],[ 0.83350635 -1.0781463 ],0.12436901032924652
+676,Wanda Maximoff,infinity_war.txt,I will.,0.0,[0.7833544  0.00114031],[ 1.133843  -1.0272293],0.11200451850891113
+677,T'Challa,infinity_war.txt,"Evacuate the city. Engage all defense procedures. [He stops, turns, and points at Steve] And get this man a shield.",0.0,[ 1.2849633 -0.6441326],[ 1.3508995 -1.6663212],0.025257349014282227
+678,Rocket,infinity_war.txt,"I don't think you get the scientifics here. These rings are gigantic. You wanna get them moving, you're gonna need something a lot bigger to yank 'em loose.",-0.0384615384615384,[ 2.2087293 -1.5025947],[ 0.80389726 -0.94854146],0.13502559065818787
+679,Thor,infinity_war.txt,Leave that to me.,0.0,[ 0.954077   -0.24775836],[ 0.99974644 -0.8912407 ],0.1579347550868988
+680,Rocket,infinity_war.txt,"Leave that to you? Buddy, you're in space. All you got is a rope and a--",0.0,[ 1.7931753 -0.9096619],[ 1.5443221 -1.4701673],0.16805952787399292
+681,Thor,infinity_war.txt,"[Thor begins to swing the pod around him in a circle. Rocket screams. Thor builds up speed with three good loops then slacks his grip enough to send the pod shooting straight away from Nidavellir, trailing him behind it like a kite tail.] Fire the engines!",0.0999999999999999,[ 1.3843501 -0.7487415],[ 1.1858426 -1.4808339],0.034128338098526
+682,Rocket,infinity_war.txt,[Rocket shakes it off and puts the proverbial pedal to the metal.] Nnnyah!,0.0,[ 1.4791217 -0.6339921],[ 1.5902102 -1.6668972],0.02783370018005371
+683,Thor,infinity_war.txt,"[As the pod skims over the surface of the next ring out, Thor reaches down and digs one hand into the surface, then both feet, finally getting a foothold against the forward motion of the pod. The ice-like accumulation around the ring axis crackles.] MORE... POWER... RABBIT!",0.1173611111111111,[ 1.7198541 -1.133237 ],[ 1.0602986 -1.3708998],0.0203457772731781
+684,Eitri,infinity_war.txt,"Well done, boy.",0.0,[-0.4915188   0.93060714],[ 1.2051228 -1.1711991],0.13562873005867004
+685,Thor,infinity_war.txt,That's Nivadellir!,0.0,[ 1.3686541  -0.44607642],[ 1.6249704 -1.8565718],0.037666141986846924
+686,Eitri,infinity_war.txt,Damn it.,0.0,[0.24215803 0.3330989 ],[ 1.0187782 -0.9229994],0.10668322443962097
+687,Rocket,infinity_war.txt,"""Damn it""? What's ""damn it""?",0.0,[ 1.7178321 -1.0517863],[ 1.7200795 -1.6482397],0.08753842115402222
+688,Eitri,infinity_war.txt,The mechanism is crippled.,0.0,[ 0.95419014 -0.17036766],[ 1.382225  -1.2909985],0.020281076431274414
+689,Thor,infinity_war.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+690,Eitri,infinity_war.txt,With the iris closed I can't heat the metal.,-0.1,[ 1.2872903  -0.48406783],[ 1.1474957 -1.130622 ],0.0337691605091095
+691,Thor,infinity_war.txt,How long will it take to heat?,-0.05,[ 2.2803152 -1.3776407],[ 1.4881502 -1.4199628],0.038651853799819946
+692,Eitri,infinity_war.txt,"A few minutes, maybe more. Why?",0.15,[ 2.1380107 -1.3067062],[ 1.9546212 -1.7904742],0.04367414116859436
+693,Thor,infinity_war.txt,[Standing up on the pod hull] I'm gonna hold it open.,0.0,[ 1.4324889  -0.56513584],[ 1.6208844 -1.7372336],0.03552892804145813
+694,Eitri,infinity_war.txt,That's suicide.,0.0,[0.26165357 0.47515884],[ 0.9788526 -1.0253605],0.043786317110061646
+695,Thor,infinity_war.txt,So is facing Thanos without that ax. [He leaps from the pod to the star's iris.],0.0,[ 1.3970362  -0.60459346],[ 1.2429945 -1.4377443],0.019489824771881104
+696,Natasha Romanoff,infinity_war.txt,"How we looking, Bruce?",0.0,[ 2.1916325 -1.1677784],[ 1.6282516 -1.6671454],0.028547286987304688
+697,Bruce Banner,infinity_war.txt,"[Leaping jogging along, keeping up with the carriers, and utterly delighted] Yeah, I think I'm getting the hang of it. Wow! It's like being the Hulk without actually-- [he stumbles on a rock, and a carrier goes by, from which Okoye gives him a dubious look. He stands] I'm okay. I'm okay.",0.365,[ 0.7273744  -0.13540722],[ 2.0204058 -2.311069 ],0.12413500249385834
+698,James Rhodes,infinity_war.txt,I got two heat signatures breaking through the tree line.,0.0,[ 0.9052148  -0.09633733],[ 1.2409747 -1.38912  ],0.025166481733322144
+699,T'Challa,infinity_war.txt,[Clasps wrists with M'Baku] Thank you for standing with us.,0.0,[ 1.4042734  -0.41635123],[ 1.9703003 -2.1214263],0.13759134709835052
+700,Natasha Romanoff,infinity_war.txt,Where's your other friend?,-0.125,[ 1.7972972 -1.0259327],[ 1.5386829 -1.6317211],0.14541667699813843
+701,Steve Rogers,infinity_war.txt,That's not gonna happen.,0.0,[0.37210238 0.22620082],[ 1.2014722 -1.1276909],0.047382354736328125
+702,T'Challa,infinity_war.txt,You are in Wakanda now. Thanos will have nothing but dust and blood.,0.0,[ 1.3393459 -0.5792702],[ 0.63156724 -0.8735818 ],0.08516901731491089
+703,Steve Rogers,infinity_war.txt,Not exactly.,-0.125,[0.4876743  0.07029741],[ 1.1748803 -1.1006466],0.03807821869850159
+704,Natasha Romanoff,infinity_war.txt,Looks like we pissed her off.,0.0,[-0.02324316  0.5761989 ],[ 0.9728214 -0.9002113],0.17497387528419495
+705,James Rhodes,infinity_war.txt,"Alright, back up, Sam. You're gonna get your wings singed. [He flies over the heaviest concentration of Outriders and drops a barrage of mines, all exploding fantastically.]",0.0,[ 1.146853   -0.53707504],[ 1.0143197 -1.2165476],0.10699132084846497
+706,Bruce Banner,infinity_war.txt,"Cap, if these things circle the perimeter and get in behind us... there's nothing between them and Vision.",-0.4,[ 1.3469568 -0.6650918],[ 0.5286433  -0.57779914],0.021894216537475586
+707,Steve Rogers,infinity_war.txt,[Grimly] Them we better keep 'em in front of us.,-0.25,[ 1.9199742 -1.0541749],[ 1.0738584 -1.2068499],0.14355972409248352
+708,T'Challa,infinity_war.txt,"We open the barrier. [Putting his comm to his mouth] On my signal, open North-West Section Seventeen.",0.0,[ 1.5211926 -0.7965095],[ 1.5407482 -1.6878103],0.08337542414665222
+709,T'Challa,infinity_war.txt,On my signal.,0.0,[0.60030746 0.27823353],[ 1.3659579 -1.367026 ],0.036153584718704224
+710,T'Challa,infinity_war.txt,"WAKANDA FOREVER!!!! [He crosses his arms in the Wakandan salute and closes his Black Panther helmet, charging for the barrier. The heroes and leaders are at the fore of the charge. Halfway to the barrier, the Black Panther shouts into his comm] Now!",-0.1875,[ 1.4071053 -0.5405408],[ 1.3345252 -1.612664 ],0.05287638306617737
+711,T'Challa,infinity_war.txt,"[Over his comm] How much longer, Shuri?",0.2,[ 2.0545716 -1.1706736],[ 1.8097565 -1.8216729],0.04475623369216919
+712,T'Challa,infinity_war.txt,You might want to pick up the pace.,0.0,[ 1.5873632 -0.8891743],[ 1.6773454 -1.6846752],0.045539796352386475
+713,Thor,infinity_war.txt,"Allfathers, give me strength.",0.0,[ 1.5661238 -0.601987 ],[ 1.5346946 -1.6886766],0.16695380210876465
+714,Eitri,infinity_war.txt,"You understand, boy? You're about to take the full force of a star. It'll kill you.",0.35,[ 1.7382206 -0.815553 ],[ 1.4341391 -1.3359315],0.11142893135547638
+715,Thor,infinity_war.txt,Only if I die. [Takes deep breaths.],0.0,[ 1.7746319 -0.9325652],[ 1.5582489 -1.5460522],0.11950308084487915
+716,Eitri,infinity_war.txt,"[Boggled] Yes. That's what... ""killing you"" means.",0.0,[ 0.9041569 -0.4372357],[ 1.8468897 -1.9281517],0.05136650800704956
+717,Eitri,infinity_war.txt,"Hold it! Hold it, Thor!",0.0,[ 1.5821826 -0.7730269],[ 1.1344429 -1.2179674],0.09719085693359375
+718,Rocket,infinity_war.txt,"[Kneeling over Thor] Thor! Say something. Come on. Thor, you okay? [Thor looks far from ""okay"".]",0.3666666666666667,[ 1.9863783 -1.07339  ],[ 1.6799136 -1.8562868],0.11166372895240784
+719,Rocket,infinity_war.txt,I think he's dying!,0.0,[ 1.678924  -0.7295151],[ 1.5235318 -1.6987771],0.05870029330253601
+720,Eitri,infinity_war.txt,"He needs the ax! Where's the handle? Tree, help me find the handle!",0.0,[ 2.2851417 -1.501916 ],[ 1.4151443 -1.6485467],0.04263398051261902
+721,Bruce Banner,infinity_war.txt,There’s too many of them! GYAH! AAAAHHHHH!,0.9765625,[ 1.679373  -0.9094732],[ 1.6181396 -1.6037503],0.11897590756416321
+722,Bruce Banner,infinity_war.txt,[Opening the Hulkbuster's helm and laughing with joy] AH-hahaha! You guys are so screwed now!,1.0,[-0.7712609  1.1419193],[ 1.6172285 -1.6088276],0.12825095653533936
+723,Thor,infinity_war.txt,"BRING ME THANOS! [He charges toward the hordes of Outriders, followed by Groot and Rocket, lightning gathering around him until he finally launches himself into the air, lands in the densest concentration of Outriders and makes a crater where they had stood.]",0.0,[ 1.5688597 -0.8323298],[ 1.1965336 -1.3850288],0.033142030239105225
+724,Stephen Strange,infinity_war.txt,"[Sitting on what may have been plaza steps once] Oh, yeah, you're much more of a ""Thanos.""",0.5,[-0.07661144  0.50552124],[ 1.5572209 -1.7939913],0.05986052751541138
+725,Thanos,infinity_war.txt,"I take it the Maw is dead. This day extracts a heavy toll. Still, he accomplished his mission.",-0.0666666666666666,[ 1.7044588 -1.0267408],[ 1.6599627 -1.832935 ],0.0742717981338501
+726,Stephen Strange,infinity_war.txt,You may regret that. He brought you face-to-face with the Master of the Mystic Arts.,0.0,[ 1.4517134 -0.8009751],[ 1.7404279 -1.7213188],0.16354131698608398
+727,Thanos,infinity_war.txt,"And where do you think he brought you? [Star-Lord crouches behind wreckage with his weapon ready, behind Thanos and to his left; Spider-Man peeks from above and behind Doctor Strange.]",-0.15,[ 1.7265711 -1.131914 ],[ 1.4223897 -1.7536417],0.051336079835891724
+728,Stephen Strange,infinity_war.txt,Let me guess. Your home?,0.0,[ 2.1456797 -1.3903071],[ 2.02782   -2.0673845],0.1480838805437088
+729,Thanos,infinity_war.txt,"[Smiling reminiscently] It was. And it was beautiful. [Thanos curls his gauntleted fist and activates the Reality Stone to show Strange Titan before it was destroyed -- green lawns, intact buildings, water-filled ponds, strolling citizens, the jack-like structures hovering and connected to the ground-based buildings with beams of energy.] Titan was like most planets. Too many mouths, and not enough to go around. And when we faced extinction, I offered a solution.",0.2285714285714285,[ 1.3346554 -0.7314418],[ 1.2818712 -1.5197557],0.0456809401512146
+730,Stephen Strange,infinity_war.txt,Genocide.,0.0,[-0.23047309  0.75903827],[ 0.55432713 -0.625053  ],0.03880271315574646
+731,Thanos,infinity_war.txt,"But at random, dispassionate, fair to rich and poor alike. They called me a madman. And what I predicted came to pass. [He relaxes his fist; the Stone stops glowing and the illusion fades back into the true state of Titan.]",0.0874999999999999,[ 1.1272888  -0.40811515],[ 1.6336094 -1.8144941],0.09978446364402771
+732,Stephen Strange,infinity_war.txt,[Sarcastically] Congratulations. You're a prophet.,0.0,[-0.42537102  1.0024371 ],[ 1.6016334 -1.7334733],0.17181110382080078
+733,Thanos,infinity_war.txt,I'm a survivor.,0.0,[ 0.96247125 -0.03551064],[ 1.7331737 -1.557317 ],0.09325394034385681
+734,Stephen Strange,infinity_war.txt,Who wants to murder trillions.,0.2,[ 0.8328366  -0.10864035],[ 1.1759466 -1.3689109],0.04976004362106323
+735,Thanos,infinity_war.txt,"With all six stones, I could simply snap my fingers, and they would all cease to exist. I call that... mercy.",0.0,[ 1.2312425  -0.45732063],[ 0.98534226 -1.1387023 ],0.1284618079662323
+736,Stephen Strange,infinity_war.txt,[Stands] And then what?,0.0,[ 2.0511591 -1.2310302],[ 1.7855265 -1.8755375],0.027028948068618774
+737,Thanos,infinity_war.txt,I finally rest... and watch the sun rise on a grateful universe. The hardest choices require the strongest wills.,0.0,[ 1.1525961  -0.39861545],[ 1.8338864 -1.8378153],0.043937355279922485
+738,Stephen Strange,infinity_war.txt,"[He summons his Mandalas, entering a fighting pose] I think... you'll find... our will... equal to yours.",0.0,[ 1.6706496 -0.9848506],[ 1.5331442 -1.6467725],0.1603269875049591
+739,Thanos,infinity_war.txt,"Ours? [He looks up to a see a chunk of wreckage descending rapidly on him, too rapidly to react -- and powered by Iron Man. He is subsequently crushed by it.]",-0.1,[ 1.3640618 -0.8456314],[ 1.3926989 -1.7121739],0.02931925654411316
+740,Tony Stark,infinity_war.txt,"[Flying in] Piece of cake, Quill.",0.0,[ 1.3759001 -0.6149387],[ 1.4038152 -1.5582601],0.029331207275390625
+741,Peter Quill,infinity_war.txt,"[Triggers his mask and follows] Yeah, if your goal was to piss him off!",0.0,[ 1.0062019  -0.46279442],[ 1.4484046 -1.6327103],0.08579742908477783
+742,Peter Quill,infinity_war.txt,Boom!,0.0,[-0.05229908  0.7239574 ],[ 0.9567999 -0.9630682],0.0624600350856781
+743,Stephen Strange,infinity_war.txt,"[Whispers to the Cloak of Levitation] Do not let him close his fist. [The Cloak swoops off Doctor Strange's shoulders and wraps itself tightly around Thanos' armored hand, who starts tugging at this unexpected wrapping.]",-0.0428571428571428,[ 1.7020087  -0.98528236],[ 1.1456445 -1.4306912],0.10936076939105988
+744,Peter Parker,infinity_war.txt,"Magic! [He punches Thanos in the head and vanishes through a portal to the lower right before reappearing above Thanos] More magic! [He yanks Thanos' head down hard, then leaps into a portal in front of him. He leaps through another portal high and behind Thanos] Magic with a kick! [Delivers a flying kick and falls feet-first into an exit, then appears on his right] Magic with a--",0.2299338624338623,[ 1.3960726  -0.70145255],[ 1.102515  -1.4258783],0.04431575536727905
+745,Thanos,infinity_war.txt,Insect!,0.0,[0.44329932 0.329707  ],[ 0.7523613 -0.7643299],0.020447373390197754
+746,Thanos,infinity_war.txt,"Well, well.",0.0,[-0.4898998  0.9737225],[ 1.3463689 -1.243215 ],0.04985916614532471
+747,Thanos,infinity_war.txt,It would've been a waste of parts!,-0.25,[ 1.5861042  -0.80628026],[ 1.1797172 -1.1081412],0.1399858146905899
+748,Tony Stark,infinity_war.txt,[While pulling] Is he under? Don't let up.,0.0,[ 2.2624285 -1.4970019],[ 1.7866135 -1.8441185],0.04857438802719116
+749,Mantis,infinity_war.txt,[Starting to cry] Be quick. He is very strong.,0.2988888888888889,[ 1.8701029 -0.9631719],[ 1.829903  -1.8509625],0.07285380363464355
+750,Tony Stark,infinity_war.txt,"Parker, help! Get over here. [Spider-Man drops his web-line, and hurries to help Tony with the gauntlet] She can't hold him much longer. Let's go.",0.2,[ 1.9694971 -1.1044478],[ 0.9711237  -0.99486434],0.08702027797698975
+751,Peter Quill,infinity_war.txt,"[Flies over to join the others, stands in front of Thanos, tauntingly] I thought you'd be harder to catch. For the record, this was my plan. Not so strong now, huh? Where is Gamora?",0.1666666666666666,[ 1.5776712 -0.7582143],[ 1.2161244 -1.413552 ],0.1719512641429901
+752,Thanos,infinity_war.txt,My Gamora...?,0.0,[ 1.6614698 -0.9143221],[ 1.7553529 -1.7944003],0.05827993154525757
+753,Peter Quill,infinity_war.txt,"No, bull-shit. Where is she?",0.0,[ 2.1909897 -1.5282573],[ 0.78275645 -0.7657975 ],0.1268678903579712
+754,Mantis,infinity_war.txt,[Shocked] He is in anguish.,-0.7,[ 1.391976  -0.6126386],[ 2.02024   -1.9558228],0.07505911588668823
+755,Peter Quill,infinity_war.txt,Good.,0.7,[-0.12139498  0.67535603],[ 0.95177996 -0.88840234],0.03641131520271301
+756,Mantis,infinity_war.txt,[Crying] He… he mourns.,-0.2,[ 1.7312006  -0.98148644],[ 2.0260475 -1.9502392],0.08294022083282471
+757,Drax,infinity_war.txt,What does this monster have to mourn?,0.0,[ 2.1086388 -1.2498882],[ 0.73872256 -0.9998735 ],0.03129890561103821
+758,Peter Quill,infinity_war.txt,[Pause] What?,0.0,[ 1.8028555 -0.9750809],[ 1.6311768 -1.6794298],0.02436065673828125
+759,Tony Stark,infinity_war.txt,"[Frasps the danger immediately and de-helmets] Okay, Quill, you gotta cool it right now, you understand?",0.3785714285714285,[ 1.7570903 -0.9445061],[ 1.6624359 -1.7380611],0.05699741840362549
+760,Tony Stark,infinity_war.txt,"[Shouting his pleads desperately] Don't, don't, don't engage, we've almost got this off!",-0.75,[ 1.6548158 -1.0064481],[ 1.6690196 -1.650664 ],0.12002232670783997
+761,Peter Quill,infinity_war.txt,Tell me she's lying. [Enraged] Asshole! Tell me you didn't do it!,0.0,[ 1.1192048  -0.59290075],[ 0.3209992  -0.29789162],0.16633999347686768
+762,Thanos,infinity_war.txt,I... had... to.,0.0,[ 1.3659991  -0.99353266],[ 1.4491102 -1.4080764],0.034978628158569336
+763,Peter Quill,infinity_war.txt,"[While starting to tear up; quietly] No, you didn't…! No, you didn't…! [He continues to rage and then pistol-whipping Thanos twice in the face, causing Mantis to let go in pain.] NO, YOU DIDN'T!",0.0,[ 1.52562   -0.8059783],[ 1.3591256 -1.5977768],0.09945374727249146
+764,Tony Stark,infinity_war.txt,Quill!,0.0,[ 0.929291   -0.08570428],[ 0.9629556  -0.95172507],0.022783637046813965
+765,Tony Stark,infinity_war.txt,"[To the struggling Star-Lord] Hey, stop! Hey, stop! Stop! Hey, stop! Stop!",0.0,[ 1.5517045 -0.7884047],[ 1.2242745 -1.4488736],0.028288066387176514
+766,Peter Parker,infinity_war.txt,It's coming! It's coming! It's coming! [Getting the fingers completely loose] I got it! I got it.... !,-0.1201923076923077,[ 1.1340501 -0.3362739],[ 1.3967761 -1.4057988],0.17697733640670776
+767,Peter Parker,infinity_war.txt,"[Seeing Mantis with far too much air under her] Oh, God. [He jumps and wraps his arms and legs around her, extending his spider legs to form a roll cage for a safe landing.]",0.2666666666666666,[ 1.3900197 -0.6919005],[ 1.144542  -1.3627509],0.1720004379749298
+768,Rocket,infinity_war.txt,"[Having found a clear spot] Come and get some, space dogs! [Another wave of Outriders heads right for the raccoon-oid. The Winter Soldier, having come up behind Rocket, grabs him with his mechanical arm, holds him at arms length and spins 540 degrees, firing his own M-249 at the same time.] Come on, get some, get some! Come on, get some! [The Winter Soldier drops Rocket, who looks up at him with an impressed gleam] How much for the gun?",0.2586734693877551,[ 1.9006379 -1.2666504],[ 1.272172  -1.5289707],0.07141995429992676
+769,Rocket,infinity_war.txt,"Okay, how much for the arm? [The Winter Soldier just gives him a look and moves off] Oh, I'll get that arm.",0.35,[ 1.8593855 -1.1000654],[ 1.1713059 -1.4462894],0.08161395788192749
+770,Steve Rogers,infinity_war.txt,[Panting] New haircut?,0.1363636363636363,[ 1.7212255 -1.0887222],[ 1.9701623 -1.977013 ],0.024124890565872192
+771,Thor,infinity_war.txt,[Grinning] Notice you've copied my beard.,0.0,[ 0.7817181  -0.19685057],[ 1.5280405 -1.7362493],0.17177341878414154
+772,Thor,infinity_war.txt,"By the way, this is a friend of mine. Tree. [Gestures towards Groot with Stormbreaker]",0.0,[ 1.9150454 -1.2628185],[ 1.6317793 -1.9278783],0.03930369019508362
+773,Steve Rogers,infinity_war.txt,"[Formally, but bemused] I am Steve Rogers.",0.0,[ 1.4731078 -0.8508434],[ 1.9139692 -2.0071228],0.05770254135131836
+774,T'Challa,infinity_war.txt,Fall back! Fall back now!,0.0,[ 1.6395271 -1.0184337],[ 1.4642823 -1.6260983],0.022702187299728394
+775,James Rhodes,infinity_war.txt,"Focus that fire on the left flank, Sam.",0.0,[ 0.9541733  -0.31599763],[ 1.2183249 -1.2964796],0.029789388179779053
+776,Steve Rogers,infinity_war.txt,Somebody get to Vision!,0.0,[ 1.6287549  -0.70670074],[ 1.2558205 -1.2693158],0.04926213622093201
+777,Bruce Banner,infinity_war.txt,I got him! [Bruce has figured out the Hulkbusters repulsor thrusters and makes a beeline for the android.],0.0,[ 1.1546022  -0.40008503],[ 1.5214318 -1.6666874],0.04158276319503784
+778,Wanda Maximoff,infinity_war.txt,On my way. [She is clobbered by Proxima Midnight's pommel and rolls down into the large ditch from the Thresher before she can move.],0.0293650793650793,[ 1.6064458 -0.8876129],[ 0.8388263 -1.0002149],0.09913945198059082
+779,Natasha Romanoff,infinity_war.txt,She's not alone.,0.0,[ 0.8633986  -0.14824203],[ 1.5448128 -1.335801 ],0.09415581822395325
+780,Bruce Banner,infinity_war.txt,"Oh no, oh no you don't. This isn't going to be like New York, pal. This suit's already kicked the crap out of the Hulk-- [Cull Obsidian jumps forward, grabs Bruce's right arm and Bruce in reflex grabs Obsidian's hammer; a jet fires, taking the two of them in a random direction, to the base of a waterfall.]",-0.3355844155844156,[ 1.7336205 -0.9573742],[ 1.2555957 -1.4417715],0.06030768156051636
+781,Bruce Banner,infinity_war.txt,"Guys! Vision needs backup now! [Obsidian pulls the Hulkbuster up and kicks it in the small of the back.] [Trying to change into the Hulk while fighting Cull Obsidian in the Hulkbuster armor] Hulk. Hulk, I know you like making your entrance at the last second, well, this is it, man. This is the last, last second. [Bruce extends his left hand protectively; Obsidian grabs the armor's hand, chops the shoulder joint with a relatively small axe then does a roll over Bruce's back to leverage snapping off the Hulkbuster's whole arm] Ahhhhh! Hulk! Hulk! HULK!",-0.0010653409090909,[ 1.619574  -0.9171841],[ 1.20667   -1.3000892],0.053559184074401855
+782,Bruce Banner,infinity_war.txt,"Oh, screw you, ya big green asshole! I'll do it myself! [To Obsidian] Come on!",-0.1953125,[ 1.6090257  -0.67642665],[ 0.62087274 -0.6230321 ],0.17503613233566284
+783,Bruce Banner,infinity_war.txt,"See you later, Alligator! [The repulsors fire, taking Cull Obsidian high into the air -- high enough, in fact, to intersect the defense dome. The Hulkbuster arm drags Obsidian against the field to grotesque destructive effect, ending in a very final explosion.] Hulk, we got a lot to figure out, pal.",-0.1185714285714285,[ 1.8386295 -1.093335 ],[ 1.0924572 -1.2285901],0.02741265296936035
+784,Steve Rogers,infinity_war.txt,"Get outta here! [He exchanges blows with Glaive, using his arm-shields as offence as well as defense, then turns to Vision again] GO!",0.0,[ 1.5624278 -0.7983853],[ 1.1734139 -1.3563677],0.023401975631713867
+785,Natasha Romanoff,infinity_war.txt,That was really gross.,0.0,[-0.11477605  0.74315894],[ 0.8490329  -0.81299263],0.09050190448760986
+786,Steve Rogers,infinity_war.txt,[helping him back up] I thought I told you to go.,0.0,[ 0.98552346 -0.22147247],[ 1.8044332 -1.9037995],0.15801669657230377
+787,Vision,infinity_war.txt,"We don't trade lives, Captain.",0.0,[ 1.3382431 -0.6574181],[ 1.6314071 -1.8101786],0.036910563707351685
+788,Peter Parker,infinity_war.txt,"[Webs Mantis] I got you! I got you! [Snags Drax, securing both of them to something not moving] I'm sorry I can't remember anybody's names! [Reels in Star-Lord]",-0.625,[ 1.9432545 -0.9948335],[ 1.5504398 -1.7715064],0.0994221568107605
+789,Thanos,infinity_war.txt,"You're full of tricks, wizard.",0.35,[0.45553172 0.03714526],[ 1.1147678 -1.1265758],0.13056722283363342
+790,Stephen Strange,infinity_war.txt,[as Thanos reaches for the Eye of Agamotto] No!,0.0,[ 1.5019538 -0.5513125],[ 1.2617503 -1.4622127],0.020142018795013428
+791,Thanos,infinity_war.txt,[He snaps the Eye off its chain] Yet you never once used your greatest weapon. [He crushes it in his bare hand] A fake. [He throws Doctor Strange hard enough that Doctor Strange's head hits stone and he passes out.],0.0226190476190476,[ 1.412869  -0.7295631],[ 1.3497508 -1.5704408],0.12723685801029205
+792,Tony Stark,infinity_war.txt,"[sounding just about done with the Titan] You throw another moon at me, and I'm gonna to lose it.",0.0,[ 2.0124671  -0.98039347],[ 1.1788417 -1.3804194],0.1077646017074585
+793,Thanos,infinity_war.txt,Stark.,-0.2,[ 0.6273062  -0.10603796],[ 1.0422981 -1.0361112],0.02844470739364624
+794,Tony Stark,infinity_war.txt,You know me?,0.0,[ 1.8462279 -0.9028634],[ 1.7788795 -1.6137207],0.13910546898841858
+795,Thanos,infinity_war.txt,I do. You're not the only one cursed with knowledge.,0.0,[ 1.6164622  -0.85848194],[ 1.8063695 -1.7470807],0.08959218859672546
+796,Tony Stark,infinity_war.txt,My only curse is you. [Small rockets pop out of Iron Man's back and launch at Thanos.],-0.0833333333333333,[ 0.6828475  -0.03381047],[ 0.8253783 -1.0794744],0.07040086388587952
+797,Thanos,infinity_war.txt,Come on!,0.0,[ 1.0520016  -0.29871398],[ 0.79822767 -0.72963655],0.13385602831840515
+798,Thanos,infinity_war.txt,[Panting] All that for a drop of blood.,0.0,[ 1.0376748  -0.32261983],[ 1.6921031 -1.8212663],0.1183268129825592
+799,Thanos,infinity_war.txt,"You have my respect, Stark. When I'm done, half of humanity will still be alive. [He lets go, straightens and steps back] I hope they remember you.",-0.0666666666666666,[ 1.7077692 -0.8488706],[ 1.4759238 -1.785985 ],0.1729552149772644
+800,Stephen Strange,infinity_war.txt,Stop! [Sitting up and sounding entirely damaged] Spare his life... and I will give you the stone.,0.0,[ 1.65157   -0.8687509],[ 1.2107505 -1.514283 ],0.1783631592988968
+801,Thanos,infinity_war.txt,No tricks. [Doctor Strange shakes his head as Thanos points all four Stones at him instead.],-0.05,[ 1.2895818  -0.68765026],[ 1.1714495 -1.4728919],0.05138295888900757
+802,Tony Stark,infinity_war.txt,Don't...!,0.0,[ 1.3735123 -0.6246519],[ 1.4687742 -1.3810625],0.08547794818878174
+803,Thanos,infinity_war.txt,"One to go. [An energy blast hits the gauntlet right in the empty Mind Stone setting, and Thanos grimaces in surprise.]",0.0928571428571428,[ 1.4376782 -0.6243122],[ 1.4231205 -1.6976125],0.020448297262191772
+804,Peter Quill,infinity_war.txt,"[Screaming in incoherent rage, helmet up, firing with both hands and flying straight for Thanos.]",-1.3877787807814457e-17,[ 1.1448234 -0.3779639],[ 1.0148636 -1.2638886],0.03184434771537781
+805,Peter Quill,infinity_war.txt,[Standing and de-helmeting] Where is he?!,0.0,[ 1.8972591 -1.1539173],[ 1.9717007 -2.1491387],0.039910465478897095
+806,Peter Quill,infinity_war.txt,[Now fearful instead of furious] Did we just lose?,-0.9,[ 1.9254119 -1.0563345],[ 1.8684324 -1.7360312],0.029178142547607422
+807,Tony Stark,infinity_war.txt,"[To Doctor Strange, sadly, who has given the Time Stone to Thanos] Why would you do that?",-0.275,[ 1.44262   -0.8576585],[ 1.3990206 -1.6865529],0.04654949903488159
+808,Stephen Strange,infinity_war.txt,We're in the Endgame now.,0.0,[ 0.79388016 -0.02208766],[ 1.3517084 -1.3102273],0.023366332054138184
+809,Wanda Maximoff,infinity_war.txt,[landing as she finally locates Vision] Are you okay? [Vision flinches in pain before he can answer] What? What is it?,0.25,[ 2.1437695 -1.3610371],[ 2.0207999 -2.1223037],0.09259742498397827
+810,Vision,infinity_war.txt,He's here.,0.0,[0.5628609  0.10421058],[ 1.3573309 -1.3908281],0.08470386266708374
+811,Steve Rogers,infinity_war.txt,"Everyone, on my position. We have incoming. [He is joined by the Black Widow, Falcon, Okoye and the Black Panther in short order.]",-0.1111111111111111,[ 1.8289105 -0.9653751],[ 1.4578348 -1.5462424],0.09015578031539917
+812,Natasha Romanoff,infinity_war.txt,What the hell?,0.0,[ 1.8122077 -0.95168  ],[ 1.450538  -1.3881091],0.08053693175315857
+813,Bruce Banner,infinity_war.txt,"[Bruce sees the blue-black clouds of a Space Stone relocation just before Thanos steps forward, and confirms this isn't just another member of the Black Order] Cap. That's him.",-0.1666666666666666,[ 0.886232   -0.16293985],[ 1.6660411 -1.9459687],0.020799577236175537
+814,Steve Rogers,infinity_war.txt,Eyes up. Stay sharp.,-0.125,[ 1.7662842 -1.0134615],[ 1.6166387 -1.5021006],0.02914676070213318
+815,Vision,infinity_war.txt,Wanda. It's time.,0.0,[ 1.5375739  -0.61971617],[ 1.3697673 -1.3116513],0.032241493463516235
+816,Wanda Maximoff,infinity_war.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+817,Vision,infinity_war.txt,"They can't stop him, Wanda, but we can. Look at me. You have the power to destroy the stone.",-0.2,[ 1.6665832 -0.7902042],[ 0.83494043 -0.90999764],0.13784471154212952
+818,Wanda Maximoff,infinity_war.txt,Don't.,0.0,[ 1.048376  -0.2920621],[ 1.1363293 -1.0307928],0.07849940657615662
+819,Vision,infinity_war.txt,"You must do it. Wanda, please. We. Are. Out of time.",0.0,[ 1.9697214 -1.2987945],[ 1.4198008 -1.3289891],0.07530397176742554
+820,Wanda Maximoff,infinity_war.txt,I can't.,0.0,[ 0.89647764 -0.09582703],[ 1.2739986 -1.0440847],0.08109959959983826
+821,Vision,infinity_war.txt,"Yes, you can. You can. If he gets the stone, half the universe dies.",-0.1666666666666666,[ 1.3895391 -0.8337142],[ 1.2707239 -1.5122505],0.04033774137496948
+822,Wanda Maximoff,infinity_war.txt,It's not fair.,-0.35,[ 1.3958455 -0.5269084],[ 1.4195548 -1.2992442],0.058796226978302
+823,Vision,infinity_war.txt,"It shouldn't be you, but it is. It's all right. You could never hurt me. I just... feel you. [The Scarlet Witch extends a trembling hand and starts beaming her energy at the Mind Stone.]",0.2857142857142857,[ 1.8409323 -1.0276576],[ 1.1570244 -1.2077026],0.17274795472621918
+824,Vision,infinity_war.txt,[Very softly] It's all right. It's all right. I love you.,0.3003571428571429,[ 1.3250197  -0.41010284],[ 1.9452939 -1.9192067],0.1710517406463623
+825,Thanos,infinity_war.txt,"[Walking closer to the Scarlet Witch] I understand, my child. Better than anyone.",0.5,[ 1.3487628 -0.5530186],[ 1.0959836 -1.0658957],0.08442756533622742
+826,Wanda Maximoff,infinity_war.txt,[Snarls] You could never.,0.0,[ 1.4647659  -0.61843455],[ 1.2768024 -1.3412582],0.06844338774681091
+827,Thanos,infinity_war.txt,"[Reaches down to presume to stroke her hair, as if in comfort] Today, I lost more than you can know. But now is no time to mourn. Now... is no time at all. [He reaches forward, clenching the gauntlet, emerald filigree surrounding his wrist, making a gesture very similar to that Doctor Strange made when activating the Eye of Agamotto. In response, a bead of yellow light starts gathering in on itself as time is reversed and growing in size, solidifying into an intact and conscious Vision]",0.1134920634920634,[ 2.038603 -1.241198],[ 1.9247805 -2.0811827],0.10101571679115295
+828,Wanda Maximoff,infinity_war.txt,No! [She lunges for Vision and is swatted away.],0.0,[ 1.626435  -0.9075723],[ 0.36491865 -0.5103179 ],0.03896951675415039
+829,Thor,infinity_war.txt,"[Lands in front of Thanos, who is down on one knee; hatefully.] I told you. You'd die for that! [reffering to the deaths of Loki and Heimdall]",-0.1944444444444444,[ 1.4071527 -0.6086369],[ 1.1508836 -1.386364 ],0.15761741995811462
+830,Thanos,infinity_war.txt,[Weakly] You should have... you... [suddenly stronger] You should have gone for the head! [He raises his gauntlet and snaps his fingers.],-0.1875,[ 1.745785  -1.0378412],[ 1.2556221 -1.405346 ],0.17628884315490723
+831,Thor,infinity_war.txt,NO!,0.0,[0.6677311  0.10090045],[ 0.770139   -0.70179886],0.027010411024093628
+832,Thanos,infinity_war.txt,Daughter?,0.0,[ 1.5930542  -0.87648034],[ 1.2428707 -1.2203187],0.07141780853271484
+833,Gamora,infinity_war.txt,Did you do it?,0.0,[ 1.8903841 -1.2032058],[ 1.9834051 -1.8928653],0.0632593035697937
+834,Thanos,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+835,Gamora,infinity_war.txt,[Beat] What did it cost?,0.0,[ 1.9759076 -1.3695678],[ 1.9863864 -1.9783647],0.024000436067581177
+836,Thanos,infinity_war.txt,[Solemnly] Everything.,0.0,[ 1.4685497 -0.6661898],[ 1.9272708 -1.8030673],0.02900463342666626
+837,Thor,infinity_war.txt,What'd you do? [Angrily] WHAT'D YOU DO?!,-0.625,[ 2.1370318 -1.3526883],[ 1.8152834 -1.8087534],0.12223432958126068
+838,Steve Rogers,infinity_war.txt,"[Stumbles into the clearing, holding his left side] Where'd he go? Thor... where'd he go?",0.0,[ 2.0780015 -1.4151038],[ 1.7250496 -1.9265884],0.02087816596031189
+839,T'Challa,infinity_war.txt,"[While reaching for a fallen Okoye] Up, General. Up! This is no place to die. [King T'Challa holds out his hand for Okoye. He suddenly disintegrates into ashes and, in anguish, Okoye falls back on the ground. Few seconds later, she gets up herself.]",-0.0274999999999999,[ 2.0082035 -1.1182728],[ 1.7026186 -1.9515254],0.08328378200531006
+840,Rocket,infinity_war.txt,"No... no. No. No. No! Groot, no...",0.0,[ 1.9197652 -1.0982693],[ 1.1298829 -1.202223 ],0.024376392364501953
+841,James Rhodes,infinity_war.txt,"[Searching for Sam, missing him by only a few feet] Sam? [Back to Okoye is is whimpering for her disintegrated king] Sam, where you at?!",-0.1,[ 2.0896745 -1.3498883],[ 1.6890262 -2.0098615],0.17617711424827576
+842,Mantis,infinity_war.txt,Something's happening. [She disintegrates into ashes.],0.0,[ 1.4263569 -0.6224079],[ 1.5813632 -1.5999068],0.07537651062011719
+843,Drax,infinity_war.txt,[To Quill as he dissolves] Quill?,0.0,[ 1.9774284 -1.1320559],[ 1.7389916 -1.9684716],0.023574262857437134
+844,Tony Stark,infinity_war.txt,"[Staring panicked at the slowly fading Quill] Steady, Quill.",-0.0666666666666667,[ 1.5948962  -0.74572283],[ 1.6994386 -1.8336915],0.025195211172103882
+845,Peter Quill,infinity_war.txt,"Aw, man. [Quill also gets disintegrated into ashes]",0.0,[ 1.554085  -0.6909221],[ 1.6911106 -1.8575106],0.04292401671409607
+846,Stephen Strange,infinity_war.txt,"[Calmly turns to Stark] Tony, there was no other way. [He finally gets erased.]",0.040625,[ 1.5365674  -0.73786336],[ 1.6044345 -1.8458059],0.03065761923789978
+847,Peter Parker,infinity_war.txt,"[Realizes he's fading away] Mr. Stark? [Stark stares horrified at Parker,] I don't feel so good...",0.0999999999999999,[ 1.8286994 -1.0619304],[ 1.8705245 -2.2283869],0.13258826732635498
+848,Tony Stark,infinity_war.txt,"[Trying to be calm, his voice shaking as he looks at Peter in terror] You're all right?",0.2928571428571428,[ 1.6777273 -0.8518502],[ 2.1358123 -2.1639612],0.12692314386367798
+849,Peter Parker,infinity_war.txt,"[Stumbling and terrified] I don't know what's -- I don't know what's happening. I don't-- [Parker falls into Stark's arms, clutching him tight while beginning to cry.] I don't wanna go, I don't wanna go, Mr. Stark, please. Please, I don't wanna go. I don't wanna go... [There is a short silence before Peter speaks again] I'm sorry. [Parker disintegrates into ashes in Stark's arms.]",-0.2130952380952381,[ 2.128778  -1.2489563],[ 2.0237348 -2.1426222],0.12018653750419617
+850,James Rhodes,infinity_war.txt,What is this? What the hell is happening?,0.0,[ 2.0797799 -1.2861258],[ 1.658473 -1.653845],0.043845415115356445
+851,Steve Rogers,infinity_war.txt,"[Pause] Oh, God.",0.0,[ 1.165371  -0.2588559],[ 1.6390954 -1.6122783],0.0445406436920166

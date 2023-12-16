@@ -1,0 +1,691 @@
+Unnamed: 0,Name,Movie,Line,Sentiment,Irony,Hate,Intimacy
+0,Johann Schmidt,captain_america.txt,It has taken me a long time to find this place. [to the Tower Keeper] You should be commended. [to one of his soldiers] Help him up.,-0.05,[ 1.7173058 -1.0277983],[ 2.126363  -2.3707368],0.15173780918121338
+1,Johann Schmidt,captain_america.txt,I think that you are man of great vision. And in this way we are much alike.,0.5,[ 1.1453414  -0.30844674],[ 1.4985373 -1.5329098],0.16675592958927155
+2,Johann Schmidt,captain_america.txt,"No, of course. But what others see as superstition, you and I know to be a science.",0.0,[ 0.88424826 -0.39084047],[ 1.5654645 -1.5303712],0.06469365954399109
+3,Johann Schmidt,captain_america.txt,"Then why make such an effort to conceal it? [opens an old tomb and picks up the glass cube from the skeletal remains of an old Viking] The Tesseract was the jewel of Odin’s treasure room. [he turns to face the tower keeper and deliberately drops and smashes the glass cube] It’s not something one buries. But I think it is close, yes?",0.0666666666666666,[ 1.7738056 -1.1804866],[ 1.5377768 -1.7896094],0.04028251767158508
+4,Johann Schmidt,captain_america.txt,No. But maybe you can help your village. You must have some friends out there. Some… some little grandchildren perhaps. I have no need for them to die. [A big tank outside turns his guns towards the village threateningly.],-0.0625,[ 1.9316452 -1.2332677],[ 1.185162  -1.4517521],0.12205611169338226
+5,Johann Schmidt,captain_america.txt,"Yggdrasil. Tree of the world. Guardian of wisdom and fate, also. [he presses a button on the carving of the tree and it opens up to reveal the real cube] And the Führer digs for trinkets in the desert. You have never seen this, have you?",0.2,[ 1.4868244 -0.8906033],[ 1.7689757 -1.988392 ],0.049727439880371094
+6,Johann Schmidt,captain_america.txt,Exactly. [he closes the box containing the glowing cube and turns to his soldiers] Gove the order to open fire.,0.125,[ 1.2748133 -0.5340548],[ 1.4104435 -1.6200607],0.03180760145187378
+7,Johann Schmidt,captain_america.txt,I already have. [He shoots and kills the tower keeper],0.0,[ 1.27519    -0.38448012],[ 1.2942117 -1.541016 ],0.02977573871612549
+8,Steve Rogers,captain_america.txt,"Boy, a lot of guys getting killed over there.",-0.2,[-0.31834745  0.8149134 ],[ 1.3400449 -1.3550369],0.08121860027313232
+9,Steve Rogers,captain_america.txt,Nope.,0.0,[0.5296393  0.10025536],[ 0.9449149 -0.8784879],0.07461822032928467
+10,Tony Stark,iron_man_3.txt,Nope.,0.0,[0.5296393  0.10025536],[ 0.9449149 -0.8784879],0.07461822032928467
+11,Ms. Warren,spider_man_homecoming.txt,Nope.,0.0,[0.5296393  0.10025536],[ 0.9449149 -0.8784879],0.07461822032928467
+12,Peter,spider_man_homecoming.txt,Nope.,0.0,[0.5296393  0.10025536],[ 0.9449149 -0.8784879],0.07461822032928467
+13,Steve Rogers,captain_america.txt,Mustard gas. He was in the hundred and seventh infantry. I was hoping I could be assigned…,0.0,[ 1.831172  -1.0780811],[ 1.8571454 -2.0758893],0.038288235664367676
+14,Steve Rogers,captain_america.txt,"She was a nurse in a TB ward. Got hit, couldn’t shake it. [the doctor looks at Steve’s file which shows he has a long list of health issues]",-0.05,[ 1.0336995  -0.49171397],[ 1.9656292 -2.0172904],0.11461865901947021
+15,Steve Rogers,captain_america.txt,"Look, just give me a chance.",0.0,[ 1.0175977  -0.20070946],[ 1.7404169 -1.675025 ],0.16540728509426117
+16,Steve Rogers,captain_america.txt,Is there anything you can do?,0.0,[ 2.3514714 -1.4043621],[ 1.9562833 -1.8889166],0.04510655999183655
+17,Steve Rogers,captain_america.txt,"[quietly] Hey, you wanna show some respect?",0.0,[ 1.6414711 -0.8876654],[ 1.8472689 -2.0063467],0.14001435041427612
+18,Steve Rogers,captain_america.txt,I can do this all day. [and attacks the guy again],0.0,[ 1.3153634  -0.51825505],[ 1.0995523 -1.2421578],0.07894876599311829
+19,James Barnes,captain_america.txt,Hey! Pick on someone your own size.,0.6,[0.10500114 0.2126644 ],[ 1.703056  -1.7871529],0.17002679407596588
+20,James Barnes,captain_america.txt,"Sometimes, I think you like getting punched.",0.0,[0.24061692 0.33990937],[ 1.6758243 -1.6174374],0.13094854354858398
+21,Steve Rogers,captain_america.txt,I had him on the ropes.,0.0,[ 1.0640848  -0.08285015],[ 1.2966744 -1.1762267],0.08551758527755737
+22,James Barnes,captain_america.txt,How many times is this?,0.5,[ 1.9161016 -1.1210063],[ 1.4990059 -1.3880684],0.04679661989212036
+23,James Barnes,captain_america.txt,"Oh, you’re from Paramus now? You know it’s illegal to lie on the enlistment form. And seriously, Jersey?",-0.4166666666666666,[0.31169578 0.17536163],[ 1.8464298 -1.7580904],0.06965237855911255
+24,Steve Rogers,captain_america.txt,You get your orders?,0.0,[ 1.0701647 -0.3468715],[ 1.6991473 -1.6376226],0.10625804960727692
+25,James Barnes,captain_america.txt,The one-o-seventh. Sergeant James Barnes. Shipping out for England first thing tomorrow.,0.25,[ 1.6249651  -0.90993637],[ 1.8276585 -1.8909453],0.025212079286575317
+26,Steve Rogers,captain_america.txt,I should be going.,0.0,[ 1.2116281 -0.5843725],[ 1.4160548 -1.2977706],0.07682514190673828
+27,James Barnes,captain_america.txt,"Come on, man. My last night! Gotta get you cleaned up.",0.0,[ 2.1872182 -1.2152282],[ 1.7618409 -1.7081902],0.17467349767684937
+28,Steve Rogers,captain_america.txt,Why? Where are we going?,0.0,[ 2.2551785 -1.4177041],[ 1.5908293 -1.68656  ],0.04114949703216553
+29,James Barnes,captain_america.txt,The future.,0.0,[0.14887266 0.2706804 ],[ 1.0165992 -1.0245129],0.03823855519294739
+30,James Barnes,captain_america.txt,"I don’t see what the problem is. You’re about to be the last eligible man in New York. You know, there’s three and a half million women here.",-0.0101010101010101,[ 1.1496587  -0.48652488],[-0.01653012  0.04196194],0.10188466310501099
+31,Steve Rogers,captain_america.txt,"Well, I’d settle for just one.",0.0,[ 1.9197692 -1.0069861],[ 1.4005946 -1.3258122],0.09095454216003418
+32,James Barnes,captain_america.txt,Good thing I took care of that.,0.7,[-0.8079574  1.1392777],[ 1.6577785 -1.592421 ],0.1709645390510559
+33,Steve Rogers,captain_america.txt,What did you tell her about me?,0.0,[ 2.0696704 -1.2248561],[ 1.4559451 -1.3793465],0.16937373578548431
+34,James Barnes,captain_america.txt,Only the good stuff.,0.35,[-0.12934147  0.630546  ],[ 1.1963586 -1.1732095],0.05324786901473999
+35,Howard Stark,captain_america.txt,"[addressing the audience at the World Exposition fair] Ladies and gentlemen, what if I told you that in just a few short years, your automobile won’t even have to touch the ground at all.",0.1666666666666666,[0.44717476 0.05766714],[ 1.4068182 -1.3029186],0.09652945399284363
+36,Howard Stark,captain_america.txt,"Yes. Thanks, Mandy. [addressing the audience again] With Stark robotic reversion technology, you’ll be able to do just that.",0.1,[ 0.7070902 -0.2455096],[ 1.9557351 -1.8491431],0.037111252546310425
+37,James Barnes,captain_america.txt,Holy cow.,-0.1333333333333333,[0.4627087  0.05146135],[ 1.3208637 -1.1917062],0.05104753375053406
+38,Howard Stark,captain_america.txt,"I did say a few years, didn’t I?",-0.2,[ 1.5898647  -0.73795897],[ 1.6450983 -1.5784303],0.08414947986602783
+39,James Barnes,captain_america.txt,"Hey, Steve, what do you say we treat these girls…",0.0,[ 1.7477654 -1.0057453],[ 0.9791897  -0.97415924],0.17713269591331482
+40,James Barnes,captain_america.txt,Come on. You’re kind of missing the point of a double date. We’re taking the girls dancing.,0.1333333333333333,[ 1.369416  -0.8063589],[ 0.5797777 -0.535949 ],0.17262564599514008
+41,Steve Rogers,captain_america.txt,You go ahead. I’ll catch up with you.,0.0,[ 1.8859137 -1.1342319],[ 1.4620532 -1.3059022],0.15587975084781647
+42,James Barnes,captain_america.txt,You’re really gonna do this again?,0.2,[ 1.2254968  -0.40245098],[ 1.6061891 -1.5178936],0.11562934517860413
+43,Steve Rogers,captain_america.txt,"Well, it’s a fair. I’m gonna try my luck.",0.7,[ 1.7395551 -0.9260289],[ 1.2984494 -1.2410182],0.15135657787322998
+44,James Barnes,captain_america.txt,"As who? Steve from Ohio? They’ll catch you. Or worse, they’ll actually take you.",-0.2,[ 1.2757772 -0.750733 ],[ 1.1090087 -1.2819613],0.0989137589931488
+45,Steve Rogers,captain_america.txt,"Look, I know you don’t think I can do this.",0.0,[ 1.2194039  -0.38020223],[ 1.5842804 -1.3658859],0.08914825320243835
+46,James Barnes,captain_america.txt,"This isn’t a back alley, Steve. It’s war!",0.0,[ 1.8677375 -0.9346932],[ 1.5729063 -1.717933 ],0.05810555815696716
+47,Steve Rogers,captain_america.txt,I know it’s a war. You don’t have to tell me.,0.0,[ 1.6995811  -0.76884854],[ 1.6259211 -1.5594541],0.09714779257774353
+48,James Barnes,captain_america.txt,Why are you so keen to fight? There are so many important jobs.,0.45,[-0.13170815  0.57703936],[ 1.4972044 -1.3987843],0.0866750180721283
+49,Steve Rogers,captain_america.txt,What am I gonna do? Collect scrap metal…,0.0,[ 1.8639467 -1.2660923],[ 1.871121  -2.0256722],0.05269348621368408
+50,James Barnes,captain_america.txt,Yes!,0.0,[0.46695566 0.27137807],[ 0.95645845 -0.900527  ],0.030625462532043457
+51,Steve Rogers,captain_america.txt,…in my little red wagon.,-0.09375,[0.5317802  0.18475246],[ 1.5912572 -1.5050678],0.07847806811332703
+52,James Barnes,captain_america.txt,Why not?,0.0,[ 1.919399  -1.1547927],[ 1.094062  -1.0516711],0.08751428127288818
+53,Col. Chester Phillips,captain_america.txt,Why not?,0.0,[ 1.919399  -1.1547927],[ 1.094062  -1.0516711],0.08751428127288818
+54,Abe,spider_man_homecoming.txt,Why not?,0.0,[ 1.919399  -1.1547927],[ 1.094062  -1.0516711],0.08751428127288818
+55,James Barnes,captain_america.txt,Why not?,0.0,[ 1.919399  -1.1547927],[ 1.094062  -1.0516711],0.08751428127288818
+56,Col. Chester Phillips,captain_america.txt,Why not?,0.0,[ 1.919399  -1.1547927],[ 1.094062  -1.0516711],0.08751428127288818
+57,Abe,spider_man_homecoming.txt,Why not?,0.0,[ 1.919399  -1.1547927],[ 1.094062  -1.0516711],0.08751428127288818
+58,Steve Rogers,captain_america.txt,"I’m not gonna sit in a factory, Bucky.",0.0,[ 1.5479926 -0.7415012],[ 1.3655206 -1.4494745],0.09229573607444763
+59,James Barnes,captain_america.txt,I don’t…,0.0,[ 1.7290003  -0.86099035],[ 1.5109811 -1.4815687],0.07410183548927307
+60,Steve Rogers,captain_america.txt,"Bucky, come on! There are men laying down their lives. I got no right to do any less than them. That’s what you don’t understand. This isn’t about me.",-0.155026455026455,[ 1.8460766 -1.0284009],[ 1.2650665 -1.2875205],0.17525437474250793
+61,James Barnes,captain_america.txt,Right. Cause you got nothing to prove.,0.2857142857142857,[0.40666074 0.36140588],[ 1.0981964 -0.9862661],0.08053398132324219
+62,James Barnes,captain_america.txt,"[he turns to the girls] Yes, we are. [back to Steve] Don’t do anything stupid until I get back.",-0.2666666666666666,[ 1.7479962 -1.0384073],[ 1.1112868 -1.0331013],0.17514199018478394
+63,Steve Rogers,captain_america.txt,How can I? You’re taking all the stupid with you.,-0.7999999999999999,[ 1.7405138 -0.947616 ],[ 1.1644498 -1.0831668],0.1425384283065796
+64,James Barnes,captain_america.txt,You’re a punk.,0.0,[0.7026109  0.07596333],[ 0.74288535 -0.7288481 ],0.1390223652124405
+65,Steve Rogers,captain_america.txt,Jerk. Be careful.,-0.1,[ 1.4355103 -0.7777102],[ 1.1679496 -1.1838037],0.05152714252471924
+66,Steve Rogers,captain_america.txt,Don’t win the war till I get there!,1.0,[ 2.0181134 -1.0097963],[ 1.060354  -1.0990291],0.054590582847595215
+67,James Barnes,captain_america.txt,[He salutes then starts to walk away] Come on girls. They’re playing our song.,0.0,[0.76177484 0.04808442],[ 0.7907212 -0.726356 ],0.16964584589004517
+68,Steve Rogers,captain_america.txt,Is there a problem?,0.0,[ 2.1554146 -1.2826911],[ 1.6025085 -1.6264708],0.046382248401641846
+69,Brock Rumlow,winter_soldier.txt,Is there a problem?,0.0,[ 2.1554146 -1.2826911],[ 1.6025085 -1.6264708],0.046382248401641846
+70,Dr. Abraham Erskine,captain_america.txt,"[to the MP] Thank you. [to Steve] So, you want to go overseas. Kill some Nazis.",0.0,[0.12275393 0.24358636],[ 0.6066218 -0.6799465],0.061034828424453735
+71,Steve Rogers,captain_america.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+72,Vers,captain_marvel.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+73,Justin,iron_man_2.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+74,Jane Foster,thor_dark_world.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+75,Toomes,spider_man_homecoming.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+76,Dr. Abraham Erskine,captain_america.txt,Dr. Abraham Erskine. [walks over and introduces himself to Steve] I represent the Strategic Scientific Reserve.,0.0,[ 0.89603347 -0.38914827],[ 1.9935237 -2.2928572],0.03371661901473999
+77,Steve Rogers,captain_america.txt,Steve Rogers.,0.0,[0.2851221  0.35119843],[ 1.2728854 -1.2821655],0.028945446014404297
+78,Steve Rogers,winter_soldier.txt,Steve Rogers.,0.0,[0.2851221  0.35119843],[ 1.2728854 -1.2821655],0.028945446014404297
+79,Steve Rogers,captain_america.txt,Where are you from?,0.0,[ 2.1969097 -1.292565 ],[ 1.2770983 -1.3016175],0.07205000519752502
+80,Dr. Abraham Erskine,captain_america.txt,"Queens. 73rd Street and Utopia Parkway. Before that, Germany. This troubles you?",0.0,[ 1.4444062  -0.85615575],[ 1.1821221 -1.1783504],0.03978779911994934
+81,Steve Rogers,captain_america.txt,[shakes his head] No.,0.0,[ 1.4972421 -0.6480849],[ 1.6014217 -1.5582956],0.08083564043045044
+82,Dr. Abraham Erskine,captain_america.txt,"[flipping through Steve’s file] Where are you from, Mr. Rogers? Mmm? Is it New Haven? Or Paramus? Five exams in five different cities.",0.0681818181818181,[ 1.8298596 -1.1595525],[ 2.1612804 -2.2901762],0.02416244149208069
+83,Steve Rogers,captain_america.txt,That might not be the right file.,0.2857142857142857,[ 1.5911176  -0.95377916],[ 1.3654075 -1.4085199],0.02153158187866211
+84,Dr. Abraham Erskine,captain_america.txt,"No, it’s not the exams I’m interested in. It’s the five tries. But you didn’t answer my question. Do you want to kill Nazis?",0.075,[ 1.5685931 -0.9446291],[ 1.4761003 -1.4592248],0.07101267576217651
+85,Steve Rogers,captain_america.txt,Is this a test?,0.0,[ 1.7221864 -1.0431701],[ 1.5380987 -1.499778 ],0.037822574377059937
+86,Steve Rogers,civil_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+87,Dr. Abraham Erskine,captain_america.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+88,Peggy Carter,captain_america.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+89,Vers,captain_marvel.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+90,Carol,captain_marvel.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+91,Pepper,iron_man_2.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+92,Tony,iron_man_2.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+93,Maya Hansen,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+94,Happy Hogan,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+95,Taggert,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+96,Maya Hansen,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+97,Bruce Banner,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+98,Jane Foster,thor_dark_world.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+99,Tony Stark,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+100,Pepper Potts,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+101,Thanos,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+102,Ned,spider_man_homecoming.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+103,Tony,spider_man_homecoming.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+104,Steve Rogers,civil_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+105,Dr. Abraham Erskine,captain_america.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+106,Peggy Carter,captain_america.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+107,Vers,captain_marvel.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+108,Carol,captain_marvel.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+109,Pepper,iron_man_2.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+110,Tony,iron_man_2.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+111,Maya Hansen,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+112,Happy Hogan,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+113,Taggert,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+114,Maya Hansen,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+115,Bruce Banner,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+116,Jane Foster,thor_dark_world.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+117,Tony Stark,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+118,Pepper Potts,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+119,Thanos,infinity_war.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+120,Ned,spider_man_homecoming.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+121,Tony,spider_man_homecoming.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+122,Steve Rogers,captain_america.txt,I don’t wanna kill anyone. I don’t like bullies. I don’t care where they’re from.,0.0,[ 1.7510611 -1.0518852],[ 0.81108254 -0.94614685],0.1388002187013626
+123,Dr. Abraham Erskine,captain_america.txt,"Well, there are already so many big men fighting this war. Maybe what we need now is the little guy, huh? I can offer you a chance.",0.1041666666666666,[ 0.86687356 -0.16863462],[ 1.3764861 -1.4219148],0.08434182405471802
+124,Dr. Abraham Erskine,captain_america.txt,Only a chance.,0.0,[ 0.8159948  -0.13766244],[ 1.0086429  -0.89786166],0.03806033730506897
+125,Steve Rogers,captain_america.txt,I’ll take it.,0.0,[ 1.6008137  -0.70785385],[ 0.8933281 -0.8714749],0.16305483877658844
+126,Dr. Abraham Erskine,captain_america.txt,"Good. So where is the little guy from, actually?",0.1708333333333333,[ 1.9091673 -1.1667899],[ 1.7357737 -1.899799 ],0.0914936363697052
+127,Steve Rogers,captain_america.txt,Brooklyn.,0.0,[0.56209254 0.12248971],[ 1.134833  -1.1112794],0.029998838901519775
+128,Dr. Abraham Erskine,captain_america.txt,"[Dr. Erskine stamps Steve’s form and hands him back his file] Congratulations, soldier.",0.0,[0.19598468 0.374066  ],[ 1.9445249 -2.1424673],0.13734084367752075
+129,Johann Schmidt,captain_america.txt,"Are you ready, Dr. Zola?",0.2,[ 2.2485456 -1.2569498],[ 1.8473736 -1.900151 ],0.11574338376522064
+130,Dr. Arnim Zola,captain_america.txt,My machine requires the most delicate calibration. Forgive me if I seem overcautious.,0.1,[ 1.3367107  -0.64318085],[ 1.8296348 -1.7054352],0.07794049382209778
+131,Johann Schmidt,captain_america.txt,And are you certain that those conductors of yours can withstand the energy surge long enough for a transference?,0.0547619047619047,[ 1.9845926 -1.2812091],[ 1.4104251 -1.5549538],0.03189527988433838
+132,Dr. Arnim Zola,captain_america.txt,"With this artifact, I am certain of nothing. I fear it may not work at all.",0.2142857142857142,[ 1.9292307 -1.287518 ],[ 1.6833653 -1.6567789],0.029121220111846924
+133,Dr. Arnim Zola,captain_america.txt,Twenty percent. Forty. Sixty. Stabilising at 70%.,0.0,[ 1.4194577 -1.0142072],[ 1.7995942 -1.6050589],0.01964583992958069
+134,Johann Schmidt,captain_america.txt,"[takes over the controls] I have not come all this way for safety, Doctor. [He turns the controls up to maximum and blue light flitters through the room.]",0.2,[ 1.7028793 -1.0961909],[ 1.8275037 -1.9382461],0.0451960563659668
+135,Dr. Arnim Zola,captain_america.txt,What is that?,0.0,[ 2.0403779 -1.0718771],[ 1.3264277 -1.3025846],0.025523483753204346
+136,Pepper,iron_man_2.txt,What is that?,0.0,[ 2.0403779 -1.0718771],[ 1.3264277 -1.3025846],0.025523483753204346
+137,Pepper Potts,iron_man_3.txt,What is that?,0.0,[ 2.0403779 -1.0718771],[ 1.3264277 -1.3025846],0.025523483753204346
+138,Tony,spider_man_homecoming.txt,What is that?,0.0,[ 2.0403779 -1.0718771],[ 1.3264277 -1.3025846],0.025523483753204346
+139,Johann Schmidt,captain_america.txt,"I must congratulate you, Arnim. Your designs do not disappoint. Though they may require some slight reinforcement.",-0.1666666666666666,[ 1.524247   -0.72934026],[ 1.8570648 -1.9479173],0.15221676230430603
+140,Dr. Arnim Zola,captain_america.txt,"The exchange is stable. Amazing! The energy we have just collected could power my design, all my designs. This will change the war.",0.7500000000000001,[ 0.8532025  -0.31496835],[ 1.8793112 -1.923143 ],0.054253220558166504
+141,Johann Schmidt,captain_america.txt,"Dr. Zola, this will change the world.",0.0,[0.44323578 0.28700778],[ 1.8103365 -1.8716713],0.04702058434486389
+142,Peggy Carter,captain_america.txt,"Recruits, attention! Gentlemen, I’m Agent Carter. I supervise all operations for this division.",0.0,[ 1.262183   -0.53190386],[ 2.0823805 -2.1234837],0.04340177774429321
+143,Peggy Carter,captain_america.txt,"What’s your name, soldier?",0.0,[ 2.2688797 -1.2301545],[ 1.6578649 -1.8138658],0.16124530136585236
+144,Peggy Carter,captain_america.txt,"Step forward, Hodge.",0.0,[ 0.9737706 -0.4002015],[ 1.3389286 -1.3659058],0.030112922191619873
+145,Peggy Carter,captain_america.txt,Put your right foot forward.,0.2857142857142857,[ 0.9777788  -0.27829713],[ 1.2849883 -1.347949 ],0.09046447277069092
+146,Col. Chester Phillips,captain_america.txt,Agent Carter.,0.0,[0.32716662 0.33746332],[ 1.462377  -1.4281559],0.028184741735458374
+147,Steve Rogers,captain_america.txt,Agent Carter.,0.0,[0.32716662 0.33746332],[ 1.462377  -1.4281559],0.028184741735458374
+148,Col. Chester Phillips,captain_america.txt,Agent Carter.,0.0,[0.32716662 0.33746332],[ 1.462377  -1.4281559],0.028184741735458374
+149,Steve Rogers,captain_america.txt,Agent Carter.,0.0,[0.32716662 0.33746332],[ 1.462377  -1.4281559],0.028184741735458374
+150,Peggy Carter,captain_america.txt,Colonel Phillips.,0.0,[0.48672527 0.32766396],[ 1.219465 -1.219006],0.02866944670677185
+151,Col. Chester Phillips,captain_america.txt,I see you’re breaking in the candidates. That’s good! [to Hodge] Get your ass up out of that dirt and stand in that line at attention 'til somebody comes tells you what to do.,0.875,[0.32593456 0.26730078],[ 1.185388 -1.243776],0.13613811135292053
+152,Col. Chester Phillips,captain_america.txt,[addressing the new army recruits] General Patton has said that wars are fought with weapons but they are won by men. We are going to win this war because we have the best men… [he sees Rogers and continues talking] And because they’re gonna get better. Much better. The Strategic Scientific Reserve is an Allied effort made up of the best minds in the free world. Our goal is to create the best army in history. But every army starts with one man. At the end of this week we will choose that man. He will be the first in a new breed of super-soldiers. [While Phillips talk we see scenes of Steve unpacking and training where he fails to keep up and gets bullied by the others.],0.4393939393939394,[0.55924094 0.02779612],[ 1.6181766 -1.7708589],0.04083746671676636
+153,Col. Chester Phillips,captain_america.txt,"And they, will personally escort Adolf Hitler to the gates of Hell.",0.0,[-0.13711067  0.7712146 ],[ 0.81332177 -0.94012034],0.050090283155441284
+154,Steve Rogers,captain_america.txt,"[as he gives the flag to Sergeant Duffy] Thank you, sir. [He climbs into the car and they drive away.]",0.0,[ 1.0903558  -0.34665847],[ 1.7471795 -1.8697871],0.0990598201751709
+155,Peggy Carter,captain_america.txt,"Faster, ladies! Come on. My grandmother has more life in her, God rest her soul. Move it!",0.625,[ 2.1500666 -1.2274615],[ 0.04210645 -0.09573666],0.16911359131336212
+156,Col. Chester Phillips,captain_america.txt,"[walking besides Erskine] You’re not really thinking about picking Rogers, are you?",-0.1,[ 1.8761193 -1.2128913],[ 1.7216309 -2.002638 ],0.0587368905544281
+157,Dr. Abraham Erskine,captain_america.txt,I am more than just thinking about it. He is the clear choice.,0.3,[ 2.0436687 -1.2362219],[ 1.6552643 -1.6990615],0.1092037558555603
+158,Col. Chester Phillips,captain_america.txt,"When you brought a ninety-pound asthmatic onto my army base, I let it slide. I thought, what the hell? Maybe he’ll be useful to you, like a gerbil. I never thought you’d pick him. [referring to Steve]",-0.25,[ 1.9995114 -1.280293 ],[ 1.4064177 -1.7095183],0.16515286266803741
+159,Peggy Carter,captain_america.txt,[as Phillips and Erskine arrive she commands the soldiers,0.0,[ 1.1067995  -0.47646937],[ 1.4624302 -1.5786625],0.03515613079071045
+160,Col. Chester Phillips,captain_america.txt,You stick a needle in that kids arm and it’s gonna go right through him. [watching Steve struggling whilst training with the other new recruits],0.099025974025974,[ 1.0243889 -0.3646635],[ 1.6278518 -1.6248487],0.11589080095291138
+161,Peggy Carter,captain_america.txt,"Come on, girls.",0.0,[0.5315026 0.1792903],[ 0.24061187 -0.21408586],0.16961893439292908
+162,Col. Chester Phillips,captain_america.txt,Look at that. He’s making me cry.,0.0,[ 1.0190371  -0.20742023],[ 1.675979  -1.6140329],0.17247596383094788
+163,Dr. Abraham Erskine,captain_america.txt,I am looking for qualities beyond the physical.,0.0,[ 1.0310174 -0.304127 ],[ 1.8229479 -1.938089 ],0.07228070497512817
+164,Col. Chester Phillips,captain_america.txt,Do you know how long it took to set up this project?,-0.05,[ 1.8841345 -1.2352391],[ 2.1437764 -2.0416474],0.022596538066864014
+165,Dr. Abraham Erskine,captain_america.txt,"Yeah, I know.",0.0,[-0.33913457  0.88937503],[ 1.2451187 -1.0932318],0.05702885985374451
+166,Peter,spider_man_homecoming.txt,"Yeah, I know.",0.0,[-0.33913457  0.88937503],[ 1.2451187 -1.0932318],0.05702885985374451
+167,Peter,spider_man_homecoming.txt,"Yeah, I know.",0.0,[-0.33913457  0.88937503],[ 1.2451187 -1.0932318],0.05702885985374451
+168,Col. Chester Phillips,captain_america.txt,All the groveling I had to do in front of Senator What’s-His-Name’s committees?,0.0,[ 0.99937063 -0.36636174],[ 2.0971377 -2.0449111],0.04966139793395996
+169,Dr. Abraham Erskine,captain_america.txt,"Brandt. Yes, I know. I am well aware of your efforts.",0.25,[ 0.86901414 -0.33097807],[ 2.0160577 -1.8898898],0.16809004545211792
+170,Col. Chester Phillips,captain_america.txt,"Then throw me a bone. Hodge passed every test we gave him. He’s big, he’s fast, he obeys orders. He’s a soldier.",0.1,[ 1.0901446  -0.24218756],[ 1.7502824 -1.8329649],0.16806212067604065
+171,Dr. Abraham Erskine,captain_america.txt,He’s a bully.,0.0,[0.73100984 0.06567026],[ 1.0287598 -1.0548624],0.1075596809387207
+172,Col. Chester Phillips,captain_america.txt,"You don’t win wars with niceness, doctor. [he takes a hand grenade] You win war with guts. [he throws the grenade at where the new recruits are training] Grenade!",0.5901515151515152,[ 1.3117415  -0.40445217],[ 1.4910098 -1.7066464],0.05852028727531433
+173,Steve Rogers,captain_america.txt,Get away! Get back! [waits for the grenade to go off but nothing happens],0.0,[ 1.5814272  -0.74736136],[ 0.6560414 -0.9461725],0.022411495447158813
+174,Steve Rogers,captain_america.txt,Is this is a test?,0.0,[ 1.7092957 -1.0234689],[ 1.5975143 -1.5605963],0.033805280923843384
+175,Col. Chester Phillips,captain_america.txt,He’s still skinny.,0.0,[ 1.106867   -0.35609874],[ 1.0290617 -1.0839338],0.14127983152866364
+176,Wanda Maximoff,civil_war.txt,May I?,0.0,[ 2.001614  -1.1558887],[ 1.5094836 -1.5918183],0.05724325776100159
+177,Dr. Abraham Erskine,captain_america.txt,May I?,0.0,[ 2.001614  -1.1558887],[ 1.5094836 -1.5918183],0.05724325776100159
+178,Peter Parker,civil_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+179,Tony Stark,civil_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+180,Tony Stark,civil_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+181,Clint Barton,civil_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+182,Bucky Barnes,civil_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+183,James Rhodes,civil_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+184,Steve Rogers,captain_america.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+185,Tom,captain_marvel.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+186,Mr Musk,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+187,Happy,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+188,Rhodey,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+189,Tony,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+190,Rhodey,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+191,Rhodey,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+192,Tony,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+193,Pepper,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+194,Tony Stark,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+195,Maya Hansen,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+196,Tony Stark,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+197,Harley Keener,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+198,Rose Hill Christmas Tree Shopper,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+199,Rhodey,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+200,Gary,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+201,Gary,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+202,Tony Stark,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+203,Richard,thor_dark_world.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+204,Pepper Potts,infinity_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+205,Pepper Potts,infinity_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+206,Tony Stark,infinity_war.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+207,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+208,Betty,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+209,Ned,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+210,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+211,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+212,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+213,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+214,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+215,Mr. Harrington,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+216,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+217,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+218,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+219,Peter,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+220,Liz,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+221,Toomes,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+222,Ned,spider_man_homecoming.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+223,Steve Rogers,winter_soldier.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+224,Sam Wilson,winter_soldier.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+225,Natasha Romanoff,winter_soldier.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+226,Sam Wilson,winter_soldier.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+227,Dr. Abraham Erskine,captain_america.txt,Can’t sleep?,0.0,[ 1.8450916 -1.0981843],[ 1.6102341 -1.5549062],0.05991542339324951
+228,Steve Rogers,captain_america.txt,"I got the jitters, I guess.",0.0,[0.82934284 0.08502812],[ 1.8246967 -1.7099928],0.028544872999191284
+229,Dr. Abraham Erskine,captain_america.txt,"[laughs] Me, too.",0.0,[0.71519345 0.07379199],[ 1.4482806 -1.3597536],0.09544351696968079
+230,Steve Rogers,captain_america.txt,Can I ask you a question?,0.0,[ 2.1767309 -1.2425563],[ 1.8447392 -1.8470432],0.10131949186325073
+231,Dr. Abraham Erskine,captain_america.txt,Just one? [he sits down facing Steve],-0.1555555555555555,[ 2.1224148 -1.3022777],[ 1.7813245 -1.9111692],0.03717958927154541
+232,Steve Rogers,captain_america.txt,Why me?,0.0,[ 2.085569  -1.1059278],[ 1.5779306 -1.517687 ],0.13609929382801056
+233,Dr. Abraham Erskine,captain_america.txt,"I suppose that is the only question that matters. [He looks down at the bottle of schnapps he brought with him.] This is from Augsburg. My city. So many people forget that the first country that the Nazi’s invaded was their own. You know, after the last war the… my people struggled. They… they felt weak. They felt small. And then Hitler comes along with the marching and the big show and the flags and the… and the… [he waves his hand] And he… he hears of me, my work and he finds me. And he says, ""You."" He says, ""You will make us strong."" Well, I am not interested. So he sends the head of HYDRA, his research division. A brilliant scientist by the name of Johann Schmidt. Now, Schmidt is a member of the inner circle and he’s ambitious. He and Hitler share a passion for occult power and Teutonic myth. Hitler uses his fantasies to inspire his followers. But for Schmidt, it is not fantasy. For him, it is real. He has become convinced that there is a great power hidden in the earth, left here by the Gods, waiting to be seized by a superior man. So when he hears about my formula and what it can do, he cannot resist.",0.1874269005847953,[ 1.3809301 -0.878779 ],[ 1.4128631 -1.606069 ],0.12523406744003296
+234,Dr. Abraham Erskine,captain_america.txt,Schmidt must become that superior man.,0.7,[0.28630617 0.49772772],[ 1.556501  -1.4601783],0.055109888315200806
+235,Steve Rogers,captain_america.txt,Did it make him stronger?,0.0,[ 1.6876695 -1.054935 ],[ 1.6661507 -1.6811554],0.0763290524482727
+236,Dr. Abraham Erskine,captain_america.txt,"Yeah. But, there were other effects. The serum was not ready. But more important, the man. The serum amplifies everything that is inside. So, good becomes great. Bad becomes worse. This is why you were chosen. Because a strong man, who has known power all his life, will lose respect for that power. But a weak man knows the value of strength, and knows compassion.",0.1133333333333333,[ 1.5949876 -0.8834218],[ 1.4109377 -1.5073363],0.0985022783279419
+237,Steve Rogers,captain_america.txt,Thanks. I think.,0.2,[ 0.8378706  -0.21131226],[ 1.5804595 -1.5541428],0.06890389323234558
+238,Dr. Abraham Erskine,captain_america.txt,"[he pours 2 drinks] Whatever happens tomorrow, you must promise me one thing. That you will stay who you are. Not a perfect soldier, but a good man.",0.0999999999999999,[ 2.1995084 -1.3047464],[ 1.9599972 -2.1000464],0.17697888612747192
+239,Steve Rogers,captain_america.txt,To the little guys.,-0.1875,[-0.31637156  0.8767711 ],[ 1.6292703 -1.5225121],0.14386966824531555
+240,Dr. Abraham Erskine,captain_america.txt,No! No! Wait! Wait! What I am doing? No! You have a procedure tomorrow. No fluids.,0.0,[ 1.8345562 -1.0420991],[ 1.6225511 -1.5363795],0.043718814849853516
+241,Steve Rogers,captain_america.txt,All right. We’ll drink it after.,0.2857142857142857,[ 1.3473954 -0.6989229],[ 1.2865821 -1.1600997],0.10596534609794617
+242,Dr. Abraham Erskine,captain_america.txt,No! I don’t have procedure tomorrow. Drink it after? Drink it now!,0.0,[ 1.7730775 -1.2244796],[ 1.7393199 -1.5705172],0.032489120960235596
+243,Johann Schmidt,captain_america.txt,[he turns off the light] Is there something in particular you need? [An artist is painting Schmidt’s portrait in oil.],0.2833333333333333,[ 1.7465384 -1.1486713],[ 2.058485  -2.1448839],0.04048961400985718
+244,Dr. Arnim Zola,captain_america.txt,I understand you found him.,0.0,[0.2919426  0.38992816],[ 1.7892072 -1.7227322],0.17606616020202637
+245,Johann Schmidt,captain_america.txt,See for yourself. [Zola steps over to the table to find several survaillance photos of Dr. Erskine.] You disapprove.,0.0,[ 1.5367478 -0.8903328],[ 1.9099615 -1.9206797],0.10622602701187134
+246,Dr. Arnim Zola,captain_america.txt,I just don’t see why you need concern yourself. I can’t imagine he will succeed. [looking nervously at Schmidt] Again.,0.0,[ 2.08249   -1.2893811],[ 1.7712075 -1.7913674],0.12762166559696198
+247,Johann Schmidt,captain_america.txt,"His serum is the Allies’ only defence against this power we now possess. If we take it away from them, then our victory is assured.",0.0,[ 0.74112976 -0.16108036],[ 0.9656917 -1.1990738],0.04088592529296875
+248,Dr. Arnim Zola,captain_america.txt,Shall I give the order?,0.0,[ 2.0903363 -1.3197446],[ 1.6237894 -1.6272024],0.033143699169158936
+249,Johann Schmidt,captain_america.txt,It has been given.,0.0,[ 1.2600591 -0.4042876],[ 1.2288206 -1.2316378],0.025292932987213135
+250,Dr. Arnim Zola,captain_america.txt,Good. [he turns to go],0.7,[ 1.457404  -0.8496121],[ 1.3652529 -1.5422732],0.028798162937164307
+251,Johann Schmidt,captain_america.txt,Dr. Zola. [he turns on the lights] What do you think?,0.0,[ 2.2083292 -1.3809623],[ 2.0664237 -2.175382 ],0.04261556267738342
+252,Dr. Arnim Zola,captain_america.txt,A masterpiece. [the artist looks relieved with Zola’s assessment],0.0,[ 0.97779137 -0.43375954],[ 2.119009  -2.1573405],0.05378350615501404
+253,Steve Rogers,captain_america.txt,I know this neighborhood. I got beat up in that alley. And that parking lot. And behind that diner.,-0.4,[ 1.509567  -0.7082916],[ 1.6187886 -1.5736474],0.07944372296333313
+254,Peggy Carter,captain_america.txt,Did you have something against running away?,0.0,[ 2.0821257 -1.3532059],[ 1.988084  -1.9980677],0.03334489464759827
+255,Steve Rogers,captain_america.txt,"You start running they’ll never let you stop. You stand up, push back. Can’t say no forever, right?",0.1428571428571428,[ 2.0915549 -1.1154398],[ 1.68184   -1.6381134],0.1273851841688156
+256,Peggy Carter,captain_america.txt,I know a little of what that’s like. To have every door shut in your face.,-0.1875,[ 1.3771212  -0.49526635],[ 1.7850028 -1.5185852],0.12226167321205139
+257,Steve Rogers,captain_america.txt,"I guess I just don’t why you’d wanna join the army if you’re a beautiful dame. Or a beautiful… a woman. An agent, not a dame! You are beautiful, but…",0.925,[ 1.6331161 -1.0053877],[ 0.94066405 -0.9220768 ],0.17108672857284546
+258,Peggy Carter,captain_america.txt,"You have no idea how to talk to a woman, do you?",0.0,[ 1.4252625 -0.7311174],[-0.13057266  0.39596766],0.12242734432220459
+259,Steve Rogers,captain_america.txt,This is the longers conversation I’ve had with one. Women aren’t exactly lining up to dance with a guy they might step on.,0.25,[ 1.3057417 -0.6851143],[-0.64325464  0.6906504 ],0.16124340891838074
+260,Peggy Carter,captain_america.txt,You must have danced?,0.0,[ 1.2347515 -0.7505241],[ 1.5879148 -1.4589914],0.13776104152202606
+261,Steve Rogers,captain_america.txt,"Well, asking a woman to dance always seems so terrifying. And the past few years just didn’t seem to matter that much. Figured I’d wait.",-0.3125,[ 0.7469026  -0.01727058],[ 0.80003345 -0.68041945],0.13171282410621643
+262,Peggy Carter,captain_america.txt,For what?,0.0,[ 1.3176459 -0.5000058],[ 1.5273863 -1.4941791],0.029408693313598633
+263,Johann Schmidt,captain_america.txt,For what?,0.0,[ 1.3176459 -0.5000058],[ 1.5273863 -1.4941791],0.029408693313598633
+264,Stern,iron_man_2.txt,For what?,0.0,[ 1.3176459 -0.5000058],[ 1.5273863 -1.4941791],0.029408693313598633
+265,Peggy Carter,captain_america.txt,For what?,0.0,[ 1.3176459 -0.5000058],[ 1.5273863 -1.4941791],0.029408693313598633
+266,Johann Schmidt,captain_america.txt,For what?,0.0,[ 1.3176459 -0.5000058],[ 1.5273863 -1.4941791],0.029408693313598633
+267,Stern,iron_man_2.txt,For what?,0.0,[ 1.3176459 -0.5000058],[ 1.5273863 -1.4941791],0.029408693313598633
+268,Steve Rogers,captain_america.txt,The right partner.,0.2857142857142857,[ 0.849939  -0.1711424],[ 1.2979608 -1.331144 ],0.09675100445747375
+269,Peggy Carter,captain_america.txt,This way.,0.0,[0.60747176 0.06067693],[ 0.88599664 -0.8735019 ],0.03197559714317322
+270,Security guard,iron_man_2.txt,This way.,0.0,[0.60747176 0.06067693],[ 0.88599664 -0.8735019 ],0.03197559714317322
+271,Steve Rogers,captain_america.txt,What are we doing here?,0.0,[ 2.0421143 -1.220671 ],[ 1.7818965 -1.8113914],0.03516319394111633
+272,Peggy Carter,captain_america.txt,Follow me. [They go inside.],0.0,[ 1.3143845 -0.6235227],[ 1.3345417 -1.5641166],0.1008371114730835
+273,Peggy Carter,captain_america.txt,"Yes, but I always carry an umbrella.",0.0,[ 1.5450437 -0.7143156],[ 1.3896824 -1.3850589],0.03906705975532532
+274,Dr. Abraham Erskine,captain_america.txt,"Good morning. [he shakes Steve’s hand and sombody takes a photograph] Please, not now. [The photographer walks away, Steve looks at the pod] Are you ready? [Steve nods.] Good. Take off your shirt, your tie and your hat.",0.5333333333333333,[ 1.72803   -1.1921586],[ 1.9559398 -2.0603886],0.1662394106388092
+275,Col. Chester Phillips,captain_america.txt,"Senator Brandt, glad you could make it.",0.5,[0.40175405 0.26880476],[ 1.7674341 -1.6522765],0.10321608185768127
+276,Col. Chester Phillips,captain_america.txt,"We needed access to the city’s power grid. Of course, if you’d given me the generators I requisitioned…",0.0,[0.3368217  0.17499658],[ 2.1427662 -2.1900835],0.037516653537750244
+277,Dr. Abraham Erskine,captain_america.txt,Comfortable?,0.4,[ 1.2750723  -0.55064946],[ 1.5451185 -1.5270747],0.05905371904373169
+278,Steve Rogers,captain_america.txt,It’s a little big. You save me any of that schnapps?,-0.09375,[ 2.1837282 -1.4881772],[ 1.5348543 -1.4693036],0.12825879454612732
+279,Dr. Abraham Erskine,captain_america.txt,"Not as much as I should have. Sorry. Next time. Mr. Stark, how are your levels?",-0.125,[ 1.9947885 -1.3636737],[ 1.865709  -1.9746782],0.1689237803220749
+280,Howard Stark,captain_america.txt,Levels at 100%.,0.0,[0.27078196 0.28943798],[ 1.4596874 -1.3318219],0.019084304571151733
+281,Dr. Abraham Erskine,captain_america.txt,Good.,0.7,[-0.12139498  0.67535603],[ 0.95177996 -0.88840234],0.03641131520271301
+282,Peter Quill,infinity_war.txt,Good.,0.7,[-0.12139498  0.67535603],[ 0.95177996 -0.88840234],0.03641131520271301
+283,Happy,spider_man_homecoming.txt,Good.,0.7,[-0.12139498  0.67535603],[ 0.95177996 -0.88840234],0.03641131520271301
+284,Howard Stark,captain_america.txt,"We may dim half the lights in Brooklyn, but we are ready as we’ll ever be.",0.0444444444444444,[ 1.981168  -1.1041912],[ 1.7305397 -1.7762228],0.04141366481781006
+285,Dr. Abraham Erskine,captain_america.txt,Agent Carter? Don’t you think you would be more comfortable in the booth?,0.45,[ 1.9858866 -1.1997377],[ 1.7059743 -1.6773915],0.07484519481658936
+286,Peggy Carter,captain_america.txt,"Oh, yes. Of course. Sorry.",-0.5,[0.16369072 0.45758185],[ 1.3308629 -1.187612 ],0.11617574095726013
+287,Dr. Abraham Erskine,captain_america.txt,"Good. [He takes a microphone and taps it.] Do you hear me? is this on? [to the small group gathered to watch Steve being prepared to become a super-solider] Ladies and gentlemen, today we take not another step towards annihilation, but the first step on the path to peace. We begin with a series of micro injections into the subjects major muscle groups. The serum infusion will cause immediate cellular change. And then to stimulate growth, the subject will be saturated with Vita-Rays.",0.1191666666666666,[ 1.5969148  -0.98396295],[ 1.7188945 -1.9406503],0.09277331829071045
+288,Steve Rogers,captain_america.txt,[after preliminary injection] That wasn’t so bad.,-0.6999999999999998,[0.10159032 0.47099712],[ 1.7701159 -1.7761896],0.03409898281097412
+289,Dr. Abraham Erskine,captain_america.txt,"That was penicillin. [to the others] Serum infusion beginning in five, four, three, two, one. [The serum is injected into Steve] Now, Mr. Stark. [Stark lowers a leaver, the pod moves upright and encloses Steve inside.] [knocking on the capsule that they’ve locked Steven in for the procedure to change him] Steven, can you hear me?",-0.2,[ 1.7385125 -1.1187315],[ 1.6448319 -1.9403857],0.06294223666191101
+290,Steve Rogers,captain_america.txt,"It’s probably too late to go to the bathroom, right?",-0.0071428571428571,[ 1.067384   -0.58967495],[ 1.4681236 -1.4915954],0.04924026131629944
+291,Dr. Abraham Erskine,captain_america.txt,[turns to Stark] We will proceed.,-0.2,[ 1.3944893 -0.6363907],[ 1.5218018 -1.653783 ],0.02171778678894043
+292,Howard Stark,captain_america.txt,[manages the controls] That’s ten percent. Twenty percent. Thirty. That’s 40 %.,0.0,[ 1.5236351  -0.93442553],[ 1.8500805 -1.6996508],0.023010671138763428
+293,Howard Stark,captain_america.txt,That’s 50 %. Sixty. Seventy.,0.0,[ 1.5469242  -0.78001505],[ 1.5459014 -1.3154109],0.023335903882980347
+294,Dr. Abraham Erskine,captain_america.txt,Steven!,0.0,[0.17423211 0.48429176],[ 0.9064293  -0.86122584],0.029214829206466675
+295,Peggy Carter,captain_america.txt,Shut it down.,-0.1555555555555555,[0.17763536 0.39597127],[ 0.953736   -0.88933027],0.03239762783050537
+296,Dr. Abraham Erskine,captain_america.txt,Steven! [he knocks on the pod],0.0,[ 1.6879233 -0.8489386],[ 1.7034433 -1.8574622],0.021708905696868896
+297,Peggy Carter,captain_america.txt,Shut it down!,-0.1944444444444444,[0.2889706 0.3858443],[ 0.6854839  -0.65193486],0.02894800901412964
+298,Dr. Abraham Erskine,captain_america.txt,"Kill the reactor, Mr. Stark! Turn it off! Kill it! Kill the reactor!",-0.48828125,[ 1.5065538 -0.7470684],[ 0.94330037 -1.2773312 ],0.04615187644958496
+299,Steve Rogers,captain_america.txt,No! Don’t! I can do this!,0.0,[ 1.8281869 -1.0689601],[ 1.178885   -0.96956134],0.0870649516582489
+300,Howard Stark,captain_america.txt,Eighty. Ninety. That’s 100 %. [Everything overloads until the reactor closes itself down.],-0.1555555555555555,[ 1.5255181 -0.813198 ],[ 1.3747041 -1.5471822],0.019813954830169678
+301,Dr. Abraham Erskine,captain_america.txt,Mr. Stark? [Stark opens the pod],-0.2,[ 1.762453  -1.0894439],[ 1.640899  -1.9688436],0.024197161197662354
+302,Dr. Abraham Erskine,captain_america.txt,Steven. Steven.,0.0,[ 0.72561777 -0.18837464],[ 1.3513228 -1.4002185],0.0327950119972229
+303,Col. Chester Phillips,captain_america.txt,"The son of a bitch did it. [as everyone poors out of the observation chamber Kruger leaves a small, metal object like a cigarett case behind.]",-0.325,[ 0.85421216 -0.37493896],[ 0.9731978 -1.1287146],0.06321561336517334
+304,Steve Rogers,captain_america.txt,[As he stumbles out of the pod supported by Stark and Erskine] I did it.,-0.2,[0.8509975  0.00769651],[ 1.6315638 -1.8419824],0.02790844440460205
+305,Dr. Abraham Erskine,captain_america.txt,"Yeah, yeah. I think we did it.",0.0,[-0.23378842  0.7989233 ],[ 1.5670522 -1.3988882],0.04784366488456726
+306,Howard Stark,captain_america.txt,We actually did it.,0.0,[-0.5159765  1.091868 ],[ 1.346636  -1.1821407],0.042371392250061035
+307,Peggy Carter,captain_america.txt,How do you feel?,0.0,[ 2.3120854 -1.3232037],[ 1.9805249 -1.9180872],0.14081528782844543
+308,Steve Rogers,captain_america.txt,Taller.,0.0,[0.6821731  0.12282335],[ 1.0816625  -0.98756886],0.045182257890701294
+309,Peggy Carter,captain_america.txt,You look taller.,0.0,[-0.44186527  1.07447   ],[ 1.1978737 -1.123384 ],0.13867323100566864
+310,Col. Chester Phillips,captain_america.txt,"How do you like Brooklyn now, Senator?",0.0,[ 2.0793874 -1.2139523],[ 1.6188762 -1.736118 ],0.1091783195734024
+311,Dr. Abraham Erskine,captain_america.txt,"Thank you, sir.",0.0,[-0.19876006  0.7660405 ],[ 1.3756137 -1.3651623],0.16442185640335083
+312,Nick Fury,winter_soldier.txt,"Thank you, sir.",0.0,[-0.19876006  0.7660405 ],[ 1.3756137 -1.3651623],0.16442185640335083
+313,Dr. Abraham Erskine,captain_america.txt,Stop him! [Kruger shoots him and flees with Peggy chasing after him],0.0,[ 1.385092  -0.7260816],[ 0.99359524 -1.2286149 ],0.13720983266830444
+314,Steve Rogers,captain_america.txt,"Sorry! [he runs after the cab] [While chasing the car he loses control over his new power and crashes into a bridalwear store.] I’m sorry. [he runs out into a street full of cars] Whoa, whoa, whoa!",-0.1702272727272727,[ 0.7873341  -0.21895322],[ 1.862348  -1.8683704],0.08129733800888062
+315,Steve Rogers,captain_america.txt,"[as Kruger points a gun at the boy’s head.] Wait, don’t! Don’t! [Kruger points the gun at Steve and pulls the trigger, but the gun is empty. So instead he throws the boy into the water.] No! Don’t! [Kruger runs, Steve looks down at the boy.]",-0.1559027777777777,[ 1.8043071 -1.1771364],[ 1.354444  -1.5272369],0.06276458501815796
+316,Steve Rogers,captain_america.txt,Who the hell are you?,0.0,[ 2.25627   -1.2626255],[ 1.2127904 -1.284384 ],0.12279698252677917
+317,Toomes,spider_man_homecoming.txt,Who the hell are you?,0.0,[ 2.25627   -1.2626255],[ 1.2127904 -1.284384 ],0.12279698252677917
+318,Johann Schmidt,captain_america.txt,Reward? Call it what it is. Exile. I no longer reflect his image of Aryan perfection.,0.0,[ 1.5681576 -0.8628767],[ 0.90800416 -1.0433354 ],0.0789790153503418
+319,Johann Schmidt,captain_america.txt,"Gentlemen, you have come to see the results of our work. Let me show you. [They enter the lab.] Hitler speaks of a thousand-year Reich, but he cannot feed his army for a month. His troops spill their blood across every field in Europe. But still he is no closer to achieving his goals.",0.0,[ 0.9382176  -0.41889986],[ 1.1080986 -1.2299885],0.07697790861129761
+320,Johann Schmidt,captain_america.txt,"Science. But I understand your confusion. Great power has always baffled primitive men. HYDRA is assembling an arsenal to destroy my enemies in one stroke. Where ever they are, regardless of how many forces they possess. All in a matter of hours.",0.3666666666666667,[ 1.1041143  -0.43076697],[ 0.6909318 -0.8086033],0.07688367366790771
+321,Johann Schmidt,captain_america.txt,"My weapons contain enough destructive power to decimate every hostile capital on earth. Quite simply, gentlemen, I have harnessed the power of the Gods.",-0.1999999999999999,[ 1.5130621  -0.60902184],[ 0.86637485 -1.1086489 ],0.06002628803253174
+322,Johann Schmidt,captain_america.txt,So it is.,0.0,[0.5004385  0.12736166],[ 0.9826051 -0.9080149],0.03338974714279175
+323,Johann Schmidt,captain_america.txt,"My apolpgies, Doctor, but we both knew HYDRA could grow no further in Hitler’s shadow. Hail HYDRA.",0.0,[ 0.8590053  -0.16105428],[ 0.70748687 -0.9419031 ],0.06760215759277344
+324,Dr. Arnim Zola,captain_america.txt,[when Schmidt turns to him] Hail HYDRA!,0.0,[0.73712826 0.01954773],[ 1.276768  -1.5696946],0.027580857276916504
+325,Steve Rogers,captain_america.txt,[referring to the amount of blood samples taken from him] Think you got enough?,0.0,[ 1.8835973 -1.2464119],[ 1.8408126 -2.1219752],0.10680064558982849
+326,Peggy Carter,captain_america.txt,"Any hope of reproducing a program is locked in your genetic code. But without Dr. Erskine, it could take years.",0.0,[ 1.1199245 -0.7513228],[ 1.4283469 -1.5069978],0.03919774293899536
+327,Steve Rogers,captain_america.txt,He deserved more than this.,0.5,[ 0.7939933  -0.04972887],[ 1.2840672 -1.2116691],0.10582232475280762
+328,Peggy Carter,captain_america.txt,"If it could only work once, he’d be proud it was you.",0.4,[ 1.5419618  -0.76694006],[ 1.7609482 -1.6819396],0.17163391411304474
+329,Col. Chester Phillips,captain_america.txt,Great. Why don’t we start with how a German spy got a ride to my secret installation in your car? [to Stark who is working on the submarine] What have we got here?,0.05,[ 1.3377144  -0.79281664],[ 1.2721621 -1.4056005],0.07805407047271729
+330,Howard Stark,captain_america.txt,"Speaking modestly, I’m the best mechanical engineer in this country. But I don’t know what’s inside this thing or how it works. We’re not even close to this technology.",0.55,[ 1.6417215 -0.921068 ],[ 1.7829965 -1.6005933],0.06275427341461182
+331,Col. Chester Phillips,captain_america.txt,HYDRA. I’m sure you’ve been reading our briefings.,0.5,[0.06757972 0.35251805],[ 1.3321053 -1.4684889],0.06392264366149902
+332,Peggy Carter,captain_america.txt,HYDRA is the Nazi deep science division. It’s led by Johann Schmidt. But he has much bigger ambitions.,0.0,[-0.46469724  0.8597305 ],[ 1.1482412 -1.3011276],0.025411605834960938
+333,Col. Chester Phillips,captain_america.txt,"HYDRA’s practically a cult. They worship Schmidt, they think he’s invincible.",0.0,[0.22611862 0.37014815],[ 1.3567107 -1.5323098],0.07197031378746033
+334,Col. Chester Phillips,captain_america.txt,Spoke to the president this morning. As of today the SSR is being retasked.,0.0,[ 1.0797392 -0.4553613],[ 2.071802  -2.0754602],0.02093091607093811
+335,Peggy Carter,captain_america.txt,Colonel?,0.0,[ 1.3155668  -0.46767047],[ 1.4618262 -1.4537516],0.029223084449768066
+336,Col. Chester Phillips,captain_america.txt,"We are taking the fight to HYDRA. Pack your bags Agent Carter. You too, Stark. You’re flying to London tonight.",-0.2,[ 1.4456022 -0.8154629],[ 1.3631357 -1.5393859],0.08249980211257935
+337,Steve Rogers,captain_america.txt,"Sir, if you’re going after Schmidt, I want in.",0.0,[ 1.7885752 -1.1388583],[ 1.6352767 -1.7352511],0.07857027649879456
+338,Col. Chester Phillips,captain_america.txt,You’re an experiment. You’re going to Alamogordo.,0.0,[ 1.1278512  -0.70654875],[ 1.610239  -1.3916034],0.06241941452026367
+339,Steve Rogers,captain_america.txt,The serum worked.,0.0,[-0.6492486  1.142838 ],[ 1.3515834 -1.2839941],0.026125043630599976
+340,Col. Chester Phillips,captain_america.txt,I asked for an army and all I got was you. You are not enough.,0.0,[ 2.0493321 -1.0972832],[ 1.7156814 -1.6775285],0.10586026310920715
+341,Steve Rogers,captain_america.txt,"Sir, that’s all I want.",0.0,[0.5514839  0.23068899],[ 1.334128 -1.411235],0.15259796380996704
+342,Steve Rogers,captain_america.txt,[backstage as Steve is getting dressed in super-hero costume] I don’t know if I can do this.,0.0,[ 1.4046458  -0.55288815],[ 1.9034592 -1.8261492],0.039822936058044434
+343,Steve Rogers,captain_america.txt,It’s just not how I pictured getting there.,0.0,[ 1.3343527 -0.5090981],[ 1.4989244 -1.3990749],0.060958415269851685
+344,Steve Rogers,captain_america.txt,[As women start to sing and dance in the background Steve reads,0.0,[0.19596024 0.2568725 ],[ 0.02776201 -0.10789724],0.06254878640174866
+345,Steve Rogers,captain_america.txt,Series E Defence Bonds. Each one you buy is a bullet in the barrel of your best guy’s gun.,1.0,[ 0.8379428  -0.52221555],[ 1.4979967 -1.6224601],0.027960896492004395
+346,Steve Rogers,captain_america.txt,Each one you buy is a bullet in the barrel of your best guy’s gun.,1.0,[ 1.0482179  -0.55238307],[ 1.458356  -1.4977013],0.034612447023391724
+347,Steve Rogers,captain_america.txt,"We all know this is about trying to win the war. We can’t do that without bullets and bandages, tanks and tents. That’s where you come in. Every bond you buy will help protect someone you love. [A men dressed as hitler sneaks up on him on the stage.]",0.65,[ 0.5356535 -0.0532243],[ 1.5047415 -1.6719748],0.08740156888961792
+348,Steve Rogers,captain_america.txt,"Keep our boys armed and ready, and the Germans will think twice about trying to get the drop on us. [The man attacs him and gets fake-punched.]",0.2,[ 1.1647621 -0.5159814],[ 0.92995644 -1.14665   ],0.09108197689056396
+349,Steve Rogers,captain_america.txt,How many of you ready to help me sock old Adolf on the jaw? [silence from the crowd of soldiers] Okay. Uh… I need a volunteer.,0.3249999999999999,[ 1.6879737 -0.8790257],[ 1.421499 -1.656573],0.11616715788841248
+350,Steve Rogers,captain_america.txt,I think they only know the one song. But um…let me…I’ll…I’ll see what I can do.,0.0,[ 1.9771131 -1.2820493],[ 1.7875161 -1.7151173],0.06985771656036377
+351,Steve Rogers,captain_america.txt,"Come on, guys. We’re all on the same team here.",0.0,[ 1.7728986 -0.8716743],[ 1.628455  -1.5007797],0.03494453430175781
+352,Peggy Carter,captain_america.txt,"Hello, Steve.",0.0,[-0.07626829  0.6586822 ],[ 1.5133804 -1.5225962],0.04608723521232605
+353,Steve Rogers,captain_america.txt,[He turns and looks up at Peggy.] Hi.,0.0,[ 0.8176804  -0.22566271],[ 1.6671268 -1.7493354],0.06739702820777893
+354,Peggy Carter,captain_america.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+355,Tony,iron_man_2.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+356,Tony Stark,iron_man_3.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+357,Richard,thor_dark_world.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+358,Jane Foster,thor_dark_world.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+359,Pepper Potts,infinity_war.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+360,Cindy,spider_man_homecoming.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+361,Steve Rogers,captain_america.txt,What are you doin’ here?,0.0,[ 2.0267541 -1.3117156],[ 1.7565922 -1.8479904],0.06869983673095703
+362,Peggy Carter,captain_america.txt,Officially I’m not here at all. That was quite a performance.,0.0,[ 0.50440544 -0.02971764],[ 1.699339  -1.4421352],0.08201241493225098
+363,Steve Rogers,captain_america.txt,Yeah. Uh… I had to improvise a little bit. Crowds I’m used to are usually more uh… twelve.,0.15625,[ 1.6804898 -0.9883157],[ 1.8703502 -1.9240062],0.07230383157730103
+364,Peggy Carter,captain_america.txt,"I understand you’re ""America’s New Hope""?",0.1363636363636363,[-0.1208378  0.545468 ],[ 1.8375114 -2.0111902],0.05445510149002075
+365,Steve Rogers,captain_america.txt,Bond sales take a ten percent bump in every state I visit.,0.0,[-1.6488236  1.5151386],[ 1.9792323 -1.9395074],0.02199852466583252
+366,Peggy Carter,captain_america.txt,Is that Senator Brandt I hear?,0.0,[ 1.9147303 -1.013697 ],[ 1.5751125 -1.6943702],0.06804952025413513
+367,Steve Rogers,captain_america.txt,At least he’s got me doin’ this. Phillips would have had be stuck in lab.,-0.3,[ 1.7623423 -0.8021175],[ 1.3928397 -1.3776871],0.1030120849609375
+368,Peggy Carter,captain_america.txt,"And these are your only two options? A lab rat or a dancing monkey? You were meant for more than this, you know? [Steve goes to respond but hesitates] What?",0.15,[ 2.1625192 -1.4189061],[ 1.6500876 -1.7706527],0.09268361330032349
+369,Steve Rogers,captain_america.txt,"You know for the longest time I dreamed about coming overseas and being on the front lines. Serving my country. I finally get everything I wanted, and I’m wearing tights. [Honking in the background as an ambulance arrives with wounded soldiers. Steve and Peggy turn around to watch.] They look like they’ve been through hell.",0.0,[0.51980555 0.15426064],[ 2.201257  -2.1784267],0.11098429560661316
+370,Peggy Carter,captain_america.txt,These men more than most. Schmidt sent out a force to Azzano. Two hundred men went up against him and less than fifty returned. Your audience contained what was left of the one-oh-seventh. The rest were killed or captured.,0.1266666666666666,[ 1.7707736 -1.0103502],[ 1.1737901 -1.3466624],0.07825112342834473
+371,Steve Rogers,captain_america.txt,The one-oh-seventh?,0.0,[ 1.6371638  -0.95545775],[ 1.8860971 -1.8122282],0.023836344480514526
+372,Wanda Maximoff,civil_war.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+373,Peter Parker,civil_war.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+374,Peggy Carter,captain_america.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+375,Vers,captain_marvel.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+376,Fury,captain_marvel.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+377,Tony,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+378,Pepper,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+379,Tony,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+380,Justin,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+381,Rhodey,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+382,Happy Hogan,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+383,Pepper Potts,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+384,Pepper Potts,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+385,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+386,Savin,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+387,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+388,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+389,Mrs. Davis,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+390,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+391,Thor,thor_dark_world.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+392,Jane Foster,thor_dark_world.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+393,Odin,thor_dark_world.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+394,Thor,infinity_war.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+395,Peter,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+396,May,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+397,Ned,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+398,Peter,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+399,Brice,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+400,Brice,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+401,Ned,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+402,Flash,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+403,Peter,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+404,Peter,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+405,May,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+406,Peter,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+407,Ned,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+408,Peter,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+409,Peter,spider_man_homecoming.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+410,Steve Rogers,winter_soldier.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+411,Steve Rogers,winter_soldier.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+412,Steve Rogers,winter_soldier.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+413,Steve Rogers,captain_america.txt,Come on! [They run to a tent.] Colonel Phillips.,0.0,[ 1.6109864  -0.65856737],[ 1.6974022 -1.8684784],0.04482686519622803
+414,Col. Chester Phillips,captain_america.txt,"Well, if it isn’t the Star-Spangled Man With A Plan. And what is your plan today?",0.0,[ 1.8399158 -1.184168 ],[ 1.9040235 -2.11668  ],0.02966231107711792
+415,Steve Rogers,captain_america.txt,I need the casualty list from Azzano.,0.0,[ 1.7929847 -0.8723332],[ 1.6716994 -1.7305611],0.025193870067596436
+416,Col. Chester Phillips,captain_america.txt,"You don’t get to give me orders, son.",0.0,[ 1.5317887 -0.7857134],[ 1.4140711 -1.345499 ],0.14798519015312195
+417,Steve Rogers,captain_america.txt,I just need one name. Sergeant James Barnes from the hundred and seventh.,0.0,[ 2.0406868 -0.9826722],[ 1.9835156 -1.9805559],0.04155316948890686
+418,Col. Chester Phillips,captain_america.txt,[pointing to Peggy] You and I are gonna have a conversation later that you won’t enjoy.,0.2,[ 1.1603628 -0.5068319],[ 1.4951863 -1.3797076],0.12703782320022583
+419,Steve Rogers,captain_america.txt,"Please tell me if he’s alive, sir. B-A-R…",0.1,[ 2.2654128 -1.4537787],[ 2.0524843 -2.2281086],0.08614185452461243
+420,Col. Chester Phillips,captain_america.txt,I can spell. [referring to Barnes] I have signed more of these condolence letters today than I would care to count. But the name does sound familiar. I’m sorry.,0.1937499999999999,[ 1.4289043  -0.85561097],[ 2.2306325 -2.2291982],0.02925163507461548
+421,Steve Rogers,captain_america.txt,What about the others? Are you planning a rescue mission?,0.0,[ 2.032503  -1.3025503],[ 2.1773653 -2.2357905],0.027840018272399902
+422,Col. Chester Phillips,captain_america.txt,Yeah! It’s called winning the war.,0.5,[-0.51932144  1.2887354 ],[ 1.3795085 -1.4205059],0.02694261074066162
+423,Steve Rogers,captain_america.txt,"But if you know where they are, why not at least…?",0.0,[ 1.8729604 -1.2759546],[ 1.9585959 -2.0323803],0.042186230421066284
+424,Col. Chester Phillips,captain_america.txt,"They’re thirty miles behind the lines. Through the most heavily fortified territory in Europe. We’d lose more men than we’d save. But I don’t expect you to understand that, because you’re a chorus girl.",0.0999999999999999,[ 1.2914859 -0.5888537],[0.18108343 0.05021282],0.10330724716186523
+425,Steve Rogers,captain_america.txt,I think I understand just fine.,0.4166666666666667,[-0.4559897  0.9888954],[ 1.862992  -1.6616427],0.05291435122489929
+426,Col. Chester Phillips,captain_america.txt,"Well then understand it somewhere else. If I read the posters correctly, you got some place to be in thirty minutes. [as Phillips walks away Steve looks at the military map which shows where the men are]",-0.1,[ 1.2541536  -0.62865025],[ 1.6048535 -1.7786725],0.028605520725250244
+427,Steve Rogers,captain_america.txt,"Yes, sir. I do.",0.0,[ 0.928246   -0.20268312],[ 1.3794813 -1.3331132],0.11665445566177368
+428,Col. Chester Phillips,captain_america.txt,"[To Peggy] If you have something to say, right now is the perfect time to keep it to yourself.",0.6428571428571428,[ 1.6928846 -1.0342033],[ 1.9042891 -1.8372136],0.09226620197296143
+429,Peggy Carter,captain_america.txt,[She follows Steve to his tent where he starts to change and pack some things.] What do you plan to do? Walk to Austria?,0.0,[ 1.9391557 -1.4068484],[ 1.6722366 -1.8838304],0.06021547317504883
+430,Steve Rogers,captain_america.txt,If that’s what it takes.,0.0,[ 1.6603072 -0.6758482],[ 1.082091  -1.0439248],0.027668148279190063
+431,Peggy Carter,captain_america.txt,"You heard the Colonel, your friend is most likely dead.",0.0999999999999999,[ 1.186372  -0.5064392],[ 1.8332903 -1.8829654],0.10111552476882935
+432,Steve Rogers,captain_america.txt,You don’t know that.,0.0,[ 1.3015336 -0.5240889],[ 1.2143389 -1.0671245],0.08345925807952881
+433,Peggy Carter,captain_america.txt,"Even so, he’s devising a strategy. If he detects…",0.0,[ 1.5079961 -0.8768547],[ 1.8658676 -1.9161487],0.02615836262702942
+434,Steve Rogers,captain_america.txt,"By the time he’s done that, it could be too late! [He walks out to a jeep.] You told me you thought I was meant for more than this. Did you mean that?",-0.0625,[ 2.015272  -1.1678735],[ 1.6610872 -1.8203193],0.11876086890697479
+435,Peggy Carter,captain_america.txt,Every word.,0.0,[0.62249553 0.38992348],[ 1.137253  -1.0419141],0.03276419639587402
+436,Steve Rogers,captain_america.txt,Then you gotta let me go. [He gets in the jeep.],0.0,[ 1.4103428 -0.6685973],[ 1.3932155 -1.434445 ],0.10625571012496948
+437,Peggy Carter,captain_america.txt,I can do more than that.,0.5,[ 1.589796   -0.73543656],[ 1.4978399 -1.3350265],0.054553329944610596
+438,Peggy Carter,captain_america.txt,"The HYDRA camp is in Krausberg, tucked between these two mountain ranges. It’s a factory of some kind.",0.6,[ 0.69114685 -0.09792116],[ 1.5764726 -1.6556438],0.02202245593070984
+439,Howard Stark,captain_america.txt,We should be able to drop you right on the doorstep.,0.3928571428571428,[0.44323117 0.13238874],[ 1.7170843 -1.6406386],0.1440432071685791
+440,Steve Rogers,captain_america.txt,"Just get me as close as you can. [referring to Stark and Peggy helping him] You know, you two are gonna be in a lot of trouble at the lab.",-0.2,[ 1.4795316  -0.79451233],[ 1.4896104 -1.5412114],0.15456095337867737
+441,Peggy Carter,captain_america.txt,And you won’t?,0.0,[ 1.4942443  -0.63088256],[ 1.3715143 -1.3872408],0.13060694932937622
+442,Steve Rogers,captain_america.txt,"Where I’m goin’, if anybody yells at me I can just shoot ‘em.",0.0,[ 1.9331795  -0.92826456],[ 1.4456335 -1.4147834],0.1292058229446411
+443,Peggy Carter,captain_america.txt,They will undoubtedly shoot back.,0.0,[ 0.8819072  -0.03192703],[ 1.041903  -1.0143256],0.027825146913528442
+444,Steve Rogers,captain_america.txt,"Well, let’s hope it’s good for somethin’. [He knocks at his shield.]",0.7,[ 1.0501661  -0.41624168],[ 1.5805756 -1.8318309],0.08335292339324951
+445,Howard Stark,captain_america.txt,"Agent Carter, if we’re not in too much of a hurry I thought we could stop off in Lucerne for a late night fondue. [Peggy looks awkwardly at Steve who’s getting ready to parachute.]",-0.1249999999999999,[ 1.7450002 -1.1733001],[ 1.6992356 -1.90546  ],0.09443530440330505
+446,Peggy Carter,captain_america.txt,"Stark is the best civilian pilot I’ve ever seen. He’s mad enough to brave this airspace, we’re lucky to have him.",0.2180555555555555,[ 1.0271659  -0.34306255],[ 1.5197638 -1.5943263],0.11207897961139679
+447,Steve Rogers,captain_america.txt,So are you two…? Do you…? Fondue?,0.0,[ 1.9080666 -1.4630499],[ 1.901809 -2.167267],0.14993111789226532
+448,Peggy Carter,captain_america.txt,[She ignores Steve’s akward and confused rambling.] This is your transponder. Activate it when you’re ready and the signal will lead us straight to you.,0.0,[ 1.5848976 -1.0370218],[ 1.5671856 -1.6351684],0.07520037889480591
+449,Steve Rogers,captain_america.txt,Are you sure this thing works?,0.5,[ 1.8396227 -1.1154873],[ 1.8210927 -1.8516692],0.032858580350875854
+450,Howard Stark,captain_america.txt,"It’s been tested more than you, pal. [as their plane is being attacked Steve goes towards the opened door of the plane to jump]",0.5,[ 1.282988   -0.58080524],[ 1.4202213 -1.6347015],0.055739521980285645
+451,Peggy Carter,captain_america.txt,Get back here! We’re taking you all the way in.,0.0,[ 1.9415673 -1.2431102],[ 1.958609  -1.8964345],0.1068926751613617
+452,Steve Rogers,captain_america.txt,"As soon as I’m free, you turn this thing around and get the hell outta here!",0.5,[ 2.0146964 -1.2340269],[ 0.3480312  -0.33579534],0.1358177363872528
+453,Peggy Carter,captain_america.txt,You can’t give me orders!,0.0,[ 1.5338277  -0.84877634],[ 1.4675292 -1.3955401],0.08089250326156616
+454,Steve Rogers,captain_america.txt,The hell I can’t! I’m a Captain! [he looks at her and then jumps out of the plane],0.0,[ 1.2765763 -0.422789 ],[ 1.5193744 -1.558835 ],0.13190552592277527
+455,Dr. Arnim Zola,captain_america.txt,"As you can see, production of the Valkyrie is progressing on schedule, even with components of this size.",0.0,[0.36774075 0.12702751],[ 2.0143187 -1.9230705],0.020546019077301025
+456,Johann Schmidt,captain_america.txt,Increase the output by 60 % and see to it our other facilities do the same.,-0.0625,[0.2877981  0.05964237],[ 1.9250997 -1.7828684],0.025023341178894043
+457,Dr. Arnim Zola,captain_america.txt,"But the prisoners, I’m not sure they have the strength.",-0.25,[ 1.8151473 -0.7616313],[ 1.1387253 -1.2184085],0.05476444959640503
+458,Johann Schmidt,captain_america.txt,"Then use up what strength they have left, Doctor. There are always more workers.",0.25,[ 0.68944806 -0.13416848],[ 1.1695951  -0.76406515],0.05737057328224182
+459,Dr. Arnim Zola,captain_america.txt,[To someone approaching him with a clip board] Not now!,0.0,[ 1.2542026  -0.47829273],[ 1.5897698 -1.6169072],0.044925153255462646
+460,Steve Rogers,captain_america.txt,Fellas.,0.0,[-0.21900071  0.7310055 ],[ 0.7782463  -0.69292617],0.11422178149223328
+461,Steve Rogers,captain_america.txt,I’m… Captain America.,0.0,[ 0.95643365 -0.07586133],[ 1.724176  -1.8238385],0.09049031138420105
+462,Steve Rogers,captain_america.txt,Is there anybody else? I’m looking for a Sergeant James Barnes.,0.0,[ 2.1417174 -1.3192703],[ 2.0357864 -2.0841398],0.054241299629211426
+463,Steve Rogers,captain_america.txt,"All right. The tree line is northwest, 80 yards past the gate. Get out fast and give ‘em hell. I’ll meet you guys in the clearing with anybody else I find.",0.0785714285714285,[ 1.7229099 -0.9919938],[ 1.3070701 -1.3803236],0.09128904342651367
+464,Steve Rogers,captain_america.txt,Yeah. I’ve knocked out Adolf Hitler over two hundred times.,0.0,[0.6208461  0.06006492],[ 1.1210568 -1.1304377],0.04772058129310608
+465,Johann Schmidt,captain_america.txt,[stares at a surveillance screen] What is happening? [He presses an alarm.],0.0,[ 1.5478317 -0.8749053],[ 1.8888214 -1.9959921],0.019964873790740967
+466,Dr. Arnim Zola,captain_america.txt,"No, no! What are you doing?",0.0,[ 1.9422289 -1.1364448],[ 1.3846449 -1.4198632],0.08298596739768982
+467,Johann Schmidt,captain_america.txt,"Our forces are outmatched. [Zola looks at the screens, then runs out of the room.]",0.0,[ 1.1780976  -0.25310066],[ 1.4275614 -1.5871284],0.02146148681640625
+468,James Barnes,captain_america.txt,Sergeant. 32557…,0.0,[ 1.3024094 -0.6689625],[ 1.7434006 -1.8042551],0.02113965153694153
+469,Steve Rogers,captain_america.txt,"[he finds Barnes strapped to a chair in one of Schmidt’s testing labs] Bucky? Oh, my God. [he unstraps him from the chair]",0.0,[ 1.5306386 -0.892942 ],[ 1.9607539 -2.2382314],0.08000215888023376
+470,James Barnes,captain_america.txt,Is that…,0.0,[ 1.5853298 -0.8710016],[ 1.5523866 -1.6552256],0.030110418796539307
+471,Steve Rogers,captain_america.txt,It’s me. It’s Steve.,0.0,[ 1.7550347 -0.8125867],[ 1.5991945 -1.6984043],0.11037427186965942
+472,James Barnes,captain_america.txt,Steve?,0.0,[ 1.3339231  -0.55376816],[ 1.3703136 -1.373064 ],0.045745283365249634
+473,Bucky Barnes,infinity_war.txt,Steve?,0.0,[ 1.3339231  -0.55376816],[ 1.3703136 -1.373064 ],0.045745283365249634
+474,Peggy Carter,winter_soldier.txt,Steve?,0.0,[ 1.3339231  -0.55376816],[ 1.3703136 -1.373064 ],0.045745283365249634
+475,Steve Rogers,captain_america.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+476,Steve Rogers,captain_america.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+477,Vers,captain_marvel.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+478,Aldrich Killian,iron_man_3.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+479,Happy,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+480,Peter,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+481,Charles,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+482,Sally,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+483,Flash,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+484,Steve Rogers,captain_america.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+485,Steve Rogers,captain_america.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+486,Vers,captain_marvel.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+487,Aldrich Killian,iron_man_3.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+488,Happy,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+489,Peter,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+490,Charles,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+491,Sally,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+492,Flash,spider_man_homecoming.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+493,Bucky Barnes,civil_war.txt,Steve.,0.0,[ 0.7906281  -0.07887306],[ 1.1233784 -1.0949101],0.03783556818962097
+494,James Barnes,captain_america.txt,Steve.,0.0,[ 0.7906281  -0.07887306],[ 1.1233784 -1.0949101],0.03783556818962097
+495,Steve Rogers,captain_america.txt,I thought you were dead.,-0.2,[0.7568408  0.03189074],[ 1.638793  -1.5616039],0.10544058680534363
+496,James Barnes,captain_america.txt,I thought you were smaller. [referring to Steve’s change of appearance],0.0,[ 1.4267563  -0.76169246],[ 1.7239156 -1.924285 ],0.13080856204032898
+497,James Barnes,captain_america.txt,What happened to you?,0.0,[ 2.1312609 -1.1288311],[ 1.5864483 -1.6268837],0.1642777919769287
+498,Steve Rogers,captain_america.txt,I joined the Army. [referring to Steve’s undergoing change to a super-soldier],0.0,[0.6029826  0.16451389],[ 1.8225003 -1.9707938],0.023898333311080933
+499,James Barnes,captain_america.txt,Did it hurt?,0.0,[ 2.0256763 -1.2314551],[ 1.7328314 -1.6327987],0.033131182193756104
+500,Steve Rogers,captain_america.txt,A little.,-0.1875,[0.3798685  0.18923631],[ 1.1406204 -1.0004706],0.09696123003959656
+501,James Barnes,captain_america.txt,Is it permanent?,0.0,[ 2.1225395 -1.2634618],[ 1.5800819 -1.5835459],0.0422634482383728
+502,Steve Rogers,captain_america.txt,So far.,0.1,[0.30340144 0.28152686],[ 1.0007428  -0.88869107],0.03199946880340576
+503,Johann Schmidt,captain_america.txt,"Captain America! How exciting! I’m a great fan of your films. So Dr. Erskine managed it after all. Not exactly an improvement, but still impressive. [Steve punches Schmidt hard in the face]",0.3516666666666666,[-0.3520529  0.7099951],[ 1.6229371 -1.789011 ],0.16184407472610474
+504,Steve Rogers,captain_america.txt,You’ve got no idea.,0.0,[ 1.2736082  -0.38383353],[ 1.3411846 -1.1268953],0.10721658170223236
+505,Johann Schmidt,captain_america.txt,"Haven’t I? [He goes to hit Steve but Steve protects himself with his shield. As they fight, Zola pulls a leaver and the catwalk they are standing on retracts to either side seperating them.] No matter what lies Erskine told you, you see I was his greatest success! [he peels off the skin on his face to reveal that he is the Red Skull]",0.4583333333333333,[ 1.3857837  -0.72758585],[ 1.3786082 -1.6064875],0.11418202519416809
+506,James Barnes,captain_america.txt,"[to Steve referring to Schmidt’s skinless face] You don’t have one of those, do you?",0.0,[ 1.6029453 -0.9551643],[ 1.7580994 -1.8825291],0.1622820496559143
+507,Johann Schmidt,captain_america.txt,"You are deluded, Captain. You pretend to be a simple soldier, but in reality you are just afraid to admit that we have left humanity behind. Unlike you, I embrace it proudly. Without fear!",0.0,[ 0.84948796 -0.19167653],[ 1.7815301 -1.8906592],0.1242929995059967
+508,Steve Rogers,captain_america.txt,"Then how come you’re running? [Schmidt and Zola continue their escape and so do Steve and Bucky.] Come on, let’s go. Up.",0.0,[ 1.6707368  -0.94830596],[ 1.5630997 -1.7173991],0.12077732384204865
+509,Dr. Arnim Zola,captain_america.txt,Sir? Are we going to the roof? [The doors open to reveal a one-man-plane] What about me? Where will I sit?,0.0,[ 2.151715  -1.3408356],[ 1.6887687 -1.8516572],0.05153393745422363
+510,Johann Schmidt,captain_america.txt,"[gives Zola his car keys] Not a scratch, Doctor. Not a scratch. [We see Schmidt and Zola escaping.]",0.0,[ 1.2083577 -0.6441137],[ 1.7050972 -1.8382416],0.10939733684062958
+511,Steve Rogers,captain_america.txt,Let’s go. One at a time. [Bucky reaches the other side but the gantry collapses behind him.],-0.2625,[ 1.7288085  -0.98428154],[ 1.6943692 -1.9533403],0.027821063995361328
+512,James Barnes,captain_america.txt,Gotta be a rope or something!,0.0,[ 1.7754036  -0.83649963],[ 1.270213  -1.1893425],0.10884593427181244
+513,Steve Rogers,captain_america.txt,Just go! Get out of here!,0.0,[ 1.5208555 -0.7629119],[ 0.19561194 -0.36855724],0.06587183475494385
+514,James Barnes,captain_america.txt,No! Not without you! [Steve jumps over the chasm.],0.0,[ 1.5553507  -0.88218683],[ 1.2414024 -1.4585752],0.10569217801094055
+515,Col. Chester Phillips,captain_america.txt,"Senator Brandt, I regret to report that Captain Steven G. Rogers went missing behind enemy lines on the third. Aerial reconnaissance has proven unfruitful. As a result, I must declare Captain Rogers killed in action. Period.",-0.2166666666666666,[ 1.6331629 -0.964675 ],[ 1.9161607 -2.0415242],0.024903953075408936
+516,Peggy Carter,captain_america.txt,The last surveillance flight is back. No sign of activity.,0.0,[ 0.9648634  -0.33588108],[ 1.8221927 -1.8149978],0.01465672254562378
+517,Col. Chester Phillips,captain_america.txt,"Go get a cup of coffee, Corporal.",0.0,[0.3531191  0.17286247],[ 1.5328324 -1.4050223],0.06746029853820801
+518,Col. Chester Phillips,captain_america.txt,I can’t touch Stark. He’s rich and he’s the Army’s number one weapons contractor. You are neither one.,0.0875,[ 1.2841321 -0.7337533],[ 1.4183582 -1.5706674],0.08700928092002869
+519,Peggy Carter,captain_america.txt,"With respect, sir, I don’t regret my actions. And I don’t think Captain Rogers did either.",0.0,[ 1.6946427 -0.8290536],[ 1.7968782 -1.839292 ],0.14875353872776031
+520,Col. Chester Phillips,captain_america.txt,"What makes you think I give a damn about your opinions. I took a chance with you, Agent Carter. And now America’s golden boy and a lot of other good men are dead, cause you had a crush.",0.16875,[0.53214616 0.05522361],[ 1.5921715 -1.6313063],0.17634588479995728
+521,Peggy Carter,captain_america.txt,It wasn’t that. I had faith.,0.0,[ 1.9604474 -1.0758001],[ 1.6592175 -1.5201343],0.11442482471466064
+522,Col. Chester Phillips,captain_america.txt,"Well, I hope that’s a big comfort to you when they shut this division down. [Soldier start running and talking exitedly in the background.] What the hell’s going on out there? [They follow the crowd to the edge of the camp where Steve’S arriving with the freed prisoners.]",-0.0777777777777777,[0.4479285 0.195566 ],[ 1.6930631 -1.818395 ],0.07892483472824097
+523,Steve Rogers,captain_america.txt,[salutes to Phillips] Some of theres men need medical attention.,0.0,[ 0.97594666 -0.24500543],[ 1.2596842 -1.2693903],0.04051518440246582
+524,Steve Rogers,captain_america.txt,I’d like to surrender myself for disciplinary action.,0.1,[ 2.0030274 -1.1716866],[ 1.5733606 -1.5632828],0.09358996152877808
+525,Col. Chester Phillips,captain_america.txt,That won’t be necessary.,0.0,[ 1.6947441 -0.8420783],[ 1.1189562 -1.0447407],0.06636098027229309
+526,Steve Rogers,captain_america.txt,"Yes, sir.",0.0,[0.35625207 0.21165594],[ 1.1214586 -1.0675007],0.08703690767288208
+527,Stern,iron_man_2.txt,"Yes, sir.",0.0,[0.35625207 0.21165594],[ 1.1214586 -1.0675007],0.08703690767288208
+528,Major Allen,iron_man_2.txt,"Yes, sir.",0.0,[0.35625207 0.21165594],[ 1.1214586 -1.0675007],0.08703690767288208
+529,Military Aide,iron_man_3.txt,"Yes, sir.",0.0,[0.35625207 0.21165594],[ 1.1214586 -1.0675007],0.08703690767288208
+530,Peter,spider_man_homecoming.txt,"Yes, sir.",0.0,[0.35625207 0.21165594],[ 1.1214586 -1.0675007],0.08703690767288208
+531,STRIKE Agent #2,winter_soldier.txt,"Yes, sir.",0.0,[0.35625207 0.21165594],[ 1.1214586 -1.0675007],0.08703690767288208
+532,Col. Chester Phillips,captain_america.txt,"[he turns and walks away from Steve and he notices Peggy] Faith, huh?",0.0,[ 0.8806508  -0.41493797],[ 1.8276807 -1.8648261],0.1166100800037384
+533,Peggy Carter,captain_america.txt,[to Steve] You’re late.,-0.3,[ 1.2521341  -0.60861033],[ 1.7523938 -1.8072256],0.09876000881195068
+534,Steve Rogers,captain_america.txt,[holding up the broken transponder] Couldn’t call my ride.,-0.4,[ 1.464665   -0.46771947],[ 2.0602    -1.9686384],0.09044727683067322
+535,James Barnes,captain_america.txt,[to the men] Hey! Let’s hear it for Captain America. [more cheering],0.5,[0.7908595 0.167214 ],[ 1.508336  -1.6798619],0.1118462085723877
+536,Steve Rogers,captain_america.txt,"The fifth one was here in Poland, right near the Baltic. [he marks it on a map] And the sixth one was… about here, 30, 40 miles west of the Maginot Line. [a soldier takes the map away] I just got a quick look.",0.2396825396825396,[ 1.5230594 -0.9348584],[ 1.554171  -1.7587987],0.019507139921188354
+537,Peggy Carter,captain_america.txt,"Well, nobody’s perfect. [they walk over to Phillips and another map]",1.0,[ 1.5373833 -0.657351 ],[ 1.8313385 -1.9473422],0.025903642177581787
+538,Steve Rogers,captain_america.txt,These are the weapon factories we know about. Sergeant Barnes said that Hydra shipped all the parts to another facility that isn’t on this map.,0.0,[ 0.31979975 -0.01529998],[ 1.7852136 -1.8389124],0.018368959426879883
+539,Col. Chester Phillips,captain_america.txt,"Agent Carter, coordinate with MI6. I want every Allied eyeball looking for that main Hydra base.",-0.3166666666666667,[0.42397875 0.22795078],[ 1.2524644 -1.4104751],0.02441731095314026
+540,Peggy Carter,captain_america.txt,What about us?,0.0,[ 2.0645497 -1.1019968],[ 1.7961    -1.7393334],0.08345538377761841
+541,Col. Chester Phillips,captain_america.txt,"We are gonna set a fire under Johann Schmidt’s ass. What do you say, Rogers? It’s your map, you think you can wipe Hydra off of it?",0.0,[ 1.9220144 -1.035042 ],[ 0.8160198  -0.94919634],0.11527207493782043
+542,Steve Rogers,captain_america.txt,"Yes, sir. I’ll need a team.",0.0,[ 1.8741336  -0.96524566],[ 1.5709321 -1.5374849],0.07128864526748657
+543,Col. Chester Phillips,captain_america.txt,We’re already putting together the best men.,1.0,[-0.20714174  0.85192144],[ 1.0643375 -1.2147712],0.16848118603229523
+544,Steve Rogers,captain_america.txt,"With all due respect, sir. So am I.",-0.125,[ 1.2678668 -0.558263 ],[ 1.3803821 -1.4059469],0.14519818127155304
+545,Steve Rogers,captain_america.txt,Pretty much.,0.225,[0.18452035 0.37707648],[ 1.0908598 -0.95024  ],0.05089086294174194
+546,Carol,captain_marvel.txt,Pretty much.,0.225,[0.18452035 0.37707648],[ 1.0908598 -0.95024  ],0.05089086294174194
+547,Steve Rogers,captain_america.txt,What’s that?,0.0,[ 2.1100276 -1.1929225],[ 1.3400208 -1.324498 ],0.030033588409423828
+548,Steve Rogers,captain_america.txt,[Steve goes over to the bar.] Another round.,-0.2,[ 0.98694664 -0.49878445],[ 1.7179608 -1.721732 ],0.02081337571144104
+549,James Barnes,captain_america.txt,"[Steve joins Bucky at the barcounter. In the background everyone's singing ""There's a Tavern in Town""[1]] See? I told you. They’re all idiots.",-0.8,[ 0.7953133  -0.16352123],[ 1.7181698 -1.8335185],0.07302457094192505
+550,Steve Rogers,captain_america.txt,How about you? You ready to follow Captain America into the jaws of death?,0.2,[ 2.3467615 -1.443699 ],[ 1.3905281 -1.6415642],0.1198049783706665
+551,James Barnes,captain_america.txt,"Hell, no. That little guy from Brooklyn who was too dumb not to run away from a fight. I’m following him. But you’re keeping the outfit, right?",-0.0691964285714285,[ 1.67064    -0.91790146],[ 1.4904929 -1.6364626],0.1602758765220642
+552,Steve Rogers,captain_america.txt,You know what? It’s kind of growing on me.,0.6,[ 0.76883876 -0.11576702],[ 1.499184  -1.5264887],0.15110555291175842
+553,Peggy Carter,captain_america.txt,"[The singing in the bar stops as Peggy in a tight fitting, deep-red dress walks in.] Captain.",0.1607142857142857,[0.6204264 0.0901282],[ 1.2654933 -1.1979526],0.11482907831668854
+554,James Barnes,captain_america.txt,Ma’am.,0.0,[ 0.794361  -0.1126499],[ 1.109424 -0.976814],0.07475858926773071
+555,Peggy Carter,captain_america.txt,Howard has some equipment for you to try. Tomorrow morning?,0.0,[ 2.0155704 -1.5051252],[ 2.2157173 -2.1292484],0.021345019340515137
+556,Steve Rogers,captain_america.txt,Sounds good.,0.7,[-1.706207   1.7863265],[ 1.1146629 -1.0524286],0.07554203271865845
+557,Peggy Carter,captain_america.txt,I see you top squad is prepping for duty.,0.5,[-1.0813453  1.4669298],[ 1.552395  -1.5232857],0.02695244550704956
+558,James Barnes,captain_america.txt,You don’t like music?,0.0,[ 0.66025937 -0.11153843],[ 1.9688617 -1.967147 ],0.08904698491096497
+559,Peggy Carter,captain_america.txt,"I do, actually. I might even, when this is all over, go dancing.",0.0,[ 1.9495856 -1.1893635],[ 1.6861373 -1.6486012],0.08560267090797424
+560,James Barnes,captain_america.txt,Then what are we waiting for?,0.0,[ 1.7724649  -0.97659093],[ 1.5076993 -1.4604079],0.0367317795753479
+561,Steve Rogers,captain_america.txt,"Yes, ma’m. I’ll be there.",0.0,[ 1.98151   -1.1533488],[ 1.389373  -1.2771107],0.16561844944953918
+562,James Barnes,captain_america.txt,[referring to the rejection he got from Peggy about going dancing with him] I’m invisible. I’m…I’m turning into you. It’s like some horrible dream.,-1.0,[ 1.3385531 -0.6568083],[ 2.0729513 -2.0565636],0.1738300919532776
+563,Steve Rogers,captain_america.txt,Don’t take it so hard. Maybe she’s got a friend. [whilst waiting to see Stark],-0.2458333333333333,[ 1.7696233  -0.95693195],[ 1.2735281 -1.3188378],0.15444770455360413
+564,Howard Stark,captain_america.txt,"[Morning, by a glass chamber, Stark examines the Hydra cartridge] Emission signature is unusual. Alpha and beta ray neutral. Though I doubt Rogers picked up on that. Seems harmless enough. Hard to see what all the fuss is about. [He removes a glowing pellet. The blast sends Stark and his engineer flying across the room.] Write that down.",-0.1078703703703703,[ 1.4001417 -0.9393276],[ 1.4837753 -1.7438793],0.024172544479370117
+565,Steve Rogers,captain_america.txt,[to Private Lorraine] Excuse me. I’m looking for Mr. Stark.,-0.0833333333333333,[ 1.3478974 -0.6647164],[ 1.7824311 -1.9016236],0.09756308794021606
+566,Steve Rogers,captain_america.txt,"Oh! The…yeah! Well, that’s you know? Just doin’ what needed to be done.",0.0,[0.41945565 0.19673544],[ 2.0559294 -2.0046127],0.045329004526138306
+567,Steve Rogers,captain_america.txt,"Really, it’s not a big deal.",0.0,[ 0.7537755  -0.13043237],[ 1.3098185 -1.2711768],0.09391894936561584
+568,Steve Rogers,captain_america.txt,Uh…I don’t think they were all married.,0.25,[ 1.3002684 -0.7237446],[ 1.2734518 -1.4289926],0.17340236902236938
+569,Steve Rogers,captain_america.txt,"Well, that…you know? That…that depends on the definition of it really. [she grabs hold of his tie]",0.2,[ 1.8320423 -1.2197261],[ 1.5324175 -1.5578293],0.15104982256889343
+570,Peggy Carter,captain_america.txt,"[she walks in] Captain! [Steve and Pvt. Lorraine separate] We’re ready for you. If you’re not otherwise occupied. [annoyed, she turns and walks ahead]",-0.1,[ 1.846009 -1.213907],[ 1.5457197 -1.7189738],0.11520323157310486
+571,Steve Rogers,captain_america.txt,"Agent Carter, wait.",0.0,[ 0.73787576 -0.06249179],[ 1.6186274 -1.6238499],0.023177504539489746
+572,Peggy Carter,captain_america.txt,Looks like finding a partner wasn’t that hard after all.,-0.2916666666666667,[-0.4061083   0.84229267],[ 1.6052927 -1.7010857],0.17189249396324158
+573,Steve Rogers,captain_america.txt,"Peggy, that’s not what you thought it was.",0.0,[ 1.5515314 -0.7193691],[ 1.6223265 -1.498115 ],0.05599924921989441
+574,Peggy Carter,captain_america.txt,"I don’t think anything, Captain. Not one thing. You always wanted to be soldier and now you are. Just like all the rest.",0.0,[ 1.5310566  -0.60479987],[ 1.7157865 -1.666918 ],0.13871555030345917
+575,Steve Rogers,captain_america.txt,"Well, what about you and Stark? How do I know you two haven’t been… fonduing?",-0.2,[ 1.8026448 -1.2378173],[ 1.8329684 -2.0736496],0.1764390617609024
+576,Peggy Carter,captain_america.txt,[she turns to look at him] You still don’t know a bloody thing about women!,-1.0,[ 1.012622  -0.5249869],[ 0.14649744 -0.04537111],0.16864114999771118
+577,Howard Stark,captain_america.txt,"Fondue is just cheese and bread, my friend.",0.0,[0.39902773 0.16977355],[ 1.9298724 -1.762798 ],0.05157804489135742
+578,Steve Rogers,captain_america.txt,Really? I didn’t think…,0.2,[ 1.3769469  -0.57166016],[ 1.6256129 -1.6766132],0.0680457055568695
+579,Howard Stark,captain_america.txt,"Nor should you, pal. The moment you think you know what’s goin’ on in a woman’s head, it’s the moment your goose is well and truly cooked. Me, I concentrate on work. Which at the moment is about making sure you and your men do not get killed. Carbon polymer. [referring to a piece of cloth lying on the table] Should withstand your average German bayonet. Although Hydra’s not going to attack you with a pocket knife. [referring to Steve’s Captain America shield] I hear you’re uh… kinda attached?",0.0375,[ 1.8096051 -1.1546373],[ 0.45344898 -0.5856296 ],0.1310177743434906
+580,Steve Rogers,captain_america.txt,It’s handier than you might think.,0.0,[ 1.3054869 -0.5528991],[ 1.216962  -1.1574885],0.1634276956319809
+581,Howard Stark,captain_america.txt,I took the liberty of coming up with some options. [shows him a few shields] This one’s fun. She’s been fitted with electrical relays. It’ll allow you to…,0.0499999999999999,[ 1.592971  -0.9267608],[ 1.6296262 -1.6512179],0.1082218587398529
+582,Steve Rogers,captain_america.txt,What about this one? [he picks up a round silver looking shield],-0.2,[ 2.124024  -1.2708864],[ 1.502565  -1.7141129],0.02239978313446045
+583,Howard Stark,captain_america.txt,No! No! That’s just a prototype.,0.0,[ 1.4817928  -0.62037504],[ 1.2926376 -1.148104 ],0.024556517601013184
+584,Steve Rogers,captain_america.txt,What’s it made of?,0.0,[ 2.2554002 -1.4063506],[ 1.3798213 -1.3376256],0.030353277921676636
+585,Howard Stark,captain_america.txt,Vibranium. It’s stronger than steel and a third of the weight. It’s completely vibration absorbent.,0.05,[ 1.3819311 -0.8262531],[ 1.2444723 -1.261665 ],0.025121569633483887
+586,Steve Rogers,captain_america.txt,How come it’s not a standard issue?,0.0,[ 1.8508496  -0.98602086],[ 1.7996656 -1.7662143],0.032545626163482666
+587,Howard Stark,captain_america.txt,That’s the rarest metal on earth. What you’re holding there? That’s all we’ve got.,0.0,[ 2.1375024 -1.273977 ],[ 1.2473171 -1.352834 ],0.07362106442451477
+588,Peggy Carter,captain_america.txt,"[as Steve is checking out the shield made out of Vibranium] You quite finished, Mr. Stark? I’m sure the Captain has some unfinished business.",0.15,[ 1.3823416  -0.81834817],[ 1.7231457 -1.9823694],0.08447456359863281
+589,Steve Rogers,captain_america.txt,[holds up the Vibranium shield against him] What do you think? [Peggy picks up gun and shoots it at Steve as he quickly holds up the shield to protect himself],0.3333333333333333,[ 1.9695009 -1.2423996],[ 1.5200298 -1.8042396],0.04461541771888733
+590,Peggy Carter,captain_america.txt,"Yes. I think it works. [she puts the gun down and walks out of the lab, Steve and Howard looking at her stunned]",-0.1555555555555555,[ 1.0698372  -0.49390236],[ 1.7017366 -1.7761223],0.10779692232608795
+591,Steve Rogers,captain_america.txt,I had some ideas about the uniform. [gives Stark a piece of paper],-0.2,[ 1.9254011 -1.1293322],[ 1.7079262 -1.9330755],0.025939732789993286
+592,Howard Stark,captain_america.txt,"[takes it] Whatever you want, pal.",0.0,[ 1.9313711 -1.0007691],[ 1.5269561 -1.6548876],0.13540637493133545
+593,Johann Schmidt,captain_america.txt,"You are failing! We are close to an offensive network that will shake the planet. And yet we are continually delayed, because you cannot outwit a simpleton with a shield!",0.0,[0.5755932  0.01938585],[ 0.95787704 -0.9910126 ],0.029062867164611816
+594,Dr. Arnim Zola,captain_america.txt,This is hardly my area of expertise. I…I merely develop the weapons. I…I cannot fire them.,-0.3958333333333333,[ 1.7748959 -1.2893393],[ 1.7498788 -1.644179 ],0.07327482104301453
+595,Johann Schmidt,captain_america.txt,"Finish your mission, Doctor. Before the American finishes his.",0.0,[0.334339   0.14796767],[ 1.2317252 -1.4150848],0.11376100778579712
+596,Johann Schmidt,captain_america.txt,Evidently not. [kills him],-0.125,[ 1.8622745 -1.0704094],[ 1.3754905 -1.5445067],0.09873241186141968
+597,James Barnes,captain_america.txt,[On a snow covered mountain the Howling Commandos prepare to zipline onto the train.] Remember when I made you ride the Cyclone at Coney Island?,0.0,[ 0.87911725 -0.26914945],[ 1.6465503 -1.8439041],0.02665036916732788
+598,Steve Rogers,captain_america.txt,"Yeah, I and I threw up?",0.0,[-0.07118382  0.43798813],[ 1.7202824 -1.776427 ],0.07589060068130493
+599,James Barnes,captain_america.txt,"This isn’t payback, is it?",0.0,[ 1.7412544 -0.977624 ],[ 1.3637091 -1.4130718],0.03660067915916443
+600,Steve Rogers,captain_america.txt,Now why would I do that?,0.0,[ 1.7864568 -1.1146432],[ 1.4347587 -1.4806877],0.1122111976146698
+601,Steve Rogers,captain_america.txt,"We only got about a 10-second window. You miss that window, we’re bugs on a windshield.",0.0,[ 1.7692969 -1.0407375],[ 1.8254577 -1.60929  ],0.03427910804748535
+602,Dr. Arnim Zola,captain_america.txt,"[watching Steve on a monitor, fighting his way through the train] Stop him! Fire again!",0.0,[ 0.87208176 -0.2804915 ],[ 1.2957342 -1.5744399],0.059477269649505615
+603,James Barnes,captain_america.txt,[after Steve helps him out] I had him on the ropes.,0.0,[ 1.2745116 -0.2787684],[ 1.6862568 -1.7238392],0.08710908889770508
+604,Steve Rogers,captain_america.txt,I know you did. [another trooper with a blaster appears] Get down!,-0.1944444444444444,[ 1.3793157 -0.6750995],[ 1.1380321 -1.2688069],0.04167640209197998
+605,Dr. Arnim Zola,captain_america.txt,Fire again! Kill him! Now!,0.0,[ 1.5316733 -0.8022492],[ 0.7801144 -1.0802249],0.08001363277435303
+606,Steve Rogers,captain_america.txt,[Bucky’s been blasted through a hole and is now hanging outside the train.] Bucky! Hang on! Grab my hand! NO!,-0.3,[ 1.5604491  -0.95617104],[ 1.3434873 -1.5036451],0.16450276970863342
+607,Col. Chester Phillips,captain_america.txt,Sit down.,-0.1555555555555555,[ 1.0305717  -0.18541363],[ 1.1223258 -0.9938854],0.02511003613471985
+608,Dr. Arnim Zola,captain_america.txt,What is this?,0.0,[ 1.8674151 -1.0068535],[ 1.420338  -1.3753765],0.02747786045074463
+609,Col. Chester Phillips,captain_america.txt,Steak.,0.0,[0.5165815  0.03113636],[ 0.87646526 -0.8887213 ],0.026580870151519775
+610,Dr. Arnim Zola,captain_america.txt,What is in it?,0.0,[ 2.313423  -1.4225069],[ 1.321432  -1.3031677],0.02447199821472168
+611,Col. Chester Phillips,captain_america.txt,"Cow. Doctor, do you realize how difficult it is to get ahold of a prime cut like that out here?",-0.3166666666666666,[ 1.8170586 -1.1481143],[ 1.4517679 -1.5374783],0.0637781023979187
+612,Dr. Arnim Zola,captain_america.txt,I don’t eat meat.,0.0,[ 1.1701117  -0.58916104],[ 1.1789337 -0.9996587],0.05630353093147278
+613,Dr. Arnim Zola,captain_america.txt,It disagrees with me.,0.0,[ 1.1329594  -0.26154497],[ 1.3834109 -1.3748969],0.06388309597969055
+614,Col. Chester Phillips,captain_america.txt,"How about cyanide? Does that give you the rumbly tummy too? Every Hydra agent that we’ve tried to take alive has crunched a little pill before we can stop him. But not you. So, here’s my brilliant theory. [Phillips starts eating the steak.] You wanna live.",0.2372159090909091,[ 1.3591379 -0.7934428],[ 0.7998006 -1.0164493],0.1501695215702057
+615,Dr. Arnim Zola,captain_america.txt,"You’re trying to intimidate me, Colonel.",0.0,[0.69527495 0.02568788],[ 1.4887276 -1.5044521],0.15279361605644226
+616,Col. Chester Phillips,captain_america.txt,I bought you dinner. [passes him a piece of paper which Zola reads out loud],0.1,[ 1.2243274 -0.5192572],[ 1.7125479 -1.8889184],0.10916700959205627
+617,Dr. Arnim Zola,captain_america.txt,"‘Given the variable information he has provided, and in exchange for his full cooperation, Dr. Zola is being remanded to Switzerland.’",0.35,[ 1.1676375 -0.6531934],[ 2.168348  -2.2523897],0.0182381272315979
+618,Col. Chester Phillips,captain_america.txt,"I sent that message to Washington this morning. Of course it was encoded. You guys haven’t broken those codes, have you? That would be awkward.",-0.5,[ 0.94519746 -0.58232474],[ 1.6525394 -1.6903939],0.04066893458366394
+619,Dr. Arnim Zola,captain_america.txt,Schmidt will know this is a lie.,0.0,[0.30397236 0.32786438],[ 1.3927134 -1.2176198],0.06060042977333069
+620,Col. Chester Phillips,captain_america.txt,"He’s gonna kill you anyway, Doc. You’re a liability. You know more about Schmidt than anyone. And the last guy you cost us was Captain Rogers’ closest friend. So, I wouldn’t count on the very best of protection. There’s you or Schmidt. It’s just the hand you’ve been dealt.",0.5,[ 2.3934758 -1.5283005],[ 1.5218644 -1.7051526],0.17478492856025696
+621,Dr. Arnim Zola,captain_america.txt,Schmidt believes he walks in the foot steps of the Gods.,0.0,[-0.2068152  0.5502801],[ 1.6299413 -1.6440657],0.02588331699371338
+622,Col. Chester Phillips,captain_america.txt,Mmm.,0.0,[ 0.96300226 -0.31701922],[ 1.1786088 -1.0916966],0.07214391231536865
+623,Dr. Arnim Zola,captain_america.txt,Only the world itself will satisfy him.,0.0,[0.06290866 0.48411855],[ 1.4444405 -1.4443433],0.10762451589107513
+624,Col. Chester Phillips,captain_america.txt,"You do realize that’s nuts, don’t you?",0.0,[ 1.0309263  -0.40921667],[ 1.2057753 -1.1889094],0.10365645587444305
+625,Dr. Arnim Zola,captain_america.txt,But the sanity of the plan is of no consequence.,0.0,[ 1.0782365 -0.4677714],[ 1.5208253 -1.5245394],0.01703023910522461
+626,Col. Chester Phillips,captain_america.txt,And why is that?,0.0,[ 1.9470625 -1.0443712],[ 1.2323016 -1.233156 ],0.07893654704093933
+627,Dr. Arnim Zola,captain_america.txt,Because he can do it!,0.0,[-0.15084389  0.78367925],[ 1.0364007 -1.1010336],0.06239613890647888
+628,Col. Chester Phillips,captain_america.txt,What’s his target?,0.0,[ 2.1919198 -1.356901 ],[ 1.4279064 -1.4749343],0.0440087616443634
+629,Dr. Arnim Zola,captain_america.txt,His target… is everywhere.,0.0,[0.20411195 0.18063489],[ 1.555391  -1.6262852],0.03262290358543396
+630,Johann Schmidt,captain_america.txt,"Tomorrow, Hydra will stand master of the world. Born to victory on the wings of the Valkyrie. Our enemies weapons will be powerless against us. If they shoot down one plane, hundreds more will rain fire upon them! If they cut off one head, two more shall take its place. Hail Hydra! [his soldiers all start saluting and shouting ‘Hail Hydra’]",0.1486111111111111,[ 1.3759795 -0.5095587],[ 0.31206948 -0.494238  ],0.04525291919708252
+631,Steve Rogers,captain_america.txt,"[when Peggy finds him he’s pouring himself some drink] Dr. Erskine said that… the serum wouldn’t just effect my muscles, it would effect my cells. Create a protective system of regeneration and healing. Which means um…I can’t get drunk. Did you know that?",-0.5,[ 0.48806882 -0.19663885],[ 1.7515701 -1.8180485],0.16006574034690857
+632,Peggy Carter,captain_america.txt,Your metabolism burns four times faster than the average person. He thought it could be one of the side effects. [referring to Barnes getting killed] It wasn’t your fault.,-0.175,[ 1.0723522 -0.554322 ],[ 1.8325833 -1.9962205],0.11672303080558777
+633,Steve Rogers,captain_america.txt,Did you read the reports?,0.0,[ 1.9485768 -1.095573 ],[ 1.9639577 -1.9491568],0.03511586785316467
+634,Steve Rogers,captain_america.txt,Then you know that’s not true.,-0.175,[ 1.0462444 -0.3502704],[ 1.2687771 -1.1836617],0.0630778968334198
+635,Peggy Carter,captain_america.txt,You did everything you could. Did you believe in your friend? Did you respect him? [Steve looks at her as if to say yes] Then stop blaming yourself. Allow Barnes the dignity of his choice. He damn well must have thought you were worth it.,0.3,[ 1.5539196 -0.9652178],[ 1.9952523 -1.9818914],0.1767912209033966
+636,Steve Rogers,captain_america.txt,I’m goin’ after Schmidt. I’m not gonna stop till all of Hydra is dead or captured.,-0.2,[ 2.2103977 -1.1797853],[ 0.9594382 -1.1887398],0.07902514934539795
+637,Peggy Carter,captain_america.txt,You won’t be alone.,0.0,[ 1.5332506  -0.76710904],[ 1.6060487 -1.442603 ],0.12509110569953918
+638,Col. Chester Phillips,captain_america.txt,"Johann Schmidt belongs in a bug house. He thinks he’s a God. He’s willing to blow up half the world to prove it, starting with the USA.",0.0277777777777777,[0.2570975  0.31831187],[ 1.0488006 -1.2508305],0.11052882671356201
+639,Howard Stark,captain_america.txt,"Schmidt’s working with powers beyond our capabilities. He gets across the Atlantic, he will wipe out the entire eastern sea board in an hour.",0.0,[0.2434584  0.46962848],[ 1.062116 -1.250399],0.024324864149093628
+640,Col. Chester Phillips,captain_america.txt,"According to my new best friend, under twenty four hours.",0.5681818181818181,[ 0.419129   -0.09110111],[ 2.067186  -1.9605206],0.09968861937522888
+641,Col. Chester Phillips,captain_america.txt,Hydra’s last base is here. [holding a photo he points to the base] In the Alps. Five hundred feet below the surface.,-0.5333333333333333,[ 1.5676352 -0.8094674],[ 1.8395673 -2.0739167],0.02265065908432007
+642,Steve Rogers,captain_america.txt,Why not? That’s exactly what we’re gonna do.,0.25,[0.53765196 0.01563486],[ 1.4206358 -1.3926641],0.08975639939308167
+643,Johann Schmidt,captain_america.txt,"Arrogance may not be a uniquely American trait, but I must say you do it better than anyone. But there are limits to what even you can do, Captain. Or did Erskine tell you otherwise?",0.25,[ 1.9646325 -1.3110334],[ 1.6519986 -1.6758608],0.0979258120059967
+644,Steve Rogers,captain_america.txt,He told me you were insane.,-1.0,[-0.02428032  0.64983505],[ 1.7048558 -1.6256363],0.13600483536720276
+645,Johann Schmidt,captain_america.txt,"Ah. He resented my genius and tried to deny me what was rightfully mine. But he gave you everything. So, what made you so special?",0.3571428571428571,[ 1.764613  -0.9580286],[ 1.8063489 -1.9487579],0.17554506659507751
+646,Steve Rogers,captain_america.txt,Nothin’. I’m just a kid from Brooklyn. [after Schmidt has beaten him] I can do this all day.,0.0,[ 2.0973222 -1.128199 ],[ 1.6749619 -1.8042713],0.15769925713539124
+647,Johann Schmidt,captain_america.txt,"Oh, of course you can. Of course. But unfortunately I am on a tight schedule. [Schmidt takes out his cube-energy pistol and points it at Steve]",-0.1785714285714285,[ 1.458159   -0.83379024],[ 1.697238  -1.7621475],0.04168069362640381
+648,Steve Rogers,captain_america.txt,So am I! [just then Steve’s team crashes through the windows of the weapons lab],0.0,[0.3204558 0.185051 ],[ 1.8071488 -1.9326807],0.026193976402282715
+649,Steve Rogers,captain_america.txt,Thanks! [Steve makes his way through the Hydra base which has fallen into chaos with the arrival of more Allied soldiers.],-0.0166666666666666,[0.24917884 0.15875962],[ 1.4171071 -1.6778636],0.02948218584060669
+650,Col. Chester Phillips,captain_america.txt,[standing outside listening to Morita] Move out! [the soldiers start running towards the Hydra base] Keep your spacing!,-0.5,[ 1.1966155 -0.5457045],[ 1.0312355 -1.3322203],0.06318342685699463
+651,Col. Chester Phillips,captain_america.txt,Let’s go find two more!,0.625,[ 1.5887899 -0.9557327],[ 1.3957937 -1.413509 ],0.05340540409088135
+652,Steve Rogers,captain_america.txt,[after Peggy has killed the Hydra soldier] You’re late.,-0.25,[ 1.1090161 -0.3598167],[ 1.4858629 -1.5521556],0.052676379680633545
+653,Peggy Carter,captain_america.txt,Weren’t you about to…,0.0,[ 1.764232   -0.96168727],[ 1.6022874 -1.5747947],0.1346527636051178
+654,Steve Rogers,captain_america.txt,"Right. [Steve continues his chase, but after Schmidt has boarded the Valkyrie Steve is not fast enough to catch the plane. Behin him Phillips and Peggy appear in a car and pick him up to chase the plane on the runway.] Keep it steady! [Just as Steve is about to leap from the roadster onto Schmidt’s plane Peggy stops him]",0.0985119047619047,[ 1.5224043 -0.9321352],[ 1.5380181 -1.6299006],0.042481034994125366
+655,Peggy Carter,captain_america.txt,Wait! [she kisses him] Go get him. [Steve surprised by the kiss looks at Phillips],0.1,[ 1.4273238  -0.83557737],[ 1.1856345 -1.3031605],0.19426923990249634
+656,Col. Chester Phillips,captain_america.txt,I’m not kissin’ you!,0.0,[ 1.859039 -1.041079],[ 0.7654003 -0.8671983],0.2014450579881668
+657,Johann Schmidt,captain_america.txt,"You don’t give up, do you?",0.0,[ 1.7242955 -0.8984578],[ 1.5681577 -1.5024499],0.12988537549972534
+658,Steve Rogers,captain_america.txt,Nope! [They fight],0.0,[ 1.4410404  -0.48310053],[ 1.2010851 -1.2556313],0.04743495583534241
+659,Steve Rogers,captain_america.txt,Not my future! [He flings his shield at Schmidt who is thrown into the cubic console.],0.0,[ 1.5709827  -0.81746125],[ 1.3960193 -1.5806592],0.09499651193618774
+660,Steve Rogers,captain_america.txt,Come in. This is Captain Rogers. Do you read me?,0.0,[ 1.8956822 -1.1908852],[ 2.0439608 -2.2114482],0.12570370733737946
+661,Peggy Carter,captain_america.txt,"Steve, is that you? Are you alright?",0.0,[ 2.3010604 -1.3739411],[ 1.8161584 -1.9115715],0.17587032914161682
+662,Steve Rogers,captain_america.txt,Peggy! Schmidt’s dead.,-0.2,[ 1.5710756 -0.6370515],[ 1.138472  -1.2220017],0.04301244020462036
+663,Peggy Carter,captain_america.txt,What about the plane?,0.0,[ 1.8457161 -1.0727998],[ 1.7916785 -1.7617663],0.022407859563827515
+664,Steve Rogers,captain_america.txt,That’s a little bit tougher to explain.,-0.1875,[ 1.5246395  -0.58665323],[ 1.3554391 -1.2337445],0.06394565105438232
+665,Peggy Carter,captain_america.txt,"Give me your coordinates, I’ll find you a safe landing site.",0.5,[ 1.6780479 -0.8678575],[ 1.7095984 -1.8686916],0.06344136595726013
+666,Steve Rogers,captain_america.txt,There’s not going to be a safe landing. But I can try and force it down.,0.1722222222222222,[ 1.485784   -0.70850146],[ 1.3951464 -1.3523401],0.030734390020370483
+667,Peggy Carter,captain_america.txt,"I’ll get Howard on the line, he’ll know what to do.",0.0,[ 1.8475411  -0.88010466],[ 1.2710308 -1.2239168],0.06289198994636536
+668,Steve Rogers,captain_america.txt,"There’s not enough time. This thing’s moving too fast and it’s heading for New York. [referring to Schmidt’s plane, speaking through the plane’s control] I gotta put her in the water.",0.1121212121212121,[ 1.7757154 -0.9928832],[ 1.3765827 -1.3687259],0.04194393754005432
+669,Peggy Carter,captain_america.txt,"Please, don’t do this. We have time. We can work it out.",0.0,[ 2.064683  -1.2102333],[ 1.7384155 -1.4864495],0.05962812900543213
+670,Steve Rogers,captain_america.txt,"Right now I’m in the middle of nowhere. If I wait any longer a lot of people are gonna die. Peggy, this is my choice. [as he’s forcing the plane down towards the water] Peggy?",0.0433862433862433,[ 1.9197359 -1.2230362],[ 1.4678767 -1.5588033],0.09452959895133972
+671,Peggy Carter,captain_america.txt,I’m here.,0.0,[ 1.3976912 -0.4971877],[ 1.1994962 -1.1599797],0.0874287486076355
+672,Steve Rogers,captain_america.txt,I’m gonna need a rain check on that dance.,0.0,[ 1.7033621 -0.8683253],[ 1.2885586 -1.2321907],0.08494335412979126
+673,Peggy Carter,captain_america.txt,"[with tears in her eyes] Alright. A week, next Saturday, at the Stork Club.",0.0,[ 1.9123127 -0.9884679],[ 2.0039132 -1.9272184],0.16353559494018555
+674,Steve Rogers,captain_america.txt,You got it.,0.0,[0.21225083 0.5131424 ],[ 1.2131478 -1.0501207],0.15854807198047638
+675,Peggy Carter,captain_america.txt,Eight o’clock on the dot. Don’t you dare be late. Understood?,-0.3,[ 2.0189211 -1.3378953],[ 1.7313472 -1.6455971],0.07732504606246948
+676,Steve Rogers,captain_america.txt,"You know, I still don’t know how to dance.",0.0,[ 1.2217796  -0.35665897],[ 1.2332526 -1.1261122],0.08247250318527222
+677,Peggy Carter,captain_america.txt,I’ll show you how. Just be there.,0.0,[ 1.9272869  -0.96056676],[ 1.5746872 -1.3855196],0.15351662039756775
+678,Steve Rogers,captain_america.txt,We’ll have the band play somethin’ slow. I’d hate to step on your… [the line goes static and Peggy begins to cry],-0.2,[ 2.0647197 -1.1135548],[ 1.7306124 -1.7092801],0.1563955545425415
+679,Peggy Carter,captain_america.txt,Steve? Steve? Steve?,0.0,[ 1.4700283 -1.0256637],[ 1.6765751 -1.7016056],0.04953104257583618
+680,Howard Stark,captain_america.txt,[to the captain] Take us to the next grid point.,0.0,[ 1.6349417 -0.7006762],[ 1.5236338 -1.6579998],0.027973860502243042
+681,Howard Stark,captain_america.txt,Just keep looking.,0.0,[ 0.55170435 -0.03812064],[ 1.831744 -1.806864],0.08484581112861633
+682,Steve Rogers,captain_america.txt,Where am I?,0.0,[ 2.163084  -1.1910089],[ 1.5531129 -1.6024567],0.06684786081314087
+683,Steve Rogers,captain_america.txt,[he looks at her suspiciously] Where am I really?,0.2,[ 2.026549  -1.2971358],[ 1.739749  -1.9111356],0.13908974826335907
+684,Steve Rogers,captain_america.txt,"The game, it’s from May, nineteen forty one. I know, cause I was there. [he gets up from the bed] Now, I’m gonna ask you again. Where am I?",-0.4,[ 2.125612  -1.2736553],[ 2.0147796 -2.1534986],0.1340281069278717
+685,Steve Rogers,captain_america.txt,Who are you? [two soldiers in black uniform enter the room and Steve knocks them through the wall. Steve realizes that he’s on a some kind of made up set and he runs out of there.],0.2166666666666666,[ 1.2321608 -0.6378414],[ 1.573408  -1.7155393],0.06479120254516602
+686,Steve Rogers,captain_america.txt,Break what?,0.0,[ 1.4875954 -0.5579462],[ 1.260445  -1.1864562],0.025839388370513916
+687,Steve Rogers,captain_america.txt,Yeah. Yeah. I just…I had a date.,0.0,[ 0.52260387 -0.02542412],[ 2.0453248 -1.91421  ],0.15681713819503784
+688,Steve Rogers,captain_america.txt,"You’re here with a mission, sir?",0.0,[ 1.5427259 -0.813215 ],[ 1.7964442 -1.8164169],0.09794175624847412
+689,Steve Rogers,captain_america.txt,Trying to get me back in the world?,0.0,[ 1.4170452 -0.8560511],[ 2.1807947 -2.2164364],0.1082540899515152

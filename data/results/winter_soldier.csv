@@ -1,0 +1,648 @@
+Name,Movie,Line,Sentiment,Irony,Hate,Intimacy
+Steve Rogers,winter_soldier.txt,On your left.,0.0,[ 0.9450111  -0.22627646],[ 1.2973486 -1.2019085],0.09898510575294495
+Steve Rogers,winter_soldier.txt,On your left.,0.0,[ 0.9450111  -0.22627646],[ 1.2973486 -1.2019085],0.09898510575294495
+Sam Wilson,winter_soldier.txt,"Uh-huh, on my left. Got it.",0.0,[ 1.1167008 -0.3536323],[ 1.7627772 -1.6201683],0.10850125551223755
+Sam Wilson,winter_soldier.txt,Don't say it! Don't you say it!,0.0,[ 1.8189584 -0.9692724],[ 1.1020612 -1.0101041],0.12346494197845459
+Steve Rogers,winter_soldier.txt,On your left!,0.0,[ 1.5991837 -0.7070011],[ 1.5703679 -1.492083 ],0.1085616797208786
+Sam Wilson,winter_soldier.txt,Come on!,0.0,[ 1.0519999  -0.29871273],[ 0.79822767 -0.72963655],0.13385602831840515
+Steve Rogers,winter_soldier.txt,Need a medic?,0.0,[ 2.043757  -1.2584052],[ 1.5660284 -1.6263269],0.07411077618598938
+Sam Wilson,winter_soldier.txt,"I need a new set of lungs. Dude, you just ran like 13 miles in 30 minutes.",0.1363636363636363,[ 0.61140794 -0.03143419],[ 1.50025  -1.445283],0.07141923904418945
+Steve Rogers,winter_soldier.txt,I guess I got a late start.,-0.3,[0.648823  0.1454958],[ 1.5352719 -1.4180299],0.07504212856292725
+Sam Wilson,winter_soldier.txt,"Oh, really? You should be ashamed of yourself. You should take another lap.",0.2,[ 0.7347906  -0.14319518],[ 0.98183787 -0.72860193],0.1773417592048645
+Sam Wilson,winter_soldier.txt,Did you just take it? I assumed you just took it.,0.0,[ 1.48122   -0.8901006],[ 1.8026409 -1.8035072],0.08358347415924072
+Steve Rogers,winter_soldier.txt,What unit you with?,0.0,[ 2.2774663 -1.3090475],[ 1.3729255 -1.3390642],0.09207487106323242
+Sam Wilson,winter_soldier.txt,"58, Pararescue. But now I'm working down at the VA.",-0.1555555555555555,[-0.0573648  0.682257 ],[ 2.267912  -2.1344824],0.024540841579437256
+Sam Wilson,winter_soldier.txt,Sam Wilson.,0.0,[0.44963756 0.14667103],[ 1.1617452 -1.1714365],0.030702054500579834
+Steve Rogers,winter_soldier.txt,Steve Rogers.,0.0,[0.28512228 0.35119835],[ 1.2728854 -1.2821655],0.028945446014404297
+Sam Wilson,winter_soldier.txt,Yeah I kind of put that together. Must have freaked you out coming home after the whole defrosting thing.,0.4,[ 1.008685  -0.3610255],[ 1.7516974 -1.7581508],0.06982758641242981
+Steve Rogers,winter_soldier.txt,"It takes some getting used to. It's good to meet you, Sam.",0.7,[0.54769075 0.02730988],[ 1.8248535 -1.8523618],0.17706626653671265
+Sam Wilson,winter_soldier.txt,"It's your bed, right?",0.2857142857142857,[ 1.4457251 -0.6922517],[ 1.7029083 -1.7688755],0.17089775204658508
+Steve Rogers,winter_soldier.txt,What's that?,0.0,[ 2.0485668 -1.046986 ],[ 1.2492839 -1.2368416],0.027281612157821655
+Sam Wilson,winter_soldier.txt,"Your bed, it's too soft. When I was over there I'd sleep on the ground and use rock for pillows, like a caveman. Now I'm home, lying in my bed, and it's like...",0.1,[ 1.7002898  -0.94159067],[ 1.7787569 -1.8381282],0.1728145033121109
+Steve Rogers,winter_soldier.txt,Lying on a marshmallow. Feel like I'm gonna sink right to the floor.,0.2857142857142857,[ 1.7888416 -0.9938257],[ 1.6318008 -1.5730982],0.0594237744808197
+Steve Rogers,winter_soldier.txt,How long?,-0.05,[ 1.9784595 -1.1522003],[ 1.4260005 -1.3134805],0.03715837001800537
+Sam Wilson,winter_soldier.txt,Two tours.,0.0,[0.19002359 0.36098075],[ 1.2167858 -1.1561791],0.03177833557128906
+Sam Wilson,winter_soldier.txt,"You must miss the good old days, huh?",0.3999999999999999,[0.20770822 0.2057842 ],[ 1.6479706 -1.5612386],0.15113003551959991
+Steve Rogers,winter_soldier.txt,"Well, things aren't so bad. Food's a lot better, we used to boil everything. No polio is good. Internet, so helpful. I've been reading that a lot trying to catch up.",0.1666666666666667,[-0.01962902  0.4364983 ],[ 1.9829851 -1.9921397],0.037838369607925415
+Sam Wilson,winter_soldier.txt,"Marvin Gaye, 1972, ""Trouble Man"" soundtrack. Everything you've missed jammed into one album.",-0.15,[ 1.6629012 -0.8719028],[ 2.175699  -2.1251965],0.030246645212173462
+Steve Rogers,winter_soldier.txt,I'll put it on the list.,0.0,[ 1.7348623  -0.74785084],[ 1.2608839 -1.2339796],0.03196254372596741
+Steve Rogers,winter_soldier.txt,"Alright, Sam, duty calls. Thanks for the run. If that's what you wanna call running.",0.2,[-0.11905339  0.5632505 ],[ 1.7494832 -1.8512937],0.028774231672286987
+Sam Wilson,winter_soldier.txt,"Oh, that's how it is?",0.0,[-1.1318928  1.6517913],[ 1.615022  -1.5080653],0.02625390887260437
+Steve Rogers,winter_soldier.txt,"Oh, that's how it is.",0.0,[-1.1138064  1.5707237],[ 1.3043677 -1.1774423],0.029212504625320435
+Sam Wilson,winter_soldier.txt,"(He laughs.) Okay. Any time you wanna stop by the VA, make me look awesome in front of the girl at the front desk, just let me know.",0.75,[ 0.61167055 -0.03628843],[ 1.3480445 -1.2860048],0.16134235262870789
+Steve Rogers,winter_soldier.txt,I'll keep it in mind.,0.0,[ 1.669195  -0.8443547],[ 1.4855216 -1.4570129],0.09935182332992554
+Sam Wilson,winter_soldier.txt,Okay.,0.5,[0.18276115 0.53094697],[ 0.928708   -0.86421824],0.030240356922149658
+Natasha Romanoff,winter_soldier.txt,"Hey, fellas. Either one of you know where the Smithsonian is? I'm here to pick up a fossil.",0.0,[ 1.7710637 -1.1930137],[ 1.9450545 -2.1338418],0.048046499490737915
+Steve Rogers,winter_soldier.txt,That's hilarious.,0.5,[-1.5186516  1.9576917],[ 0.9899189 -0.9047687],0.11257922649383545
+Sam Wilson,winter_soldier.txt,How you doing?,0.0,[ 2.127962  -1.1858503],[ 1.6830367 -1.7318   ],0.11769434809684753
+Natasha Romanoff,winter_soldier.txt,Hey.,0.0,[0.19733138 0.377543  ],[ 1.1227647 -1.0989131],0.02827894687652588
+Steve Rogers,winter_soldier.txt,Can't run everywhere.,0.0,[ 1.2124093 -0.4158748],[ 1.5204431 -1.3873179],0.026312410831451416
+Sam Wilson,winter_soldier.txt,"No, you can't.",0.0,[ 0.6293892  -0.06272048],[ 1.260748  -1.0387105],0.08729934692382812
+Brock Rumlow,winter_soldier.txt,The target is a mobile satellite launch platform,0.0,[-0.01919921  0.49472228],[ 1.8055736 -1.7424932],0.027792006731033325
+Steve Rogers,winter_soldier.txt,Any demands?,0.0,[ 2.2478638 -1.3033941],[ 1.5019372 -1.4862541],0.03943723440170288
+Brock Rumlow,winter_soldier.txt,A billion and a half.,-0.1666666666666666,[0.70434237 0.21647352],[ 1.3749623 -1.2852073],0.04529672861099243
+Steve Rogers,winter_soldier.txt,Why so steep?,0.0,[ 1.6910254  -0.74199843],[ 1.3898225 -1.3490301],0.03865399956703186
+Brock Rumlow,winter_soldier.txt,Because it SHIELD's.,0.0,[0.0186015  0.60442364],[ 1.5079483 -1.5068389],0.0274142324924469
+Steve Rogers,winter_soldier.txt,"So it's not off-course, it's trespassing.",0.0,[ 0.9653329 -0.5076509],[ 1.2157371 -1.4181134],0.06545776128768921
+Natasha Romanoff,winter_soldier.txt,I'm sure they have a good reason.,0.6,[0.2718811  0.33243582],[ 1.3148782 -1.1778069],0.10462303459644318
+Steve Rogers,winter_soldier.txt,"You know, I'm getting a little tired of being Fury's janitor.",-0.29375,[ 0.8339453 -0.0520203],[ 1.8061107 -1.8538934],0.11285963654518127
+Natasha Romanoff,winter_soldier.txt,"Relax, it's not that complicated.",-0.5,[ 0.6780457  -0.02224966],[ 1.7916328 -1.5893316],0.04775732755661011
+Steve Rogers,winter_soldier.txt,How many pirates?,0.5,[ 1.7889774 -1.112353 ],[ 1.0634414 -1.2371936],0.03033873438835144
+Brock Rumlow,winter_soldier.txt,"Twenty-five, top mercs, led by this guy. Georges Batroc.",0.5,[ 1.3180324 -0.605601 ],[ 1.8462728 -1.954874 ],0.02589091658592224
+Brock Rumlow,winter_soldier.txt,"Ex-DGSE, Action Division. He's at the top of Interpol's Red Notice. Before the French demobilized him, he had thirty-six kill missions. This guy's got a rep for maximum casualties.",0.15,[0.48560894 0.14754063],[ 1.7663128 -1.9457071],0.02123880386352539
+Steve Rogers,winter_soldier.txt,Hostages?,0.0,[ 1.3321517  -0.73043585],[ 1.5903072 -1.5731158],0.022267967462539673
+Brock Rumlow,winter_soldier.txt,"Uh...mostly techs. One officer, Jasper Sitwell.",0.0,[ 0.7641505  -0.05673711],[ 2.0170062 -1.8953166],0.022660553455352783
+Brock Rumlow,winter_soldier.txt,They're in the galley.,0.0,[ 0.9249608 -0.2313155],[ 1.3095268 -1.313362 ],0.02913433313369751
+Steve Rogers,winter_soldier.txt,"What's Sitwell doing on a launch ship? Alright, I'm gonna sweep the deck and find Batroc. Nat, you'll kill the engines and wait for instructions. Rumlow, you sweep aft, find the hostages, get them to the life-pods, get 'em out. Let's move.",0.0,[ 2.0032244 -1.1786932],[ 1.0662229 -1.3058461],0.03769025206565857
+Brock Rumlow,winter_soldier.txt,"STRIKE, you heard the Cap. Gear up.",0.0,[ 1.4484355  -0.52157104],[ 1.2860323 -1.3764645],0.033477067947387695
+Steve Rogers,winter_soldier.txt,[talking into his wrist communicator] Secure channel seven.,0.4,[ 1.2137917 -0.4199246],[ 1.8728789 -1.9014071],0.02560552954673767
+Natasha Romanoff,winter_soldier.txt,Seven secure. Did you do anything fun Saturday night?,0.35,[ 1.8701826 -1.2830275],[ 1.7531563 -1.8078991],0.05374738574028015
+Steve Rogers,winter_soldier.txt,"Well, all the guys from my barbershop quartet are dead, so... No, not really.",-0.15,[ 0.8906402  -0.32056305],[ 1.9390737 -1.8789557],0.06999185681343079
+Natasha Romanoff,winter_soldier.txt,"You know, if you ask Kristen out, from Statistics, she'd probably say yes.",0.0,[ 1.3363979  -0.70617366],[ 1.1253083 -1.0731515],0.09073758125305176
+Steve Rogers,winter_soldier.txt,That's why I don't ask.,0.0,[ 1.2973243 -0.6702098],[ 1.6949748 -1.6079438],0.08222123980522156
+Natasha Romanoff,winter_soldier.txt,Too shy or too scared?,-0.5,[ 2.1417353 -1.3483554],[ 1.5762378 -1.5204573],0.06605389714241028
+Steve Rogers,winter_soldier.txt,Too busy!,0.125,[0.3660047  0.26221043],[ 1.5521367 -1.4088552],0.06707710027694702
+Brock Rumlow,winter_soldier.txt,"No. No, he wasn't.",0.0,[ 1.1924815  -0.61470735],[ 1.449222  -1.4041387],0.05531233549118042
+Steve Rogers,winter_soldier.txt,Thanks.,0.2,[-0.370325   0.8757299],[ 1.2195907 -1.1703982],0.06473758816719055
+Brock Rumlow,winter_soldier.txt,Yeah. You seemed pretty helpless without me.,0.25,[0.47820407 0.15226915],[ 1.8710603 -1.8063445],0.14366884529590607
+Natasha Romanoff,winter_soldier.txt,What about the nurse that lives across the hall from you? She seems kind of nice.,0.6,[-0.13289651  0.46929997],[ 1.6434885 -1.6321238],0.1477375030517578
+Steve Rogers,winter_soldier.txt,"Secure the engine room, then find me a date.",0.4,[ 1.4560045  -0.71943164],[ 1.301468  -1.3445592],0.052626222372055054
+Natasha Romanoff,winter_soldier.txt,I'm multitasking.,0.0,[0.09823145 0.64915574],[ 1.7472873 -1.5163555],0.02888566255569458
+Natasha Romanoff,winter_soldier.txt,"Hey, sailor.",0.0,[0.3533407 0.3293633],[ 1.3084344 -1.3916223],0.039980947971343994
+Brock Rumlow,winter_soldier.txt,STRIKE in position.,0.0,[ 1.1370885  -0.42931068],[ 1.1801027 -1.1239945],0.023287594318389893
+Steve Rogers,winter_soldier.txt,"Natasha, what's your status?",0.0,[ 2.176732  -1.3307703],[ 1.7246073 -1.8457069],0.12116497755050659
+Steve Rogers,winter_soldier.txt,"Status, Natasha?",0.0,[ 1.9802862 -1.156543 ],[ 1.62969  -1.703259],0.02579653263092041
+Natasha Romanoff,winter_soldier.txt,Hang on!,0.0,[ 1.5224267  -0.69999576],[ 1.3217617 -1.2694728],0.037398725748062134
+Natasha Romanoff,winter_soldier.txt,Engine room secure.,0.4,[ 0.7678699  -0.10266822],[ 1.3707703 -1.3316652],0.02628663182258606
+Steve Rogers,winter_soldier.txt,On my mark. Three. Two. One.,0.0,[ 1.3739368 -0.8713732],[ 1.8512415 -1.7437006],0.0946509838104248
+Jasper Sitwell,winter_soldier.txt,"I told you, SHIELD doesn't negotiate.",0.0,[-0.06659348  0.64020187],[ 1.5711435 -1.6020669],0.038702577352523804
+Brock Rumlow,winter_soldier.txt,"Hostages en route to extraction. Romanoff missed the rendezvous point, Cap. Hostiles are still in play.",0.0,[ 1.3998553  -0.87447846],[ 1.6392629 -1.805919 ],0.02397698163986206
+Steve Rogers,winter_soldier.txt,"Natasha, Batroc's on the move. Circle back to Rumlow and protect the hostages.",0.0,[ 1.542743  -0.7856688],[ 1.431163  -1.5473613],0.02261805534362793
+Steve Rogers,winter_soldier.txt,Natasha!,0.0,[ 0.88339716 -0.09479585],[ 1.3061318 -1.4251515],0.03071531653404236
+Steve Rogers,winter_soldier.txt,On va voir. ([subtitled,0.0,[ 1.3396465 -0.8331665],[ 2.0025403 -2.12789  ],0.027504026889801025
+Natasha Romanoff,winter_soldier.txt,"Well, this is awkward.",-0.6,[0.250542   0.45849806],[ 1.3293763 -1.2263983],0.07607084512710571
+Steve Rogers,winter_soldier.txt,What are you doing?,0.0,[ 2.013884  -1.2099693],[ 1.7089423 -1.7421534],0.08302116394042969
+Natasha Romanoff,winter_soldier.txt,Backing up the hard drive. It's a good habit to get into.,0.2041666666666666,[-1.230537   1.3288795],[ 1.5645939 -1.4875946],0.04732269048690796
+Steve Rogers,winter_soldier.txt,Rumlow needed your help. What the hell are you doing here?,0.0,[ 2.1181872 -1.4812382],[ 1.9666564 -2.0929801],0.13052746653556824
+Steve Rogers,winter_soldier.txt,You're saving SHIELD Intel.,0.0,[-1.4282784  1.4969398],[ 1.8123695 -1.8147177],0.02747216820716858
+Natasha Romanoff,winter_soldier.txt,Whatever I can get my hands on.,0.0,[ 1.4906045  -0.67738354],[ 1.3005369 -1.1497658],0.12131693959236145
+Steve Rogers,winter_soldier.txt,Our mission is to rescue hostages.,0.0,[-0.54922974  1.0505873 ],[ 2.2065547 -2.1177855],0.03178638219833374
+Natasha Romanoff,winter_soldier.txt,No. That's your mission.,0.0,[ 0.54948467 -0.0847685 ],[ 1.4264706 -1.2998077],0.15967002511024475
+Natasha Romanoff,winter_soldier.txt,And you've done it beautifully.,0.85,[-0.13035208  0.8934125 ],[ 1.5934476 -1.4506167],0.1771324872970581
+Steve Rogers,winter_soldier.txt,You just jeopardized this whole operation.,0.2,[0.33291173 0.0882945 ],[ 1.591236  -1.5562772],0.07897281646728516
+Natasha Romanoff,winter_soldier.txt,I think that's overstating things.,0.0,[ 1.6063051 -0.7638576],[ 1.4222039 -1.338899 ],0.046330034732818604
+Natasha Romanoff,winter_soldier.txt,Okay. That one's on me.,0.5,[ 1.434093  -0.6164895],[ 1.2277938 -1.1494691],0.14211177825927734
+Steve Rogers,winter_soldier.txt,You're damn right.,0.2857142857142857,[0.07897077 0.57354337],[ 1.1748371 -1.0615808],0.14647717773914337
+Steve Rogers,winter_soldier.txt,"You just can't stop yourself from lying, can you?",0.0,[ 0.6856546  -0.08437547],[ 1.1787686  -0.90830517],0.14854462444782257
+Nick Fury,winter_soldier.txt,I didn't lie. Agent Romanoff had a different mission than yours.,0.0,[ 1.0922594  -0.52849036],[ 1.9594616 -1.9151555],0.0634993314743042
+Steve Rogers,winter_soldier.txt,Which you didn't feel obliged to share.,0.0,[ 1.5457973 -0.9493403],[ 1.6092404 -1.5274066],0.0818684995174408
+Nick Fury,winter_soldier.txt,I'm not obliged to do anything.,0.0,[ 1.3375058 -0.6503327],[ 1.6847043 -1.5571066],0.08871063590049744
+Steve Rogers,winter_soldier.txt,"Those hostages could've died, Nick.",0.0,[ 1.3026015 -0.5611398],[ 1.4003156 -1.3626925],0.02863490581512451
+Nick Fury,winter_soldier.txt,I sent the greatest soldier in history to make sure that didn't happen.,0.75,[0.25881428 0.3799925 ],[ 1.4848942 -1.4775195],0.032543450593948364
+Steve Rogers,winter_soldier.txt,"Soldiers trust each other, that's what makes it an army. Not a bunch of guys running around and shooting guns.",-0.125,[0.35703927 0.37389   ],[ 1.61245   -1.8081032],0.04071816802024841
+Nick Fury,winter_soldier.txt,"The last time I trusted someone, I lost an eye. Look, I didn't want you doing anything you weren't comfortable with. Agent Romanoff is comfortable with everything.",0.2666666666666666,[ 1.0717133 -0.5781448],[ 1.7396425 -1.8747808],0.1759278029203415
+Steve Rogers,winter_soldier.txt,I can't lead a mission when the people I'm leading have missions of their owns.,0.0,[0.4137119  0.18708825],[ 1.8262744 -1.7954434],0.03367626667022705
+Nick Fury,winter_soldier.txt,It's called compartmentalization. Nobody spills the secrets because nobody knows them all.,0.0,[0.48505563 0.11576314],[ 1.5033716 -1.3649279],0.024427324533462524
+Steve Rogers,winter_soldier.txt,Except you.,0.0,[0.15337545 0.4303178 ],[ 1.301009  -1.2693266],0.1251043677330017
+Nick Fury,winter_soldier.txt,You're wrong about me. I do share. I'm nice like that.,0.0499999999999999,[ 1.1610122  -0.62640697],[ 1.812298 -1.830355],0.17734289169311523
+Nick Fury,winter_soldier.txt,Insight bay.,0.0,[ 0.6790176  -0.01001405],[ 1.5595996 -1.4564592],0.02520763874053955
+Nick Fury,winter_soldier.txt,"Director override, Fury, Nicholas J.",0.0,[ 1.9446455  -0.98979205],[ 1.6686863 -1.7900273],0.022707879543304443
+Steve Rogers,winter_soldier.txt,"You know, they used to play music.",0.0,[-0.11740379  0.522532  ],[ 1.9160968 -1.7698754],0.03996622562408447
+Nick Fury,winter_soldier.txt,"Yeah. My grandfather operated one of these things for forty years. My granddad worked in a nice building, he got good tips.",0.6499999999999999,[ 0.6817153  -0.29267612],[ 1.83882  -1.793826],0.1259436160326004
+Nick Fury,winter_soldier.txt,"He'd walk home every night, roll of ones stuffed in his lunch bag. He'd say ""hi"", people would say hi back. Time went on, neighborhood got rougher. He'd say ""Hi"", they'd say, ""Keep on steppin'. Granddad got to grippin' that lunch bag a little tighter.",-0.09375,[ 1.6990839 -1.0368401],[ 1.8743066 -2.1054742],0.10147494077682495
+Steve Rogers,winter_soldier.txt,Did he ever get mugged?,0.0,[ 2.098989  -1.3150243],[ 1.7556854 -1.7959529],0.102606862783432
+Nick Fury,winter_soldier.txt,"Every week some punk would say, ""What's in the bag?""",0.0,[ 1.7250141  -0.86781335],[ 1.4037446 -1.5160114],0.05175065994262695
+Steve Rogers,winter_soldier.txt,What did he do?,0.0,[ 2.0498185 -1.2582316],[ 1.8115042 -1.7396327],0.06410765647888184
+Nick Fury,winter_soldier.txt,He'd show 'em. Bunch of crumpled ones and loaded .22 Magnum.,0.0,[ 1.7403699  -0.88176894],[ 1.1828201 -1.1646789],0.08091840147972107
+Nick Fury,winter_soldier.txt,Granddad loved people. But he didn't trust them very much.,0.48,[ 1.3235995 -0.7451173],[ 1.8488201 -1.8844783],0.16065436601638794
+Nick Fury,winter_soldier.txt,"Yeah, I know. They're a little bit bigger than a .22.",-0.09375,[ 1.2584239 -0.5600736],[ 1.3029467 -1.1981555],0.040934205055236816
+Nick Fury,winter_soldier.txt,This is Project Insight. Three next generation Helicarriers synced to a network of targeting satellites.,0.0,[-0.11021946  0.44826755],[ 1.8336459 -1.7428913],0.03202277421951294
+Steve Rogers,winter_soldier.txt,Launched from the Lemurian Star.,0.0,[ 0.7094266  -0.04005781],[ 1.157113  -1.2716316],0.028472870588302612
+Nick Fury,winter_soldier.txt,Once we get them in the air they never need to come down. Continuous suborbital flight courtesy of our new repulsor engines.,-0.0095959595959596,[-0.23400868  0.70090663],[ 1.3939619 -1.2122287],0.02754858136177063
+Steve Rogers,winter_soldier.txt,Stark?,-0.2,[ 1.803305  -1.0525616],[ 1.3300251 -1.381422 ],0.02773308753967285
+Nick Fury,winter_soldier.txt,"Well, he had a few suggestions once he got an up close look at our old turbines. These new long range precision guns can eliminate a thousand hostiles a minute. The satellites can read a terrorist's DNA before he steps outside his spider hole. We gonna neutralize a lot of threats before they even happen.",-0.0027272727272727,[0.09816079 0.47732034],[ 0.4996109  -0.73912704],0.02596360445022583
+Steve Rogers,winter_soldier.txt,I thought the punishment usually came after the crime.,-0.25,[0.14834103 0.3828722 ],[ 1.4648083 -1.537476 ],0.056178003549575806
+Nick Fury,winter_soldier.txt,We can't afford to wait that long.,-0.05,[ 1.5794839  -0.78158534],[ 1.3331798 -1.195595 ],0.08838191628456116
+Steve Rogers,winter_soldier.txt,"Who's ""we""?",0.0,[ 1.8483171 -0.9545271],[ 1.471478  -1.5064776],0.0783463716506958
+Nick Fury,winter_soldier.txt,"After New York, I convinced the World Security Council we needed a quantum surge in threat analysis. For once we're way ahead of the curve.",0.1363636363636363,[-1.3479618  1.6506984],[ 1.9629115 -2.0664175],0.021606802940368652
+Steve Rogers,winter_soldier.txt,By holding a gun at everyone on Earth and calling it protection.,0.0,[-0.86044043  1.222843  ],[ 1.285801 -1.427287],0.028609812259674072
+Nick Fury,winter_soldier.txt,"You know, I read those SSR files. Greatest generation? You guys did some nasty stuff.",0.0,[0.5758098  0.00124151],[ 1.5531065 -1.6367968],0.038757532835006714
+Steve Rogers,winter_soldier.txt,"Yeah, we compromised. Sometimes in ways that made us not sleep so well. But we did it so the people could be free. This isn't freedom, this is fear.",0.4,[0.33977988 0.06365754],[ 1.1999763 -1.4296478],0.09094864130020142
+Nick Fury,winter_soldier.txt,"SHIELD takes the world as it is, not as we'd like it to be. It's getting damn near past time for you to get with that program, Cap.",-0.075,[ 1.0517879  -0.42698592],[ 1.5007867 -1.6138972],0.04227238893508911
+Steve Rogers,winter_soldier.txt,Don't hold your breath.,0.0,[ 1.9100437 -1.1945041],[ 1.3725227 -1.2825238],0.1363508403301239
+Steve Rogers,winter_soldier.txt,"You should be proud of yourself, Peggy.",0.8,[-0.7983514  1.2175936],[ 1.1717836 -0.9694157],0.17756877839565277
+Steve Rogers,winter_soldier.txt,"For as long as I can remember I just wanted to do what was right. I guess I'm not quite sure what that is anymore. And I thought I could throw myself back in and follow orders, serve. It's just not the same.",0.1471428571428571,[ 1.6484857 -0.8768399],[ 1.9568274 -1.8389472],0.07746437191963196
+Steve Rogers,winter_soldier.txt,You didn't. Knowing that you helped found SHIELD is half the reason I stay.,-0.1666666666666666,[ 0.95063066 -0.51435554],[ 2.014829  -1.9895254],0.0896250307559967
+Steve Rogers,winter_soldier.txt,Peggy.,0.0,[0.6979824  0.09302775],[ 1.1812207 -1.1410847],0.03129678964614868
+Steve Rogers,winter_soldier.txt,Yeah.,0.0,[-0.0112833  0.4965879],[ 0.8073447 -0.7215428],0.027981340885162354
+Steve Rogers,winter_soldier.txt,"Yeah, Peggy.",0.0,[-0.36680976  0.7841357 ],[ 1.1294918 -0.9891186],0.03740566968917847
+Steve Rogers,winter_soldier.txt,"Well, I couldn't leave my best girl. Not when she owes me a dance.",1.0,[ 1.4456495 -0.7303358],[ 1.0278047  -0.89609885],0.16832506656646729
+Nick Fury,winter_soldier.txt,Secure office.,0.4,[-0.19079843  0.6087279 ],[ 1.0707561 -0.9385859],0.02212640643119812
+Nick Fury,winter_soldier.txt,Open Lemurian Star's satellite launch file.,0.0,[0.3175457 0.0819638],[ 1.9562699 -2.0402863],0.032501041889190674
+Nick Fury,winter_soldier.txt,Run decryption.,0.0,[-0.15454186  0.6524205 ],[ 1.4338957 -1.397992 ],0.027060657739639282
+Nick Fury,winter_soldier.txt,"Director override, Fury, Nicholas J.",0.0,[ 1.9446455  -0.98979205],[ 1.6686863 -1.7900273],0.022707879543304443
+Nick Fury,winter_soldier.txt,On whose authority?,0.0,[ 1.8056258 -0.9062985],[ 1.3273897 -1.2797418],0.03593757748603821
+Nick Fury,winter_soldier.txt,World Security Council.,0.0,[-0.25889635  0.91986334],[ 1.4148312 -1.4473456],0.03322005271911621
+Alexander Pierce,winter_soldier.txt,"For the record, councilman, he's Algerian. I can draw a map if it'll help.",0.0,[ 1.6994699  -0.93691695],[ 1.6740494 -1.8240696],0.03612855076789856
+Alexander Pierce,winter_soldier.txt,"Really? I don't. I don't care about one boat, I care about the fleet. If this Council is going to fall a rancor every time someone pushes us on the playing field, maybe we need someone to oversee us.",0.2,[ 2.1313357 -1.3123156],[ 1.3346926 -1.4983898],0.07421204447746277
+Alexander Pierce,winter_soldier.txt,Excuse me.,-0.05,[0.20808564 0.4812602 ],[ 1.3766173 -1.3445464],0.1294664442539215
+Alexander Pierce,winter_soldier.txt,It depends on your definition.,0.0,[ 1.3165711 -0.5044709],[ 1.3193742 -1.2622515],0.04794493317604065
+Alexander Pierce,winter_soldier.txt,I work forty floors away and it takes a hijacking for you to visit?,0.0,[ 0.70675635 -0.2135965 ],[ 1.6857969 -1.6806079],0.06377547979354858
+Nick Fury,winter_soldier.txt,A nuclear war would do it too.,0.0,[-0.30039167  0.94619167],[ 0.7996474 -0.7459975],0.02354303002357483
+Nick Fury,winter_soldier.txt,Busy in there?,0.1,[ 1.7434884 -1.0196518],[ 1.6923589 -1.6580949],0.027181774377822876
+Alexander Pierce,winter_soldier.txt,Nothing some earmarks can't fix.,0.0,[-0.53234076  1.2166575 ],[ 1.8440675 -1.71597  ],0.020207375288009644
+Nick Fury,winter_soldier.txt,"I'm, uh...here to ask a favor. I want you to call for a vote. Project insight has to be delayed.",0.0,[ 1.9972798 -1.3024278],[ 2.1068962 -2.1302264],0.04018890857696533
+Alexander Pierce,winter_soldier.txt,"Nick, that's not a favor, that's a subcommittee hearing. A long one.",-0.05,[ 1.6256582 -0.8147191],[ 1.7692715 -1.7294285],0.036445438861846924
+Nick Fury,winter_soldier.txt,"It could be nothing, probably is nothing. I just need time to make sure it's nothing.",0.5,[ 1.7592379  -0.79278684],[ 1.647675 -1.458845],0.059160590171813965
+Alexander Pierce,winter_soldier.txt,What if it's something?,0.0,[ 2.0725462 -1.2972873],[ 1.8212811 -1.7436627],0.027112841606140137
+Nick Fury,winter_soldier.txt,Then we'll both be damn glad those Helicarriers aren't in the air.,0.5,[-0.79815793  1.0917184 ],[ 1.1169808 -0.9432294],0.055636703968048096
+Alexander Pierce,winter_soldier.txt,Fine. But you gotta get Iron Man to stop by my niece's birthday party.,0.4166666666666667,[ 1.4844838 -0.6569062],[ 1.2446026 -1.340749 ],0.12440235912799835
+Nick Fury,winter_soldier.txt,"Thank you, sir.",0.0,[-0.19875984  0.7660406 ],[ 1.3756137 -1.3651623],0.16442185640335083
+Alexander Pierce,winter_soldier.txt,"And not just a flyby, he's got to mingle.",0.0,[ 2.0704818 -1.2457442],[ 1.695122 -1.82116 ],0.11084021627902985
+Sam Wilson,winter_soldier.txt,"Some stuff you leave there, other stuff you bring back. It's our job to figure out how to carry it. Is it gonna be in a big suitcase or in a little man-purse? It's up to you.",-0.078125,[ 2.3511395 -1.7844521],[ 1.8390416 -1.898845 ],0.08282727003097534
+Sam Wilson,winter_soldier.txt,Yeah.,0.0,[-0.0112833  0.4965879],[ 0.8073447 -0.7215428],0.027981340885162354
+Sam Wilson,winter_soldier.txt,Look who it is. The running man.,0.0,[-0.6581673  1.225061 ],[ 1.3290976 -1.4106164],0.040512263774871826
+Steve Rogers,winter_soldier.txt,Caught the last few minutes. It's pretty intense.,0.0625,[ 1.3686917 -0.5062003],[ 1.6142479 -1.5136851],0.041994720697402954
+Sam Wilson,winter_soldier.txt,"Yeah, brother, we all got the same problems. Guilt, regret.",0.0,[ 1.7056851 -0.8615861],[ 2.0195243 -1.9335093],0.12212523818016052
+Steve Rogers,winter_soldier.txt,You lose someone?,0.0,[ 1.4670917  -0.68206775],[ 2.0642788 -1.8495156],0.09439781308174133
+Sam Wilson,winter_soldier.txt,"My wingman, Riley. Flying a night mission.Standard PJ rescue op, nothing we hadn't done a thousand times before, till RPG knock Riley's dumb ass out of the sky. Nothing I could do. It's like I was up there just to watch.",-0.375,[ 1.6682638 -0.6275605],[ 1.6018457 -1.609284 ],0.06288930773735046
+Steve Rogers,winter_soldier.txt,I'm sorry.,-0.5,[0.5030556  0.23056236],[ 1.5023373 -1.3353301],0.16053707897663116
+Sam Wilson,winter_soldier.txt,"After that, I had really hard time finding a reason for being over there, you know?",-0.2916666666666667,[ 1.5164313  -0.86841774],[ 2.2443054 -2.2444334],0.10432028770446777
+Steve Rogers,winter_soldier.txt,"But you're happy now, back in the world?",0.4,[ 1.2102431  -0.46330768],[ 2.1138976 -2.1978106],0.13825350999832153
+Sam Wilson,winter_soldier.txt,"Hey, the number of people giving me orders is down to about zero. So, hell, yeah. You thinking about getting out?",-0.1555555555555555,[ 0.84487  -0.534781],[ 1.9443369 -1.9258858],0.03510880470275879
+Steve Rogers,winter_soldier.txt,"No. I don't know. To be honest, I don't know what I would do with myself if I did.",0.6,[ 2.2564344 -1.4217256],[ 1.7216781 -1.5991465],0.10235351324081421
+Sam Wilson,winter_soldier.txt,"Ultimate fighting? [Steve laughs] It's just a great idea off the top of my head. But seriously, you could do whatever you want to do. What makes you happy?",0.3533333333333334,[ 1.4057839  -0.86875176],[ 1.8504977 -1.9502991],0.14712698757648468
+Steve Rogers,winter_soldier.txt,I don't know.,0.0,[ 1.0438297  -0.30109754],[ 1.2361151 -1.1215701],0.050982773303985596
+Fury's Car,winter_soldier.txt,Activating communications encryption protocol.,0.0,[-0.9727077  1.1330767],[ 1.5289782 -1.4876399],0.027566760778427124
+Nick Fury,winter_soldier.txt,Open secure line zero-four-zero-five.,0.2,[ 1.6329966 -0.8033806],[ 1.5015135 -1.4431083],0.03427577018737793
+Fury's Car,winter_soldier.txt,Confirmed.,0.4,[0.64183277 0.1622146 ],[ 1.4505701 -1.3145634],0.026813209056854248
+Maria Hill,winter_soldier.txt,This is Hill.,0.0,[0.35665172 0.31556913],[ 0.9422219  -0.87178695],0.029971957206726074
+Nick Fury,winter_soldier.txt,I need you here in D.C. Deep shadow conditions.,0.0,[ 1.5416571  -0.83769065],[ 1.9863099 -1.9738435],0.03366553783416748
+Maria Hill,winter_soldier.txt,Give me four hours.,0.0,[ 1.081887   -0.27408904],[ 1.5209864 -1.3955477],0.07692280411720276
+Nick Fury,winter_soldier.txt,"You have three, over. [Fury stops at a red traffic light, he looks over to the next car and sees the two police officers in the car look at him with suspicion] Want to see my lease? [the policemen quickly sound their police horn once before they start to drive off, as Fury goes to drive off suddenly another police car smashes into his car, his car is then surrounded by several other police cars crashing into him; inside his car Fury is injured]",0.0964285714285714,[ 1.1771001 -0.6711749],[ 1.4422885 -1.6077065],0.07122775912284851
+Fury's Car,winter_soldier.txt,"Fracture detected. Recommend anesthetic injection. [as Fury is giving himself the injection a SWAT team truck pulls up] D.C. Metro Police dispatch shows no units in this area. [Fury is surrounded by the police and SWAT team, he quickly realizes they are all disguised mercenaries; to his car computer]",0.3333333333333333,[ 1.2906793 -0.7243048],[ 1.8568445 -1.9179248],0.02461281418800354
+Nick Fury,winter_soldier.txt,Get me out of here! [the mercenaries suddenly start shooting at Fury's car],0.0,[ 1.0400337  -0.26982874],[ 0.8050245 -1.1325246],0.04415741562843323
+Fury's Car,winter_soldier.txt,Propulsion systems offline.,0.0,[-0.16572155  0.521109  ],[ 1.449814  -1.4378152],0.02640482783317566
+Nick Fury,winter_soldier.txt,"Then reboot, dammit! [the armor on Fury's vehicle starts to become weaker, the mercenaries bring out a battering ram to break in]",0.0,[ 1.5206138  -0.71650267],[ 0.9150465 -1.163004 ],0.025228798389434814
+Fury's Car,winter_soldier.txt,Warning! Window integrity compromised.,0.0,[ 0.77781373 -0.19262454],[ 1.6167196 -1.6118584],0.024261951446533203
+Nick Fury,winter_soldier.txt,You think? How long to propulsion?,-0.05,[ 2.2282205 -1.403455 ],[ 1.7557789 -1.6367866],0.032267987728118896
+Fury's Car,winter_soldier.txt,Calculating. [the mercenaries start to use the battering ram on Fury's car window] Window Integrity thiry-one percent. Deploying countermeasures.,0.0,[ 1.4796406 -0.7247832],[ 1.4041892 -1.5272338],0.025974184274673462
+Nick Fury,winter_soldier.txt,Hold that order! [the batterring ram is smashed against the car window again],0.0,[ 1.3563896  -0.48234838],[ 1.1951846 -1.1092783],0.02327868342399597
+Fury's Car,winter_soldier.txt,Window Integrity nineteen percent. Offensive measures advised.,0.0,[ 1.1818738 -0.5578921],[ 1.6275924 -1.636599 ],0.026265323162078857
+Nick Fury,winter_soldier.txt,Wait! [the battering ram is smashed against the window again],0.0,[ 1.1540552  -0.43891445],[ 1.4673537 -1.4279019],0.021837085485458374
+Fury's Car,winter_soldier.txt,Window Integrity one percent.,0.0,[0.28539145 0.2961857 ],[ 1.149356  -1.0379404],0.023660093545913696
+Nick Fury,winter_soldier.txt,Now! [suddenly a minigun pulls up from inside the car and Fury uses it to return fire on the mercenaries causing the SWAT truck and some of the police cars to explode],0.0,[ 1.0076082 -0.2724353],[ 1.4507743 -1.5777408],0.021165519952774048
+Fury's Car,winter_soldier.txt,Propulsion systems now online.,0.0,[-0.6067628  0.9232005],[ 1.7750591 -1.7282913],0.022915542125701904
+Nick Fury,winter_soldier.txt,"Full acceleration, now! [as he continues to fire at the mercenaries Fury's car automatically backs up and drives off] Initiate vertical takeoff!",0.546875,[ 1.0454623 -0.4000074],[ 1.3563315 -1.6061189],0.024142980575561523
+Fury's Car,winter_soldier.txt,Flight systems damaged.,0.0,[0.41055924 0.31635237],[ 1.6658174 -1.5453204],0.021915853023529053
+Nick Fury,winter_soldier.txt,Then activate guidance cameras! [Fury goes over into the drivers seat] Give me the wheel! [Fury takes over driving his car as the mercenaries chase after him in their police cars] Get me Agent Hill.,0.0,[ 0.97959185 -0.26479286],[ 1.6013371 -1.7640268],0.07359707355499268
+Fury's Car,winter_soldier.txt,Communications array damaged.,0.0,[0.77282965 0.06186777],[ 1.6933168 -1.5662857],0.022414594888687134
+Nick Fury,winter_soldier.txt,"Well, what's not damaged?",0.0,[ 1.8642846 -1.1952881],[ 1.8784658 -1.8870584],0.037067800760269165
+Fury's Car,winter_soldier.txt,Air conditioning is fully operational. [the police cars continue to chase after Fury as he weaves through the cars on the road] Traffic ahead.,0.0,[ 0.5408264  -0.06582809],[ 1.7531857 -1.8792617],0.020995259284973145
+Nick Fury,winter_soldier.txt,Give me an alternate route.,0.0,[ 1.5734948  -0.78190637],[ 1.7302603 -1.7254183],0.03519880771636963
+Fury's Car,winter_soldier.txt,"Traffic alert on Roosevelt Bridge. All vehicles stopped. 17th Avenue clear in three blocks, directly ahead. [as Fury heads into the traffic he smashes into some cars causing a pile up which stops the police cars, the mercenaries get out and start shooting at Fury's car, Fury manages to kill two of the mercenaries by running them down before getting past the traffic, but the remaining mercenaries continue to chase after him and manage to sandwich Fury's vehicle between them] Warning, approaching intersection. [as they approach the intersection Fury manages to shake off the two police cars, killing off the mercenaries]",-0.0411111111111111,[ 1.3114258 -0.703694 ],[ 1.1963729 -1.452746 ],0.019491642713546753
+Nick Fury,winter_soldier.txt,Get me off the grid!,0.0,[ 1.3473774 -0.7103768],[ 1.3158249 -1.3979279],0.0559980571269989
+Fury's Car,winter_soldier.txt,"Calculating route to secure location. [Fury sees a mysterious figure emerge ahead which suddenly shoots a bomb that attaches itself to Fury's vehicle causing it to explode and flip over; trapped inside his car, Fury watches as the figure walks over to the car but he manages to escape just in time by using a laser weapon to burn a hole out.]",0.05,[ 1.4260396  -0.78944707],[ 1.2765846 -1.4998705],0.01931050419807434
+Steve Rogers,winter_soldier.txt,"Hey, if you want...if you want, you're welcome to use my machine. Might be cheaper than the one in the basement.",0.8,[ 1.7954642 -1.3067776],[ 1.9227552 -1.7766751],0.11538353562355042
+Steve Rogers,winter_soldier.txt,A cup of coffee?,0.0,[ 2.04941   -1.3359404],[ 1.7354683 -1.7967231],0.031061559915542603
+Steve Rogers,winter_soldier.txt,"Ah, well, I'll keep my distance.",0.0,[0.23424889 0.3947759 ],[ 1.2510713 -1.1864429],0.12464265525341034
+Steve Rogers,winter_soldier.txt,"Oh. Right, thank you.",0.2857142857142857,[-1.669432   1.8677995],[ 1.3335505 -1.2761025],0.14364030957221985
+Steve Rogers,winter_soldier.txt,I don't remember giving you a key.,0.0,[ 1.339549   -0.55225855],[ 1.7801051 -1.7523376],0.11220705509185791
+Nick Fury,winter_soldier.txt,You really think I'd need one? My wife kicked me out.,0.2,[ 0.7612511  -0.17461574],[-0.281504    0.24665369],0.17459174990653992
+Steve Rogers,winter_soldier.txt,Didn't know you were married.,0.25,[-0.24560659  0.71879333],[ 1.2070704 -1.2312477],0.16950511932373047
+Nick Fury,winter_soldier.txt,A lot of things you don't about me.,0.0,[ 0.8580846  -0.01283007],[ 1.8152162 -1.7267017],0.16138476133346558
+Steve Rogers,winter_soldier.txt,"I know, Nick. That's the problem. [as Steve turns on the light he notices Fury's injuries for the first time, but Fury indicates for him to be silent, he turns off the light and writes something on his phone and shows it to Steve; ""ears everywhere""]",0.2625,[ 1.353711  -0.7089174],[ 2.1165173 -2.1914122],0.02869167923927307
+Nick Fury,winter_soldier.txt,"I'm sorry to have to do this, but I had no place else to crash. [he writes another text and shows it to Steve; ""SHIELD compromised""]",-0.5,[ 1.6297624 -0.8814436],[ 2.0765893 -2.0919387],0.021640747785568237
+Steve Rogers,winter_soldier.txt,"Who else knows about your wife? [Fury shows him another text; ""You and me""]",0.0,[ 1.4867476  -0.92986625],[ 1.113111  -1.2632607],0.17341965436935425
+Nick Fury,winter_soldier.txt,Just...my friends.,0.0,[0.44102114 0.15057966],[ 2.0350268 -1.9574151],0.12078453600406647
+Steve Rogers,winter_soldier.txt,Is that what we are?,0.0,[ 1.890727  -0.9840747],[ 1.5430254 -1.4818497],0.04845398664474487
+Nick Fury,winter_soldier.txt,"That's up to you. [suddenly Fury is shot three times from through the wall and collapses, Steve looks out the window for the shooter then he quickly drags Fury to the next room, before he leaves Fury hands him the flash drive] Don't...trust anyone. [Fury passes out] [Steve hears someone breaking into his apartment and hears his neighbor calling out to him]",0.1111111111111111,[ 1.5731755  -0.97050875],[ 1.5496087 -1.8694228],0.06583249568939209
+Steve Rogers,winter_soldier.txt,Kate?,0.0,[ 1.325718   -0.48528537],[ 1.1653682 -1.1090637],0.049992114305496216
+Steve Rogers,winter_soldier.txt,On whose order? [She notices Fury lying injured on the ground],0.0,[ 1.5994756  -0.84502554],[ 1.6654148 -1.865342 ],0.02243468165397644
+Steve Rogers,winter_soldier.txt,"Tell him I'm in pursuit. [Steve smashes through his window and runs after the assassin, who is the same mysterious man that had exploded Fury's car, Steve chases him through an office building smashing through the walls, when he finally catches up with him on the roof he throws his shield at the assassin, but he catches it with one swift move, then throws it back to Steve and then jumps down the building and disappears.]",-0.0311111111111111,[ 1.3521992  -0.75340176],[ 1.1988717 -1.5500463],0.08245962858200073
+Natasha Romanoff,winter_soldier.txt,Is he gonna make it?,0.0,[ 2.0265474 -1.1082953],[ 1.4993047 -1.4863676],0.1186886876821518
+Steve Rogers,winter_soldier.txt,I don't know.,0.0,[ 1.0438297  -0.30109754],[ 1.2361151 -1.1215701],0.050982773303985596
+Natasha Romanoff,winter_soldier.txt,Tell me about the shooter.,0.0,[ 1.4534943  -0.58948356],[ 1.6643579 -1.5909461],0.04380074143409729
+Steve Rogers,winter_soldier.txt,He's fast and strong. Had a metal arm. [just then Agent Maria Hill also joins them],0.3166666666666666,[ 1.2190989 -0.4036729],[ 1.4794072 -1.5558109],0.08822563290596008
+Natasha Romanoff,winter_soldier.txt,Ballistics?,0.0,[ 1.0431243  -0.41661584],[ 1.402256  -1.4389534],0.02288156747817993
+Maria Hill,winter_soldier.txt,"Three slugs, no rifling. Completely untraceable.",-0.3,[ 1.7027627 -1.0721726],[ 0.79991364 -0.93171537],0.029403269290924072
+Natasha Romanoff,winter_soldier.txt,Soviet-made.,0.0,[0.12600796 0.49207106],[ 0.92994225 -0.81637496],0.02984851598739624
+Maria Hill,winter_soldier.txt,Yeah. [suddenly they watch in shock as Fury's state deteriorates],0.0,[0.5882023  0.08383895],[ 1.8330727 -1.9791976],0.02038469910621643
+Natasha Romanoff,winter_soldier.txt,"Don't do this to me, Nick.",0.0,[ 1.7014662 -0.9383301],[ 1.4250697 -1.5431955],0.16057118773460388
+Natasha Romanoff,winter_soldier.txt,"Don't do this to me, Nick. Don't do this to me. [the three watch the doctors as they continue to revive Fury but Fury is still showing as flatlining, Steve turns away as they finally call his time of death]",0.0,[ 1.6292835 -0.724756 ],[ 1.8180915 -1.9705222],0.08187997341156006
+Maria Hill,winter_soldier.txt,I need to take him. [Steve goes over to Natasha],0.0,[ 1.8048052 -1.092542 ],[ 1.4458338 -1.6036597],0.08050689101219177
+Steve Rogers,winter_soldier.txt,"Natasha. [she doesn't respond, instead she tenderly touches Fury's head then turns and walks out, Steve follows her] Natasha!",0.0,[ 1.6312112 -1.0479759],[ 1.2882084 -1.5538257],0.12913066148757935
+Natasha Romanoff,winter_soldier.txt,Why was Fury in your apartment?,0.0,[ 1.9930533 -1.2175301],[ 1.5771916 -1.8032557],0.07899922132492065
+Steve Rogers,winter_soldier.txt,I don't know. [they are interrupted by Rumlow],0.0,[ 1.6850091 -0.9541486],[ 1.823867 -1.820386],0.03960388898849487
+Brock Rumlow,winter_soldier.txt,"Cap, they want you back at SHIELD.",0.0,[0.09560981 0.46624622],[ 1.7249562 -1.7627653],0.053838908672332764
+Steve Rogers,winter_soldier.txt,"Yeah, give me a second.",0.0,[0.47153145 0.22974396],[ 1.3492309 -1.302785 ],0.13267356157302856
+Brock Rumlow,winter_soldier.txt,They want you now.,0.0,[0.4133727  0.40609795],[ 1.543796  -1.4694027],0.17662367224693298
+Steve Rogers,winter_soldier.txt,Okay. [Steven turns to Natasha],0.5,[ 1.2289289 -0.6030396],[ 1.4802397 -1.6636444],0.029029160737991333
+Natasha Romanoff,winter_soldier.txt,You're a terrible liar. [she turns and walks off],-1.0,[0.52524215 0.15888584],[ 0.63209355 -0.31895941],0.13245686888694763
+Jasper Sitwell,winter_soldier.txt,"[on earpiece] STRIKE team, escort Captain Rogers back to SHIELD immediately for questioning.",0.0,[ 1.3268806  -0.57851505],[ 1.8619446 -1.9197024],0.026219308376312256
+Brock Rumlow,winter_soldier.txt,"I told him. [Steve notices the vending machine next to him, we then see Steve walking towards Rumlow]",0.0,[ 1.0294849  -0.45428178],[ 1.7981355 -2.0230186],0.04820302128791809
+Steve Rogers,winter_soldier.txt,Let's go.,0.0,[ 1.1382109  -0.36635533],[ 0.8062873 -0.7786583],0.06856140494346619
+Brock Rumlow,winter_soldier.txt,"Yeah. [to the agents] STRIKE, move it out. [as they leave we see that Steve has hid the flash drive behind a pack of gums in the vending machine]",-0.4,[ 1.308317   -0.71306354],[ 1.5538617 -1.6132152],0.018760979175567627
+Alexander Pierce,winter_soldier.txt,"For whatever it's worth, you did your best.",0.65,[ 0.59731185 -0.10538176],[ 1.7305162 -1.5808531],0.17047618329524994
+Steve Rogers,winter_soldier.txt,Neighbor.,0.0,[0.39449507 0.23589614],[ 1.2661084 -1.2237209],0.04328179359436035
+Alexander Pierce,winter_soldier.txt,"Ah, Captain. I'm Alexander Pierce.",0.0,[0.6579104  0.25000525],[ 1.6355152 -1.8415862],0.059573203325271606
+Steve Rogers,winter_soldier.txt,"Sir, it's an honor. [they shake hands]",0.0,[ 1.267088  -0.4846272],[ 1.5223364 -1.6438173],0.16096842288970947
+Alexander Pierce,winter_soldier.txt,"The honor is mine, Captain. My father served in the 101st. Come on in. [they enter Pierce's office where he shows Steve an old photo of Fury with Pierce] That photo was taken five years after Nick and I met. When I was at State Department in Bogota. ELN rebels took the embassy, and security got me out, but the rebels took hostages. Nick was deputy chief for the SHIELD station there. And he comes to me with a plan. He wants to storm the building through the sewers. I said, ""No, we'll negotiate."" Turned out the ELN didn't negotiate, so they put out a kill order. They stormed the basement, and what did they find? They find it empty. Nick had ignored my direct order and carried out an unauthorized military operation on foreign soil. He saved the lives of a dozen political officers, including my daughter.",0.0107142857142857,[ 1.6211668  -0.97873986],[ 1.1427913 -1.4889172],0.07644188404083252
+Steve Rogers,winter_soldier.txt,So you gave him a promotion.,0.0,[-1.1449652  1.3921381],[ 1.4246227 -1.3432189],0.10226976871490479
+Alexander Pierce,winter_soldier.txt,"I've never had any cause to regret it. Captain, why was Nick in your apartment last night?",0.0,[ 2.0373092 -1.3808745],[ 1.6117169 -1.8660312],0.17539462447166443
+Steve Rogers,winter_soldier.txt,I don't know.,0.0,[ 1.0438297  -0.30109754],[ 1.2361151 -1.1215701],0.050982773303985596
+Alexander Pierce,winter_soldier.txt,You know it was bugged?,0.0,[ 1.0357726  -0.47584257],[ 1.6189061 -1.61967  ],0.030774682760238647
+Steve Rogers,winter_soldier.txt,"I did, because Nick told me.",0.0,[0.424102   0.20613155],[ 1.7062317 -1.6600085],0.05242800712585449
+Alexander Pierce,winter_soldier.txt,Did he tell you he was the one who bugged it? [Steve doesn't reply obviously not knowing this information] I want you to see something. [he brings up footage of Batroc being interrogated],0.0,[ 1.6248747 -1.0467625],[ 1.8931183 -2.025028 ],0.04996103048324585
+Steve Rogers,winter_soldier.txt,Is that live?,0.1363636363636363,[ 1.7883158 -0.9856745],[ 1.4329146 -1.4469422],0.019425630569458008
+Alexander Pierce,winter_soldier.txt,"Yeah, they picked him up last night in a not-so-safe house in Algiers.",0.0,[0.13076048 0.23723307],[ 2.0417547 -2.152992 ],0.07990318536758423
+Steve Rogers,winter_soldier.txt,Are you saying he's a suspect? Assassination isn't Batroc's line.,0.0,[ 1.6040114 -0.9316195],[ 1.7013658 -1.8544149],0.050878316164016724
+Alexander Pierce,winter_soldier.txt,"No, it's more complicated than that. Batroc was hired anonymously to attack the Lemurian Star and he was contacted by e-mail and paid by wire transfer. And then the money was run through seventeen fictitious accounts, the last one going to a holding company that was registered to a Jacob Veech.",0.0,[ 0.5070656  -0.29276463],[ 1.736517  -1.8392466],0.017250537872314453
+Steve Rogers,winter_soldier.txt,Am I supposed to know who that is? [he hands Steve the file],0.0,[ 1.8801216 -1.1937076],[ 1.8327476 -1.9759046],0.03227931261062622
+Alexander Pierce,winter_soldier.txt,Not likely. Veech died six years ago. His last address was 14-35 Elmhurst Drive. When I first met Nick his mother lived at 14-37.,0.0833333333333333,[ 2.0835662 -1.4303418],[ 1.914576  -1.9897752],0.11737418174743652
+Steve Rogers,winter_soldier.txt,Are you saying Fury hired the pirates? Why?,0.0,[ 1.8237559 -1.1706716],[ 1.7114891 -1.8462311],0.03596013784408569
+Alexander Pierce,winter_soldier.txt,The prevailing theory was that the hijacking was a cover for the acquisition and sale of classified intelligence. The sale went sour and that led to Nick's death.,-0.15,[0.2887593  0.02955812],[ 1.7750187 -1.85922  ],0.018388599157333374
+Steve Rogers,winter_soldier.txt,If you really knew Nick Fury you'd know that's not true.,0.0125,[ 1.4094619  -0.64665824],[ 1.4630889 -1.5417992],0.04478183388710022
+Alexander Pierce,winter_soldier.txt,"Why do you think we're talking? See, I took a seat on the Council not because I wanted to but because Nick asked me to, because we were both realists. We knew that despite all the diplomacy and the handshaking and the rhetoric, that to build a really better world sometimes means having to tear the old one down. And that makes enemies. Those people that call you dirty because you got the guts to stick your hands in the mud and try to build something better. And the idea that those people could be happy today, makes me really, really angry. [he hesitates a moment] Captain, you were the last one to see Nick alive. I don't think that's an accident, and I don't think you do either. So I'm gonna ask again, why was he there?",0.082716049382716,[ 1.7187532 -1.0272219],[ 1.6503657 -1.7667316],0.13681772351264954
+Steve Rogers,winter_soldier.txt,He told me not to trust anyone.,0.0,[ 0.6751484  -0.04701575],[ 1.5565964 -1.5568053],0.09531107544898987
+Alexander Pierce,winter_soldier.txt,I wonder if that included him. [Steve pauses a moment before replying],0.0,[ 1.464031   -0.92137784],[ 1.8002517 -2.0119588],0.04342404007911682
+Steve Rogers,winter_soldier.txt,"I'm sorry. Those were his last words. Excuse me. [Steve picks up his shield, places it on his back and starts to make his out of the office]",-0.1375,[ 1.4079529 -0.6105012],[ 1.7409976 -1.8422655],0.17641635239124298
+Alexander Pierce,winter_soldier.txt,"Captain. [Steve stops and looks at Pierce] Somebody murdered my friend and I'm gonna find out why. Anyone gets in my way, they're gonna regret it. Anyone.",0.0,[ 1.4347242  -0.86736286],[ 1.3851384 -1.5724899],0.14301817119121552
+Steve Rogers,winter_soldier.txt,Understood. [Steve turns and leaves],0.0,[ 1.1567498 -0.5978182],[ 1.7359473 -1.8128214],0.029129624366760254
+Steve Rogers,winter_soldier.txt,[after he leaves Pierce's office he steps into the elevator] Operations control.,0.0,[ 0.80880725 -0.15656516],[ 1.8560216 -1.9100432],0.02512812614440918
+Brock Rumlow,winter_soldier.txt,Keep all STRIKE personnel on site.,0.0,[ 0.8538138  -0.34055242],[ 1.7717736 -1.7080101],0.022610604763031006
+Brock Rumlow,winter_soldier.txt,Forensics.,0.0,[-0.18495938  0.85216224],[ 1.588431  -1.4903964],0.026386559009552002
+Brock Rumlow,winter_soldier.txt,Cap.,0.0,[ 0.8706942 -0.1273683],[ 0.9722605  -0.88380075],0.024998456239700317
+Steve Rogers,winter_soldier.txt,Rumlow. [the elevator doors close and they start riding down],-0.1555555555555555,[ 1.0906564 -0.4998035],[ 1.305235  -1.5198219],0.020723551511764526
+Brock Rumlow,winter_soldier.txt,Evidence Response found some fibres on the roof they want us to see. You want me to get the tac-team ready?,0.2,[ 1.6174666  -0.89112586],[ 1.9567434 -1.9719278],0.036385416984558105
+Steve Rogers,winter_soldier.txt,"No, lets wait and see what it is first.",0.25,[ 1.8303622 -1.0479178],[ 1.3083857 -1.2480513],0.022494196891784668
+Brock Rumlow,winter_soldier.txt,Right. [Steve notices one of the agents touching his weapon suspiciously] [the elevator stops and more SHIELD and STRIKE agents enter],0.4285714285714285,[ 0.74822974 -0.34982806],[ 1.5928313 -1.8239079],0.040316998958587646
+Brock Rumlow,winter_soldier.txt,"[to Steve] I'm sorry about what happened with Fury. Messed up, what happened to him.",-0.5,[ 1.889965  -0.9721298],[ 1.9277133 -2.0359027],0.08492550253868103
+Steve Rogers,winter_soldier.txt,"Thank you. [feeling something is off, Steve looks at the agents in the elevator and notices one of them is sweating, then the elevator stops and more agents enter]",0.5,[ 0.6824978 -0.2696012],[ 1.8996507 -2.0622294],0.07553142309188843
+Steve Rogers,winter_soldier.txt,"Before we get started, does anyone want to get out? [there's a moment's pause before suddenly one of the agents turns and uses an electric rod to give Steve a shock, the others grab him and try to strap his wrists with magnetic cuffs, Steve manages to knock some of them down but one cuff remains, then Rumlow uses his rod to give Steve a shock] [as Steve is being attacked we see Sitwell in a controls room watching them from a monitor]",-0.0777777777777777,[ 1.6506499 -1.0503327],[ 1.4528294 -1.6292497],0.09429734945297241
+Jasper Sitwell,winter_soldier.txt,"Mobilize STRIKE units, 25th floor. [Steve manages free himself from the magnetic cuff and knock all the agents down, he turns to Rumlow]",0.1222222222222222,[ 1.5997828 -0.8388916],[ 1.4261359 -1.5613315],0.024633020162582397
+Brock Rumlow,winter_soldier.txt,"Whoa, big guy. I just want you to know, Cap, this ain't personal. [Rumlow then goes to attack Steve with his electric rod but Steve manages to defend himself and eventually knocks Rumlow out]",0.0,[ 1.7154111  -0.89338744],[ 1.38131   -1.6281719],0.12446090579032898
+Steve Rogers,winter_soldier.txt,"It kind of feels personal. [Steve picks up his shield then opens the elevator doors, but he's faced by a team of STRIKE agents pointing their weapons at him]",0.3,[ 0.7750485  -0.20632425],[ 1.5424007 -1.7204434],0.04671594500541687
+Jasper Sitwell,winter_soldier.txt,"Are you kidding me? [ordering the STRIKE team] He's headed for the garage. Lock down the bridge! [Steve rides out of the SHIELD garage on his motorcycle, evading the obstacles laid out but then a Quinjet emerges ahead of him]",-0.1222222222222222,[ 1.4583862 -0.8153545],[ 1.689552  -1.7649442],0.04253426194190979
+Jasper Sitwell,winter_soldier.txt,"[to the SHIELD agents] Eyes here. [everyone, including Agent 13, looks at Sitwell] Whatever your op is, bury it. This is Level One. Contact DOT. All traffic lights in the district go red. Shut all runways at BWI, IAD and Reagan. All security cameras in the city go through this monitor, right here. Scan all open sources. Phones, computers, PDAs, whatever. If someone tweets about this guy, I want to know about it.",0.0952380952380952,[ 1.6008768 -1.0169821],[ 1.6327052 -1.6690607],0.018745362758636475
+Alexander Pierce,winter_soldier.txt,"Because he lied to us. [Pierce enters the room] Captain Rogers has information regarding the death of Director Fury, he refused to share it. As difficult as this is to accept, Captain America is a fugitive from SHIELD.",-0.5,[ 1.571239  -0.9701239],[ 1.8022879 -1.988123 ],0.04442080855369568
+Steve Rogers,winter_soldier.txt,Where is it?,0.0,[ 2.2994483 -1.3155109],[ 1.2319605 -1.246886 ],0.02389395236968994
+Natasha Romanoff,winter_soldier.txt,Safe.,0.5,[0.3449366 0.3176081],[ 1.2884909 -1.3012612],0.04233202338218689
+Steve Rogers,winter_soldier.txt,Do better!,0.625,[ 0.80775255 -0.07781533],[ 1.5041252 -1.3716308],0.09450575709342957
+Natasha Romanoff,winter_soldier.txt,Where did you get it?,0.0,[ 2.3237772 -1.6040055],[ 1.6938044 -1.7125361],0.04697421193122864
+Steve Rogers,winter_soldier.txt,Why would I tell you?,0.0,[ 2.0751526 -1.313501 ],[ 1.6396716 -1.5396746],0.15259821712970734
+Natasha Romanoff,winter_soldier.txt,Fury gave it to you. Why?,0.0,[ 2.0469084 -1.1969751],[ 1.5535889 -1.653183 ],0.14046362042427063
+Steve Rogers,winter_soldier.txt,What's on it?,0.0,[ 2.2919712 -1.365425 ],[ 1.4403341 -1.4636992],0.020156651735305786
+Natasha Romanoff,winter_soldier.txt,I don't know.,0.0,[ 1.0438297  -0.30109754],[ 1.2361151 -1.1215701],0.050982773303985596
+Steve Rogers,winter_soldier.txt,Stop lying!,0.0,[0.20978312 0.3528811 ],[ 0.80331236 -0.7493124 ],0.11570940911769867
+Natasha Romanoff,winter_soldier.txt,"I only act like I know everything, Rogers.",0.0,[-0.37945995  1.003275  ],[ 1.7205209 -1.5616698],0.04327782988548279
+Steve Rogers,winter_soldier.txt,"I bet you knew Fury hired the pirates, didn't you?",0.0,[0.1846219  0.14280063],[ 1.3824023 -1.5268723],0.0653582513332367
+Natasha Romanoff,winter_soldier.txt,"Well, it makes sense. The ship was dirty, Fury needed a way in, so do you.",-0.6,[ 0.76071936 -0.13988647],[ 1.1124808 -1.2700764],0.10084092617034912
+Steve Rogers,winter_soldier.txt,I'm not gonna ask you again.,0.0,[ 1.4057052 -0.6497096],[ 1.5535982 -1.4017967],0.14873293042182922
+Natasha Romanoff,winter_soldier.txt,"I know who killed Fury. Most of the intelligence community doesn't believe he exists, the ones who do call him the Winter Soldier. He's credited with over two dozen assassinations in the last fifty years.",0.0999999999999999,[ 0.76914793 -0.16236359],[ 1.7194766 -1.9813763],0.032457828521728516
+Steve Rogers,winter_soldier.txt,So he's a ghost story.,0.0,[0.3737325  0.23945084],[ 1.7148794 -1.6821746],0.06909620761871338
+Natasha Romanoff,winter_soldier.txt,"Five years ago I was escorting a nuclear engineer out of Iran, somebody shot out my tires near Odessa. We lost control, went straight over a cliff, I pulled us out, but the Winter Soldier was there. I was covering my engineer, so he shot him straight through me. [she pulls up her shirt to show him the scar on the side of her stomach] Soviet slug, no rifling. Bye-bye bikinis.",0.1666666666666666,[ 1.315374   -0.56234217],[ 0.78340244 -0.93638754],0.12556801736354828
+Steve Rogers,winter_soldier.txt,"Yeah, I bet you look terrible in them now. [there's a hit of a smile from Natasha]",-0.35,[ 0.7126106  -0.11404298],[ 1.3455378 -1.2958784],0.17646408081054688
+Natasha Romanoff,winter_soldier.txt,"Going after him is a dead end. I know, I've tried. [Natasha holds up the flash drive] Like you said, he's a ghost story. [Steve takes the flash drive from her]",-0.2,[ 1.7720448 -1.0977108],[ 1.7677476 -1.7717332],0.12254460155963898
+Steve Rogers,winter_soldier.txt,"Well, let's find out what the ghost wants.",0.2,[ 0.5326324  -0.04051225],[ 1.455856  -1.4963988],0.04615715146064758
+Alexander Pierce,winter_soldier.txt,"Nick Fury was murdered in cold blood. To any reasonable person, that would make him a martyr, not a traitor.",-0.1999999999999999,[ 1.4152676  -0.63948107],[ 1.6568774 -1.865382 ],0.11551280319690704
+Alexander Pierce,winter_soldier.txt,Are you calling for my resignation? I've got a pen and paper right here.,0.2857142857142857,[ 1.9939823 -1.1035044],[ 1.7154694 -1.5703536],0.08843070268630981
+Alexander Pierce,winter_soldier.txt,But you do want to have a discussion.,0.0,[ 1.4043647  -0.59435606],[ 1.633946  -1.5701832],0.06379947066307068
+Natasha Romanoff,winter_soldier.txt,"First rule of going on the run is, don't run, walk.",0.25,[ 0.6467337 -0.2511321],[ 1.3316478 -1.3116382],0.026078760623931885
+Steve Rogers,winter_soldier.txt,"If I run in these shoes, they're gonna fall off. [they go to a Mac store to use one of their computers]",0.0,[ 1.2341173  -0.49896047],[ 1.5600469 -1.5267689],0.02956908941268921
+Natasha Romanoff,winter_soldier.txt,"The drive has a Level Six homing program, so as soon as we boot up SHIELD will know exactly where we are.",0.25,[0.48376042 0.16062272],[ 1.7922477 -1.782307 ],0.02197018265724182
+Steve Rogers,winter_soldier.txt,How much time do we have?,0.2,[ 2.1794102 -1.3252586],[ 1.4473072 -1.240663 ],0.057930201292037964
+Natasha Romanoff,winter_soldier.txt,"Uh...about nine minutes from... [she pops the flash drive into a MacBook Pro] Now. [we see several SHIELD vehicles heading their way] Fury was right about that ship, somebody's trying to hide something. This drive is protected by some sort of AI, it keeps rewriting itself to counter my commands.",0.1428571428571428,[ 1.1028847  -0.46945667],[ 1.5633894 -1.5156556],0.015464216470718384
+Steve Rogers,winter_soldier.txt,Can you override it?,0.0,[ 1.8106822  -0.96942025],[ 1.637627  -1.5595334],0.034448474645614624
+Natasha Romanoff,winter_soldier.txt,"The person who developed this is slightly smarter than me. Slightly. [Rumlow and his team pull up outside the mall and head inside] [back at the Mac store, Steve and Natasha continue to try and find out what's on the flash drive] I'm gonna try running a tracer. This is a program that SHIELD developed to track hostile malware, so if we can't read the file, maybe we can find out where it came from.",-0.0222222222222222,[ 1.1522565  -0.74878407],[ 1.2428249 -1.3298582],0.016820162534713745
+Natasha Romanoff,winter_soldier.txt,"Oh, no. My fiancé was just helping me with some honeymoon destinations.",0.0,[0.06926075 0.39712328],[ 1.9286405 -1.9570789],0.17419004440307617
+Steve Rogers,winter_soldier.txt,Right! We're getting married.,0.3035714285714285,[-0.5175566  1.0538086],[ 0.7738371 -0.9634749],0.16960591077804565
+Steve Rogers,winter_soldier.txt,New Jersey.,0.1363636363636363,[0.38514602 0.16209558],[ 1.149293  -1.0626801],0.02973031997680664
+Natasha Romanoff,winter_soldier.txt,"Wow, you two are practically twins.",0.1,[-0.5667894  1.1840798],[ 1.2665563 -1.2057847],0.11712208390235901
+Steve Rogers,winter_soldier.txt,"Thank you. [as Rumlow and his team are in the mall looking for Steve and Natasha] You said nine minutes, come on.",0.0,[ 0.73546636 -0.0788223 ],[ 2.094856 -2.066366],0.1312786489725113
+Natasha Romanoff,winter_soldier.txt,"Shh, relax. Got it. [they find the signal is coming from Wheaton, NJ] You know it?",0.0,[ 1.2654818 -0.4821601],[ 1.9203485 -1.978429 ],0.031068801879882812
+Steve Rogers,winter_soldier.txt,"I used to. Let's go. [Steve pulls the flash drive from the computer and they walk out of the store] Standard tac-team. Two behind, to across, two coming straight at us. If they make us, I'll engage, you hit the south escalator to the metro. [as two agents are coming straight towards them]",0.0,[ 1.8179322 -1.2536459],[ 1.4281559 -1.4532994],0.021671175956726074
+Natasha Romanoff,winter_soldier.txt,"Shut up and put your arm around me, laugh at something I said.",0.3,[-0.02954059  0.6320659 ],[ 1.0460368  -0.87613046],0.1731683313846588
+Steve Rogers,winter_soldier.txt,What?,0.0,[ 1.4070891  -0.49027988],[ 1.2503315 -1.1553091],0.03506931662559509
+Natasha Romanoff,winter_soldier.txt,Do it! [Steve quickly puts his arm around Natasha and laughs] [inside the Mac store one of the agents looks around],0.3333333333333333,[ 0.7816807  -0.28439465],[ 1.6259067 -1.7780735],0.06682834029197693
+Brock Rumlow,winter_soldier.txt,Give me a floor rundown.,0.0,[ 1.6975284  -0.62732404],[ 1.26784   -1.2360183],0.0713965892791748
+Brock Rumlow,winter_soldier.txt,"Snake the upper levels, work down to me. [as they are going down the escalator Natasha spots Rumlow on the escalator next to them going up, she turns to Steve]",-0.0777777777777777,[ 1.0337073  -0.58906305],[ 1.5571744 -1.6862446],0.04315561056137085
+Natasha Romanoff,winter_soldier.txt,Kiss me.,0.0,[ 1.3108257 -0.4317818],[ 0.6756659  -0.76984274],0.17536532878875732
+Steve Rogers,winter_soldier.txt,What?,0.0,[ 1.4070891  -0.49027988],[ 1.2503315 -1.1553091],0.03506931662559509
+Natasha Romanoff,winter_soldier.txt,Public displays of affection make people very uncomfortable.,-0.325,[-0.51092154  0.7616092 ],[ 1.6335269 -1.7464304],0.12424847483634949
+Steve Rogers,winter_soldier.txt,"Yes, they do. [she quickly pulls down Steve's head and kisses him making Rumlow look away as he goes past them on the escalator]",-0.024074074074074,[ 1.0936897 -0.5385006],[ 0.8922838 -1.0326923],0.16347971558570862
+Natasha Romanoff,winter_soldier.txt,You still uncomfortable?,-0.5,[ 2.0124986 -1.1688982],[ 1.6480628 -1.7000272],0.14899909496307373
+Steve Rogers,winter_soldier.txt,It's not exactly the word I would use.,-0.125,[ 1.1907243  -0.33554605],[ 1.5254093 -1.4405837],0.03000536561012268
+Natasha Romanoff,winter_soldier.txt,Where did Captain America learn how to steal a car?,0.0,[ 1.1401747  -0.46120653],[ 1.2098873 -1.3188034],0.025576084852218628
+Steve Rogers,winter_soldier.txt,Nazi Germany.,0.0,[-0.65626764  1.1923321 ],[ 0.85220397 -0.88590676],0.03982126712799072
+Natasha Romanoff,winter_soldier.txt,Mm.,0.0,[ 1.2614238  -0.53119266],[ 1.3580008 -1.251141 ],0.1169750988483429
+Steve Rogers,winter_soldier.txt,And we're borrowing. Take your feet off the dash. [Natasha takes her feet off the dash],0.0,[ 1.4125985  -0.76367366],[ 0.87414247 -0.9912118 ],0.1416810303926468
+Natasha Romanoff,winter_soldier.txt,"Alright, I have a question for you, oh, which you do not have to answer. I feel like if you don't answer it though, you're kind of answering it, you know?",0.6,[ 2.014225  -1.3235267],[ 1.8820357 -1.9298481],0.060091376304626465
+Steve Rogers,winter_soldier.txt,What?,0.0,[ 1.4070891  -0.49027988],[ 1.2503315 -1.1553091],0.03506931662559509
+Natasha Romanoff,winter_soldier.txt,Was that your first kiss since 1945?,0.25,[ 1.8731767 -1.1345487],[ 1.3599988 -1.2921151],0.19153833389282227
+Steve Rogers,winter_soldier.txt,"That bad, huh?",-0.6999999999999998,[0.46162653 0.3351541 ],[ 1.3248085 -1.2145443],0.07128593325614929
+Natasha Romanoff,winter_soldier.txt,I didn't say that.,0.0,[0.6278815  0.02885189],[ 1.2845534 -1.2245522],0.06057816743850708
+Steve Rogers,winter_soldier.txt,"Well, it kind of sounds like that's what you're saying.",0.6,[0.20358285 0.29807302],[ 1.5262865 -1.4303161],0.06596449017524719
+Natasha Romanoff,winter_soldier.txt,"No, I didn't. I just wondered how much practice you've had.",0.2,[ 1.5924035 -0.937196 ],[ 1.9869007 -1.8144922],0.1052573025226593
+Steve Rogers,winter_soldier.txt,You don't need practice.,0.0,[ 1.1859943  -0.39809287],[ 1.5950738 -1.4399527],0.06827408075332642
+Natasha Romanoff,winter_soldier.txt,Everybody needs practice.,0.0,[0.02865895 0.65747786],[ 1.4529885 -1.4217197],0.03475642204284668
+Steve Rogers,winter_soldier.txt,"It was not my first kiss since 1945. I'm ninety-five, I'm not dead.",0.175,[ 2.0180361 -1.1841817],[ 1.8898789 -1.8249909],0.17491789162158966
+Natasha Romanoff,winter_soldier.txt,"Nobody special, though? [Steve chuckles]",0.3571428571428571,[ 1.4598178 -0.7446568],[ 1.8489047 -1.9893554],0.05488324165344238
+Steve Rogers,winter_soldier.txt,"Believe it or not, it's kind of hard to find someone with shared life experience.",0.1541666666666666,[ 0.8200535  -0.22300124],[ 1.8916372 -1.8201213],0.10040098428726196
+Natasha Romanoff,winter_soldier.txt,"Well, that's alright, you just make something up.",0.0,[-0.588979   1.0930035],[ 1.5154396 -1.3151412],0.13206492364406586
+Steve Rogers,winter_soldier.txt,"What, like you?",0.0,[ 1.5581089 -0.7295822],[ 1.5653692 -1.5594796],0.11163927614688873
+Natasha Romanoff,winter_soldier.txt,"I don't know. The truth is a matter of circumstances, it's not all things to all people all the time. And neither am I.",0.0,[ 2.1742513 -1.3439089],[ 2.0464513 -1.8952688],0.06031990051269531
+Steve Rogers,winter_soldier.txt,That's a tough way to live.,-0.1262626262626262,[0.6538982  0.18498641],[ 1.3519295 -1.3275535],0.047068119049072266
+Natasha Romanoff,winter_soldier.txt,"It's a good way not to die, though.",0.7,[ 1.2433504  -0.51689875],[ 1.4173348 -1.4267117],0.07441824674606323
+Steve Rogers,winter_soldier.txt,"You know, it's kind of hard to trust someone when you don't know who that someone really is.",0.1694444444444444,[ 1.2233996  -0.59190065],[ 1.7708752 -1.7093726],0.10759417712688446
+Natasha Romanoff,winter_soldier.txt,Yeah. Who do you want me to be?,0.0,[ 2.3181672 -1.4413766],[ 1.6387926 -1.7081523],0.17167940735816956
+Steve Rogers,winter_soldier.txt,How about a friend? [Natasha laughs softly],0.1,[ 1.8952721 -1.129339 ],[ 1.643999  -1.7754447],0.11586984992027283
+Natasha Romanoff,winter_soldier.txt,"Well, there's a chance you might be in the wrong business, Rogers.",-0.5,[ 1.1165551 -0.7961435],[ 1.4895333 -1.5040036],0.06535187363624573
+Steve Rogers,winter_soldier.txt,This is it.,0.0,[ 0.8619077  -0.04996754],[ 0.9887771  -0.89095414],0.027920126914978027
+Natasha Romanoff,winter_soldier.txt,The file came from these coordinates.,0.0,[ 0.8475395 -0.1880652],[ 1.8738245 -1.8417825],0.022378772497177124
+Steve Rogers,winter_soldier.txt,So did I. [later that night as they walk around the base trying to pinpoint where the signal came from] This camp is where I was trained.,-0.4,[ 1.2232596  -0.49179885],[ 1.9803377 -2.109566 ],0.025136291980743408
+Natasha Romanoff,winter_soldier.txt,Changed much?,0.2,[ 1.7535666 -0.8564606],[ 1.236411  -1.1051414],0.026017069816589355
+Steve Rogers,winter_soldier.txt,"A little. [Steve has a brief visions of his former, smaller self running past him as he's getting trained with other soldiers]",-0.09375,[ 0.5026838  -0.05760287],[ 2.0545423 -2.122859 ],0.07639625668525696
+Natasha Romanoff,winter_soldier.txt,"This is a dead end. Zero heat signature, zero waves, not even radio. Whoever wrote the file must have used a router to throw people off. [Steve notices a building ahead of them] What is it? [as they walk over to the building]",-0.2,[ 1.6647745 -1.1170751],[ 1.6912557 -1.8295296],0.0158689022064209
+Steve Rogers,winter_soldier.txt,"Army regulations forbid storing ammunition within five hundred yards of the barracks. This building is in the wrong place. [Steve opens the lock with his shield and they enter inside, when they turn on the lights they notice it's a SHIELD office]",-0.5,[ 0.8576128  -0.39396185],[ 1.4841462 -1.7314211],0.02235516905784607
+Natasha Romanoff,winter_soldier.txt,This is SHIELD.,0.0,[0.45515496 0.23523167],[ 1.4060131 -1.39825  ],0.030882924795150757
+Steve Rogers,winter_soldier.txt,"Maybe where it started. [they enter a room where they find old framed portraits of Howard Stark, Peggy and Col. Chester Phillips]",-0.05,[ 1.1583743 -0.4004985],[ 1.944092  -2.0955632],0.037769705057144165
+Natasha Romanoff,winter_soldier.txt,There's Stark's father.,-0.2,[0.16206561 0.5250881 ],[ 1.4283725 -1.5688623],0.05601552128791809
+Steve Rogers,winter_soldier.txt,Howard.,0.0,[ 0.7442865  -0.06125861],[ 1.0387832 -0.9989196],0.02961483597755432
+Natasha Romanoff,winter_soldier.txt,Who's the girl? [Steve doesn't reply and turns away to walk further down the room and stops by a massive book shelf],-0.0518518518518518,[ 1.543113  -0.9939579],[ 0.9250654 -1.0594419],0.05563893914222717
+Steve Rogers,winter_soldier.txt,If you're already working in a secret office... [he pushes the books shelf and slides open to reveal an elevator behind it] Why do you need to hide the elevator? [they go down the elevator which takes them to a room with old looking computers],-0.1711111111111111,[ 1.4972178  -0.97657245],[ 1.8850461 -1.9327332],0.02781662344932556
+Natasha Romanoff,winter_soldier.txt,"This can't be the data-point, this technology is ancient. [suddenly Natasha notices a small flash drive port, she places the flash drive in it which then activates the ancient computer in the room]",-0.125,[ 1.3707395 -0.8297236],[ 1.3654805 -1.3783659],0.016087263822555542
+Natasha Romanoff,winter_soldier.txt,"Y-E-S, spells yes. [Natasha smiles as the old computer starts to cranks up] ""Shall we play a game?"" [to Steve] It's from a movie that...",-0.15,[ 1.5847968 -0.8410002],[ 1.81395   -1.8688283],0.026733696460723877
+Steve Rogers,winter_soldier.txt,"Yeah, I saw it. [suddenly they hear an accented voice speaking]",0.0,[0.47440743 0.34761116],[ 1.8338468 -1.7722973],0.04215016961097717
+Natasha Romanoff,winter_soldier.txt,It's some kind of a recording.,0.6,[ 0.926553   -0.13478822],[ 1.3917334 -1.2425154],0.021064192056655884
+Natasha Romanoff,winter_soldier.txt,Do you know this thing?,0.0,[ 2.0984306 -1.2057356],[ 1.8096162 -1.7268265],0.04701527953147888
+Steve Rogers,winter_soldier.txt,Arnim Zola was a German scientist who worked for the Red Skull. He's been dead for years.,-0.0666666666666666,[ 0.8465573  -0.11974837],[ 1.7059478 -1.9101206],0.04122394323348999
+Steve Rogers,winter_soldier.txt,How did you get here?,0.0,[ 2.056241  -1.2506253],[ 1.8408171 -1.8476825],0.06786605715751648
+Natasha Romanoff,winter_soldier.txt,It was Operation Paperclip after World War II. SHIELD recruited German scientists with strategic value.,0.0,[-0.627592  0.94904 ],[ 1.5880717 -1.7567502],0.02805456519126892
+Steve Rogers,winter_soldier.txt,HYDRA died with the Red Skull.,0.0,[0.53790873 0.30635813],[ 1.2085785 -1.3855876],0.038071006536483765
+Steve Rogers,winter_soldier.txt,Prove it.,0.0,[0.6233185  0.08242045],[ 1.3288509 -1.2467866],0.03770172595977783
+Natasha Romanoff,winter_soldier.txt,"That's impossible, SHIELD would have stopped you.",-0.6666666666666666,[ 0.96981543 -0.27042657],[ 1.3638378 -1.319794 ],0.07146158814430237
+Steve Rogers,winter_soldier.txt,What's on this drive?,0.0,[ 2.0654898 -1.2703243],[ 1.5348196 -1.5659655],0.019436627626419067
+Natasha Romanoff,winter_soldier.txt,What kind of algorithm? What does it do?,0.6,[ 2.017314 -1.291272],[ 1.4370955 -1.2796137],0.025230765342712402
+Natasha Romanoff,winter_soldier.txt,"Steve, we got a bogey. Short range ballistic. 30 seconds tops.",0.0,[ 1.6933249 -0.8041351],[ 1.5787843 -1.4048252],0.025297552347183228
+Steve Rogers,winter_soldier.txt,Who fired it?,0.0,[ 1.86806   -1.0374111],[ 1.300164  -1.1292332],0.02960759401321411
+Natasha Romanoff,winter_soldier.txt,S.H.I.E.L.D.,0.0,[ 1.3685883 -0.6664022],[ 1.625858 -1.600198],0.024319559335708618
+Brock Rumlow,winter_soldier.txt,[As he notices a footprint in the dust] Call in the asset.,0.0,[ 1.5120229  -0.71082085],[ 1.8074876 -2.02459  ],0.021560102701187134
+Alexander Pierce,winter_soldier.txt,"No. Uh...it's fine, Renata, you can go home.",0.4166666666666667,[ 0.99583155 -0.37814572],[ 1.2306317 -1.0744531],0.04349857568740845
+Alexander Pierce,winter_soldier.txt,"Good night. [Renata leaves] Want some milk? [the Winter Soldier doesn't reply] The timetable has moved. Our window is limited. Two targets, Level Six. [he pours himself a glass of milk and goes over to join the Winter Soldier at the table] They already cost me Zola. I want confirmed death in ten hours. [just then Renata interrupts them as she enters the kitchen]",0.2571428571428571,[ 1.8516192 -1.2996835],[ 1.1093832 -1.3165976],0.10737469792366028
+Alexander Pierce,winter_soldier.txt,"Oh, Renata. I wish you would have knocked. [Pierce picks up the gun from the table and shoots and kills her]",0.0,[ 1.8355187  -0.99321115],[ 0.8625824 -1.0753376],0.08757293224334717
+Sam Wilson,winter_soldier.txt,"Hey, man.",0.0,[0.5009698  0.23868713],[ 1.5600971 -1.5483557],0.047181010246276855
+Steve Rogers,winter_soldier.txt,I'm sorry about this. We need a place to lay low.,-0.25,[ 1.9804057 -1.0643979],[ 1.9252998 -1.7264416],0.16183261573314667
+Natasha Romanoff,winter_soldier.txt,Everyone we know is trying to kill us. [Sam pauses a moment before replying],0.0,[ 0.8199178  -0.15948015],[ 1.76157  -1.995102],0.041143447160720825
+Sam Wilson,winter_soldier.txt,"Not everyone. [Sam let's them enter, later as Steve and Natasha are cleaning up, Steve notices Natasha looking sad and thoughtful]",-0.0333333333333333,[ 0.97519356 -0.5501729 ],[ 1.8731936 -2.008936 ],0.09157544374465942
+Steve Rogers,winter_soldier.txt,You okay?,0.5,[ 1.9940612 -1.0107062],[ 1.6277424 -1.6502446],0.13329826295375824
+Natasha Romanoff,winter_soldier.txt,Yeah.,0.0,[-0.0112833  0.4965879],[ 0.8073447 -0.7215428],0.027981340885162354
+Steve Rogers,winter_soldier.txt,What's going on?,0.0,[ 2.059267  -1.1191577],[ 1.589713  -1.6127781],0.02483004331588745
+Natasha Romanoff,winter_soldier.txt,"When I first joined SHIELD, I thought I was going straight. But I guess I just traded in the KGB for HYDRA. I thought I knew whose lies I was telling, but...I guess I can't tell the difference anymore.",0.225,[ 1.631693 -0.962528],[ 1.7187976 -1.8995124],0.04093724489212036
+Steve Rogers,winter_soldier.txt,There's a chance you might be in the wrong business. [Natasha smiles faintly],-0.5,[ 1.5827247 -1.1026045],[ 1.5218366 -1.5337794],0.12072400748729706
+Natasha Romanoff,winter_soldier.txt,I owe you.,0.0,[ 0.918095  -0.1659404],[ 1.6483787 -1.5556484],0.1763576865196228
+Steve Rogers,winter_soldier.txt,It's okay.,0.5,[0.06516619 0.6236253 ],[ 1.3653582 -1.2982272],0.047666192054748535
+Natasha Romanoff,winter_soldier.txt,"If it was the other way around, and it was down to me to save your life, and you be honest with me, would you trust me to do it?",0.1064814814814814,[ 2.4698558 -1.6446233],[ 1.7576158 -1.7578233],0.16243542730808258
+Steve Rogers,winter_soldier.txt,I would now. And I'm always honest.,0.6,[ 1.4203913 -0.54205  ],[ 1.6280478 -1.5485549],0.15575692057609558
+Natasha Romanoff,winter_soldier.txt,"Well, you seem pretty chipper for someone who just found out they died for nothing.",0.25,[-1.2203674  1.6722697],[ 1.7538973 -1.6539063],0.12799496948719025
+Steve Rogers,winter_soldier.txt,"Well, I guess I just like to know who I'm fighting.",0.0,[0.6793913  0.12325557],[ 1.6878971 -1.6430256],0.07824259996414185
+Sam Wilson,winter_soldier.txt,[to Steve and Natasha] I made breakfast. If you guys...eat that sort of thing. [later as they are sat in Sam's kitchen],0.0,[ 1.2704635  -0.82354784],[ 1.5382074 -1.6607382],0.1192179024219513
+Natasha Romanoff,winter_soldier.txt,"So, the question is",0.0,[ 1.7850574 -0.9909114],[ 1.2794344 -1.2890505],0.027180254459381104
+Steve Rogers,winter_soldier.txt,Pierce.,0.0,[ 0.9036005  -0.09125886],[ 1.1042168 -1.0733982],0.026780307292938232
+Natasha Romanoff,winter_soldier.txt,Who happens to be sitting on top of the most secure building in the world.,0.4666666666666666,[-0.9421363  1.2191385],[ 1.8093694 -1.8255963],0.024415254592895508
+Steve Rogers,winter_soldier.txt,"But he's not working alone, Zola's algorithm was on the Lemurian Star.",0.0,[ 1.5086699 -0.8466273],[ 1.972514 -2.022692],0.019490361213684082
+Natasha Romanoff,winter_soldier.txt,So was Jasper Sitwell.,0.0,[0.4207541  0.26768562],[ 1.6256232 -1.6429967],0.02916848659515381
+Steve Rogers,winter_soldier.txt,"So, the real question is",0.2,[ 1.6961724 -0.9108005],[ 1.2529403 -1.2648743],0.0251958966255188
+Sam Wilson,winter_soldier.txt,The answer is,0.0,[ 1.5889518 -0.7804558],[ 1.3401481 -1.3094915],0.028096824884414673
+Steve Rogers,winter_soldier.txt,What's this?,0.0,[ 1.9054703 -1.0195409],[ 1.3470072 -1.330578 ],0.027962803840637207
+Sam Wilson,winter_soldier.txt,Call it a resume. [Natasha picks up a photo of Sam with his para-rescue team],0.0,[0.2888172  0.26421216],[ 2.0425184 -2.1484466],0.022054463624954224
+Natasha Romanoff,winter_soldier.txt,"Is this Bakhmala? The Khalid Khandil mission, that was you. [to Steve] You didn't say he was a para-rescue. [looking at the photo of Sam with his colleague]",0.0,[ 1.3592564 -0.8499204],[ 2.1538115 -2.3591988],0.07781907916069031
+Steve Rogers,winter_soldier.txt,Is this Riley?,0.0,[ 1.7276171 -0.9791653],[ 1.3088189 -1.2961401],0.027025997638702393
+Sam Wilson,winter_soldier.txt,Yeah.,0.0,[-0.0112833  0.4965879],[ 0.8073447 -0.7215428],0.027981340885162354
+Natasha Romanoff,winter_soldier.txt,"I heard they couldn't bring in the choppers because of the RPGs. What did you use, a stealth chute?",0.0,[ 1.8920511 -1.2610437],[ 1.5041226 -1.5493339],0.021982520818710327
+Sam Wilson,winter_soldier.txt,"No. These. [he hands Steve the file, Steve opens it and reads it]",0.0,[ 1.7239573 -1.0936226],[ 1.8961524 -1.991068 ],0.020023584365844727
+Steve Rogers,winter_soldier.txt,I thought you said you were a pilot.,0.0,[0.05173056 0.60842484],[ 1.7262521 -1.6529816],0.09587693214416504
+Sam Wilson,winter_soldier.txt,I never said pilot.,0.0,[0.66217595 0.06085974],[ 1.235258  -1.1709934],0.03947824239730835
+Steve Rogers,winter_soldier.txt,"I can't ask you to do this, Sam. You got out for a good reason.",0.7,[ 1.7400213 -0.9827603],[ 1.6889058 -1.5901598],0.17641067504882812
+Sam Wilson,winter_soldier.txt,"Dude, Captain America needs my help. There's no better reason to get back in.",-0.125,[ 1.4015232 -0.7752078],[ 1.564788  -1.7285696],0.11342597007751465
+Steve Rogers,winter_soldier.txt,Where can we get our hands on one of these things?,0.0,[ 2.3417697 -1.5048589],[ 1.4603146 -1.414471 ],0.07165524363517761
+Sam Wilson,winter_soldier.txt,"The last one is at Fort Meade, behind three guarded gates and a twelve-inch steel wall. [Steve looks at Natasha who shrugs her shoulders]",0.0,[ 1.0871445  -0.45548353],[ 1.5596855 -1.6739018],0.0508403480052948
+Steve Rogers,winter_soldier.txt,Shouldn't be a problem. [Steve throws down the file on the table and we see that it's a classified military project called Falcon],-0.1277777777777778,[ 0.7506491  -0.21522197],[ 1.8908349 -1.9889166],0.0224606990814209
+Jasper Sitwell,winter_soldier.txt,"Any constituent in particular, Mr. Senator?",0.1666666666666666,[ 2.1854763 -1.2268541],[ 1.6811279 -1.7453032],0.04929235577583313
+Jasper Sitwell,winter_soldier.txt,Doesn't sound much of a problem to me.,0.3,[0.51458544 0.09114991],[ 1.4718748 -1.3976114],0.12751424312591553
+Jasper Sitwell,winter_soldier.txt,Thank you.,0.0,[-0.32812458  0.9028951 ],[ 1.3803478 -1.3589175],0.16198284924030304
+Jasper Sitwell,winter_soldier.txt,"I just saw that, yeah.",0.0,[-0.00060915  0.58295536],[ 1.693228  -1.5948867],0.03122425079345703
+Jasper Sitwell,winter_soldier.txt,"I think you should. [Stern walks away] [Sitwell gets a call from Pierce, Sitwell turns to his men] I need a minute. Bring the car around. [his men leave and Sitwell answers the phone] Yes, sir?",0.0,[ 1.8804821 -1.1857688],[ 1.7009205 -1.8844367],0.14779579639434814
+Sam Wilson,winter_soldier.txt,"Agent Sitwell, how was lunch? I hear the crab cakes here are delicious.",1.0,[ 1.7229496 -0.857353 ],[ 1.5658265 -1.6721133],0.10601529479026794
+Jasper Sitwell,winter_soldier.txt,Who is this?,0.0,[ 2.0699492 -1.028381 ],[ 1.0583963 -1.1635307],0.048908740282058716
+Sam Wilson,winter_soldier.txt,"The good looking guy in the sunglasses, your ten o'clock. [Sitwell looks around but doesn't see him] Your other ten o'clock. [Sitwell turns the other way and sees Sam sitting a few feet away from him] There you go.",0.0416666666666666,[ 1.1560395 -0.6625223],[ 1.857911  -2.1012998],0.1758434772491455
+Jasper Sitwell,winter_soldier.txt,What do you want?,0.0,[ 2.3265333 -1.3948895],[ 1.563152  -1.5864993],0.12887749075889587
+Sam Wilson,winter_soldier.txt,"You're gonna go around the corner, to your right. There's a grey car, two spaces down. You and I are gonna take a ride.",0.0267195767195767,[ 1.5107173  -0.74386966],[ 1.6781245 -1.5665336],0.13255150616168976
+Jasper Sitwell,winter_soldier.txt,And why would I do that?,0.0,[ 1.9178556 -1.2139033],[ 1.4646    -1.5350176],0.118802011013031
+Sam Wilson,winter_soldier.txt,"Because that tie looks really expensive, and I'd hate to mess it up. [Sitwell looks down at his tie and sees a small red light from the gun being pointed at him] [Steve throws Sitwell across a rooftop, Natasha follows behind him]",-0.2350694444444444,[ 1.4458553 -0.9683928],[ 1.2843319 -1.4666935],0.08899334073066711
+Steve Rogers,winter_soldier.txt,Tell me about Zola's algorithm.,0.0,[ 0.85934144 -0.26883793],[ 1.8715879 -1.7546463],0.0329897403717041
+Jasper Sitwell,winter_soldier.txt,Never heard of it.,0.0,[0.51238686 0.1092123 ],[ 1.0630816 -1.0555772],0.0527837872505188
+Steve Rogers,winter_soldier.txt,What were you doing on the Lemurian Star?,0.0,[ 2.0250788 -1.325065 ],[ 1.8434688 -2.0948226],0.03171133995056152
+Jasper Sitwell,winter_soldier.txt,"I was throwing up, I get seasick. [Steve forces Sitwell to the edge of the rooftop, Sitwell just smiles] Is this little display meant to insinuate that you're gonna throw me off the roof? Because it's really not your style, Rogers.",-0.14375,[ 1.4048424  -0.88644266],[ 1.578254 -1.832112],0.1696397066116333
+Steve Rogers,winter_soldier.txt,"You're right. It's not. It's hers. [Steve steps aside and Natasha kicks Sitwell off the roof, he plummets down screaming]",0.065079365079365,[ 1.5728365  -0.96303606],[ 0.89668155 -1.0214561 ],0.1455267071723938
+Natasha Romanoff,winter_soldier.txt,"Oh, wait. What about that girl from accounting, Laura...?",0.0,[ 0.7247482  -0.38241106],[ 1.4374021 -1.3576653],0.09718722105026245
+Steve Rogers,winter_soldier.txt,"Lillian. Lip piercing, right?",0.2857142857142857,[ 0.8639086 -0.3356831],[ 1.2354008 -1.2804333],0.1638907939195633
+Natasha Romanoff,winter_soldier.txt,"Yeah, she's cute.",0.5,[-0.93514353  1.2685539 ],[ 1.0006304 -0.9868289],0.17348109185695648
+Steve Rogers,winter_soldier.txt,"Yeah, I'm not ready for that. [suddenly, Sam, in his Falcon jet-pack suit with wings, flies up holding Sitwell and throws him down on the roof] [Steve and Natasha walk towards Sitwell, he holds his hand up in fear]",-0.0851851851851852,[ 1.6699404 -0.894349 ],[ 1.5343434 -1.7800568],0.07582512497901917
+Jasper Sitwell,winter_soldier.txt,Zola's algorithm is a program...for choosing Insight's targets!,0.0,[-0.5341533   0.79119223],[ 2.068514 -2.031103],0.02751070261001587
+Steve Rogers,winter_soldier.txt,What targets?,0.0,[ 2.153759  -1.2326144],[ 1.5256861 -1.4988626],0.02288910746574402
+Jasper Sitwell,winter_soldier.txt,"You! A TV anchor in Cairo, the Undersecretary of Defense, a high school valedictorian in Iowa city. Bruce Banner, Stephen Strange, anyone who's a threat to HYDRA! Now, or in the future.",0.0325,[ 1.2962426 -0.8142469],[ 1.6938108 -1.8801671],0.045018672943115234
+Steve Rogers,winter_soldier.txt,The Future? How could it know? [Sitwell laughs],0.0,[ 1.6716051 -1.0123086],[ 1.4927127 -1.6410643],0.03215113282203674
+Jasper Sitwell,winter_soldier.txt,"How could it not? The 21st century is a digital book. Zola taught HYDRA how to read it. [Steve and Natasha look at him in confusion] Your bank records, medical histories, voting patterns, e-mails, phone calls, your damn SAT scores. Zola's algorithm evaluates people's past to predict their future.",-0.05,[ 0.45699173 -0.08088018],[ 1.7205728 -1.7467426],0.039187103509902954
+Steve Rogers,winter_soldier.txt,And what then?,0.0,[ 1.6946795 -0.9167851],[ 1.4769515 -1.3806609],0.0448479950428009
+Jasper Sitwell,winter_soldier.txt,"Oh, my God. Pierce is gonna kill me.",0.0,[ 1.5000463  -0.62001187],[ 1.4064441 -1.4513727],0.16214005649089813
+Steve Rogers,winter_soldier.txt,What then?!,0.0,[ 0.9380491 -0.2025724],[ 1.4958919 -1.3373066],0.03318825364112854
+Jasper Sitwell,winter_soldier.txt,Then the Insight Helicarriers scratch people off the list. A few million at a time.,-0.2,[-0.39219087  0.7036386 ],[ 1.449338  -1.3528229],0.019146233797073364
+Jasper Sitwell,winter_soldier.txt,[as Sam drives them to Triskelion] HYDRA doesn't like leaks.,0.0,[ 0.5644654  -0.09825432],[ 1.3241526 -1.6147232],0.023817360401153564
+Sam Wilson,winter_soldier.txt,So why don't you try sticking a cork in it.,0.0,[ 0.9032228 -0.310101 ],[ 1.215643  -1.1614479],0.06521308422088623
+Natasha Romanoff,winter_soldier.txt,"Insight's launching in sixteen hours, we're cutting it a little bit close here.",-0.39375,[ 1.1346974  -0.59288883],[ 1.8957399 -1.8265318],0.025306791067123413
+Steve Rogers,winter_soldier.txt,I know. We'll use him to bypass the DNA scans and access the Helicarriers directly.,0.1,[0.2766818  0.31608894],[ 1.7749935 -1.7869167],0.02686479687690735
+Jasper Sitwell,winter_soldier.txt,"What?! Are you crazy? That is a terrible, terrible idea. [suddenly the Winter Soldier lands on the car roof, pulls Sitwell out through the window and throws him into the oncoming traffic, killing him, he then starts shooting at them until Steve pulls the break handle making the Winter Soldier drop down onto the street, as another car smashes into the trio's car and pushes them along, the Winter Soldier jumps back onto their car, smashes through the windscreen and pulls out the steering wheel]",-0.4592592592592592,[ 1.6623328 -1.033322 ],[ 1.1250914 -1.2888345],0.05224168300628662
+Sam Wilson,winter_soldier.txt,"Shit! [Natasha starts shooting at him but the Winter Soldier jumps onto the vehicle behind them, as the trio's car is being pulled off the road Steve holds on to the car door]",-0.325,[ 1.1573795  -0.61274946],[ 1.2481385 -1.3573006],0.030952543020248413
+Steve Rogers,winter_soldier.txt,"Hang on! [he breaks open the door, holding onto Natasha and Sam, they slide on the car door through the streets] [the Winter Soldier is joined by HYDRA agents and they start shooting at them, the trio scatter and run off in different directions with the Winter Soldier shooting at Natasha but she manages to shoot him in his eye goggle mask and run off]",0.0,[ 1.4854047  -0.95525813],[ 0.895414 -1.149495],0.04198619723320007
+Sam Wilson,winter_soldier.txt,"Go, I got this! [the Winter Soldier thinks he's found Natasha hiding behind a car as he can hear her voice]",-0.4,[ 1.415985  -0.6005324],[ 1.4997967 -1.6844143],0.06907141208648682
+Natasha Romanoff,winter_soldier.txt,"I make an LZ, twenty-three hundred block of Virginia Avenue. Rendezvous two minutes. Taking fire above and below expressway. Civilians threatened. Repeat, civilians threatened. [he rolls a bomb towards where he thinks she's hiding. As the bomb rolls behind the car we see that Natasha isn't actually there but a recording over her voice is being played back on a phone] I make an LZ, twenty-three hundred block at Virginia Avenue. Rendezvous two minutes. [as the bomb explodes Natasha jumps onto the Winter Soldiers back and tries to kill him but he throws her off, she starts running off as he goes after her]",-0.0833333333333333,[ 1.4492867 -0.8484409],[ 0.75154054 -0.98998   ],0.042839497327804565
+Natasha Romanoff,winter_soldier.txt,"[to the civilians as she tries to get away from the Winter Soldier] Get out of the way! Stay out of the way! [suddenly she gets shot in the shoulder, she falls and looks around her, as the Winter Soldier comes up from behind to shoot her Steve jumps in and attacks him, they fight and in the process the Winter Soldier takes Steve's shield and throws it at him but Steve manages to avoid being hit, after battling it out more the Winter Soldier's mask comes off, as he looks around at Steve we learn the true identity of the Winter Soldier; Bucky Barnes]",0.0587499999999999,[ 1.5022085 -1.0228798],[ 0.8097029 -1.0804018],0.05559256672859192
+Steve Rogers,winter_soldier.txt,Bucky?,0.0,[ 1.7656713 -1.0243446],[ 1.3119603 -1.4293733],0.030167609453201294
+Brock Rumlow,winter_soldier.txt,"Drop the shield, Cap! On your knees! Get on your knees! Now! Get down! Get down! [Steve holds his hands up] Get on your knees! Down! [he kicks Steve's leg and Steve kneels down] Don't move. [Rumlow looks at the helicopter flying above them and warns Rollins who's holding Steve at gunpoint] Put the gun down. Not here. Not here! [Rollins lowers his gun, the HYDRA agents then take Steve, Sam, and Natasha into custody]",-0.1636574074074074,[ 1.6594237  -0.98498255],[ 1.1399556 -1.4573826],0.09123557806015015
+Steve Rogers,winter_soldier.txt,It was him. He looked right at me like he didn't even know me.,0.2857142857142857,[ 1.2786213 -0.4950107],[ 1.6825956 -1.7031783],0.14149528741836548
+Sam Wilson,winter_soldier.txt,How's that even possible? It was like seventy years ago.,0.0,[ 1.3800578  -0.76709986],[ 1.5612843 -1.5163721],0.02786993980407715
+Steve Rogers,winter_soldier.txt,"Zola. Bucky's whole unit was captured in '43, Zola experimented on him. Whatever he did helped Bucky survive the fall. They must have found him and...",0.2,[ 1.5468781  -0.82768595],[ 1.5805253 -1.856594 ],0.06759870052337646
+Natasha Romanoff,winter_soldier.txt,"None of that's your fault, Steve.",0.0,[ 0.85091466 -0.3177557 ],[ 1.7217189 -1.6206254],0.175827294588089
+Steve Rogers,winter_soldier.txt,"Even when I had nothing, I had Bucky. [Sam notices Natasha is bleeding from her shoulder and looks at the guards]",0.0,[ 1.7263851  -0.92178786],[ 1.6975619 -1.8859075],0.10919511318206787
+Sam Wilson,winter_soldier.txt,"We need to get a doctor here. We don't put pressure on that wound she's gonna bleed out here in the truck. [suddenly one of the guards pulls out an electric rod and neutralizes the other guard and knocks him out, the guard is revealed to be Hill as she takes off her helmet]",-0.0625,[ 1.7246357 -0.9265176],[ 0.7388052 -0.8211715],0.13545218110084534
+Maria Hill,winter_soldier.txt,Ah. That thing was squeezing my brain. [Sam looks at her in confusion; to Steve] Who's this guy? [Rumlow's crew stop their vehicles and get out],0.0,[ 1.7519631 -1.0641098],[ 1.7240553 -1.8385988],0.14682087302207947
+Brock Rumlow,winter_soldier.txt,"Three holes. Start digging. [they go over to the van holding Steve, Sam and Natasha and as they open the door they find it empty with one of the guards left unconscious and massive burnt whole on the car floor]",0.02,[ 1.7189752 -1.1435682],[ 1.6916924 -1.8617519],0.04747018218040466
+Maria Hill,winter_soldier.txt,GSW. She's lost at least a pint.,-0.3,[ 1.596531  -0.9339534],[ 0.7501464 -0.5463747],0.09133437275886536
+Sam Wilson,winter_soldier.txt,Maybe two.,0.0,[ 0.8563692  -0.05911398],[ 1.1686498 -1.041186 ],0.029597818851470947
+Maria Hill,winter_soldier.txt,"She'll want to see him first. [Hill takes them to Fury who's alive and lying in bed, the trio look at him in shock]",0.175,[ 1.6035389 -0.8853195],[ 1.685342  -1.8390269],0.1182505190372467
+Nick Fury,winter_soldier.txt,"About damn time. [later as Natasha's wound is being treated] Lacerated spinal column, cracked sternum, shattered collarbone, perforated liver, one hell of a headache.",0.0,[ 1.7187812  -0.99090993],[ 1.6773173 -1.5726339],0.17247845232486725
+Nick Fury,winter_soldier.txt,"Oh, let's not forget that. Otherwise, I'm good.",0.7,[ 0.92305285 -0.43599382],[ 1.4151695 -1.4041964],0.1497320830821991
+Natasha Romanoff,winter_soldier.txt,"They cut you open, your heart stopped.",0.0,[ 1.2283118 -0.3945537],[ 1.8390635 -1.6764338],0.17476564645767212
+Nick Fury,winter_soldier.txt,"Tetrodotoxin B. Slows the pulse to one beat a minute. Banner developed it for stress. Didn't work so great for him, but we found a use for it.",0.45,[ 0.9930378 -0.4072009],[ 2.0081334 -2.0950696],0.05250495672225952
+Steve Rogers,winter_soldier.txt,Why all the secrecy? Why not just tell us?,0.0,[ 1.955257  -1.0990425],[ 1.6385046 -1.5448449],0.07902970910072327
+Maria Hill,winter_soldier.txt,Any attempt on the director's life had to look successful.,0.75,[-0.80651563  1.0263627 ],[ 2.1020799 -1.9552346],0.07195642590522766
+Nick Fury,winter_soldier.txt,"Can't kill you if you're already dead. Besides, I wasn't sure who to trust.",0.15,[ 2.026266  -1.1353213],[ 1.5207301 -1.6481987],0.08883023262023926
+Steve Rogers,winter_soldier.txt,"Bucky, no! [he then has flashback to after he's picked up by Hydra agents]",0.0,[ 1.1746424  -0.44981143],[ 1.3606997 -1.6323129],0.025431126356124878
+Alexander Pierce,winter_soldier.txt,"Mission report. [Bucky; looking blank, doesn't respond] Mission report, now. [Pierce moves closer to Bucky and suddenly strikes him hard in the face]",-0.0972222222222222,[ 1.6159834 -1.0114151],[ 1.6834526 -1.9769591],0.02569103240966797
+Alexander Pierce,winter_soldier.txt,You met him earlier this week on another assignment.,0.0,[ 0.53295094 -0.26494414],[ 2.2021217 -2.093436 ],0.05314171314239502
+Alexander Pierce,winter_soldier.txt,"Your work has been a gift to mankind. You shaped the century, and I need you to do it one more time. Society is at a tipping point between order and chaos. Tomorrow morning we're gonna give it a push. But, if you don't do your part, I can't do mine, and HYDRA can't give the world the freedom it deserves.",0.5,[ 2.0597818 -1.2443386],[ 1.6514385 -1.8301572],0.14163710176944733
+Alexander Pierce,winter_soldier.txt,Prep him.,0.0,[0.5085117  0.04974786],[ 0.9043926  -0.85362744],0.07662951946258545
+Alexander Pierce,winter_soldier.txt,Then wipe him and start over. [the scientists strap Bucky in his chair and then place a teeth shield in his mouth as they begin the process of wiping his brain with Bucky screaming in pain],0.0,[ 0.9125255  -0.17350435],[ 1.4626299 -1.5224026],0.16754168272018433
+Nick Fury,winter_soldier.txt,"[looking at a photo of Pierce] This man declined the Nobel Peace Prize. He said, ""Peace wasn't an achievement, it was a responsibility."" See, it's stuff like this that gives me trust issues.",0.0,[0.21069057 0.37864828],[ 2.0073364 -2.2540207],0.03891316056251526
+Natasha Romanoff,winter_soldier.txt,We have to stop the launch.,0.0,[0.462519   0.19501612],[ 1.5046753 -1.4040443],0.02359825372695923
+Nick Fury,winter_soldier.txt,I don't think the Council's accepting my calls anymore. [Fury opens a case containing three chips],0.0,[ 1.6631916 -0.8739202],[ 1.7847031 -1.9522289],0.03904274106025696
+Sam Wilson,winter_soldier.txt,What's that?,0.0,[ 2.0485668 -1.046986 ],[ 1.2492839 -1.2368416],0.027281612157821655
+Maria Hill,winter_soldier.txt,"Once the Helicarriers reach three thousand feet, they'll triangulate with Insight satellites becoming fully weaponized.",0.45,[-0.6516858  1.2013954],[ 1.6799097 -1.5168546],0.022468477487564087
+Nick Fury,winter_soldier.txt,We need to breach those carriers and replace their targeting blades with our own.,0.6,[-0.01159907  0.6067674 ],[ 1.0312824 -0.8727899],0.023805856704711914
+Maria Hill,winter_soldier.txt,"One or two won't cut it. We need to link all three carriers for this to work, because if even one of those ships remains operational a whole lot of people are gonna die.",0.2,[ 1.4803377  -0.73979056],[ 1.1689528 -1.2486252],0.02128031849861145
+Nick Fury,winter_soldier.txt,"We have to assume everyone aboard those carriers is HYDRA. We need to get pass them, insert the server blades, and maybe, just maybe, we can salvage what's left...",0.0,[ 1.2587892 -0.6643913],[ 1.1712316 -1.290479 ],0.0201340913772583
+Steve Rogers,winter_soldier.txt,"We're not salvaging anything. We're not just taking down the carriers, Nick, we're taking down SHIELD.",-0.1555555555555555,[ 1.4107094 -0.7684817],[ 1.5475513 -1.6870924],0.026072204113006592
+Nick Fury,winter_soldier.txt,SHIELD had nothing to do with it.,0.0,[0.27755743 0.31515244],[ 1.6027387 -1.5250441],0.026448994874954224
+Steve Rogers,winter_soldier.txt,"You gave me this mission, this is how it ends. SHIELD's been compromised, you said so yourself. HYDRA grew right under your nose and nobody noticed.",0.2857142857142857,[ 0.84154904 -0.23408538],[ 1.5597576 -1.6730889],0.10953380167484283
+Nick Fury,winter_soldier.txt,Why do you think we're meeting in this cave? I noticed.,0.0,[ 1.356423   -0.66920763],[ 1.7135515 -1.8483022],0.07830733060836792
+Steve Rogers,winter_soldier.txt,And how many paid the price before you did?,0.5,[ 1.9479795 -1.3264357],[ 1.706988  -1.6092165],0.07606405019760132
+Nick Fury,winter_soldier.txt,"Look, I didn't know about Barnes.",0.0,[-0.07454776  0.5208153 ],[ 1.6140109 -1.6627496],0.035398244857788086
+Steve Rogers,winter_soldier.txt,"Even if you have, would you have told me? Or would you have compartmentalized that too? SHIELD, HYDRA, it all goes.",0.0,[ 2.3562346 -1.6307182],[ 1.9635664 -1.9907314],0.05348002910614014
+Maria Hill,winter_soldier.txt,He's right. [Fury looks at Natasha then Sam],0.2857142857142857,[ 1.3443196 -0.5596005],[ 1.4449205 -1.6241207],0.03852853178977966
+Sam Wilson,winter_soldier.txt,"Don't look at me. I do what he does, just slower.",0.0,[ 1.1345979  -0.52456987],[ 1.7565495 -1.6737822],0.07438647747039795
+Nick Fury,winter_soldier.txt,"Well... Looks like you're giving the orders now, Captain.",0.0,[-0.9886152  1.3983837],[ 1.6489071 -1.6200925],0.07502856850624084
+Steve Rogers,winter_soldier.txt,"I know, I'm sorry. I just...kind of wanted to be alone.",-0.5,[ 1.5925059 -0.7551954],[ 1.8998007 -1.7395066],0.1723332554101944
+Steve Rogers,winter_soldier.txt,It was okay. She's next to Dad.,0.25,[0.53191906 0.15441081],[ 1.6636189 -1.5243661],0.12600360810756683
+Steve Rogers,winter_soldier.txt,"I know what you're gonna say, Buck, I just...",0.0,[ 1.5074941  -0.68762994],[ 1.940713  -1.9350485],0.13845068216323853
+Steve Rogers,winter_soldier.txt,"Thank you, Buck, but I can get by on my own.",0.6,[ 1.2799762  -0.59868646],[ 1.9133986 -1.9787737],0.16505378484725952
+Sam Wilson,winter_soldier.txt,"He's gonna be there, you know?",0.0,[ 1.5199064  -0.62344325],[ 1.7637148 -1.7535886],0.14455646276474
+Steve Rogers,winter_soldier.txt,I know.,0.0,[0.3627463  0.27165565],[ 1.018171  -0.8657721],0.07816323637962341
+Sam Wilson,winter_soldier.txt,"Look, whoever he used to be, the guy he is now, I don't think he's the kind you save. He's the kind you stop.",0.6,[ 2.3072267 -1.453553 ],[ 1.5360386 -1.765001 ],0.1652698963880539
+Steve Rogers,winter_soldier.txt,I don't know if I can do that.,0.0,[ 1.9679664 -1.021588 ],[ 1.5694174 -1.3677566],0.032619595527648926
+Sam Wilson,winter_soldier.txt,"Well, he might not give you a choice. He doesn't know you.",0.0,[ 1.8971943 -1.1950847],[ 1.5572962 -1.4792848],0.17427688837051392
+Steve Rogers,winter_soldier.txt,"He will. Gear up, it's time. [Steve turns and starts to walk off]",0.0,[ 1.8729903 -1.0334212],[ 1.49434   -1.6221454],0.026700884103775024
+Sam Wilson,winter_soldier.txt,You gonna wear that?,0.0,[ 1.5048474 -0.7279123],[ 1.2912837 -1.2802778],0.0980185866355896
+Steve Rogers,winter_soldier.txt,"No. If you're gonna fight a war, you gotta wear a uniform. [later as a guard walks in the Smithsonian Museum when he looks over to the Captain America exhibit he notices the Captain America WWII uniform on that was on the dummy has been stolen]",0.0,[ 1.2460765 -0.6439792],[ 1.7304567 -1.9366281],0.03529858589172363
+Alexander Pierce,winter_soldier.txt,And how was your flight?,0.0,[ 1.8344619 -1.1788224],[ 1.5271965 -1.4727551],0.1565389484167099
+Alexander Pierce,winter_soldier.txt,"Sadly, SHIELD can't control everything.",-0.5,[0.42513525 0.1899946 ],[ 1.8200165 -1.719949 ],0.026393473148345947
+Alexander Pierce,winter_soldier.txt,"This facility is biometrically controlled, and these will give you unrestricted access. [the council members each take a pin to wear]",0.0,[ 0.8876181 -0.3558865],[ 1.8965341 -1.9675056],0.02705967426300049
+Steve Rogers,winter_soldier.txt,Excuse us. [the tech holds his hands up and steps aside to let them enter],-0.05,[ 0.90506566 -0.3158306 ],[ 1.6958886 -1.7378515],0.08104020357131958
+Alexander Pierce,winter_soldier.txt,"[addressing the World Security Council members] I know the road hasn't exactly been smooth, and some of you would have gladly kicked me out of the car along the way. Finally we're here, and the world should be grateful. [as they start drinking to Pierce's toast suddenly they hear Steve over the SHIELD microphone that everyone in the building can hear]",0.2299999999999999,[ 0.8055112  -0.17912546],[ 1.8902115 -1.9244024],0.09615126252174377
+Steve Rogers,winter_soldier.txt,"Attention, all SHIELD agents. This is Steve Rogers. You've heard a lot about me over the last few days, some of you were even ordered to hunt me down. But I think it's time you know the truth. SHIELD is not what we thought it was, it's been taken over by HYDRA. Alexander Pierce is their leader. The STRIKE and Insight crew are HYDRA as well. I don't know how many more, but I know they're in the building. They could be standing right next to you. They almost have what they want",0.1328798185941043,[ 1.5530633 -0.9290763],[ 1.2085023 -1.396938 ],0.08965858817100525
+Sam Wilson,winter_soldier.txt,"Did you write that down first, or was it off the top of your head? [to Pierce after learning the truth about him]",0.1981481481481481,[ 2.0739138 -1.369462 ],[ 2.0897436 -2.1324086],0.15005213022232056
+Alexander Pierce,winter_soldier.txt,I guess I've got the floor.,0.0,[ 1.7252835 -0.8229054],[ 1.5406388 -1.3982787],0.09254860877990723
+Brock Rumlow,winter_soldier.txt,Preempt the launch sequence. Send those ships up now. [The tech hesitates visibly.] Is there a problem?,0.0,[ 1.3839359 -0.7719617],[ 1.5734088 -1.7328933],0.020542293787002563
+Brock Rumlow,winter_soldier.txt,Is there a problem?,0.0,[ 2.155415  -1.2826914],[ 1.6025085 -1.6264708],0.046382248401641846
+Brock Rumlow,winter_soldier.txt,Move away from your station. [Agent 13 walks over to Rumlow pointing her gun at him],0.0,[ 1.168769   -0.50375247],[ 1.1981207 -1.3895305],0.07958224415779114
+Brock Rumlow,winter_soldier.txt,"You picked the wrong side, Agent.",-0.5,[ 1.2673533 -0.5478567],[ 1.6294986 -1.5124493],0.06203991174697876
+Maria Hill,winter_soldier.txt,They're initiating launch.,0.0,[-0.60469764  1.1655427 ],[ 1.6423007 -1.5611556],0.024455487728118896
+Sam Wilson,winter_soldier.txt,"Hey, Cap, how do we know the good guys from the bad guys?",5.551115123125783e-17,[ 1.9179845 -1.1244217],[ 1.9881912 -2.092819 ],0.04275357723236084
+Steve Rogers,winter_soldier.txt,"If they're shooting at you, they're bad. [Sam, in his Falcon suit, flies off and Steve heads down, the HYDRA agents starting shooting at them, Sam flies around avoiding getting shot]",-0.2851851851851851,[ 0.979095  -0.3454046],[ 1.0613719 -1.3458476],0.0591852068901062
+Sam Wilson,winter_soldier.txt,"Hey, Cap, I found those bad guys you were talking about.",-0.6999999999999998,[0.0185124 0.5534332],[ 1.6170641 -1.731341 ],0.07260537147521973
+Steve Rogers,winter_soldier.txt,You okay?,0.5,[ 1.9940612 -1.0107062],[ 1.6277424 -1.6502446],0.13329826295375824
+Sam Wilson,winter_soldier.txt,[flying off as the HYDRA agents continue to shoot at him] I'm not dead yet.,0.1,[ 1.0536386  -0.28529787],[ 1.3038348 -1.556629 ],0.055666208267211914
+Alexander Pierce,winter_soldier.txt,"Let me ask you a question. What if Pakistan marched into Mumbai tomorrow, and you knew that they were gonna drag your daughters into a soccer stadium for execution? [Pierce hands Singh a glass of champagne] And you could just stop it with a flick of the switch. Wouldn't you? Wouldn't you all?",-0.1,[ 1.5985255 -0.9193752],[ 0.45673704 -0.4066159 ],0.09451377391815186
+Natasha Romanoff,winter_soldier.txt,I'm sorry. Did I step on your moment?,-0.5,[ 2.0445294 -1.1591349],[ 1.9102739 -1.8519254],0.16964773833751678
+Maria Hill,winter_soldier.txt,"Falcon, status?",0.0,[ 2.1681414 -1.2391735],[ 1.7442536 -1.7518897],0.021738171577453613
+Sam Wilson,winter_soldier.txt,"Engaging. [Sam manages to fly down to the Hellicarrier bay taking down the HYDRA jets chasing him] Alright, Cap, I'm in. [just then another HYDRA jets heads his way and starts shooting at him] Shit! [Sam manages to fly off and avoid getting hit, meanwhile Steve is fighting off the HYDRA agents as he tries to get inside the Helicarrier]",0.1912698412698412,[ 1.0301961 -0.5035252],[ 1.0760114 -1.3566822],0.03487291932106018
+Maria Hill,winter_soldier.txt,"Eight minutes, Cap.",0.0,[0.4486865  0.28289425],[ 1.2638096 -1.1548283],0.02863791584968567
+Steve Rogers,winter_soldier.txt,Working on it.,0.0,[0.5355379 0.2667041],[ 1.2298812 -1.1891285],0.02719375491142273
+Alexander Pierce,winter_soldier.txt,She's disabling security protocols and dumping all the secrets onto the Internet.,0.0,[-1.1541411  1.3109293],[ 0.87565917 -0.77911174],0.02645730972290039
+Natasha Romanoff,winter_soldier.txt,Including HYDRA's.,0.0,[-0.20918217  0.68386537],[ 1.2846601 -1.3977748],0.025054842233657837
+Alexander Pierce,winter_soldier.txt,"And SHIELD's. If you do this, non of your past is gonna remain hidden. [Natasha continues typing into the computer] Are you sure you're ready for the world to see you as you really are?",0.0966666666666666,[ 1.9485971 -1.1854254],[ 1.7502695 -1.8218495],0.07007241249084473
+Natasha Romanoff,winter_soldier.txt,Are you?,0.0,[ 1.8841676 -1.0279595],[ 1.5698849 -1.537607 ],0.11765316128730774
+Steve Rogers,winter_soldier.txt,Alpha locked.,0.0,[0.58929354 0.01109576],[ 1.0117131 -1.0113631],0.019601881504058838
+Maria Hill,winter_soldier.txt,"Falcon, where are you now?",0.0,[ 2.1558552 -1.1172489],[ 1.5167004 -1.4789363],0.039089053869247437
+Sam Wilson,winter_soldier.txt,"I had to take a detour! [Sam is flying towards one of the Helicarriers when heat-seeking missiles are shot at him by HYDRA, so he flies back towards the Helicarrier and manages to get the missiles that were aimed at him to hit the Helicarrier giving him entrance] Oh, yeah! [Sam flies into the Helicarrier; to Hill] I'm in. Bravo locked. [Sam flies out of the carrier]",0.0,[ 1.342088  -0.7584638],[ 1.3595763 -1.6258653],0.021200567483901978
+Maria Hill,winter_soldier.txt,"Two down, one to go.",-0.1555555555555555,[ 1.6699188  -0.87742263],[ 1.1573213  -0.96753293],0.027063757181167603
+Alexander Pierce,winter_soldier.txt,"Disabling the encryption is an executive order, it takes two Alpha Level members.",0.0,[-0.14408171  0.6183262 ],[ 1.5552989 -1.6094967],0.024915337562561035
+Natasha Romanoff,winter_soldier.txt,"Don't worry, company's coming. [just then a helicopter appears outside, lands and Fury steps out to enter the building to Pierce's surprise]",0.0,[ 1.130011   -0.46913978],[ 1.59471   -1.6655267],0.03263542056083679
+Alexander Pierce,winter_soldier.txt,"Did you get my flowers? [Fury looks at him coldly] I'm glad you're here, Nick.",0.5,[ 1.5083519 -0.9760382],[ 1.8783946 -2.1844265],0.17896364629268646
+Nick Fury,winter_soldier.txt,Really? Cause I thought you had me killed.,0.0,[ 0.90326303 -0.07428914],[ 1.6405087 -1.599369 ],0.14321085810661316
+Alexander Pierce,winter_soldier.txt,You know how the game works.,-0.4,[0.03196446 0.43767872],[ 1.3981155 -1.2415932],0.025544285774230957
+Nick Fury,winter_soldier.txt,So why make me head of SHIELD?,0.0,[ 1.3869153  -0.62046576],[ 1.6801841 -1.7738733],0.08924448490142822
+Alexander Pierce,winter_soldier.txt,Cause you were the best and the most ruthless person I ever met.,0.1666666666666666,[0.3339314  0.33514878],[ 1.7103499 -1.7060713],0.16874432563781738
+Nick Fury,winter_soldier.txt,I did what I did to protect people.,0.0,[0.09847261 0.48143736],[ 2.1885169 -2.0543292],0.04992291331291199
+Alexander Pierce,winter_soldier.txt,"Our enemies are your enemies, Nick. Disorder, war. It's just a matter of time before a dirty bomb goes off in Moscow, or an EMP fries Chicago. Diplomacy? Holding action, a band-aid. And you know where I learned that; Bogota. You didn't ask, you just did what had to be done. I can bring order to the lives of seven billion people by sacrificing twenty million. It's the next step, Nick, if you have the courage to take it.",-0.1666666666666666,[ 1.3907546 -0.6713163],[ 0.9000342 -1.245704 ],0.0483362078666687
+Nick Fury,winter_soldier.txt,"No, I have the courage not to. [Fury takes Pierce to the retinal scanner with Natasha pointing her gun at him]",0.0,[ 1.5389704 -0.710817 ],[ 1.060407  -1.2492088],0.06640642881393433
+Alexander Pierce,winter_soldier.txt,You don't you think we wiped your clearance from the system?,0.0,[ 0.70835185 -0.24430439],[ 1.3337814 -1.229016 ],0.06191658973693848
+Nick Fury,winter_soldier.txt,"I know you erased my password, probably deleted my retinal scan, but if you want to stay ahead of me, Mr. Secretary... [Fury removes his eyepatch to reveal his scarred dead eye] You need to keep both eyes open. [they both look into the retinal scanner with Fury using his dead eye]",-0.1333333333333333,[ 1.8157119 -1.1352937],[ 1.8665813 -1.9357665],0.0976477861404419
+Maria Hill,winter_soldier.txt,"Charlie Carrier's forty-five degrees off the port bow. [she notices two HYDRA agents making breaking into the headquarters, she shoots and kills them as they enter] Six minutes. [Steve is trying to get away from the HYDRA agents shooting at him on the Helicarrier]",0.0,[ 1.1157496  -0.50701064],[ 0.9003756 -1.0876604],0.021306991577148438
+Steve Rogers,winter_soldier.txt,"Hey, Sam, I'm gonna need a ride.",0.0,[ 1.9383881 -1.0639781],[ 1.8927599 -1.9471399],0.17263586819171906
+Sam Wilson,winter_soldier.txt,Roger! Let me know when you're ready. [Steve just manages to jump off the edge as a HYDRA agent shoots a missile at him],0.2,[ 1.234732 -0.489885],[ 1.2811245 -1.4668857],0.04635584354400635
+Steve Rogers,winter_soldier.txt,I just did! [Sam flies in just in time to catch Steve] [Sam flies himself and Steve onto the last Helicarrier],0.0,[ 0.98413575 -0.3827608 ],[ 1.6894451 -1.8709925],0.03742426633834839
+Sam Wilson,winter_soldier.txt,"You know, you're a lot heavier than you look.",0.0,[ 0.58965975 -0.0548715 ],[ 1.6136233 -1.5305752],0.10369756817817688
+Steve Rogers,winter_soldier.txt,I had a big breakfast. [suddenly Bucky appears and pushes Steve off the edge],0.0,[ 0.8943169  -0.34753242],[ 1.4219656 -1.7029814],0.06893160939216614
+Sam Wilson,winter_soldier.txt,"Steve! [as Sam goes to fly off and help Steve Bucky grabs one of his wings and throws him back, Sam starts shooting at Bucky and as he goes to fly off Bucky uses his weapon to rip off one of Sam's wings and kicks him off the Helicarrier, Sam manages to get his parachute out and lands on the roof of the Triskelion] Cap? Cap, come in. Are you okay? [we see Steve is holding onto the side of the Helicarrier]",0.525,[ 1.7304988 -1.1286652],[ 1.6370195 -1.9893723],0.03651854395866394
+Steve Rogers,winter_soldier.txt,"Yeah, I'm here! I'm still on the Helicarrier. [he pulls himself up] Where are you?",0.0,[ 2.019219  -1.2105733],[ 1.9056478 -2.1236768],0.08769124746322632
+Sam Wilson,winter_soldier.txt,"I'm grounded, the suit's down. Sorry, Cap.",-0.3277777777777778,[ 1.1664478 -0.4442448],[ 1.742577  -1.8241162],0.1073218286037445
+Steve Rogers,winter_soldier.txt,"Don't worry, I got it. [Bucky watches Steve from above the Helicarrier] [as everyone at the Triskelion is rushing around trying to evacuate the building Rumlow fights and kills some SHIELD agents]",0.0,[ 0.67477757 -0.20114249],[ 1.6746993 -1.8568581],0.030891746282577515
+Brock Rumlow,winter_soldier.txt,"Repeat, dispatch.",0.0,[0.27724808 0.41867015],[ 1.2421428 -1.1095238],0.0280153751373291
+Brock Rumlow,winter_soldier.txt,Headed up! [Hill notices Rumlow on the monitor],0.0,[ 1.8154782 -1.0616815],[ 1.7303265 -1.9969493],0.024503737688064575
+Maria Hill,winter_soldier.txt,Falcon?,0.0,[ 1.5800835  -0.67004144],[ 1.4514936 -1.3539838],0.024082481861114502
+Sam Wilson,winter_soldier.txt,Yeah?,0.0,[ 0.8216921  -0.10445335],[ 1.205829  -1.1815833],0.02401787042617798
+Maria Hill,winter_soldier.txt,Rumlow's headed for the Council.,0.0,[0.5361703  0.05893286],[ 1.5137974 -1.4811674],0.02593541145324707
+Sam Wilson,winter_soldier.txt,I'm on it.,0.0,[ 1.2229898  -0.37136582],[ 1.2685853 -1.1941599],0.11073458194732666
+Steve Rogers,winter_soldier.txt,"People are gonna die, Buck. I can't let that happen. [Bucky stares at him coldly] Please, don't make me do this. [seeing Bucky won't back down Steve throws his shield at him and they start battling each other, as they fight Steve manages to bring up the targeting blade system, but as Bucky attacks him the chip falls from Steve's hand; back at the Council]",-0.1761111111111111,[ 1.8638452 -1.1143506],[ 1.309824  -1.5822939],0.06391036510467529
+Natasha Romanoff,winter_soldier.txt,"Done. [she looks at her mobile device] And it's trending. [just then Pierce sets off the pins he gave the council members, causing it to burn deeply into their sternum, Natasha and Fury points their guns at Pierce; to Natasha]",0.0,[ 0.97119075 -0.3479055 ],[ 1.3447193 -1.5244621],0.03959721326828003
+Alexander Pierce,winter_soldier.txt,"Unless you want two inch hole in your sternum, I'd put that gun down. [Natasha doesn't back down] That was armed the moment you pinned it on. [Fury and Natasha reluctantly lower their weapons]",-0.1037037037037037,[ 1.9448248 -1.0802768],[ 0.78707194 -0.9846954 ],0.10007354617118835
+Steve Rogers,winter_soldier.txt,"Drop it! Drop it! [as Bucky continues to hold the chip, Steve breaks his arm and holds onto his throat until he passes out and lets go of the chip, Steve then grabs the chip and rushes off; back at the Triskelion]",0.0,[ 1.9255534 -1.2685794],[ 1.4950794 -1.7653823],0.03105059266090393
+Brock Rumlow,winter_soldier.txt,"I'm on forty-one, headed towards the south-west stairwell. [just then Sam attacks Rumlow but Rumlow manages to knock Sam down] This is gonna hurt. There are no prisoners with HYDRA, just order. And order only comes through pain. You ready for yours?",0.0148148148148148,[ 1.9016783 -1.1922182],[ 0.8512561 -1.1033564],0.059554874897003174
+Sam Wilson,winter_soldier.txt,"Man, shut the hell up. [they both go to attack each other]",-0.125,[ 0.9933287  -0.19375491],[ 0.554963   -0.69282186],0.10343092679977417
+Alexander Pierce,winter_soldier.txt,"Lieutenant, how much longer?",0.2,[ 1.6954955 -0.8156719],[ 1.6456902 -1.6347017],0.03129264712333679
+Maria Hill,winter_soldier.txt,"[to Steve as she watches from the monitor] One minute. [Steve desperately tries to get back up to the Helicarriers to get to the targeting system when Bucky becomes conscious and shoots at Steve in the left thigh and then the right shoulder, but Steve still manages to climb up] Thirty seconds, Cap!",0.0714285714285714,[ 1.3291672  -0.68753105],[ 1.6007408 -1.6944512],0.021789371967315674
+Steve Rogers,winter_soldier.txt,Stand by. [he gets the chip out] Charlie... [Bucky shoots Steve in the stomach and he falls],0.0,[ 1.8531839 -1.1190665],[ 1.4803544 -1.8339498],0.03439897298812866
+Alexander Pierce,winter_soldier.txt,"[on radio] We are go to targets. [Hill watches as the weapons are being targeted at Washington, the White house, the Pentagon, Stark Tower, aiming to kill over 700,00 people.]",-0.1,[0.17286187 0.37685868],[ 1.4040519 -1.5920473],0.02648445963859558
+Steve Rogers,winter_soldier.txt,Charlie locked. [as they watch the targets go offline],0.0,[ 0.6960649  -0.15801182],[ 1.5998098 -1.7429857],0.02555108070373535
+Maria Hill,winter_soldier.txt,"Okay, Cap, get out of there. [Hill then gets the Helicarriers weapon targets to open fire upon each other]",0.125,[ 1.1141638 -0.2904194],[ 1.1065215 -1.4197854],0.024391919374465942
+Steve Rogers,winter_soldier.txt,Fire now.,0.0,[0.5804915 0.0595732],[ 0.85295254 -0.7695614 ],0.029709964990615845
+Maria Hill,winter_soldier.txt,"But, Steve...",0.0,[ 1.034561   -0.49639675],[ 1.848564  -1.8508652],0.03980562090873718
+Steve Rogers,winter_soldier.txt,"Do it! Do it now! [reluctantly Hill makes the Helicarriers open fire on each other, Steve still inside the Helicarrier looks at Bucky below him; back at the Triskelion Pierce watches the Helicarriers as they are firing at each other]",-0.0625,[ 1.4175035 -0.8145873],[ 1.3616492 -1.6636244],0.04274293780326843
+Alexander Pierce,winter_soldier.txt,What a waste.,-0.2,[-0.5293096  1.0255252],[ 1.1396776 -1.0633463],0.14079749584197998
+Natasha Romanoff,winter_soldier.txt,Are you still on the fence about Rogers' chances?,0.0,[ 2.3840227 -1.4970407],[ 1.68158   -1.7236272],0.0316566526889801
+Alexander Pierce,winter_soldier.txt,"Time to go, Councilwoman. This way, come on. You're gonna fly me out of here. [as Pierce starts to leave with Natasha]",0.8,[ 1.581689  -0.7416878],[ 0.98173743 -0.9400873 ],0.12904983758926392
+Nick Fury,winter_soldier.txt,"You know, there was a time I would have taken a bullet for you.",0.0,[ 1.3683678 -0.6549014],[ 1.3955917 -1.3298646],0.15591533482074738
+Alexander Pierce,winter_soldier.txt,"You already did. You will again when it's useful. [just then Natasha activates a small disc that emits an electric shock through her whole body and disables the pin, this gives Fury a chance to shoot Pierce, which he does so twice, Fury then walks over to Natasha who is lying unconscious on the floor]",0.0833333333333333,[ 1.6369694  -0.85646904],[ 1.1295189 -1.2489442],0.0661098062992096
+Nick Fury,winter_soldier.txt,"Romanoff! Natasha! Natasha, come on! [Natasha opens her eyes]",0.0,[ 1.5627645 -0.8266576],[ 1.1149186 -1.3277406],0.09431931376457214
+Natasha Romanoff,winter_soldier.txt,Ow. Those really do sting.,0.2,[ 0.69259804 -0.01230666],[ 1.2139313 -1.0627928],0.04167217016220093
+Alexander Pierce,winter_soldier.txt,"[as the Helicarriers continue to destroy each other Pierce lies on the floor and says with his last dieing breath] Hail HYDRA. [just then one Helicarrier crashes into a dam beneath the Triskelion] [as the Helicarrier continues to fall with Cap and Winter Soldier inside, at the Triskelion Sam and Rumlow continue to fight each other]",-0.1125,[ 1.3299493  -0.71971476],[ 1.205785 -1.576372],0.03900977969169617
+Brock Rumlow,winter_soldier.txt,"You're out of your depth, kid. [suddenly the first Helicarrier crashes into the Triskelion, catching Rumlow in the destruction]",0.2833333333333333,[ 1.3230933 -0.5473417],[ 1.3868219 -1.5558097],0.06730520725250244
+Sam Wilson,winter_soldier.txt,"[to Natasha who is in the helicopter as he sprints away] Please, tell me you got that chopper in the air!",0.0,[ 1.4262096 -0.6572407],[ 1.6218891 -1.7048582],0.05521741509437561
+Natasha Romanoff,winter_soldier.txt,"Sam, where are you?",0.0,[ 2.1182275 -1.1917385],[ 1.6874169 -1.879779 ],0.09822678565979004
+Sam Wilson,winter_soldier.txt,"41st floor, north-west corner!",0.0,[ 1.9898843 -1.056758 ],[ 1.6827269 -1.6134099],0.022294670343399048
+Natasha Romanoff,winter_soldier.txt,"We're on it, stay where you are. [Sam desperately tries to get away from the destruction the Helicarrier is causing to the building] Not an option! [as the building is being destroyed Sam jumps out of the window as Natasha and Fury fly their chopper barely in time to catch him]",0.2416666666666667,[ 1.4814612 -0.8306955],[ 1.3366929 -1.5399882],0.04961082339286804
+Sam Wilson,winter_soldier.txt,41st floor! 41st!,0.0,[ 1.4148701 -0.6282408],[ 1.4419118 -1.4340004],0.02047741413116455
+Nick Fury,winter_soldier.txt,It's not like they put the floor numbers on the outside of the building!,0.0,[ 0.5865878  -0.02127377],[ 1.6484776 -1.6910392],0.02851724624633789
+Natasha Romanoff,winter_soldier.txt,"Hill, where's Steve? You got a location on Rogers?",0.0,[ 2.3958938 -1.4503   ],[ 1.9607835 -1.9851075],0.024187296628952026
+Steve Rogers,winter_soldier.txt,You know me. [Bucky lashes out at Steve in anger],-0.7,[ 1.2952291  -0.40309104],[ 1.2962103 -1.4642351],0.15812230110168457
+Steve Rogers,winter_soldier.txt,"Bucky, you've known me your whole life. [Bucky hits Steve but Steve chooses not to fight back] Your name is James Buchanan Barnes. [Bucky hits Steve again]",0.1,[ 1.3889188  -0.64049304],[ 1.4723812 -1.8126739],0.1654173731803894
+Steve Rogers,winter_soldier.txt,I'm not gonna fight you. You're my friend. [Bucky pushes Steve to the ground],0.0,[ 1.8228339 -0.9827833],[ 1.4296823 -1.6754559],0.17304536700248718
+Steve Rogers,winter_soldier.txt,"Then finish it. [Bucky hesitates holding his fist up] Cause I'm with you to the end of the line. [Bucky looks at Steve as if he's starting to remember just then the bottom of the Helicarrier falls sending Steve down into the river below as Bucky watches from the Helicarrier, then we see an unconscious Steve being pulled out of the water and dragged onto the shore by Bucky before he turns and walks away]",-0.0777777777777777,[ 1.5629884  -0.78075236],[ 1.6034216 -1.835657 ],0.07269710302352905
+Steve Rogers,winter_soldier.txt,On your left. [Sam looks at Steve and smiles],0.0,[ 1.375059  -0.6791815],[ 1.8016514 -1.9966263],0.08001464605331421
+Natasha Romanoff,winter_soldier.txt,I do.,0.0,[0.6481598  0.10565599],[ 1.1703242 -1.0834283],0.053738176822662354
+Natasha Romanoff,winter_soldier.txt,I don't know what there is left left for him to say. I think the wreck in the middle of the Potomac made his point fairly eloquently.,0.175,[ 1.7409993  -0.91542625],[ 1.7450514 -1.7832061],0.09802842140197754
+Natasha Romanoff,winter_soldier.txt,"HYDRA was selling you lies, not intelligence.",0.0,[-0.3321663   0.49018255],[ 1.6301905 -1.682989 ],0.0645519495010376
+Natasha Romanoff,winter_soldier.txt,You're not gonna put me in a prison. You're not gonna put any of us in a prison. You know why?,0.0,[ 1.6158408 -0.8565858],[ 1.4145229 -1.596552 ],0.16150178015232086
+Natasha Romanoff,winter_soldier.txt,"Because you need us. Yes, the world is a vulnerable place, and yes, we helped make it that way. But we're also the ones best qualified to defend it. So if you want to arrest me, arrest me. You'll know where to find me. [she gets up and walks away, meanwhile Fury gets rid of any trace of his existence, including his passports and eyepatch, burning them and his hiding place]",0.1,[ 1.4530452 -0.77742  ],[ 1.4525319 -1.563723 ],0.1287415623664856
+Nick Fury,winter_soldier.txt,"[wearing sunglasses and hoodie, Fury meets Steve and Sam at a cemetery at his own grave] So, you've experienced this sort of thing before?",0.7,[ 1.4188715 -0.8326313],[ 2.2020504 -2.3025467],0.06402236223220825
+Steve Rogers,winter_soldier.txt,"You get used to it. [we see Fury's gravestone which bears bears the epitaph ""The path of the righteous man. Ezekiel 25",0.0,[ 1.3398012  -0.77400184],[ 2.048815  -2.3225176],0.0844845175743103
+Nick Fury,winter_soldier.txt,"We've been data-mining HYDRA's files. Looks like a lot of rats didn't go down with the ship. I'm headed to Europe tonight, wanted to ask if you'd come.",-0.1555555555555555,[ 1.4106154 -0.8023836],[ 0.9966907 -1.2045647],0.045574843883514404
+Steve Rogers,winter_soldier.txt,There's something I gotta do first.,0.25,[ 1.4239048  -0.53094167],[ 1.4381297 -1.3434049],0.06362199783325195
+Nick Fury,winter_soldier.txt,"How about you, Wilson? Could use a man with your abilities.",0.0,[ 2.0857916 -1.3114957],[ 1.7694136 -1.7542552],0.11462490260601044
+Sam Wilson,winter_soldier.txt,I'm more of a soldier than a spy.,0.5,[0.79982466 0.08075794],[ 1.5815336 -1.5708504],0.06572455167770386
+Nick Fury,winter_soldier.txt,"Alright then. [Sam and Steve shake Fury's hand] Anybody asks for me, tell them they can find me right here. [Fury looks to his gravestone and walks away, just then Natasha joins Steve and Sam]",0.2857142857142857,[ 1.8120619 -1.081494 ],[ 1.5775286 -1.8314527],0.13700799643993378
+Natasha Romanoff,winter_soldier.txt,"You should be honored, that's about as close as he gets to saying thank you.",0.0,[ 0.560903   -0.00127762],[ 1.6608087 -1.694986 ],0.17348191142082214
+Steve Rogers,winter_soldier.txt,Not going with him?,0.0,[ 1.9572124 -1.1862088],[ 1.4684694 -1.517393 ],0.09001204371452332
+Natasha Romanoff,winter_soldier.txt,No.,0.0,[ 1.1156439 -0.377346 ],[ 0.848548 -0.758422],0.026728183031082153
+Steve Rogers,winter_soldier.txt,Not staying here?,0.0,[ 1.8265396 -0.9925082],[ 1.7665561 -1.8638972],0.047661423683166504
+Natasha Romanoff,winter_soldier.txt,"I blew all my covers, I gotta go figure out a new one.",0.1363636363636363,[ 1.8611442 -1.003751 ],[ 1.5199076 -1.485436 ],0.09200489521026611
+Steve Rogers,winter_soldier.txt,That might take a while.,0.0,[ 0.79527634 -0.02256669],[ 1.2860595 -1.1898967],0.0586608350276947
+Natasha Romanoff,winter_soldier.txt,"I'm counting on it. That thing you asked for, I called in a few favors from Kiev. [she hands Steve a file titled ""дело No 17"" (file No 17)] Will you do me a favor? Call that nurse.",-0.2,[ 1.4650654 -0.8562316],[ 1.4262017 -1.5603539],0.10016816854476929
+Steve Rogers,winter_soldier.txt,She's not a nurse.,0.0,[0.22156541 0.2421161 ],[ 0.6920831 -0.5119442],0.08592694997787476
+Natasha Romanoff,winter_soldier.txt,And you're not a SHIELD agent.,0.0,[ 0.64668643 -0.15955034],[ 1.7100526 -1.6436034],0.06960642337799072
+Steve Rogers,winter_soldier.txt,What was her name again?,0.0,[ 2.1532862 -1.2093455],[ 0.9685435  -0.93717986],0.12302681803703308
+Natasha Romanoff,winter_soldier.txt,"Sharon. She's nice. [she kisses Steve on the cheek and turns to walk away] Be careful, Steve. You might not want to pull on that thread. [as Natasha walks away Steve opens the file, which is about Bucky and the information regarding his Winter Soldier transformation, Sam walks over to Steve]",0.25,[ 1.5000383 -1.0554092],[ 0.94493794 -1.003689  ],0.155091792345047
+Sam Wilson,winter_soldier.txt,You're going after him?,0.0,[ 0.7123221  -0.11438495],[ 1.7275127 -1.7342415],0.13240155577659607
+Steve Rogers,winter_soldier.txt,You don't have to come with me.,0.0,[ 1.659048   -0.88068175],[ 1.6071198 -1.4769269],0.17402641475200653
+Sam Wilson,winter_soldier.txt,I know. When do we start?,0.0,[ 2.2090926 -1.3264319],[ 1.645662  -1.5319325],0.046254485845565796

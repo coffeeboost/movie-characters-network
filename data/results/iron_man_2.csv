@@ -1,0 +1,891 @@
+Unnamed: 0,Name,Movie,Line,Sentiment,Irony,Hate,Intimacy
+0,Tony,iron_man_2.txt,It’s good to be back. You missed me?,0.35,[ 1.7351202 -0.8827311],[ 1.6722592 -1.631472 ],0.1769779622554779
+1,Tony,iron_man_2.txt,"I missed you too. Blow something up? I already did that. I’m not saying that the world is enjoying its longest period of uninterrupted peace in years because of me. I’m not saying that from the ashes of captivity, never has a greater phoenix metaphor been personified in human history. I’m not saying that Uncle Sam can kick back on a lawn chair, sipping on an iced tea because I haven’t come across anyone who’s man enough to go toe-to-toe with me on my best day.",0.2857142857142857,[ 1.7313083 -1.047329 ],[ 1.6621715 -1.8786036],0.1574954092502594
+2,Tony,iron_man_2.txt,"Please, it’s not about me. [People still cheering Tony] It’s not about you. It’s not even about us. It’s about legacy. It’s about what we choose to leave behind for future generations. And that’s why for the next year and for the first time since 1974, the best and brightest men and women of nations and corporations the world over will pool their resources, share their collective vision, to leave behind a brighter future. It’s not about us. Therefore, what I’m saying, if I’m saying anything, is welcome back to the Stark Expo. [Big cheer from crowd.] And now, making a special guest appearance from the great beyond to tell you what it’s all about, please welcome my father, Howard.",0.2147959183673469,[ 1.2872783 -0.7764079],[ 2.202859  -2.3239553],0.12729579210281372
+3,Tony,iron_man_2.txt,"All right, it’s a zoo out there, watch out.",0.2857142857142857,[ 0.8597838  -0.10321561],[ 1.3941237 -1.3329713],0.04085192084312439
+4,Happy,iron_man_2.txt,"Open up, let’s go.",0.0,[ 1.7879101 -0.8848291],[ 1.2479845 -1.2031592],0.03508886694908142
+5,Tony,iron_man_2.txt,"Hey, nice to see you. All right. Thank you. I remember you.",0.4428571428571428,[-0.5342209  0.9944519],[ 1.7010372 -1.6153547],0.17630761861801147
+6,Tony,iron_man_2.txt,"Hey, hey.",0.0,[0.03028744 0.45675674],[ 1.1827996 -1.181369 ],0.03259706497192383
+7,Happy,iron_man_2.txt,"Hey, hey, hey, hey. Come on, come on.",0.0,[ 1.4986899 -0.7550204],[ 1.2038234 -1.2022709],0.09567949175834656
+8,Tony,iron_man_2.txt,[signing a picture of Iron Man] Hello. It would be a pleasure.,0.0,[ 1.2728958 -0.7504726],[ 1.7456726 -1.9680895],0.11821523308753967
+9,Happy,iron_man_2.txt,Okay,0.5,[0.29301438 0.45524395],[ 1.0641636 -1.0105236],0.028722643852233887
+10,Tony,iron_man_2.txt,[what would be ruffling the hair of a small boy if said small boy were not wearing an Iron Man helmet making hair unreachable] See you buddy,-0.25,[ 1.3654681 -0.7962916],[ 1.7868863 -1.769811 ],0.1571454554796219
+11,Happy,iron_man_2.txt,This is Larry.,0.0,[0.3630162  0.35163677],[ 1.076316  -1.0352942],0.027919888496398926
+12,Tony,iron_man_2.txt,"Hey, the oracle of Oracle. What a pleasure. Nice to see you.",0.6,[-1.2677852  1.509472 ],[ 1.7492824 -1.7300432],0.1794743686914444
+13,Happy,iron_man_2.txt,Larry King.,0.0,[0.20222121 0.4619847 ],[ 1.0942948 -1.0881404],0.027539491653442383
+14,Tony,iron_man_2.txt,"Larry! Larry. Yes, my people, my people.",0.0,[ 0.7137655  -0.21975026],[ 1.5811627 -1.7540371],0.1592782586812973
+15,Happy,iron_man_2.txt,"[Scene shows them finally at the door] Come on, Tony. There we go.",0.0,[ 1.0661552  -0.23720536],[ 1.7890223 -1.7596684],0.06946656107902527
+16,Tony,iron_man_2.txt,Very mellow.,0.2,[0.01624859 0.42613253],[ 1.2398067 -1.2292025],0.04812443256378174
+17,Happy,iron_man_2.txt,That wasn’t so bad.,-0.6999999999999998,[-0.00385291  0.5351971 ],[ 1.0918723 -0.9783318],0.10167253017425537
+18,Tony,iron_man_2.txt,"No, it was perfect.",1.0,[0.17425092 0.5320345 ],[ 1.7158083 -1.5304524],0.07432633638381958
+19,Happy,iron_man_2.txt,"Look what we got here, the new model.",0.1363636363636363,[-1.0037206  1.4326855],[ 1.7353212 -1.6784408],0.020143985748291016
+20,Tony,iron_man_2.txt,"Hey, does she come with the car?",0.0,[ 2.182238  -1.4704981],[ 1.0787238 -1.0323706],0.07203644514083862
+21,Happy,iron_man_2.txt,I certainly hope so. Hi.,0.2142857142857142,[ 1.4037125 -0.753374 ],[ 1.2515494 -1.2410072],0.0760655403137207
+22,Tony,iron_man_2.txt,Hi. And you are?,0.0,[ 1.6616343 -0.9715302],[ 1.668166  -1.6734791],0.06753021478652954
+23,Tony,iron_man_2.txt,Irish. I like it.,0.0,[0.42324588 0.18334624],[ 1.3346919 -1.2909607],0.08780169486999512
+24,Tony,iron_man_2.txt,I’m on the wheel. Do you mind? Where you from?,0.0,[ 2.1622117 -1.4879508],[ 1.9166665 -1.9895355],0.12373784184455872
+25,Tony,iron_man_2.txt,What are you doing here?,0.0,[ 1.9662379 -1.2274935],[ 1.8311237 -1.9127167],0.0585399866104126
+26,Tony,iron_man_2.txt,Yeah? You found me. What are you up to later?,0.0,[ 1.8241388 -1.148472 ],[ 1.8632373 -1.9160135],0.10293766856193542
+27,Tony,iron_man_2.txt,Yikes.,0.0,[0.47102422 0.14998758],[ 1.2757249 -1.2180425],0.060313403606414795
+28,Happy,iron_man_2.txt,[Reaching over and taking the letter] He doesn’t like to be handed things.,0.0,[ 1.5288427 -0.9276449],[ 1.7826818 -1.9603882],0.06982812285423279
+29,Tony,iron_man_2.txt,"Yeah, I have a peeve.",0.0,[0.4435497  0.34080496],[ 1.6476446 -1.6393352],0.10592964291572571
+30,Tony,iron_man_2.txt,Can I see a badge?,0.0,[ 2.0665562 -1.2311679],[ 1.5641664 -1.5917739],0.02936333417892456
+31,Happy,iron_man_2.txt,He likes the badge.,0.0,[-0.31595832  0.8945733 ],[ 1.3202118 -1.3102028],0.03820490837097168
+32,Tony,iron_man_2.txt,Yep. [Starts engine] How far are we from D.C.?,0.1,[ 1.9143469 -1.2645407],[ 1.8401407 -1.9499426],0.022919684648513794
+33,Happy,iron_man_2.txt,D.C.? 250 miles.,0.0,[ 1.4187605 -0.5818987],[ 1.8310616 -1.7428416],0.0253409743309021
+34,Tony,iron_man_2.txt,[turns around from where he was trying to talk to Pepper who looks like she was trying to tell him off.] Yes dear?,0.0,[ 1.1665632  -0.62833637],[ 1.6354443 -1.6382642],0.09655314683914185
+35,Tony,iron_man_2.txt,Absolutely.,0.2,[0.2140416 0.3758843],[ 0.9165368 -0.8137738],0.041814982891082764
+36,Stern,iron_man_2.txt,Do you or do you not possess a specialised weapon?,0.0,[ 2.0569348 -1.4121361],[ 1.7430011 -1.6352378],0.04468163847923279
+37,Tony,iron_man_2.txt,I do not.,0.0,[ 0.87702644 -0.2025711 ],[ 1.1711615 -1.050994 ],0.05265939235687256
+38,Stern,iron_man_2.txt,You do not?,0.0,[ 1.5950259 -0.8419676],[ 1.5132784 -1.4295138],0.0964665412902832
+39,Tony,iron_man_2.txt,"I do not. Well, it depends on how you define the word weapon.",0.0,[ 1.5958965  -0.80892193],[ 1.3978992 -1.2815993],0.024009227752685547
+40,Stern,iron_man_2.txt,The Iron Man weapon.,0.0,[0.05728216 0.66018534],[ 1.3621627 -1.3998566],0.030927926301956177
+41,Tony,iron_man_2.txt,My device does not fit that description.,-0.2,[ 1.6668286 -0.8972373],[ 1.7034906 -1.6123949],0.04292461276054382
+42,Stern,iron_man_2.txt,Well… How would you describe it?,0.0,[ 2.0378377 -1.3366437],[ 1.9340674 -1.9496348],0.1133880615234375
+43,Tony,iron_man_2.txt,"I would describe it by defining it as what it is, Senator.",0.0,[ 1.135621   -0.44557506],[ 1.6176811 -1.5902001],0.04022866487503052
+44,Stern,iron_man_2.txt,As?,0.0,[ 1.3445128  -0.49638137],[ 1.0735508 -1.0224215],0.02874511480331421
+45,Tony,iron_man_2.txt,It’s a high-tech prosthesis. That is… That is… That’s actually the most apt description I can make of it.,0.3666666666666667,[ 0.55103904 -0.25240713],[ 1.789722  -1.7290963],0.04277259111404419
+46,Stern,iron_man_2.txt,"It’s a weapon. It’s a weapon, Mr Stark.",-0.2,[ 1.2720519 -0.5046017],[ 1.2980634 -1.4655038],0.030062109231948853
+47,Tony,iron_man_2.txt,"Please, if your priority was actually the well-being of the American citizen…",0.0,[ 0.56511354 -0.05574355],[ 1.8266048 -1.9465688],0.11973889172077179
+48,Stern,iron_man_2.txt,My priority is to get the Iron Man weapon turned over to the people of the United States of America.,0.0,[0.174332   0.35410696],[ 1.6323806 -1.7605165],0.025379031896591187
+49,Tony,iron_man_2.txt,"Well, you can forget it. I am Iron Man. The suit and I are one. To turn over the Iron Man suit would be to turn over myself which is tantamount to indentured servitude or prostitution, depending or what state you’re in. You can’t have it.",0.0,[ 1.9977292 -1.4295219],[ 1.0736164 -1.3125352],0.1577894389629364
+50,Stern,iron_man_2.txt,"Look, I’m no expert…",0.0,[ 1.2976441  -0.60784554],[ 1.6215872 -1.6639351],0.10826972126960754
+51,Tony,iron_man_2.txt,In prostitution? Of course not. You’re a senator. Come on.,0.0,[ 0.5737077  -0.10686117],[ 0.9021988 -0.7742027],0.16555991768836975
+52,Stern,iron_man_2.txt,"I’m no expert in weapons. We have somebody here who is an expert on weapons. I’d now like to call Justin Hammer, our current primary weapons contractor.",0.2,[ 1.5067248  -0.92653066],[ 1.9559942 -1.9844123],0.0486445426940918
+53,Tony,iron_man_2.txt,"Let the record reflect that I observed Mr Hammer entering the chamber, and I am wondering if and when any actual expert will also be in attendance.",0.0,[ 1.1940088  -0.77154845],[ 1.9441599 -2.0391693],0.05305582284927368
+54,Stern,iron_man_2.txt,That is well said Mr Hammer. The committee would now like to invite Lieutenant Colonel James Rhodes to the chamber.,0.0,[ 1.4231594  -0.71157306],[ 1.6671811 -1.7429456],0.02958446741104126
+55,Tony,iron_man_2.txt,Rhodey? What?,0.0,[ 1.8173856 -0.9869037],[ 1.5446998 -1.6292719],0.04335296154022217
+56,Tony,iron_man_2.txt,"Hey, buddy. I didn’t expect to see you here.",0.0,[ 1.3578421  -0.56446004],[ 1.5569705 -1.5747104],0.16608253121376038
+57,Rhodey,iron_man_2.txt,"Look, it’s me, I’m here. Deal with it. Let’s move on.",0.0,[ 1.714813  -0.9725108],[ 1.7610683 -1.6651255],0.1683453917503357
+58,Tony,iron_man_2.txt,I just…,0.0,[ 0.89403164 -0.22365218],[ 2.0656557 -1.9216213],0.0846693217754364
+59,Rhodey,iron_man_2.txt,Drop it.,0.0,[ 0.97087    -0.17234531],[ 0.91755545 -0.91387784],0.031561702489852905
+60,Tony,iron_man_2.txt,"All right, I’ll drop it.",0.2857142857142857,[ 1.269168  -0.4330572],[ 1.0709387 -1.026458 ],0.1616223305463791
+61,Stern,iron_man_2.txt,"I have before me a complete report on the Iron Man weapon, complied by Colonel Rhodes. And, Colonel, for the record, can you please read page 57, paragraph four?",0.1,[ 1.7784976 -1.1117836],[ 2.013859  -2.1694124],0.027131199836730957
+62,Rhodey,iron_man_2.txt,"You’re requesting that I read specific selections from my report, Senator?",0.0,[ 1.1175094 -0.5449843],[ 1.8624586 -1.8377138],0.08672228455543518
+63,Stern,iron_man_2.txt,"Yes, sir.",0.0,[0.35625207 0.21165594],[ 1.1214586 -1.0675007],0.08703690767288208
+64,Rhodey,iron_man_2.txt,It was my understanding that I was going to be testifying in a much more comprehensive and detailed manner.,0.45,[0.45244008 0.10607777],[ 2.0728347 -1.9344207],0.05780792236328125
+65,Stern,iron_man_2.txt,I understand. A lot of things have changed today. So if you could just read…,0.0,[ 1.5194885  -0.74653345],[ 2.3213742 -2.2264526],0.025775790214538574
+66,Rhodey,iron_man_2.txt,You do understand that reading a single paragraph out of context does not reflect the summery of my final…,-0.0714285714285714,[ 1.3882474 -0.7487984],[ 2.106072  -2.0930254],0.0723646879196167
+67,Stern,iron_man_2.txt,"Just read it, Colonel. I do. Thank you.",0.0,[ 1.3989357 -0.733943 ],[ 1.7940247 -1.896504 ],0.09652024507522583
+68,Rhodey,iron_man_2.txt,"Very well. “As he does not operate within any definable branch of government, Iron Man presents a potential threat to the security of both the nation and to her interests.” I did however, go on to summarise that the benefits of Iron Man far outweigh three liabilities and that it would be in our interest…",0.1,[ 1.1955779  -0.77635396],[ 1.4588032 -1.6603771],0.03830215334892273
+69,Stern,iron_man_2.txt,That’s enough Colonel,0.0,[ 1.3955967 -0.2630465],[ 1.0291301 -0.923282 ],0.04182824492454529
+70,Rhodey,iron_man_2.txt,…to fold Mr Stark…,0.0,[ 1.697966  -0.8951582],[ 1.4665062 -1.7026179],0.02582564949989319
+71,Stern,iron_man_2.txt,That’s enough,0.0,[ 1.6151686  -0.47058386],[ 1.0776076  -0.97903585],0.05243226885795593
+72,Rhodey,iron_man_2.txt,"…into the existing chain of command, Senator.",0.0,[ 0.7263025  -0.13881436],[ 1.542144  -1.5713552],0.02549418807029724
+73,Tony,iron_man_2.txt,"I’m not a joiner, but I’ll consider Secretary of Defence, if you ask nice.",0.6,[ 1.7799602  -0.98000014],[ 1.6996716 -1.7725638],0.07754567265510559
+74,Tony,iron_man_2.txt,We can amend the hours a little bit.,-0.1875,[ 1.2493402 -0.54303  ],[ 1.5789748 -1.4462808],0.03433448076248169
+75,Stern,iron_man_2.txt,"I’d like to go on and show, if I may, the imagery that’s connected to your report.",0.0,[ 1.7162429 -1.149846 ],[ 1.9963791 -1.9254616],0.04107844829559326
+76,Rhodey,iron_man_2.txt,I believe it is somewhat premature to reveal these images to the general public at this time.,0.025,[ 2.0066211 -1.3713286],[ 1.7074698 -1.6952559],0.020986169576644897
+77,Stern,iron_man_2.txt,"With all due respect, Colonel, I understand. And if you could just narrate those for us, we’d be very grateful. Let’s have the images.",0.0375,[ 2.164195 -1.261243],[ 1.804817  -1.7727486],0.1402890980243683
+78,Rhodey,iron_man_2.txt,"Intelligence suggests that the devices seen in these photos are, in fact, attempts at making manned copies of Mr Stark’s suit. This has been corroborated by our allies and local intelligence on the ground…",-0.1,[ 0.49937725 -0.03343292],[ 1.8316272 -1.9883813],0.018734276294708252
+79,Rhodey,iron_man_2.txt,"… indicating that these suits are quite possibly, at this moment, operational.",0.0,[ 0.39534852 -0.03208859],[ 1.7358197 -1.8385079],0.022480785846710205
+80,Tony,iron_man_2.txt,"Hold on a second buddy. Let me see something here. [Sets up his device to connect with the screen showing the pictures.] Boy, I’m good. I commandeered your screens. I need them. Time for a little transparency. Now, let’s see what’s really going on.",0.1781249999999999,[ 1.6166605  -0.90073436],[ 1.9933724 -1.9540657],0.05553466081619263
+81,Stern,iron_man_2.txt,What is he doing?,0.0,[ 1.940338  -1.1393946],[ 1.5992461 -1.6687174],0.06832295656204224
+82,Tony,iron_man_2.txt,"If you will direct your attention to said screens, I believe that’s North Korea. [Video of a suit. It falls over and clearly doesn’t work very well at all.]",0.1333333333333333,[ 1.0799663 -0.6564522],[ 1.6157151 -1.7460988],0.030119478702545166
+83,Stern,iron_man_2.txt,Can you turn that off? Take it off. [Justin Hammer stands up],0.0,[ 1.6177517  -0.78867114],[ 1.5572053 -1.892831 ],0.03214913606643677
+84,Tony,iron_man_2.txt,Iran.,0.0,[0.08707216 0.45080218],[ 1.0778705 -1.0925347],0.03139570355415344
+85,Tony,iron_man_2.txt,No grave threat here. Is that Justin Hammer? How did Hammer get in the game?,-0.4,[ 2.217768  -1.4302574],[ 1.48847   -1.8291098],0.026798784732818604
+86,Tony,iron_man_2.txt,"Justin, you’re on TV. Focus up.",0.0,[0.7181663  0.04617395],[ 1.6446356 -1.5727738],0.043790578842163086
+87,Tony,iron_man_2.txt,"[Just as not-TV Justin finds the plug and unplugs the screen] Wow. Yeah, I’d say most countries, five, ten years away. Hammer Industries, twenty.",0.1999999999999999,[ 1.2484657  -0.47118047],[ 1.6982605 -1.8456472],0.02953055500984192
+88,Justin,iron_man_2.txt,I’d like to point out that that test pilot survived.,0.0,[ 0.8876382  -0.22990748],[ 1.6914762 -1.7522942],0.041561633348464966
+89,Stern,iron_man_2.txt,I think we’re done is the point that he’s making. I don’t think there’s any reason…,0.0,[ 1.8431134 -1.136635 ],[ 1.791804  -1.8441454],0.12450209259986877
+90,Tony,iron_man_2.txt,"The point is, you’re welcome, I guess",0.8,[ 1.8520186 -1.0533206],[ 1.7007129 -1.7438017],0.15619854629039764
+91,Stern,iron_man_2.txt,For what?,0.0,[ 1.3176459 -0.5000058],[ 1.5273863 -1.4941791],0.029408693313598633
+92,Tony,iron_man_2.txt,Because I’m your nuclear deterrent. It’s working. We’re safe. America is secure. You want my property? You can’t have it. But I did you a big favour.,0.3,[0.15999418 0.3625417 ],[ 0.51528984 -0.6669253 ],0.15384894609451294
+93,Tony,iron_man_2.txt,I’ve successfully privatised world peace.,0.75,[-0.9259569  1.3378121],[ 1.613159  -1.5232328],0.035682618618011475
+94,Tony,iron_man_2.txt,What more do you want? For now! I tried to play ball with these ass-clowns.,0.625,[ 2.0376463 -1.1636597],[ 0.5392364  -0.24787948],0.14963451027870178
+95,Stern,iron_man_2.txt,"[beep] you, Mr Stark. [beep] you, buddy. We’re adjourned. We’re adjourned for today.",-0.2,[ 1.0580128 -0.4980264],[ 1.8486719 -1.8335217],0.12258771061897278
+96,Tony,iron_man_2.txt,"[puts on sunglasses. Rhodey’s still sitting down and has the same look on his face as Pepper did. Basically, they’re both tired of Tony not taking serious things seriously] Okay.",-0.0777777777777777,[ 0.8427889  -0.27791157],[ 1.8719282 -1.8698934],0.09049814939498901
+97,Stern,iron_man_2.txt,You’ve been a delight.,0.0,[-0.03882024  0.67810845],[ 1.4269289 -1.327216 ],0.17518635094165802
+98,Tony,iron_man_2.txt,"Wake up, Daddy’s home.",0.0,[ 1.5407307  -0.65048975],[ 1.5348719 -1.6579025],0.149169921875
+99,Tony,iron_man_2.txt,You!,0.0,[0.18617155 0.4766992 ],[ 1.1335028 -1.077802 ],0.17629404366016388
+100,Tony,iron_man_2.txt,I swear to God I’ll dismantle you. I’ll soak your motherboard. I’ll turn you into a wine rack.,0.0,[ 2.0987463 -1.2856747],[ 0.73599565 -0.83731514],0.17599275708198547
+101,Tony,iron_man_2.txt,How many ounce a day of this gobbledegook am I supposed to drink?,0.5,[ 1.6633795 -1.173309 ],[ 1.4292182 -1.2466921],0.04413038492202759
+102,Jarvis,iron_man_2.txt,"We are up to 80 ounces a day to counteract the symptoms, sir.",0.0,[0.12762117 0.14568126],[ 1.9581763 -1.9552695],0.03397166728973389
+103,Tony,iron_man_2.txt,Check palladium levels.,0.0,[0.20515904 0.18253756],[ 1.6195723 -1.5459324],0.02787947654724121
+104,Jarvis,iron_man_2.txt,"Blood toxicity, 24%. It appears that the continued use of the Iron Man suit is accelerating your condition. Another core has been depleted.",0.0,[ 1.1739205 -0.7630268],[ 1.813723  -1.9407778],0.03668209910392761
+105,Tony,iron_man_2.txt,"[Takes Arc Reactor out of chest. The core pops out, rusted and slightly smoking.] God, they’re running out quick.",0.0833333333333333,[ 1.674905  -0.8249869],[ 1.6023153 -1.7889045],0.11770915985107422
+106,Jarvis,iron_man_2.txt,"I have run simulations on every known element, and none can serve as a viable replacement for the palladium core.",0.0,[ 1.575883  -0.7849782],[ 1.8624622 -1.8514972],0.028659194707870483
+107,Jarvis,iron_man_2.txt,"You are running out of both time and options. Unfortunately, the device that’s keeping you alive is also killing you.",-0.2,[ 1.5935216 -0.8881813],[ 1.9709346 -1.8042089],0.040196001529693604
+108,Jarvis,iron_man_2.txt,Miss Potts is approaching. I recommend that you inform her…,0.0,[ 1.3502625  -0.89287215],[ 1.2322294 -1.2729057],0.15273481607437134
+109,Tony,iron_man_2.txt,Mute.,0.0,[0.64022845 0.17036009],[ 1.1218289 -1.0146731],0.08673590421676636
+110,Pepper,iron_man_2.txt,Is this a joke? What are you thinking?,0.0,[ 2.0375326 -1.3427554],[ 1.4114643 -1.4503034],0.08293390274047852
+111,Tony,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+112,Pepper,iron_man_2.txt,What are you thinking?,0.0,[ 2.239075  -1.3473988],[ 1.795503  -1.8229374],0.0657704770565033
+113,Tony,iron_man_2.txt,"Hey, I’m thinking I’m busy. And you’re angry about something. Do you have the sniffles? I don’t want to get sick.",-0.3714285714285714,[ 1.5816582 -1.0168782],[ 1.724655  -1.7314514],0.13809990882873535
+114,Pepper,iron_man_2.txt,Did you just donate…,0.0,[ 1.0310855  -0.62430674],[ 2.1509035 -2.3396943],0.081854909658432
+115,Tony,iron_man_2.txt,Keep your business.,0.0,[0.10280234 0.31978148],[ 1.1657692 -1.0414082],0.1654566526412964
+116,Pepper,iron_man_2.txt,…our entire modern art collection to the…,0.1,[ 1.1172384 -0.6484105],[ 1.9516159 -1.9997312],0.030449360609054565
+117,Tony,iron_man_2.txt,Boy Scouts of America.,0.0,[-0.27059144  0.8074677 ],[ 1.7415692 -1.7007213],0.029843181371688843
+118,Pepper,iron_man_2.txt,…Boy Scouts of America?,0.0,[ 0.68131727 -0.27987143],[ 1.9939    -2.0012562],0.029224753379821777
+119,Tony,iron_man_2.txt,"Yes. It is a worthwhile organisation. I didn’t physically check the crates but, basically, yes. And it’s not “our” collection, it’s my collection. No offence.",0.25,[ 2.0774953 -1.607505 ],[ 1.9429089 -2.1357663],0.028410404920578003
+120,Pepper,iron_man_2.txt,"No, you know what? I think I’m actually entitled to say “our” collection considering the time that I put in, over 10 years, curating that.",0.0,[ 1.7713635 -1.3523756],[ 1.955115  -1.9584936],0.03779640793800354
+121,Tony,iron_man_2.txt,It was a tax write-off. I needed that.,0.0,[0.05698459 0.2679427 ],[ 1.6059111 -1.4926246],0.03027281165122986
+122,Pepper,iron_man_2.txt,"You know, there’s only about 8,011 things that I really need to talk to you about.",0.1,[ 1.4510012 -0.8162128],[ 1.8063416 -1.6268725],0.07198265194892883
+123,Tony,iron_man_2.txt,"[to another robot] Dummy. Hey, stop spacing out. The Bridgeport’s already machining that part.",0.0,[ 1.0625979 -0.2632975],[ 1.3132956 -1.2231311],0.030848056077957153
+124,Pepper,iron_man_2.txt,The Expo is a gigantic waste of time.,-0.2,[-1.0134602  1.2676152],[ 1.4416369 -1.3656176],0.04453873634338379
+125,Tony,iron_man_2.txt,I need you to wear a surgical mask until you’re feeling better. Is that okay?,0.5,[ 1.3703384  -0.70018333],[ 1.9691278 -1.8261209],0.1294974386692047
+126,Pepper,iron_man_2.txt,That’s rude.,-0.3,[ 0.8844285  -0.09646478],[ 0.88007104 -0.83749604],0.10157376527786255
+127,Tony,iron_man_2.txt,There’s nothing more important to me than the Expo. It’s my primary point of concern. I don’t know why you’re…,0.4333333333333333,[ 1.6945761 -1.0014114],[ 2.1507123 -2.1623414],0.12953221797943115
+128,Pepper,iron_man_2.txt,The Expo is your ego gone crazy.,-0.6,[0.16068181 0.7043916 ],[ 1.2829545 -1.1648549],0.106403648853302
+129,Tony,iron_man_2.txt,[Picking up a painting. Of Iron Man] Wow. Look at that. That’s modern art. That’s going up.,0.15,[ 0.71326864 -0.0098257 ],[ 1.6623427 -1.7612122],0.038609445095062256
+130,Pepper,iron_man_2.txt,You’ve got to be kidding.,0.0,[ 0.74667966 -0.0750287 ],[ 0.8930706 -0.8210564],0.11815755069255829
+131,Tony,iron_man_2.txt,I’m gonna put this up right now. This is vital.,0.1928571428571428,[ 1.8799415 -1.0899762],[ 1.4595749 -1.4487652],0.09650951623916626
+132,Pepper,iron_man_2.txt,Stark is in complete disarray. You understand that?,-0.05,[ 0.6914612 -0.0943851],[ 1.8693132 -1.8446729],0.0738660991191864
+133,Tony,iron_man_2.txt,No. Our stocks have never been higher.,0.25,[0.24511732 0.19075793],[ 1.3879098 -1.2641169],0.03355705738067627
+134,Pepper,iron_man_2.txt,"Yes, from a managerial standpoint.",0.0,[0.47687742 0.04059169],[ 1.4881653 -1.366906 ],0.025096744298934937
+135,Tony,iron_man_2.txt,"You are… Well, if’s messy then let’s double back.",-0.0666666666666666,[ 1.8927417 -1.305205 ],[ 1.5271298 -1.6559385],0.16416598856449127
+136,Pepper,iron_man_2.txt,Let me give you an example.,0.0,[ 1.5346355 -0.5475631],[ 1.7555805 -1.6593007],0.08304232358932495
+137,Tony,iron_man_2.txt,Let’s move onto another subject.,-0.1666666666666666,[ 1.3314557  -0.65005666],[ 1.1958857 -1.1472737],0.028882116079330444
+138,Pepper,iron_man_2.txt,"No, no, no, no. You are not taking down the Barnett Newman and hanging that up.",-0.1555555555555555,[ 1.40366    -0.84044963],[ 1.2959336 -1.3104103],0.05562731623649597
+139,Tony,iron_man_2.txt,I’m not taking it down. I’m just replacing it with this.,-0.1555555555555555,[ 1.733791  -1.0672619],[ 1.7367506 -1.7405982],0.08049130439758301
+140,Tony,iron_man_2.txt,Let’s see what I can get going on here.,0.0,[ 1.4936099  -0.75127816],[ 1.3860999 -1.3337135],0.04391631484031677
+141,Pepper,iron_man_2.txt,"Okay, fine. My point is, we have already awarded contracts to the wind farm people.",0.4583333333333333,[0.09465817 0.2350932 ],[ 1.4816269 -1.3116087],0.03413406014442444
+142,Tony,iron_man_2.txt,Yeah. Don’t say “wind farm.” I’m already feeling gassy.,0.0,[ 1.530484   -0.95515025],[ 1.6002824 -1.504642 ],0.11618703603744507
+143,Pepper,iron_man_2.txt,"And to the plastic plantation tree, which was your idea by the way. Those people are on payroll…",0.0,[-0.2613318   0.30245915],[ 1.2267436 -1.0881699],0.08488494157791138
+144,Tony,iron_man_2.txt,Everything was my idea.,0.0,[-0.80534273  1.214738  ],[ 1.787001  -1.6390123],0.10013914108276367
+145,Pepper,iron_man_2.txt,…and you won’t make a decision.,0.0,[ 1.3306966 -0.5822578],[ 1.5470663 -1.4428899],0.0891304612159729
+146,Tony,iron_man_2.txt,I don’t care about the liberal agenda any more. It’s boring. Boring. I’m giving you a boring alert. [Jumps off desk] You do it.,-0.625,[ 0.8983903  -0.27517182],[ 1.3804616 -1.2448711],0.08996230363845825
+147,Pepper,iron_man_2.txt,I do what?,0.0,[ 1.7077149 -0.9090037],[ 1.9094574 -1.7686237],0.036789119243621826
+148,Tony,iron_man_2.txt,Excellent idea. I just figured this out. You run the company.,1.0,[ 0.57540965 -0.15818352],[ 1.7937514 -1.6329157],0.051083654165267944
+149,Pepper,iron_man_2.txt,"Yeah, I’m trying to run the company.",0.0,[-0.43996748  0.8644546 ],[ 1.795286 -1.603242],0.03514063358306885
+150,Tony,iron_man_2.txt,"Pepper, I need you to run the company. Well, stop trying to do it and do it.",0.0,[0.2233271  0.33673644],[ 1.7522322 -1.5302347],0.05263063311576843
+151,Pepper,iron_man_2.txt,You will not give me the information…,0.0,[ 1.979017  -1.3826033],[ 1.8251358 -1.9021702],0.09289151430130005
+152,Tony,iron_man_2.txt,I’m not asking you to try…,0.0,[ 1.925278  -1.2726102],[ 1.7980341 -1.7998226],0.1225925087928772
+153,Pepper,iron_man_2.txt,…in order to…,0.0,[ 0.99224454 -0.4776007 ],[ 1.6901294 -1.6777316],0.03105577826499939
+154,Tony,iron_man_2.txt,I’m asking you to physically do it. I need you to do it.,0.0,[ 2.1318846 -1.1848502],[ 1.767253  -1.6016394],0.12443472445011139
+155,Pepper,iron_man_2.txt,I am trying to do it.,0.0,[ 0.8640836 -0.135486 ],[ 1.6768123 -1.5154372],0.0535772442817688
+156,Tony,iron_man_2.txt,"Pepper, you’re not listening to me!",0.0,[ 1.5039436  -0.74276364],[ 1.4477241 -1.5260427],0.11719211935997009
+157,Pepper,iron_man_2.txt,"No, you are not listening to me.",0.0,[ 1.3903667  -0.75691843],[ 1.6629633 -1.600215 ],0.134513258934021
+158,Tony,iron_man_2.txt,I’m trying to make you CEO. Why won’t you let me?,0.0,[ 1.9712492 -1.0784438],[ 2.0687983 -1.907466 ],0.17875777184963226
+159,Pepper,iron_man_2.txt,Have you been drinking?,0.0,[ 1.7356132 -1.2387275],[ 1.881298  -1.8812968],0.08517533540725708
+160,Tony,iron_man_2.txt,"Chlorophyll. I hereby irrevocably appoint you chairman and CEO of Stark Industries effective immediately. Yeah, done deal. Okay? I’ve actually given this a fair amount of thought, believe it or not. [One of the robots brings him a tray which a bottle and glasses on it] Doing a bit of headhunting, so to speak, trying to figure out who a worthy successor would be. And then I realised it’s you. It’s always been you. [Pours champagne. Pepper sits down, shocked and confused]. I thought there’d be a legal issue, but actually I’m capable of appointing my successor. My successor being you. [Hands her a glass. She doesn’t take it.] Congratulations? Take it, just take it.",0.0979797979797979,[ 1.7912058 -1.2449017],[ 1.668553  -1.7215897],0.13316529989242554
+161,Pepper,iron_man_2.txt,I don’t know what to think.,0.0,[ 2.0242045 -0.9722078],[ 1.5292205 -1.3885633],0.05445331335067749
+162,Tony,iron_man_2.txt,"Don’t think, drink. There you go. [They tap glasses and drink]",0.0,[ 1.3273817  -0.84670144],[ 1.650263  -1.5680878],0.05036082863807678
+163,Pepper,iron_man_2.txt,The notary’s here! Can you please come sign the transfer paperwork?,0.0,[ 1.4822277 -0.928257 ],[ 2.1942952 -2.1713626],0.04386848211288452
+164,Tony,iron_man_2.txt,I’m on happy time. [Tony hits Happy in the face with his elbow] Sorry.,0.3666666666666667,[ 0.8271971  -0.10521808],[ 1.745602  -1.8444359],0.13824795186519623
+165,Happy,iron_man_2.txt,What the hell was that?,0.0,[ 2.0768323 -1.1309335],[ 1.461639  -1.4013797],0.05293768644332886
+166,Tony,iron_man_2.txt,It’s called mixed martial arts. It’s been around for three weeks.,0.0,[-0.02320622  0.41719434],[ 1.9280964 -1.913515 ],0.025580793619155884
+167,Happy,iron_man_2.txt,"It’s called dirty boxing, there’s nothing new about it",-0.2318181818181818,[0.39130178 0.12778005],[ 1.4618179 -1.4298433],0.052426308393478394
+168,Tony,iron_man_2.txt,"All right, put them up. Come on. [The Notary walks in. Both Happy and Tony’s attention shifts to her]",0.5428571428571429,[ 1.3895305 -0.7393618],[ 1.751072 -1.869788],0.1746378093957901
+169,Pepper,iron_man_2.txt,I promise this is the only time I will ask you to sign over your company.,0.0,[ 0.8698202 -0.5068449],[ 1.7469524 -1.6446651],0.09512796998023987
+170,Happy,iron_man_2.txt,"[Taps Tony on the back of the head with a light punch, not enough to hurt him] Lesson one. Never take your eye off… [Tony kicks him and he goes crashing into the corner of the ring. Camera angle shifts to Pepper and the Notary and clangs are heard.]",0.1333333333333333,[ 1.6533366  -0.92325914],[ 1.4084942 -1.6581061],0.07498419284820557
+171,Tony,iron_man_2.txt,"That’s it. I’m done. What’s your name, lady?",0.0,[ 2.096101  -1.2220299],[-0.56831634  0.5634805 ],0.17776764929294586
+172,Tony,iron_man_2.txt,Front and centre. Come into the church.,0.0,[ 0.823006   -0.15334475],[ 1.4501417 -1.4717805],0.0734533965587616
+173,Pepper,iron_man_2.txt,No. You’re seriously not gonna ask…,0.1666666666666666,[ 2.051126  -1.4751147],[ 1.7456541 -1.7555205],0.10284224152565002
+174,Tony,iron_man_2.txt,"If it pleases the court, which it does.",0.0,[-0.0952002   0.65262496],[ 1.5119528 -1.4042724],0.029457390308380127
+175,Natalie,iron_man_2.txt,[To Pepper] It’s no problem.,0.0,[ 1.5409156 -0.6308614],[ 1.6807666 -1.7268734],0.0335981547832489
+176,Pepper,iron_man_2.txt,[To Natalie] I’m sorry. He’s very eccentric.,-0.25,[ 1.3626628  -0.65275717],[ 1.819569  -1.9227718],0.16412711143493652
+177,Tony,iron_man_2.txt,Can you give her a lesson?,0.0,[ 1.9517791 -1.0323038],[ 0.5559368 -0.3774625],0.1394941508769989
+178,Happy,iron_man_2.txt,No problem.,0.0,[0.47208393 0.17426005],[ 1.2980334 -1.1955985],0.06458625197410583
+179,Tony,iron_man_2.txt,[Steps out of ring and towards Pepper] Pepper.,0.0,[ 1.7482206 -0.9039107],[ 1.3230833 -1.5456967],0.02635464072227478
+180,Pepper,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+181,Tony,iron_man_2.txt,[Sitting down next to Pepper] Who is she?,-0.0777777777777777,[ 2.1327944 -1.271566 ],[ 0.9757583 -1.132074 ],0.06980782747268677
+182,Pepper,iron_man_2.txt,She is from legal. And she is potentially a very expensive sexual harassment lawsuit if you keep ogling her like that.,0.0166666666666666,[ 0.88485336 -0.47222498],[ 0.39473426 -0.25630215],0.17580649256706238
+183,Tony,iron_man_2.txt,"I need a new assistant, boss.",0.1363636363636363,[ 1.1128515  -0.38852742],[ 1.4424435 -1.2828351],0.09232130646705627
+184,Pepper,iron_man_2.txt,"Yes, and I’ve got three excellent potential candidates. They’re lined up and ready to meet you.",0.3999999999999999,[ 1.7834045 -1.1148207],[ 1.6340743 -1.5480322],0.06407594680786133
+185,Tony,iron_man_2.txt,I don’t have time to meet. I need someone now. I feel like it’s her.,0.0,[ 2.3930993 -1.3969271],[ 1.7127281 -1.5446731],0.17270433902740479
+186,Pepper,iron_man_2.txt,"No, it’s not.",0.0,[ 1.0541348 -0.4622181],[ 1.0757028  -0.99522495],0.04567393660545349
+187,Happy,iron_man_2.txt,You ever boxed before?,0.0,[ 1.7738155 -1.0985155],[ 1.7850437 -1.7756261],0.03816115856170654
+188,Natalie,iron_man_2.txt,"I have, yes.",0.0,[ 1.1040438  -0.34380668],[ 1.6507767 -1.4706243],0.04788133502006531
+189,Happy,iron_man_2.txt,"What, like, the Tae Bo? Booty Boot Camp? Crunch? Something like that? [Natalie’s face shows brief annoyance at his statement before Tony distracts her]",0.0,[ 1.9320078 -1.2357967],[ 1.6094666 -1.7041973],0.16448324918746948
+190,Tony,iron_man_2.txt,"How do I spell your name, Natalie?",0.0,[ 2.263781  -1.3260638],[ 1.6369077 -1.6369534],0.15482383966445923
+191,Natalie,iron_man_2.txt,R-U-S-H-M-A-N.,0.0,[ 1.6309491 -0.8525691],[ 1.020243  -1.0330325],0.0250299870967865
+192,Pepper,iron_man_2.txt,"What, are you gonna google her now?",0.0,[ 2.064987 -1.301307],[ 1.343974  -1.2494518],0.13176774978637695
+193,Tony,iron_man_2.txt,"I thought I was ogling her. [Brings up Natalie’s file on table which doubles up as a computer. He has computers on everything.] Wow. Very, very impressive individual.",0.3666666666666667,[ 0.9181742  -0.44120404],[ 1.1835818 -1.247665 ],0.10053122043609619
+194,Pepper,iron_man_2.txt,"You’re so predictable, you know that?",-0.2,[0.7538248  0.08784987],[ 1.3172802 -1.2506224],0.1300506889820099
+195,Tony,iron_man_2.txt,"She’s fluent in French, Italian, Russian, Latin. Who speaks Latin?",0.0,[ 1.1772263  -0.54028535],[ 0.8056121 -0.5690164],0.03945380449295044
+196,Pepper,iron_man_2.txt,No one speaks Latin.,0.0,[0.1689717 0.5277535],[ 1.4278551 -1.327449 ],0.034797996282577515
+197,Tony,iron_man_2.txt,No one speaks Latin,0.0,[0.35408893 0.33464524],[ 1.4525033 -1.3173226],0.03608429431915283
+198,Pepper,iron_man_2.txt,"It’s a dead language. You can read Latin or you can write Latin, but you can’t speak Latin.",-0.2,[ 1.3908556  -0.55493826],[ 1.4210123 -1.2817944],0.033210575580596924
+199,Tony,iron_man_2.txt,Did you model in Tokyo? ‘Cause she modelled in Tokyo.,0.0,[0.51485926 0.03520285],[ 1.3888935 -1.343436 ],0.03368079662322998
+200,Pepper,iron_man_2.txt,Well…,0.0,[0.51277363 0.03210781],[ 1.506329  -1.4439806],0.03210744261741638
+201,Tony,iron_man_2.txt,"I need her. She’s got everything that I need. [Camera is now on Natalie and Happy, Natalie looking over, hearing what Tony is saying]",0.8,[ 1.857136  -1.0640451],[ 1.8078991 -1.8669428],0.1704239398241043
+202,Happy,iron_man_2.txt,"Rule number one, never take your eyes off your opponent. [He goes to take a swing, she grabs his hand and flips him over, legs over his head.]",0.0,[ 1.3866522 -0.7344623],[ 0.3862878 -0.5830577],0.17368486523628235
+203,Pepper,iron_man_2.txt,"Oh, my God! Happy.",0.8,[-0.9777987  1.363977 ],[ 1.6109664 -1.5850209],0.1668071299791336
+204,Tony,iron_man_2.txt,That’s what I’m talking about.,0.0,[ 1.6507362 -0.8779399],[ 1.223931  -1.1704277],0.07307416200637817
+205,Happy,iron_man_2.txt,I just slipped.,0.0,[ 0.81805897 -0.12346476],[ 1.5330068 -1.4544884],0.06827592849731445
+206,Tony,iron_man_2.txt,You did?,0.0,[ 1.5463932 -0.8877388],[ 1.7417136 -1.6635116],0.12424212694168091
+207,Happy,iron_man_2.txt,[Who looks a little like he’s in pain] Yeah.,-0.1875,[ 1.0307004 -0.2916256],[ 1.769958  -1.7948555],0.09011045098304749
+208,Tony,iron_man_2.txt,Looks like a TKO to me. [Rings the bell and Natalie leaves the ring],0.0,[ 1.3603431  -0.52767926],[ 0.7980006  -0.89499927],0.029237031936645508
+209,Natalie,iron_man_2.txt,Just… I need your impression.,0.0,[ 1.8457346 -1.0049669],[ 2.1239583 -2.1928694],0.17838557064533234
+210,Tony,iron_man_2.txt,"You have a quiet reserve. I don’t know, you have an old soul.",0.05,[ 2.1869168 -1.2994262],[ 1.6326977 -1.577821 ],0.16148890554904938
+211,Natalie,iron_man_2.txt,I meant your fingerprint.,0.0,[ 1.0517186  -0.17115399],[ 1.5577034 -1.5847728],0.07164245843887329
+212,Tony,iron_man_2.txt,Right.,0.2857142857142857,[0.02233725 0.5421472 ],[ 0.9082546 -0.8296772],0.039899617433547974
+213,Pepper,iron_man_2.txt,"So, how are we doing?",0.0,[ 2.0570533 -1.0728691],[ 1.5867478 -1.6481797],0.06711611151695251
+214,Tony,iron_man_2.txt,Great. Just wrapping up here. Hey. You’re the boss.,0.8,[-0.7791057  1.2735806],[ 1.7686632 -1.6664623],0.13841283321380615
+215,Natalie,iron_man_2.txt,"Will that be all, Mr Stark?",-0.2,[ 1.9452169 -1.0016997],[ 1.5815951 -1.7079465],0.03947782516479492
+216,Tony,iron_man_2.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+217,Pepper,iron_man_2.txt,"Yes, that will be all, Ms Rushman. Thank you very much. [She leaves. Tony turns to Pepper]",0.26,[ 1.3242254  -0.71884245],[ 1.6282347 -1.5824286],0.16654875874519348
+218,Tony,iron_man_2.txt,I want one.,0.0,[ 1.3931348  -0.59072524],[ 1.1845838 -1.0841058],0.13585016131401062
+219,Pepper,iron_man_2.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+220,Tony,iron_man_2.txt,"You know, it’s Europe. Whatever happens the next 20 minutes, just go with it.",0.0,[ 1.0015255 -0.3650967],[ 1.2883636 -1.1990384],0.03074827790260315
+221,Pepper,iron_man_2.txt,Go with it? Go with what?,0.0,[ 2.0837665 -1.3642629],[ 1.4450203 -1.4192251],0.022544652223587036
+222,Natalie,iron_man_2.txt,Mr Stark?,-0.2,[ 1.4101385 -0.650003 ],[ 1.456449  -1.6152304],0.03095388412475586
+223,Tony,iron_man_2.txt,Hey.,0.0,[0.19733094 0.37754387],[ 1.1227647 -1.0989131],0.02827894687652588
+224,Natalie,iron_man_2.txt,Hello. How was your flight?,0.0,[ 1.8073239 -1.1858038],[ 1.5247017 -1.4254191],0.14942938089370728
+225,Tony,iron_man_2.txt,"It was excellent. Boy, it’s nice to see you.",0.8,[ 0.5968085  -0.06530765],[ 1.746429  -1.7868639],0.17777343094348907
+226,Natalie,iron_man_2.txt,"We have one photographer from the ACM, if you don’t mind. Okay?",0.5,[ 1.9029341 -1.2048478],[ 2.2826335 -2.1664193],0.05482214689254761
+227,Pepper,iron_man_2.txt,When did this happen?,0.0,[ 1.6940366 -0.960321 ],[ 1.6171528 -1.5813427],0.022243738174438477
+228,Tony,iron_man_2.txt,What? You made me do it.,0.0,[0.4237451  0.29033282],[ 1.8522167 -1.6385535],0.12989592552185059
+229,Pepper,iron_man_2.txt,I made you do what?,0.0,[ 1.0889565  -0.24825218],[ 1.8121492 -1.6173162],0.1277073472738266
+230,Tony,iron_man_2.txt,"You quit. Smile. Look, right there. Stop acting constipated. Don’t flare your nostrils.",0.1952380952380952,[ 1.4533945 -0.9933892],[ 1.8475751 -1.6513053],0.16395752131938934
+231,Pepper,iron_man_2.txt,You are so predictable.,-0.2,[-0.5110066  1.107297 ],[ 1.2079955 -1.0841427],0.10046327114105225
+232,Tony,iron_man_2.txt,That’s the amazing thing.,0.6000000000000001,[0.12382139 0.5658906 ],[ 1.221221 -1.161038],0.1629430651664734
+233,Natalie,iron_man_2.txt,Right this way.,0.2857142857142857,[ 0.7437342  -0.06811523],[ 0.84937596 -0.86795324],0.030876457691192627
+234,Tony,iron_man_2.txt,You look fantastic.,0.4,[-1.2724411  1.6094315],[ 1.305514  -1.1843289],0.1716829240322113
+235,Natalie,iron_man_2.txt,"Why, thank you very much.",0.26,[-0.4648577   0.94921935],[ 1.6514305 -1.6194302],0.1705264002084732
+236,Tony,iron_man_2.txt,But that’s unprofessional. What’s on the docket?,0.0,[ 1.82395   -1.2544538],[ 1.5956761 -1.4450792],0.05645549297332764
+237,Natalie,iron_man_2.txt,You have a 9,0.0,[ 1.3255076  -0.44890067],[ 1.3783556 -1.2725902],0.051319658756256104
+238,Tony,iron_man_2.txt,Perfect. I’ll be there at 11,1.0,[ 1.9253854 -1.1482328],[ 1.4363966 -1.3075676],0.04114425182342529
+239,Natalie,iron_man_2.txt,Absolutely.,0.2,[0.2140416 0.3758843],[ 0.9165368 -0.8137738],0.041814982891082764
+240,Tony,iron_man_2.txt,Is this us?,0.0,[ 1.8920718 -1.0199065],[ 1.5407261 -1.494043 ],0.05324402451515198
+241,Natalie,iron_man_2.txt,It can be.,0.0,[ 1.1725461 -0.3803517],[ 1.20442   -1.0824553],0.05145558714866638
+242,Tony,iron_man_2.txt,Great. Make it us.,0.8,[-0.21681538  0.8242319 ],[ 1.0964316 -1.026179 ],0.10372157394886017
+243,Natalie,iron_man_2.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+244,Pepper,iron_man_2.txt,Mr Musk. How are you?,0.0,[ 1.5747507  -0.88994884],[ 1.6989573 -1.8688132],0.10445797443389893
+245,Pepper,iron_man_2.txt,Thank you very much.,0.26,[-0.6259348   0.94983613],[ 1.4145626 -1.380071 ],0.17880618572235107
+246,Tony,iron_man_2.txt,"Elon, how’s it going. Those Merlin engines are fantastic.",0.4,[ 1.5567582 -0.6813971],[ 1.6418375 -1.7096627],0.04281851649284363
+247,Tony,iron_man_2.txt,You do?,0.0,[ 1.6195127 -0.8411593],[ 1.5609525 -1.5052105],0.10240483283996582
+248,Tony,iron_man_2.txt,Then we’ll make it work. [To Pepper as they walk] You want a massage?,0.0,[ 1.6538426  -0.80991346],[ 0.554352   -0.68129116],0.1756519377231598
+249,Pepper,iron_man_2.txt,"Oh, God. No. I don’t want a massage.",0.0,[ 1.9589032 -1.1181167],[ 1.1152831 -0.9612364],0.19889670610427856
+250,Tony,iron_man_2.txt,I’ll have Natalie make an…,0.0,[ 1.6624749 -0.8527901],[ 1.3372055 -1.2971519],0.15991438925266266
+251,Pepper,iron_man_2.txt,I don’t want Natalie to do…,0.0,[ 1.9282725 -1.1859045],[ 1.3888069 -1.3788851],0.13356904685497284
+252,Tony,iron_man_2.txt,"Don’t want you tense. By the way, I didn’t mean to spring this on you.",-0.3229166666666666,[ 1.7884042 -1.1389886],[ 1.5410434 -1.4982544],0.17558825016021729
+253,Pepper,iron_man_2.txt,Thank you very much.,0.26,[-0.6259348   0.94983613],[ 1.4145626 -1.380071 ],0.17880618572235107
+254,Tony,iron_man_2.txt,Green is not your best colour. [Justin’s head appears from behind someone],0.1333333333333333,[ 1.6095897 -1.0935153],[ 1.8194666 -1.9454795],0.0951918363571167
+255,Pepper,iron_man_2.txt,"Oh, please.",0.0,[ 0.94870436 -0.02736135],[ 1.3002403 -1.1934332],0.06484794616699219
+256,Justin,iron_man_2.txt,Anthony. Is that you?,0.0,[ 2.1448648 -1.2548406],[ 1.7445143 -1.8591421],0.08610719442367554
+257,Tony,iron_man_2.txt,[To Pepper] My least favourite person on Earth.,-0.3,[ 1.5047272 -0.643505 ],[ 2.0117056 -2.059807 ],0.05765467882156372
+258,Justin,iron_man_2.txt,"Hey, pal.",0.0,[0.25251317 0.41545624],[ 1.3889738 -1.4169973],0.03886231780052185
+259,Tony,iron_man_2.txt,Justin Hammer.,0.0,[0.6280526  0.07471114],[ 1.1732363 -1.177734 ],0.02853354811668396
+260,Justin,iron_man_2.txt,How you doing? You’re not the only rich guy here with a fancy car. You know Christine Everhart from Vanity Fair. You guys know each other? [She appears.],0.2375,[ 1.33875   -0.8221437],[ 1.398786  -1.4113232],0.15205074846744537
+261,Christine,iron_man_2.txt,Hi. Yes.,0.0,[0.4694366  0.22644657],[ 1.2413768 -1.177883 ],0.024254918098449707
+262,Pepper,iron_man_2.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+263,Tony,iron_man_2.txt,"Yes, roughly.",-0.1,[ 0.65595055 -0.06017576],[ 1.2272536 -1.1079208],0.028787076473236084
+264,Pepper,iron_man_2.txt,We do.,0.0,[0.31202796 0.30191553],[ 1.1730542 -1.1065575],0.05146050453186035
+265,Justin,iron_man_2.txt,"BTW, big story. The new CEO of Stark Industries.",-0.0212121212121212,[-0.5619335  0.8058912],[ 1.89125   -1.8436098],0.024207115173339844
+266,Christine,iron_man_2.txt,"I know, I know.",0.0,[0.648953   0.11432198],[ 1.1466495  -0.98719597],0.0682520866394043
+267,Justin,iron_man_2.txt,Congratulations.,0.0,[-1.2041714  1.5794083],[ 1.0869144  -0.96781087],0.11262045800685883
+268,Christine,iron_man_2.txt,My editor will kill me if I don’t grab a quote for our Powerful Women issue.,0.3,[ 0.9888809  -0.29838666],[ 1.2736397 -1.3237551],0.07641687989234924
+269,Pepper,iron_man_2.txt,Oh.,0.0,[0.23362726 0.3343799 ],[ 1.1222034 -0.9999814],0.03327369689941406
+270,Christine,iron_man_2.txt,Can I?,0.0,[ 2.0384252 -1.1277746],[ 1.6129379 -1.6008213],0.06697890162467957
+271,Pepper,iron_man_2.txt,Sure.,0.5,[0.09134651 0.46289453],[ 0.7845329  -0.73747826],0.03031119704246521
+272,Justin,iron_man_2.txt,"She’s actually doing a big spread on me for Vanity Fair. I thought I’d throw her a bone, you know. Right?",0.2464285714285714,[0.3081667  0.23948249],[ 0.7976538 -0.7907063],0.1771921068429947
+273,Pepper,iron_man_2.txt,"Right. Well, she did quite a spread on Tony last year.",0.1428571428571428,[ 0.8305158  -0.22094804],[ 1.1472206 -1.1573826],0.03831234574317932
+274,Tony,iron_man_2.txt,And she wrote a story as well.,0.0,[0.3913241  0.07779963],[ 1.4678968 -1.370421 ],0.060488343238830566
+275,Pepper,iron_man_2.txt,It was very impressive.,1.0,[-1.6928701  1.7082466],[ 1.3867798 -1.2877584],0.036427319049835205
+276,Tony,iron_man_2.txt,That was good.,0.7,[-1.3629278  1.6984891],[ 1.2335702 -1.1131924],0.02559107542037964
+277,Pepper,iron_man_2.txt,It was very well done.,0.2,[-1.3376625  1.5436696],[ 1.4572679 -1.3420328],0.04897886514663696
+278,Christine,iron_man_2.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+279,Pepper,iron_man_2.txt,I’m gonna go wash.,0.0,[ 0.98199356 -0.21675283],[ 0.89574605 -0.8358898 ],0.1144275963306427
+280,Tony,iron_man_2.txt,Don’t leave me.,0.0,[ 1.816233   -0.90676737],[ 1.3016741 -1.2127854],0.17508120834827423
+281,Justin,iron_man_2.txt,"Hey, buddy. How you doing?",0.0,[ 1.9943998 -1.220778 ],[ 1.5840787 -1.6697806],0.14017769694328308
+282,Tony,iron_man_2.txt,I’m all right.,0.2857142857142857,[0.8314826  0.01057627],[ 1.3934628 -1.3070241],0.14474795758724213
+283,Justin,iron_man_2.txt,Looking gorgeous.,0.7,[-0.5664953  1.1288415],[ 0.9543669 -0.8400297],0.13156801462173462
+284,Tony,iron_man_2.txt,"Please, this is tough.",-0.3888888888888889,[ 1.4211854 -0.5355688],[ 1.6198357 -1.546515 ],0.05951246619224548
+285,Christine,iron_man_2.txt,Can I ask you… Is this the first time…,0.25,[ 1.9494817 -1.2393198],[ 2.1608417 -2.2367656],0.0947534441947937
+286,Justin,iron_man_2.txt,[Posing for a camera while Tony replaces sunglasses and tries to escape] Fromage [French for cheese. That bit did have a subtitle] Say “Brie”.,-0.05,[ 1.3487322  -0.63855815],[ 1.9922792 -1.9676518],0.02093327045440674
+287,Christine,iron_man_2.txt,…that you guys have seen each other?,-0.125,[ 1.4573693  -0.82121044],[ 1.8870014 -2.032502 ],0.14923450350761414
+288,Tony,iron_man_2.txt,"God, that’s so awful.",-1.0,[ 1.0308168  -0.30529323],[ 1.4799039 -1.344998 ],0.1464868187904358
+289,Christine,iron_man_2.txt,"Listen, is it the first time you’ve seen each other since the Senate?",0.0625,[ 1.9586929 -1.1374358],[ 1.9655255 -2.0177965],0.04912695288658142
+290,Tony,iron_man_2.txt,Since he got his contract revoked…,0.0,[0.3132073  0.18947873],[ 1.8127699 -1.8665661],0.04815089702606201
+291,Justin,iron_man_2.txt,"Actually, it’s on hold.",0.0,[ 1.4308679 -0.5705656],[ 1.2908081 -1.2615244],0.01895633339881897
+292,Tony,iron_man_2.txt,…when you were attempting to…That’s not what I heard. What’s the difference between “hold and “cancelled”? The truth?,0.0,[ 1.9622601 -1.3350477],[ 2.1275122 -2.1186461],0.07373178005218506
+293,Christine,iron_man_2.txt,"Yes, what is it?",0.0,[ 2.2634728 -1.2841448],[ 1.5736024 -1.5643104],0.02445882558822632
+294,Justin,iron_man_2.txt,"No. The truth is… Why don’t we put that away? The truth is, I’m actually hoping to present something at your Expo.",0.0,[ 2.149972  -1.5419006],[ 1.9980806 -2.0038297],0.09754502773284912
+295,Tony,iron_man_2.txt,"Well, if you invent something that works, I’ll make sure I get you a slot.",0.5,[0.5457073  0.03029349],[ 1.7670115 -1.8161317],0.03919839859008789
+296,Natalie,iron_man_2.txt,Mr Stark?,-0.2,[ 1.4101385 -0.650003 ],[ 1.456449  -1.6152304],0.03095388412475586
+297,Tony,iron_man_2.txt,Yes?,0.0,[ 1.4607873 -0.628932 ],[ 1.1038216 -1.0922269],0.0379202663898468
+298,Natalie,iron_man_2.txt,Your corner table is ready.,0.2,[ 0.9130662  -0.05979707],[ 1.4032441 -1.2902783],0.04946720600128174
+299,Justin,iron_man_2.txt,"I actually have a slot this year. Yes, I do.",0.0,[ 1.3015082 -0.7126679],[ 1.7462422 -1.6793765],0.022696256637573242
+300,Tony,iron_man_2.txt,"Hammer needs a slot, Christine.",0.0,[ 1.5963008 -0.6583825],[ 1.3690901 -1.3175585],0.02412998676300049
+301,Justin,iron_man_2.txt,"We kid, yeah. We kid. We’re kidders.",0.0,[0.5912038  0.07897326],[ 1.5415608 -1.4105465],0.09563115239143372
+302,Tony,iron_man_2.txt,[In the mirror] Got any other bad ideas?,-0.4124999999999999,[ 2.07724   -1.3541601],[ 1.891233  -1.9112643],0.03714698553085327
+303,Justin,iron_man_2.txt,"[Still inside, talking to Christine.] Tony and I… Tony… I love Tony Stark. Tony loves me. We’re not competitors. Him being out of the picture created tremendous opportunities for Hammer Industries, you know? Everything that Tony and I do…",0.2111111111111111,[ 1.4903417 -0.962547 ],[ 2.1202183 -2.274964 ],0.17258906364440918
+304,Justin,iron_man_2.txt,…is a healthy…,0.0,[0.11277629 0.18344194],[ 1.5226148 -1.7066973],0.03338673710823059
+305,Tony,iron_man_2.txt,…and owning a race car…,0.0,[-0.26927003  0.5944651 ],[ 1.5766311 -1.6520663],0.02898237109184265
+306,Justin,iron_man_2.txt,…competition.,0.0,[0.18073449 0.39909282],[ 1.5017875 -1.4573498],0.03016921877861023
+307,Tony,iron_man_2.txt,…if you don’t drive it?,0.0,[ 1.846001  -1.2075357],[ 1.6631575 -1.5335301],0.05429816246032715
+308,Justin,iron_man_2.txt,Is he driving?,0.0,[ 1.9363986 -1.2501249],[ 1.4624352 -1.4614202],0.0593564510345459
+309,Pepper,iron_man_2.txt,Natalie. Natalie!,0.0,[ 1.1082779  -0.24834132],[ 1.4986039 -1.6136369],0.03608617186546326
+310,Natalie,iron_man_2.txt,"Yes, Ms Potts?",0.0,[ 1.0434331 -0.3902095],[ 1.5172356 -1.4778252],0.04280480742454529
+311,Pepper,iron_man_2.txt,What do you know about this?,0.0,[ 2.2157817 -1.3797121],[ 1.7490071 -1.6698883],0.040817201137542725
+312,Natalie,iron_man_2.txt,This is the first that I have known of it.,0.25,[ 0.80148035 -0.19861561],[ 1.647694  -1.6058174],0.045678943395614624
+313,Pepper,iron_man_2.txt,"This, this cannot happen.",0.0,[ 1.1946137 -0.5747079],[ 1.0707176 -0.9842897],0.02552056312561035
+314,Natalie,iron_man_2.txt,Absolutely. I understand. How can I help you?,0.2,[ 2.2390654 -1.4219352],[ 2.0533493 -1.9233878],0.1449955850839615
+315,Pepper,iron_man_2.txt,Where’s Happy?,0.8,[ 2.0448728 -1.1984895],[ 1.3467759 -1.437639 ],0.06651327013969421
+316,Natalie,iron_man_2.txt,He’s waiting outside.,0.0,[ 0.86684155 -0.25382432],[ 1.2687281 -1.3180236],0.044747769832611084
+317,Pepper,iron_man_2.txt,"Okay, get him. I need Happy.",0.65,[ 1.8082544 -1.0077822],[ 1.4675037 -1.6195754],0.175846666097641
+318,Natalie,iron_man_2.txt,Right away.,0.2857142857142857,[1.0183505 0.0022061],[ 1.0751612 -1.040869 ],0.02495253086090088
+319,Justin,iron_man_2.txt,"Tony’s… You know, he… We’re not competitive. You know what I mean?",-0.3125,[ 1.5925502  -0.89237225],[ 1.9185541 -2.0484245],0.0679355263710022
+320,Christine,iron_man_2.txt,"Yeah, yeah, yeah. You know, can you excuse me just one second?",-0.025,[ 1.0569366  -0.47800502],[ 1.7526252 -1.6473583],0.11961537599563599
+321,Justin,iron_man_2.txt,Just read me what you wrote.,0.0,[ 0.7549894  -0.06215298],[ 1.8915151 -1.9665643],0.06675344705581665
+322,Christine,iron_man_2.txt,"I will. I will, after.",0.0,[ 1.6723846 -1.0077717],[ 1.414321 -1.262085],0.09461772441864014
+323,Justin,iron_man_2.txt,Just read it back to me.,0.0,[ 1.1999639  -0.33820754],[ 1.7260365 -1.7780839],0.037856489419937134
+324,Christine,iron_man_2.txt,But I have to make one quick phone call.,0.3333333333333333,[ 1.8453981  -0.84880644],[ 1.7746959 -1.5901476],0.025145620107650757
+325,Justin,iron_man_2.txt,Where are you going?,0.0,[ 2.1602573 -1.2644271],[ 1.4261588 -1.4490031],0.06172293424606323
+326,Christine,iron_man_2.txt,This is great.,0.8,[-1.8673927  2.1273975],[ 1.082946 -1.033786],0.05596572160720825
+327,Justin,iron_man_2.txt,I’ve got some caviar coming.,0.0,[ 1.8727666 -1.0241224],[ 1.0420147 -1.1204818],0.10006707906723022
+328,Christine,iron_man_2.txt,This is great stuff. I’ll be right back.,0.3619047619047619,[ 1.3448132 -0.7316922],[ 1.461165  -1.4521579],0.14135286211967468
+329,Pepper,iron_man_2.txt,"Go, go.",0.0,[0.62325853 0.13869902],[ 0.8035957  -0.74754405],0.029622048139572144
+330,Happy,iron_man_2.txt,"Hang on. [Crashes through a barrier onto the track heading the opposite way to the race cars. Tony’s car gets hit and he goes flying, loosing the front. Ivan heads forward. Another car gets hit. Bit of fire. Dripping petrol. Never a good sign.]",-0.175,[ 1.2212758 -0.663011 ],[ 1.5428041 -1.6622208],0.025679469108581543
+331,Pepper,iron_man_2.txt,Give me the case.,0.0,[ 1.6119289 -0.7132017],[ 1.5045059 -1.408991 ],0.09527820348739624
+332,Happy,iron_man_2.txt,"Here, take it.",0.0,[ 1.4049402 -0.5747172],[ 1.0550245 -1.0846227],0.04673975706100464
+333,Pepper,iron_man_2.txt,Where’s the key?,0.0,[ 2.147128 -1.220258],[ 1.3470441 -1.3691617],0.0578153133392334
+334,Happy,iron_man_2.txt,It’s in my pocket.,0.0,[ 1.627007  -0.8523986],[ 1.0842537 -1.1242058],0.15696021914482117
+335,Pepper,iron_man_2.txt,Car!,0.0,[0.35203826 0.35499784],[ 0.97613454 -0.93099177],0.02297508716583252
+336,Tony,iron_man_2.txt,Are you okay?,0.5,[ 2.1348462 -1.2184303],[ 1.7840706 -1.8255793],0.1370542347431183
+337,Happy,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+338,Tony,iron_man_2.txt,Were you heading from me or him?,0.0,[ 2.2807271 -1.5059651],[ 1.7848011 -1.8878671],0.14486074447631836
+339,Happy,iron_man_2.txt,I was trying to scare him.,0.0,[0.25984275 0.43599963],[ 1.6295065 -1.5888344],0.1324326992034912
+340,Tony,iron_man_2.txt,‘Cause I can’t tell!,0.0,[ 1.2346969  -0.35254893],[ 1.6760896 -1.5981622],0.04872959852218628
+341,Pepper,iron_man_2.txt,Are you out of your mind?,0.0,[ 2.2293923 -1.3542489],[ 1.525335  -1.3793973],0.12405240535736084
+342,Tony,iron_man_2.txt,Better security.,0.5,[-0.36577338  0.8124757 ],[ 1.1446165 -1.1093777],0.026935279369354248
+343,Pepper,iron_man_2.txt,Get in the car right now!,0.3571428571428571,[ 1.6423756 -0.9109681],[ 1.1839458 -1.0970672],0.030975431203842163
+344,Tony,iron_man_2.txt,I was attacked. We need better security.,0.5,[ 0.66475385 -0.0234169 ],[ 1.4354203 -1.405687 ],0.08280420303344727
+345,Happy,iron_man_2.txt,Get in the car.,0.0,[ 1.1574063  -0.28674158],[ 1.2005185 -1.1275935],0.03407609462738037
+346,Tony,iron_man_2.txt,"You’re CEO. Better security measures. God, it’s embarrassing. [Ivan’s head moves. Tony opens the door] First vacation in two years. [And Ivan slices the door in half. Darn it Ivan, it’s a Rolls, be nicer to her]",0.1944444444444444,[ 1.2907828 -0.6568175],[ 1.2832649 -1.2890325],0.1628798097372055
+347,Pepper,iron_man_2.txt,Oh my God! [Happy reverses a bit and runs into Ivan again.],0.8,[ 1.0641862 -0.44045  ],[ 1.8156105 -1.9465466],0.0733659565448761
+348,Happy,iron_man_2.txt,I got him!,0.0,[ 1.7391341 -0.7506677],[ 1.3784972 -1.3662544],0.14949379861354828
+349,Tony,iron_man_2.txt,Hit him again. Hit him again. Football.,0.0,[ 1.4793061 -0.767218 ],[ 1.1107181 -1.0695575],0.06622576713562012
+350,Happy,iron_man_2.txt,I got him.,0.0,[ 1.2162231  -0.29707012],[ 1.2429596 -1.1570529],0.1515112966299057
+351,Pepper,iron_man_2.txt,Take the case! Take it!,0.0,[ 1.9418646 -1.2280178],[ 1.312653  -1.3586624],0.054033905267715454
+352,Tony,iron_man_2.txt,Give him the case!,0.0,[ 1.2598107  -0.37977806],[ 1.1816162 -1.1302232],0.08699879050254822
+353,Pepper,iron_man_2.txt,Stop banging the car! [Out comes the airbag and Ivan slices the car in half. He continues to slice at the car],-0.1666666666666666,[ 0.9590379  -0.36149144],[ 1.0670913 -1.201516 ],0.033172041177749634
+354,Tony,iron_man_2.txt,Calm down.,0.0722222222222222,[ 0.6970445  -0.08099623],[ 1.5069708 -1.3841897],0.029380619525909424
+355,Pepper,iron_man_2.txt,God. God.,0.0,[ 0.93516636 -0.08906765],[ 1.224728  -1.0879952],0.06306082010269165
+356,Tony,iron_man_2.txt,"Give me the case! Please! Come on! [Pepper throws the case, Tony stand on it and it turns into the Iron Man Suit! A fight begins. Which involves more damage to the car and damage to the Iron Man suit. Tony rips out the Arc Reactor, shutting off Ivan’s suit.]",0.5,[ 1.7151136 -0.9852317],[ 1.4916278 -1.6102439],0.043597400188446045
+357,Ivan,iron_man_2.txt,[Being taken away by the police] You… You lose. You lose Stark. [Justin smiles.],-0.2,[ 1.070827   -0.62524647],[ 1.7800924 -1.9380482],0.10124057531356812
+358,Tony,iron_man_2.txt,"Pretty decent tech. Cycles per second were a little low. You could have doubled up your rotations. You focused the repulsor energy through ionised plasma channels. It’s effective. Not very efficient. But it’s a passable knock-off. I don’t get it. A little fine tuning you could have made a solid pay check. You could have sold it to North Korea, China, Iran, or gone onto the black market. You look like you got friends in low places.",0.0659722222222222,[ 1.7110565 -1.1777555],[ 1.5480255 -1.5205892],0.027099311351776123
+359,Ivan,iron_man_2.txt,"You come from a family of thieves and butchers. And now, like all guilty men, you try to rewrite your own history. And you forget all the lives the Stark family has destroyed.",-0.0333333333333333,[-0.5640179  0.9629963],[ 1.3379104 -1.4345253],0.16793972253799438
+360,Tony,iron_man_2.txt,"Speaking of thieves, where did you get this design?",0.0,[ 1.9314741 -1.4547595],[ 1.3030466 -1.5176905],0.06152045726776123
+361,Ivan,iron_man_2.txt,My father. Anton Vanko.,0.0,[ 1.5224032 -0.5057863],[ 1.7266644 -1.7506677],0.1624019742012024
+362,Tony,iron_man_2.txt,"Well, I never heard of him.",0.0,[ 0.62574697 -0.01962334],[ 1.380077  -1.3994199],0.17498178780078888
+363,Ivan,iron_man_2.txt,My father is the reason you’re alive.,0.1,[ 0.99899167 -0.2925152 ],[ 1.6465358 -1.6544559],0.17566537857055664
+364,Tony,iron_man_2.txt,"The reason I’m alive is ‘cause you had a shot, you took it, you missed.",0.1,[ 1.6959134 -0.8514924],[ 1.6327022 -1.5611075],0.12745580077171326
+365,Ivan,iron_man_2.txt,"Did I? If you can make God bleed, the people will cease to believe in him. And there will be blood in the water. And the sharks will come. The truth, all I have to do is sit here and watch as the world will consume you.",0.0,[ 1.8070132 -0.8980534],[ 0.6117827 -0.8508619],0.1703844666481018
+366,Tony,iron_man_2.txt,Where will you be watching the world consume me from? That’s right. A prison cell. I’ll send you a bar of soap. [He gets up to leave],0.2857142857142857,[ 1.898998  -1.0213804],[ 1.3973423 -1.5724624],0.1705964356660843
+367,Ivan,iron_man_2.txt,"Hey, Tony. Before you go, palladium in the chest, painful way to die. [Tony leaves the cell]",-0.7,[ 2.1406114 -1.1598176],[ 1.4518877 -1.6813899],0.11200113594532013
+368,Stern,iron_man_2.txt,"It’s just unbelievable. It proves that the genie is out of the bottle and this man has no idea what he’s doing. He thinks of the Iron Man weapon as a toy. I was at a hearing where Mr Stark, in fact, was adamant that these suits can’t exist anywhere else, don’t exist anywhere else, never will exist anywhere else, at least for five to ten years, and here we are in Monaco realising, “These suits exist now.”",-0.0583333333333333,[ 0.5520133  -0.01641701],[ 1.4088022 -1.5632734],0.05836161971092224
+369,Tony,iron_man_2.txt,Mute. He should be giving me a medal. That’s the truth.,0.0,[ 1.8144878  -0.94675916],[ 1.4218706 -1.3506433],0.17523975670337677
+370,Pepper,iron_man_2.txt,What is that?,0.0,[ 2.0403779 -1.0718771],[ 1.3264277 -1.3025846],0.025523483753204346
+371,Tony,iron_man_2.txt,This is your in-flight meal.,0.0,[-0.20515586  0.784259  ],[ 1.568365  -1.4623784],0.04481738805770874
+372,Pepper,iron_man_2.txt,Did you just make that?,0.0,[ 1.542491   -0.90956765],[ 1.5109566 -1.3636467],0.12045030295848846
+373,Tony,iron_man_2.txt,Yeah. Where do you think I’ve been for three hours?,0.0,[ 1.9817325 -1.3306365],[ 2.0538318 -1.997068 ],0.04298830032348633
+374,Pepper,iron_man_2.txt,"Tony, what are you not telling me?",0.0,[ 1.9702425 -1.1022006],[ 1.9766191 -1.9388566],0.15256835520267487
+375,Tony,iron_man_2.txt,"I don’t want to go home. At all. Let’s cancel my birthday party and… We’re in Europe. Let’s go to Venice, Cipriani. Remember?",0.0,[ 2.0102594 -1.2724246],[ 1.7635301 -1.8481189],0.110409677028656
+376,Pepper,iron_man_2.txt,"Oh, yes.",0.0,[-0.28818947  0.79953253],[ 1.1104046 -1.0130455],0.036382198333740234
+377,Tony,iron_man_2.txt,It’s a great place to be healthy.,0.65,[-0.574415   0.9429938],[ 1.4796678 -1.591635 ],0.125984787940979
+378,Pepper,iron_man_2.txt,I don’t think this is the right time. We’re in kind of a mess.,0.2369047619047618,[ 2.1717205 -1.3959116],[ 1.5853044 -1.6296574],0.1567060649394989
+379,Tony,iron_man_2.txt,"Yeah, but maybe that’s why it’s the best time. ‘Cause then we can…",1.0,[ 0.57111037 -0.06464808],[ 1.7341042 -1.7785702],0.08329182863235474
+380,Pepper,iron_man_2.txt,"Well, I think as the CEO I need to show up.",0.0,[ 1.29046   -0.5252381],[ 1.8075323 -1.643731 ],0.06590956449508667
+381,Tony,iron_man_2.txt,"As CEO, you are entitled to a leave.",0.0,[ 0.49718124 -0.03809735],[ 1.4602677 -1.2875798],0.11864364147186279
+382,Pepper,iron_man_2.txt,A leave?,0.0,[ 1.1528894  -0.40448287],[ 1.2059832 -1.1799549],0.03592991828918457
+383,Tony,iron_man_2.txt,A company retreat.,0.0,[-0.77075136  1.1385332 ],[ 1.7015454 -1.4688969],0.02613931894302368
+384,Pepper,iron_man_2.txt,A retreat? During a time like this?,0.0,[ 1.5361577  -0.89035994],[ 1.9399081 -1.8787622],0.03439575433731079
+385,Tony,iron_man_2.txt,"Just a ride. Well, I’m just saying, to recharge our batteries and figure it all out.",0.0,[ 1.8540692  -0.92262524],[ 2.0212214 -1.873545 ],0.05197829008102417
+386,Pepper,iron_man_2.txt,Not everybody runs on batteries Tony.,0.0,[ 0.6065722  -0.01733947],[ 1.6566538 -1.6366863],0.02426666021347046
+387,Justin,iron_man_2.txt,"Hey. There he is. There he is. What an absolute pleasure. Welcome. Oh goodness gracious. Can we get the handcuffs off my friend here? Forgive me, I’m sorry. I’m such a huge fan of yours. I didn’t want to make a first impression like this. He’s not an animal. Come on. He’s a human being. Thank you. We’re fine. My name is Justin Hammer. I’d like to do some business with you. Please sit. Dig in. What do we have today Jack?",0.1958333333333333,[ 2.0474138 -1.3373841],[ 2.0211682 -2.225502 ],0.17475740611553192
+388,Justin,iron_man_2.txt,"Salmon carpaccio. Anything you want here, we got it. I like my dessert first. I had this flown in from San Francisco. It’s Italian though. Organic ice cream. I got a sweet tooth. Apparently you do too, for Tony Stark. What I saw you do to Tony Stark on that track, how you stepped up to him in front of God and everybody that was… Wow. You spoke to me with what you did. And I know that you knew that I’d be listening. This is why I couldn’t bear to have you shipped off to God knows where. It would have been such a waste of talent. But if I might make a suggestion, you know, you don’t just go and try to kill the guy. I think, if I may, you go after his legacy. That’s what you kill. You and me, we are a lot alike in a lot of ways. The only difference between you and I is that I have resources. I think, if I may, you need my resources. Someone behind you, a benefactor. I’d like to be that guy.",-0.0227272727272727,[ 2.2458913 -1.5253602],[ 1.418336 -1.532413],0.17056046426296234
+389,Ivan,iron_man_2.txt,[Russian; no subs unintelligible],0.0,[ 1.8054476 -1.066518 ],[ 1.583095  -1.4587423],0.025293052196502686
+390,Justin,iron_man_2.txt,Okay. Do you speak English? Because I can get a translator. I don’t know. Have you been understanding everything I’m saying?,0.25,[ 2.058133  -1.2806671],[ 1.8016908 -1.660137 ],0.0486106276512146
+391,Ivan,iron_man_2.txt,"Very good, man.",0.91,[-0.17739955  0.83086693],[ 1.3147005 -1.2837232],0.10703882575035095
+392,Justin,iron_man_2.txt,"Very good, man.",0.91,[-0.17739955  0.83086693],[ 1.3147005 -1.2837232],0.10703882575035095
+393,Ivan,iron_man_2.txt,"Very good, man.",0.91,[-0.17739955  0.83086693],[ 1.3147005 -1.2837232],0.10703882575035095
+394,Justin,iron_man_2.txt,Hey!,0.0,[0.6611168  0.13126478],[ 1.1559635 -1.1226578],0.02856665849685669
+395,Ivan,iron_man_2.txt,[clinking bottle with Justin’s glass] Hey.,0.0,[ 1.3546531  -0.68274134],[ 1.7093875 -1.8105181],0.03053697943687439
+396,Justin,iron_man_2.txt,Yes?,0.0,[ 1.4607873 -0.628932 ],[ 1.1038216 -1.0922269],0.0379202663898468
+397,Ivan,iron_man_2.txt,I want my bird.,0.0,[ 1.6059865  -0.58649707],[ 1.272994  -1.3924989],0.09558898210525513
+398,Justin,iron_man_2.txt,A bird? You want a bird?,0.0,[ 1.9187651 -1.143192 ],[ 1.5695988 -1.6605936],0.03396919369697571
+399,Ivan,iron_man_2.txt,I want my bird.,0.0,[ 1.6059865  -0.58649707],[ 1.272994  -1.3924989],0.09558898210525513
+400,Justin,iron_man_2.txt,I can get you a bird. I can get you ten birds.,0.0,[ 1.7116369 -1.0038738],[ 1.1526135 -1.2323428],0.05502372980117798
+401,Ivan,iron_man_2.txt,I want my bird.,0.0,[ 1.6059865  -0.58649707],[ 1.272994  -1.3924989],0.09558898210525513
+402,Justin,iron_man_2.txt,"Well, okay. Nothing’s impossible. I could… Are we talking about… Is this a bird back in Russia?",-0.0555555555555555,[ 1.8930752 -1.2086692],[ 1.5636615 -1.7605448],0.02947792410850525
+403,Pepper,iron_man_2.txt,"[on phone] Yes, but the fundamentals of the company are still very, very strong despite the events in Monaco.",0.5633333333333334,[ 1.6761461  -0.94368666],[ 2.1594272 -2.0862885],0.02172333002090454
+404,Natalie,iron_man_2.txt,"[also on phone. But a different phone] Yes, of course. [To Pepper] The AP wants a quote.",0.1,[ 1.0094906 -0.3783144],[ 1.9204675 -1.8873805],0.02003583312034607
+405,Pepper,iron_man_2.txt,[covers speaker] Don’t tell them. Fax them…,0.0,[ 1.6095852 -1.0411756],[ 1.7567747 -1.7367662],0.056915730237960815
+406,Rhodey,iron_man_2.txt,[entering] Where is he?,0.0,[ 2.2284079 -1.4521041],[ 1.8334445 -2.028495 ],0.05082312226295471
+407,Natalie,iron_man_2.txt,He doesn’t want to be disturbed.,0.0,[ 1.4769174 -0.728359 ],[ 1.5559288 -1.5578885],0.14317381381988525
+408,Pepper,iron_man_2.txt,He’s downstairs.,0.0,[ 1.291112  -0.5659357],[ 1.2025915 -1.2782462],0.06709328293800354
+409,Pepper,iron_man_2.txt,"Yes, but….",0.0,[ 1.3627416 -0.7641013],[ 1.4547786 -1.4082223],0.025620639324188232
+410,Pepper,iron_man_2.txt,Iron Man never stopped protecting us. The events in Monaco proved that.,0.0,[0.24473594 0.34428784],[ 1.6710163 -1.8721352],0.02778095006942749
+411,Rhodey,iron_man_2.txt,"Tony, you gotta get upstairs and get on top of this situation right now. Listen. I’ve been on the phone with the National Guard all day, trying to talk them out of rolling tanks up the PCH, knocking down your front door and taking these. They’re gonna take your suits, Tony, okay? They’re sick of the games. You said nobody else would possess this technology for 20 years. Well, guess what? Somebody else had it yesterday. It’s not theoretical anymore. Are you listening to me? Are you okay?",0.1308390022675737,[ 1.5371656 -0.7506212],[ 1.3689944 -1.4588798],0.08452144265174866
+412,Tony,iron_man_2.txt,Let’s go. [Gets out the car. And falls.],0.0,[ 1.7652067 -1.0537081],[ 1.5942672 -1.604577 ],0.02979433536529541
+413,Rhodey,iron_man_2.txt,"Hey, man. Hey, hey! You all right?",0.2857142857142857,[ 1.6815115 -0.8182703],[ 1.7704432 -1.817949 ],0.09040436148643494
+414,Tony,iron_man_2.txt,"Yeah, I should get to my desk. [Rhodey supports him] See that cigar box?",0.0,[ 1.6134515 -1.0556289],[ 1.6563578 -1.8351876],0.1604796051979065
+415,Rhodey,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+416,Tony,iron_man_2.txt,It’s palladium.,0.0,[ 0.8684312  -0.26461607],[ 1.1401645 -1.0762032],0.026403337717056274
+417,Rhodey,iron_man_2.txt,[Tony removes Arc Reactor] Is that supposed to be smoking?,0.0,[ 1.5544413 -1.0842761],[ 1.8256954 -1.9450165],0.02423381805419922
+418,Tony,iron_man_2.txt,"If you must know, it’s neutron damage. It’s from the reactor wall.",0.0,[ 1.4900036 -0.912599 ],[ 1.4283112 -1.7259722],0.01749134063720703
+419,Rhodey,iron_man_2.txt,You had this in your body? And how about the high-tech crossword puzzle on your neck?,0.0,[ 1.7309986 -1.1891983],[ 1.7352898 -1.602943 ],0.12943512201309204
+420,Tony,iron_man_2.txt,Road rash. Thank you. [Replaces Arc Reactor and starts drinking green liquid again.] What are you looking at?,-0.2,[ 1.2048221 -0.8582122],[ 1.4982057 -1.6351571],0.03395095467567444
+421,Rhodey,iron_man_2.txt,I’m looking at you. You wanna do this whole lone gunslinger act and it’s unnecessary. You don’t have to do this alone.,-0.1,[ 1.6157566  -0.89905703],[ 1.4701961 -1.4607655],0.07840040326118469
+422,Tony,iron_man_2.txt,"You know, I wish I could believe that. I really do. But you’ve gotta trust me. Contrary to popular belief, I know exactly what I’m doing.",0.35,[ 1.6949124 -0.9532829],[ 1.744258  -1.6217308],0.13105913996696472
+423,Justin,iron_man_2.txt,"This is where we do it. This is my humble abode. You can work in absolute peace. Must be fun to be dead, right? No pressure. Here they are. I’m very excited. They’re combat-ready. I may have done a few miscalculations and rushed the prototype into production. Sue me, I’m enthusiastic. Go ahead, take a look around. [Ivan puts on glasses and heads towards a computer] You don’t wanna do that. You’ll be able to access that as soon as we generate some encrypted pass codes. Can we generate some encrypted pass codes? Get some of those encrypted pass codes, Jack. Never mind, I… Wow. Okay. Good stuff.",0.2561011904761905,[ 1.4199834  -0.93368816],[ 1.8345354 -1.8839916],0.08074021339416504
+424,Ivan,iron_man_2.txt,[Something Russian] unintelligible,0.0,[ 1.260714   -0.49070707],[ 1.5976083 -1.5370684],0.025648117065429688
+425,Justin,iron_man_2.txt,Sorry?,-0.5,[ 1.2071239 -0.40493  ],[ 1.4876739 -1.4480647],0.08141085505485535
+426,Ivan,iron_man_2.txt,Software shit.,-0.2,[0.02057011 0.47515544],[ 0.8749385  -0.84790677],0.04001045227050781
+427,Justin,iron_man_2.txt,"Well… You’re good. You really blasted in past the firewall there. Let me show you where you’re gonna be working primarily. Go ahead, take a look. Get a good look at that. That’s something, isn’t it? You know, those are really just for show and tell. They’re $125.7 million a pop, so… Wait! [Ivan pulls off one’s head] Oh gosh. Jesus Christ. Get somebody up here. That’s where the pilot goes. I’m having a tough time finding volunteers. I’ll take care of that, just leave it.",0.1158730158730158,[ 1.5767794 -1.0571585],[ 1.4863226 -1.5642215],0.08242926001548767
+428,Ivan,iron_man_2.txt,What you want them do?,0.0,[ 2.151154  -1.2106516],[ 1.6647003 -1.5419105],0.11568444967269897
+429,Justin,iron_man_2.txt,"Well, long term, I want them to put me in the Pentagon for the next 25 years. I want to make Iron Man look like an antique. I wanna go to that Stark Expo, I wanna take a dump in Tony Stark’s front yard. You know what I’m talking about?",-0.1125,[ 1.3965542  -0.83723307],[ 1.3859597 -1.5976666],0.09033173322677612
+430,Ivan,iron_man_2.txt,I can do that. No problem.,0.0,[ 1.2723435  -0.63670385],[ 1.5030226 -1.331914 ],0.0884820818901062
+431,Justin,iron_man_2.txt,"Yeah? Hey, fabulous! I love it. Hey, this is our guy. Didn’t I tell you? I had a feeling.",0.5,[ 0.79812974 -0.1939246 ],[ 1.7240874 -1.7954254],0.1710580736398697
+432,Natalie,iron_man_2.txt,"Do you know which watch you’d like to wear tonight, Mr Stark?",-0.2,[ 2.0891683 -1.4984342],[ 1.7627584 -1.9905716],0.1191924512386322
+433,Tony,iron_man_2.txt,I’ll give them a look. I should cancel the party.,0.0,[ 1.9220809 -1.086591 ],[ 1.1634116 -1.1079949],0.10330089926719666
+434,Natalie,iron_man_2.txt,Probably.,0.0,[0.38521358 0.1475034 ],[ 0.82102454 -0.7350594 ],0.036011725664138794
+435,Tony,iron_man_2.txt,Yeah. ‘Cause it’s…,0.0,[ 0.84053266 -0.14266282],[ 1.7081264 -1.7738924],0.03238096833229065
+436,Natalie,iron_man_2.txt,Ill-timed.,0.0,[0.68818676 0.12518021],[ 1.2555687 -1.1454916],0.025309115648269653
+437,Tony,iron_man_2.txt,"Right, sends the wrong message.",-0.1071428571428571,[ 1.0127591  -0.25978878],[ 1.3141434 -1.3124198],0.03953498601913452
+438,Natalie,iron_man_2.txt,Inappropriate. [Tony drinks a bit of his drink that Natalie hands him] Is that dirty enough for you?,-0.3,[ 1.7227861 -1.2446191],[ 0.7619678  -0.91820574],0.1700994074344635
+439,Tony,iron_man_2.txt,"Gold face, brown hand. The Jaeger. I’ll give that a look. Bring them over. [Natalie hands him the box of watches] I’ll take that. Why don’t you… [She sits, smiles softly and starts helping him cover his bruise] I gotta say it. It’s hard to get a read on you. Where are you from?",-0.0958333333333333,[ 2.1910279 -1.5544229],[ 1.7738429 -1.8652819],0.17603090405464172
+440,Natalie,iron_man_2.txt,Legal.,0.2,[ 0.80056393 -0.10336126],[ 1.0009513 -0.90079  ],0.030469655990600586
+441,Tony,iron_man_2.txt,"Can I ask you a question, hypothetically? Bit odd. If this was your last birthday party you were ever gonna have, how would you celebrate it?",-0.0833333333333333,[ 2.2518857 -1.5169941],[ 1.9447079 -1.9723443],0.16860651969909668
+442,Natalie,iron_man_2.txt,"I’d do whatever I wanted to do with whoever I wanted to do it with. [She leaves Tony finishes his drink. Scene change. He’s now drunk, by a DJ, dancing in the suit. Cars pull up outside]",-0.25,[ 1.792915  -1.0344257],[ 1.3929425 -1.3982352],0.1542639434337616
+443,Rhodey,iron_man_2.txt,"Yes, sir, I understand. No. No, sir, that will not be necessary. I’ll handle it. Sir, I personally guarantee that within 24 hours, Iron Man will be back on watch. [Enters party] Hey Pepper.",0.0,[ 1.9319355 -1.0993488],[ 1.6819763 -1.7305975],0.07406944036483765
+444,Pepper,iron_man_2.txt,I’m going to get some air.,0.0,[ 1.6947392 -0.7759683],[ 1.2358168 -1.1551039],0.09065458178520203
+445,Rhodey,iron_man_2.txt,What’s wrong?,-0.5,[ 2.2967024 -1.3606488],[ 1.5017018 -1.5268954],0.10613061487674713
+446,Pepper,iron_man_2.txt,[Showing Rhodey Tony] I don’t know what to do.,0.0,[ 1.8613561 -0.9287175],[ 1.9966036 -2.1124806],0.03429895639419556
+447,Rhodey,iron_man_2.txt,"You gotta be kidding me. [Tony falls over, drunk] That’s it, I’m making….",-0.5,[ 1.2970165 -0.6801302],[ 1.6756605 -1.6564857],0.14583736658096313
+448,Pepper,iron_man_2.txt,"No, no, no. Don’t call anyone.",0.0,[ 2.162984  -1.3990166],[ 1.4990135 -1.3837584],0.06816735863685608
+449,Rhodey,iron_man_2.txt,Pepper. This is ridiculous. I just stuck my neck out for this guy.,-0.3333333333333333,[ 1.4439632 -0.550109 ],[ 1.607328  -1.5836765],0.1682736575603485
+450,Pepper,iron_man_2.txt,"I know. I know. I get it. I’m gonna handle it, okay Just let me handle it.",0.5,[ 1.5752897 -0.6030761],[ 1.7970802 -1.5442257],0.17252996563911438
+451,Rhodey,iron_man_2.txt,Handle it. Or I’m gonna have to.,0.0,[ 1.82825    -0.81941545],[ 1.1649882 -1.043259 ],0.10984230041503906
+452,Tony,iron_man_2.txt,"[To crowd] You know, the question I get asked most often is, “Tony, how do you go to the bathroom in the suit?” Just like that. [Cheering. Pepper walks up to him]",0.5,[ 1.1334463 -0.4042287],[ 1.8384744 -2.0172713],0.1451139748096466
+453,Pepper,iron_man_2.txt,Does this guy know how to throw a party or what?,0.0,[ 1.5315274 -0.852074 ],[ 1.1325723 -1.1832947],0.06442469358444214
+454,Tony,iron_man_2.txt,I love you.,0.5,[0.2935631 0.4556276],[ 1.6109477 -1.5203456],0.19304567575454712
+455,Pepper,iron_man_2.txt,"Unbelievable! Thank you so much. Tony, we all thank you so much for such a wonderful night. And we’re gonna say good night now, and thank you all for coming.",0.2979166666666666,[ 1.544166 -0.744549],[ 1.8427802 -1.8033217],0.16674154996871948
+456,Tony,iron_man_2.txt,"No, no, no, we can’t … Wait, wait, wait. We didn’t have the cake. We didn’t blow out the candles.",0.0,[ 1.8801708 -1.320127 ],[ 1.8043498 -1.7543491],0.08177739381790161
+457,Pepper,iron_man_2.txt,"You’re out of control, okay? Trust me on this, okay?",0.5,[ 2.002549 -1.075607],[ 1.2415897 -1.2067716],0.1702766716480255
+458,Tony,iron_man_2.txt,You’re out of control gorgeous.,0.7,[0.65706664 0.14971715],[-0.2273747   0.36153764],0.1763797551393509
+459,Pepper,iron_man_2.txt,It’s time to go to bed. It’s time.,0.0,[ 2.0275943 -1.1041303],[ 1.2795984 -1.158616 ],0.06011676788330078
+460,Tony,iron_man_2.txt,Give me another smooch,0.0,[ 1.5929174 -0.7805417],[ 1.128053  -1.3306719],0.17497143149375916
+461,Pepper,iron_man_2.txt,You’re not going to be happy about this.,0.8,[ 1.1488159  -0.45997512],[ 1.3199495 -1.1967776],0.17174354195594788
+462,Tony,iron_man_2.txt,"Come on, you know you want to.",0.0,[ 1.006256   -0.22088331],[ 1.2843431 -1.1312671],0.17263749241828918
+463,Pepper,iron_man_2.txt,You just peed in the suit.,0.0,[0.03728322 0.39552882],[ 1.2851335 -1.2758818],0.14204910397529602
+464,Tony,iron_man_2.txt,I know. It has a filtration system.,0.0,[0.13836175 0.4024949 ],[ 1.5609864 -1.4789358],0.019461333751678467
+465,Pepper,iron_man_2.txt,It’s not sexy.,-0.25,[0.61086977 0.070141  ],[ 0.7493856 -0.8385289],0.1919100135564804
+466,Tony,iron_man_2.txt,You could drink that water.,0.0,[ 0.7450798 -0.1955679],[ 1.212373  -1.0883471],0.058858782052993774
+467,Pepper,iron_man_2.txt,"Just send everybody home, okay? It’s time to…",0.5,[ 1.3812584  -0.51032364],[ 1.6284324 -1.6646725],0.034227848052978516
+468,Tony,iron_man_2.txt,If you say so.,0.0,[0.6915634  0.02450794],[ 1.0283306 -0.9867414],0.05438980460166931
+469,Pepper,iron_man_2.txt,"Okay. I’ll take this, you take that [exchanges microphone for bottle]",0.5,[ 1.8494067 -1.2281551],[ 1.5429207 -1.5548644],0.04684680700302124
+470,Tony,iron_man_2.txt,"Pepper Potts. She’s right. The party’s over. Then again, the party was over for me, like, an hour and a half ago. The after-party starts in 15 minutes. And if anybody, Pepper, doesn’t like it, there’s the door. [accidently shoots it with the suit.] Yeah! [Girl throws bottle it the air] Hit! [Rhodey leaves as he shoots it] Pull! [Rhodey goes downstairs. Drunk girl is still throwing things for Tony to shoot. Rhodey gets into one of the suits. Another girl appears with a watermelon] I think she wants the Gallagher!",-0.0724516369047618,[ 1.724377  -1.2002308],[ 0.27324122 -0.2594212 ],0.12970498204231262
+471,Rhodey,iron_man_2.txt,[In full suit] I’m only gonna say this once. Get out. [Helmet slips down. Everybody leaves.] You don’t deserve to wear one of these. Shut it down!,-2.0816681711721685e-17,[ 1.978053  -1.1367832],[ 0.93546534 -0.9742924 ],0.14631716907024384
+472,Tony,iron_man_2.txt,[To DJ] Goldstein.,0.0,[ 1.4005936  -0.85460496],[ 1.6030616 -1.7011431],0.027932018041610718
+473,Tony,iron_man_2.txt,Give me a phat beat to beat my buddy’s ass to. [Laughs. Another One Bites the Dust by Queen starts to play.],0.0,[ 2.0383704 -1.1527834],[ 1.4909495 -1.6583072],0.16495361924171448
+474,Rhodey,iron_man_2.txt,[Grabbing hold on Tony from behind] I told you to shut it down. [Tony takes off backwards],-0.2777777777777778,[ 1.3384755 -0.4900193],[ 1.2667223 -1.3905951],0.045666635036468506
+475,Tony,iron_man_2.txt,"Now, put that thing back where you found it before someone gets hurt. [Rhodey throws things at him] Really? [Tony hits him with a set of weights] Sorry, pal, but Iron Man doesn’t have a sidekick.",-0.0999999999999999,[ 1.898288  -1.1011791],[ 1.1804724 -1.3914759],0.10697270929813385
+476,Rhodey,iron_man_2.txt,[Hitting Tony with a pipe] Sidekick this. [Tony goes up throw the ceiling.] Had enough?,0.0,[ 1.8663605 -1.0587777],[ 1.2566777 -1.5270411],0.033190906047821045
+477,Pepper,iron_man_2.txt,Natalie!,0.0,[0.59876543 0.2510672 ],[ 1.3991445 -1.3732132],0.042995065450668335
+478,Natalie,iron_man_2.txt,Miss Potts.,0.0,[0.29058838 0.39401183],[ 1.1436857 -1.0950879],0.039347320795059204
+479,Pepper,iron_man_2.txt,Don’t you “Miss Potts” me! I’m on to you. You know what? Ever since you came here… [Tony and Rhodey come crashing through the ceiling],0.0,[ 1.7043622 -1.0660546],[ 1.1889851 -1.2187008],0.17723235487937927
+480,Happy,iron_man_2.txt,Pepper! [Runs in to get her out of the way] Get out of here. Get out of here now. [Natalie heads off somewhere.],0.0,[ 1.5611285 -0.9131538],[ 0.13281627 -0.25829533],0.13986244797706604
+481,Tony,iron_man_2.txt,"You want it? Take it! [Beats Rhodey and turns to growl at crowd, who run off. Rhodey gets back up]",0.0,[ 1.970879  -1.1961762],[ 0.83638394 -1.1640915 ],0.1308218091726303
+482,Rhodey,iron_man_2.txt,Put you hand down.,-0.1555555555555555,[ 1.2976723  -0.47183296],[ 1.2779819 -1.2253593],0.11457398533821106
+483,Tony,iron_man_2.txt,You think you got what it takes to wear that suit?,0.0,[ 1.6208128  -0.90266913],[ 1.1997839 -1.2057784],0.09659650921821594
+484,Rhodey,iron_man_2.txt,"We don’t have to do this, Tony.",0.0,[ 1.3314469  -0.56692743],[ 1.6509472 -1.5153859],0.06323039531707764
+485,Tony,iron_man_2.txt,"You wanna be the War Machine, take your shot.",0.0,[ 1.0962552 -0.3001173],[ 1.5730478 -1.5163138],0.08521059155464172
+486,Rhodey,iron_man_2.txt,Put it down!,-0.1944444444444444,[ 1.3178647  -0.41865116],[ 0.8648152 -0.8905159],0.03375670313835144
+487,Tony,iron_man_2.txt,You gonna take a shot?,0.0,[ 1.8816137 -1.017285 ],[ 1.6486288 -1.6716312],0.07750600576400757
+488,Rhodey,iron_man_2.txt,Put it down!,-0.1944444444444444,[ 1.3178647  -0.41865116],[ 0.8648152 -0.8905159],0.03375670313835144
+489,Tony,iron_man_2.txt,No!,0.0,[0.7419055  0.01583339],[ 0.86186445 -0.79056174],0.028834402561187744
+490,Rhodey,iron_man_2.txt,Drop it Tony!,0.0,[ 1.5359318  -0.54474854],[ 1.1491579 -1.2176983],0.03641641139984131
+491,Tony,iron_man_2.txt,Take it! [Their blasts meet and there goes Tony’s house. Both of them are knocked backwards. Tony looks around and sees Rhodey take off in the suit.],0.0,[ 1.2088178 -0.5904513],[ 1.376091  -1.6462384],0.08105939626693726
+492,Rhodey,iron_man_2.txt,"Edwards Tower, this is Lieutenant Colonel James Rhodes, inbound from three miles east at 5,000 feet… [Rhodey lands in suit.]",0.0,[ 1.3643378 -0.8776003],[ 1.6656723 -2.0422487],0.020368844270706177
+493,Rhodey,iron_man_2.txt,Major.,0.0625,[ 0.9510048  -0.26296902],[ 0.9416133  -0.86708665],0.02457532286643982
+494,Rhodey,iron_man_2.txt,Yeah. Let’s take it inside.,0.0,[ 1.2223723  -0.45758462],[ 1.4498142 -1.3931645],0.11267513036727905
+495,Tony,iron_man_2.txt,[Now inside sitting at a table with Fury] I told you I don’t wanna join your super-secret boy band.,0.0,[ 1.1593547 -0.3445344],[ 1.8491383 -1.8638822],0.15536615252494812
+496,Fury,iron_man_2.txt,"No, no, no. See, I remember, you do everything yourself. How’s that working out for you?",0.0,[ 1.28632    -0.67342955],[ 1.7504503 -1.6014308],0.11454929411411285
+497,Tony,iron_man_2.txt,It’s… It’s… It’s… I’m sorry. I don’t wanna get off on the wrong foot. Do I look at the patch or the eye? Honestly I’m a bit hung over. I’m not sure if you’re real of if I’m having…,-0.09,[ 2.149866  -1.6105591],[ 2.1518357 -2.167908 ],0.17073571681976318
+498,Fury,iron_man_2.txt,I am very real. I’m the realest person you’re ever gonna meet.,0.26,[ 1.6537348  -0.99469185],[ 1.8244814 -1.7583394],0.1740141361951828
+499,Tony,iron_man_2.txt,Just my luck. Where’s the staff here?,0.0,[ 2.3147023 -1.4604037],[ 1.9286238 -1.8451568],0.13701345026493073
+500,Fury,iron_man_2.txt,That’s not looking so good.,0.7,[ 0.6416821  -0.05221761],[ 0.91515565 -0.90057063],0.10944396257400513
+501,Tony,iron_man_2.txt,I’ve been worse. [A woman walks over. Camera angle is such that you can’t see her face.],-0.2,[ 1.2603856  -0.48838595],[ 0.3504663  -0.19425139],0.08901557326316833
+502,Tony,iron_man_2.txt,[Looks over top of glasses. Sees Natalie.] You’re fired.,0.5,[ 1.0746305 -0.5006405],[ 1.593634  -1.3171992],0.08676636219024658
+503,Natalie,iron_man_2.txt,That’s not up to you. [Sits down next to Fury],-0.0777777777777777,[ 1.8066623 -0.9967705],[ 1.607202  -1.7972001],0.03469860553741455
+504,Fury,iron_man_2.txt,"Tony, I want you to meet Agent Romanoff.",0.0,[ 0.94092864 -0.3045326 ],[ 1.8251816 -1.9134156],0.13176757097244263
+505,Tony,iron_man_2.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+506,Tony,iron_man_2.txt,I suggest you apologise.,0.0,[ 0.81617767 -0.16718006],[ 1.4610716 -1.3398551],0.1384916603565216
+507,Fury,iron_man_2.txt,"You’ve been very busy. You made your girl your CEO, you’re giving away all your stuff. You let your friend fly away with your suit. Now, if I didn’t know better…",0.465,[-0.3001033   0.66479915],[ 0.8935437 -0.9586109],0.1774757206439972
+508,Tony,iron_man_2.txt,You don’t know better. I didn’t give it to him. He took it.,0.5,[ 2.2174509 -1.5677931],[ 1.4814949 -1.5811878],0.175371915102005
+509,Fury,iron_man_2.txt,"Whoa, whoa, whoa. He took it? You’re Iron Man and he just took it? The little brother walked in there, kicked your ass and took your suit? [Turns to Agent Romanoff] Is that possible?",-0.09375,[ 1.2437986  -0.64133185],[ 1.284196  -1.5434219],0.1614135503768921
+510,Tony,iron_man_2.txt,What do you want from me?,0.0,[ 2.3066514 -1.4101489],[ 1.6325125 -1.6049101],0.17251363396644592
+511,Fury,iron_man_2.txt,"What do we want from you? What do you want from me? [Agent Romanoff leaves] You have become a problem, a problem I have to deal with. Contrary to your belief, you are not the centre of my universe. I have bigger problems than you in the southwest region to deal with. [Romanoff returns with an injection] Hit him.",0.0,[ 2.1989567 -1.4609516],[ 1.1492349 -1.3453007],0.1735493242740631
+512,Tony,iron_man_2.txt,"Oh, God, are gonna steal my kidney and sell it? [Rash goes down] Could you please not do anything awful for five seconds? What did she just do to me?",-0.5777777777777778,[ 1.8870339 -1.1137544],[ 0.6299622 -0.7304261],0.17544402182102203
+513,Fury,iron_man_2.txt,What did we just do for you? That’s lithium dioxide. It’s gonna take the edge off. We’re trying to get you back to work.,0.0,[ 0.77396935 -0.3428562 ],[ 1.9382159 -1.8350524],0.10344716906547546
+514,Tony,iron_man_2.txt,Give me a couple of boxes of that. I’ll be right as rain.,0.2857142857142857,[ 2.1011221 -1.2581685],[ 1.1955721 -1.1584978],0.09515562653541565
+515,Fury,iron_man_2.txt,Doesn’t look like it’s gonna be an easy fix.,0.4333333333333333,[ 1.4008777  -0.59476614],[ 1.5123006 -1.4750434],0.06920534372329712
+516,Tony,iron_man_2.txt,"Trust me, I know. I’m good at this stuff. I’ve been looking for a suitable replacement for palladium. I’ve tried every combination, every permutation of every known element.",0.625,[ 1.5553845 -0.9725458],[ 1.9960638 -1.9717131],0.05886402726173401
+517,Fury,iron_man_2.txt,"Well, I’m here to tell you, you haven’t tried them all.",0.0,[ 1.4230984 -0.7187073],[ 1.713415  -1.5086402],0.10774420201778412
+518,Justin,iron_man_2.txt,"Hey, hey, het. Special delivery. Candygram. [Ivan climbs down from where he was working] I brought you something. Oh yeah. [Removes cloth] We got you the bird, pal.",0.1007936507936507,[ 1.5761231 -1.0890312],[ 1.8175801 -2.048416 ],0.1014421284198761
+519,Ivan,iron_man_2.txt,This is not my bird.,0.0,[ 1.5901544  -0.72323424],[ 1.1662809 -1.3205899],0.05047526955604553
+520,Justin,iron_man_2.txt,"What do you mean? That’s the bird. This is the bird. Yeah, pulled a lot of strings to get this bird. This is a great bird.",0.24375,[ 1.4267559  -0.82089955],[ 1.3154528 -1.3690048],0.036716341972351074
+521,Justin,iron_man_2.txt,We got this bird all the way from Russia.,0.0,[ 0.66167676 -0.01014313],[ 0.9306128 -1.0437633],0.02487918734550476
+522,Ivan,iron_man_2.txt,"Hey, man, this is not my bird.",0.0,[ 2.0128767 -1.1644875],[ 1.4207567 -1.6014287],0.0827593207359314
+523,Justin,iron_man_2.txt,"Well, listen, even if it’s not the bird, I mean, this is a gorgeous bird. I mean, you know, look, don’t get so attached to things. Learn to let go. Wait a minute. Jack, what is that? Is that… That’s not a helmet. What is that? [Walks up to suit] Ivan… What’s this? Jack. Is that a helmet? It doesn’t look like a helmet to me. How… How are you supposed to get a head in there? Jack, could you put your head in there?",0.0249999999999999,[ 2.1521494 -1.5370893],[ 1.6561682 -1.8517236],0.09803307056427002
+524,Justin,iron_man_2.txt,"Try to put your head in there. Go ahead. Try to put your head in there. [Jack put it on his head] See, Ivan? He can’t put his head in there. That’s… That’s not a helmet. It’s a head. I need to put a guy in there. I need to fit a person in that suit. You understand?",0.4,[ 1.9901743 -1.2942003],[ 1.595706  -1.6165327],0.16128982603549957
+525,Ivan,iron_man_2.txt,Drone better.,0.5,[0.48423392 0.08548234],[ 1.2243421 -1.1611897],0.02130943536758423
+526,Justin,iron_man_2.txt,What? Drone better? Why is drone better? Why is drone better?,0.5,[ 1.2494129  -0.82257956],[ 1.3099905 -1.2322909],0.036119282245635986
+527,Ivan,iron_man_2.txt,People make problem. Trust me. Drone better.,0.5,[ 1.4547246  -0.78381807],[ 1.4940928 -1.3272672],0.08815017342567444
+528,Justin,iron_man_2.txt,"Ivan, you know, I like you. I got you the bird. You said, “No problem.” That’s what you said to me. You said, “No problem.” Now I need suits. The government wants suits. Like Iron Man. You understand? That’s what the people want. That’s what’s gonna make them happy.",0.5,[0.10472991 0.42328578],[ 1.4405638 -1.5564183],0.13784387707710266
+529,Ivan,iron_man_2.txt,"Hey, man. Don’t get too attached to things. Learn to let go.",0.0,[ 1.9706216 -1.2064128],[ 1.873336  -1.7874212],0.07107922434806824
+530,Justin,iron_man_2.txt,"These drones better steal the show, Ivan. You understand? Better rock my world, Ivan.",0.5,[0.4648975  0.04871021],[ 0.41032398 -0.29058108],0.09879693388938904
+531,Rhodey,iron_man_2.txt,Fully mission-capable.,0.0,[0.663429   0.06812254],[ 1.6152947 -1.5578988],0.020684003829956055
+532,Rhodey,iron_man_2.txt,Sir?,0.0,[ 1.3000687  -0.43210432],[ 1.2778356 -1.2247066],0.04821956157684326
+533,Rhodey,iron_man_2.txt,"Sir, I don’t believe that the Expo…",0.0,[ 1.5646067  -0.93544734],[ 1.7156291 -1.7704098],0.04192814230918884
+534,Rhodey,iron_man_2.txt,"Yes, General, but…",0.05,[ 1.8003246 -1.1124514],[ 1.8862078 -1.9169765],0.030720025300979614
+535,Rhodey,iron_man_2.txt,Yes sir.,0.0,[0.26986057 0.28475237],[ 1.1048143 -1.0551014],0.1003294587135315
+536,Rhodey,iron_man_2.txt,Thank you sir.,0.0,[-0.17417514  0.7789562 ],[ 1.3263236 -1.3214654],0.15962335467338562
+537,Fury,iron_man_2.txt,That thing in your chest is based on unfinished technology.,0.0,[-0.13846117  0.5799225 ],[ 1.8865474 -1.8129059],0.07051539421081543
+538,Tony,iron_man_2.txt,"No, it was finished. It has never been particularly effective until I miniaturised it and put it in my…",0.6,[ 1.6526035  -0.98910236],[ 1.9593519 -1.8581187],0.028639793395996094
+539,Fury,iron_man_2.txt,"No. Howard said the arc reactor was the stepping stone to something greater. He was about to kick off an energy race that was gonna dwarf the arms race. He was on to something big, something so big that it was gonna make the nuclear reactor look like a triple-A battery.",0.1666666666666666,[0.01634889 0.3792154 ],[ 1.4568007 -1.5778259],0.025630533695220947
+540,Tony,iron_man_2.txt,"Just him, or Anton Vanko in on this too?",0.0,[ 2.1988854 -1.2995044],[ 1.532045  -1.5819423],0.036663174629211426
+541,Fury,iron_man_2.txt,"Anton Vanko is the other side of that coin. Anton saw it as a way to get rich. When your father found out, he had him deported. When the Russians found out he couldn’t deliver they shipped his ass off to Siberia and he spent the next 20 years in a vodka-fuelled rage. Not quite the environment you want to raise a kid in, the son you had the misfortune of crossing paths with in Monaco.",0.0375,[ 1.3943928 -0.8306306],[ 1.0449638 -1.3325523],0.15832340717315674
+542,Tony,iron_man_2.txt,You told me I hadn’t tried everything. What do you mean I haven’t tried everything? What haven’t I tried?,-0.3125,[ 1.8568248 -1.185308 ],[ 2.1401742 -2.107629 ],0.04806739091873169
+543,Fury,iron_man_2.txt,He said that you were the only person with the means and knowledge to finish what he started.,0.0,[ 1.19197   -0.4303992],[ 1.864719  -1.8716396],0.04553389549255371
+544,Tony,iron_man_2.txt,He said that?,0.0,[ 0.851444   -0.14551601],[ 1.4318792 -1.4280987],0.03781631588935852
+545,Fury,iron_man_2.txt,"Are you that guy? Are you? ‘Cause if you are, then you can solve the riddle of your heart.",0.0,[ 2.0473378 -1.1577811],[ 1.9563793 -2.0300274],0.14885343611240387
+546,Tony,iron_man_2.txt,"I don’t know where you get your information, but he wasn’t my biggest fan.",0.0,[ 1.7843641 -1.1456658],[ 1.6499802 -1.7456515],0.1718781739473343
+547,Fury,iron_man_2.txt,What do you remember about your dad?,0.0,[ 2.3199215 -1.3078972],[ 1.9959569 -2.0324545],0.17000441253185272
+548,Tony,iron_man_2.txt,"He was cold, he was calculating. He never told me he loved me. He never even told me he liked me, so it’s a little tough for me to digest when you’re telling me he said the whole future was riding on me and he’s passing it down. I don’t get that. You’re talking about a guy who’s happiest day was when he shipped me off to boarding school.",0.0210069444444444,[ 1.7025868 -1.0278434],[ 1.9664792 -2.0704603],0.17250598967075348
+549,Fury,iron_man_2.txt,That’s not true.,-0.175,[ 1.3164763 -0.6297805],[ 1.0666862  -0.99406445],0.03977295756340027
+550,Tony,iron_man_2.txt,"Well, then, clearly you knew my dad better than I did.",0.3,[-0.00389753  0.5412479 ],[ 1.645704  -1.5551106],0.16834083199501038
+551,Fury,iron_man_2.txt,"As a matter of fact, I did. He was one of the founding members of SHIELD.",0.0,[ 1.5419406  -0.81118983],[ 1.8493189 -1.9449476],0.0577542781829834
+552,Tony,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+553,Fury,iron_man_2.txt,I got a two o’clock,0.0,[ 1.3489803  -0.48974717],[ 1.4145843 -1.2229191],0.05455964803695679
+554,Tony,iron_man_2.txt,"Wait, wait, wait, wait. What’s this?",0.0,[ 1.8881869 -1.1031392],[ 1.5436934 -1.6366765],0.02840670943260193
+555,Fury,iron_man_2.txt,"Okay, you’re good, right?",0.4952380952380952,[0.422661   0.24776688],[ 1.6353104 -1.7124361],0.17540428042411804
+556,Tony,iron_man_2.txt,"No, I’m not good.",-0.35,[ 1.3345988 -0.5494675],[ 1.6284385 -1.5954528],0.15432414412498474
+557,Fury,iron_man_2.txt,You got this? Right? Right?,0.2857142857142857,[ 1.6375146  -0.76144296],[ 1.4780258 -1.3830162],0.0670974850654602
+558,Tony,iron_man_2.txt,Got what? I don’t even know what I’m supposed to get.,0.0,[ 2.129578  -1.2602108],[ 1.702309  -1.7358137],0.03631401062011719
+559,Fury,iron_man_2.txt,"Natasha will remain a floater at Stark with her cover intact. You remember Agent Coulson, right?",0.0428571428571428,[ 0.93287593 -0.32354456],[ 0.91089743 -0.9277458 ],0.0827900767326355
+560,Tony,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+561,Fury,iron_man_2.txt,"And Tony, remember, I got my eye on you. [Fury leaves]",0.0,[ 1.8804078  -0.92048156],[ 1.5021025 -1.8072885],0.1767166256904602
+562,Tony,iron_man_2.txt,"[Turning to Agent Coulson] Please. First thing, I need a little bodywork. I’ll put in a little time at the lab. If we could send one of your goon squad down to The Coffee Bean, Cross Creek, for a Starbucks run, or something like that, that’d be nice.",0.0532407407407407,[ 2.0994751 -1.3268145],[ 1.9711839 -2.155077 ],0.12980568408966064
+563,Tony,iron_man_2.txt,"I think I got it, yeah.",0.0,[ 0.94928294 -0.16096148],[ 1.4980657 -1.3972943],0.08445385098457336
+564,Rhodey,iron_man_2.txt,"Major, this is not a scientific exercise. Let’s just focus on arming it, all right?",0.1741071428571428,[ 0.6082396  -0.07365331],[ 1.5869261 -1.6536225],0.04078638553619385
+565,Justin,iron_man_2.txt,"[Entering. Sucking on a red lollipop.] Oh, yes! Oh, yes, yes, yes. Is it my birthday? You got it. What did you do? What did you do? Is this what I think it is?",0.0,[ 1.7464542 -1.1538762],[ 1.8120258 -1.9259282],0.12570592761039734
+566,Rhodey,iron_man_2.txt,"Yes it is. Hammer, I want to know what you’re gonna do for us.",0.0,[ 1.900219   -0.90009755],[ 1.8515569 -1.9782673],0.16727274656295776
+567,Justin,iron_man_2.txt,"What am I going to do for you? Well, the first thing I’m gonna do for you is I’m gonna upgrade your software. And then, second, I think I should…",0.125,[ 1.7408836 -1.1222143],[ 2.0914354 -2.0615911],0.06129080057144165
+568,Rhodey,iron_man_2.txt,That’s not what I’m talking about. I’m talking about firepower.,0.0,[ 1.6828921 -1.0220743],[ 1.3853213 -1.4243234],0.058347612619400024
+569,Justin,iron_man_2.txt,"Well, you’re talking to the right guy. [Bites lollipop. Time jump. Kind of. He now has weapons to show to Rhodey.] Claridge Hi-Tec, semi-automatic, 9mm pistol. Too downtown? I agree. M24 shotgun, pump action. Five-round magazine. You know what? You’re not a hunter. What am I talking about? I’m getting rid of it. This is the FN-2000 from Belgium. They do make something better than waffles. It’s beautiful, But I can tell this isn’t disco enough for you, so I’m gonna put it right here. You’re looking at a Milkor 40mm grenade launcher. Tear gas, smoke. Hippie control. You’re tough. Let me tell you something. Size does matter. Don’t let anyone tell you different. This is an M134 7.62 Minigun. Six invidual barrels. The torso taker, powder maker. Our boys in uniform call in Uncle Gazpacho or Puff the Magic Dragon. Okay. These are the Cubans, baby. This is the Cohibas, the Montecristos. This is a kinetic-kill, side-winder vehicle with a secondary cyclotrimethlyenetrinitamine RDX burst. It’s capable of busting the bunker under the bunker you just busted. If it were any smarter, it would write a book. A book that would make Ulysses look like it was written in crayon. It would read it to you. This is my Eiffel Tower. This is my Rachmaninoff’s Third. My Pieta. It’s completely elegant. It’s bafflingly beautiful. And it’s capable of reducing the population of any standing structure to zero. I call it the Ex-Wife. That’s the best I got. Are we gonna do this? Give me something here. You’re like a sphinx. I can’t read you.",0.3156966490299824,[ 2.0451021 -1.4242504],[ 1.0839902 -1.2716436],0.06798219680786133
+570,Rhodey,iron_man_2.txt,I think I’ll take it.,0.0,[ 1.9121288  -0.97814023],[ 0.9882073 -0.9763612],0.1617688238620758
+571,Justin,iron_man_2.txt,Which one?,0.0,[ 2.2186809 -1.2832003],[ 1.1376799 -1.1569566],0.02957737445831299
+572,Rhodey,iron_man_2.txt,All of it.,0.0,[0.5686869 0.1568461],[ 1.196045  -1.0770031],0.05757436156272888
+573,Justin,iron_man_2.txt,All of it.,0.0,[0.5686869 0.1568461],[ 1.196045  -1.0770031],0.05757436156272888
+574,Tony,iron_man_2.txt,I don’t have any dough. Here. [Takes off watch],0.0,[ 2.0891693 -1.4142684],[ 1.6260229 -1.6984249],0.03547251224517822
+575,Tony,iron_man_2.txt,"No, it’s fine. Take that. It’s fine",0.4166666666666667,[ 0.9240435  -0.10379884],[ 1.7075344 -1.6061074],0.07808715105056763
+576,Tony,iron_man_2.txt,"Take it. Take it. I don’t like people handing me things. If you just drop that there, that’d be great.",0.8,[ 1.7461418 -1.2302933],[ 1.7257389 -1.8814582],0.14142416417598724
+577,Tony,iron_man_2.txt,Sometimes.,0.0,[0.18680564 0.38409117],[ 1.0803562  -0.96846604],0.04992097616195679
+578,Pepper,iron_man_2.txt,It was an illegal seizure of trademark property.,-0.5,[0.05601589 0.185103  ],[ 1.5745736 -1.5133581],0.026918083429336548
+579,Tony,iron_man_2.txt,Relax.,0.0,[-0.03843613  0.45275792],[ 1.6164228 -1.4398855],0.024659067392349243
+580,Tony,iron_man_2.txt,Is here.,0.0,[0.6042027  0.05763124],[ 1.2033484 -1.1747646],0.04237905144691467
+581,Tony,iron_man_2.txt,I don’t. It’s fine. I’ll just be a second.,0.2083333333333333,[ 2.095478  -1.1701877],[ 1.6731906 -1.5707511],0.12314847111701965
+582,Pepper,iron_man_2.txt,"No, the suit belongs to us.",0.0,[ 1.200726  -0.5692835],[ 1.5893843 -1.5759144],0.04403024911880493
+583,Pepper,iron_man_2.txt,"Yeah, but you’re not…",0.0,[ 1.3057588  -0.59418976],[ 1.6772889 -1.7084516],0.0906623899936676
+584,Pepper,iron_man_2.txt,Burt…,0.0,[ 0.93551314 -0.31869942],[ 1.4828812 -1.5696355],0.03881436586380005
+585,Pepper,iron_man_2.txt,"Yes, it does.",0.0,[0.39376506 0.16080716],[ 1.2363077 -1.133288 ],0.025737494230270386
+586,Pepper,iron_man_2.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+587,Tony,iron_man_2.txt,Mute.,0.0,[0.64022845 0.17036009],[ 1.1218289 -1.0146731],0.08673590421676636
+588,Pepper,iron_man_2.txt,"No… Burt… Burt… Burt, listen to me. Don’t tell me that we have the best patent lawyers in the country and then not let me pursue this.",1.0,[ 1.2034457  -0.76213086],[ 1.7448947 -1.7809178],0.1419592797756195
+589,Tony,iron_man_2.txt,[Looking at boxes and things in the corner.] I’ll get this stuff out of here.,0.0,[ 1.2376087 -0.5701635],[ 1.6638383 -1.5448736],0.03478020429611206
+590,Pepper,iron_man_2.txt,"Well, then, tell the President to sign an order. We’ll talk about it at the Expo. [Tony pulls back a sheet and finds the same model as that that was in the video with his father] Hammer’s giving some presentation tomorrow evening. Will Tony Stark be there?",-0.0666666666666666,[ 1.4896499 -0.949396 ],[ 1.7175452 -1.8917067],0.03717014193534851
+591,Tony,iron_man_2.txt,[Pulling up a chair] Will I?,0.0,[ 2.1497998 -1.1757418],[ 1.7679818 -1.8391032],0.12490013241767883
+592,Pepper,iron_man_2.txt,"No, he will not. Bye.",0.0,[ 1.4090406 -0.7237553],[ 1.1176115 -1.0986865],0.06024646759033203
+593,Tony,iron_man_2.txt,I would like to be. Got a minute?,0.0,[ 2.0117638 -1.3296963],[ 1.9140296 -1.8548948],0.1611032634973526
+594,Pepper,iron_man_2.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+595,Tony,iron_man_2.txt,"Come on, you just got off the phone. You’re fine. 30 seconds.",0.4166666666666667,[ 1.5481861 -0.5156596],[ 1.8206503 -1.5679893],0.08421581983566284
+596,Pepper,iron_man_2.txt,Twenty-nine Twenty-eight.,0.0,[0.57513094 0.09170476],[ 1.1508627 -1.1082065],0.03435248136520386
+597,Tony,iron_man_2.txt,"I was just driving over here, and I thought I was coming to basically apologise, but I’m not.",0.0,[ 1.3568058 -0.5823774],[ 2.0194738 -1.8527337],0.07771405577659607
+598,Pepper,iron_man_2.txt,You didn’t come here to apologise?,0.0,[ 1.4443103  -0.75580436],[ 1.8125364 -1.6658947],0.13800933957099915
+599,Tony,iron_man_2.txt,"Look, that goes without saying, and I’m working on that. But I haven’t been entirely upfront with you, and I just want to try to make good. Can I move this? This is crazy. It’s like a Ferris wheel, going. I’m trying to get some…",0.0333333333333333,[ 2.2368877 -1.4042417],[ 2.1406143 -2.2063296],0.1480487585067749
+600,Pepper,iron_man_2.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+601,Tony,iron_man_2.txt,"Do you know how short life is? And if I never got to express… And by the way, this is somewhat revelatory to me. And I don’t care… I mean, I care. It would be nice. I’m not expecting you to… Look, here’s what I’m trying to say. I’m just gonna say it.",0.0958333333333333,[ 1.6577535 -1.0485543],[ 2.095246  -2.1388743],0.1571384072303772
+602,Pepper,iron_man_2.txt,"Let me stop you right here, okay? Because if you say “I” one more time, I’m gonna actually hurl something at your head, I think. I am trying to run a company. Do you have any idea what that entails?",0.3214285714285714,[ 1.7360853 -1.1744647],[ 1.7981027 -1.6220946],0.10399046540260315
+603,Tony,iron_man_2.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+604,Pepper,iron_man_2.txt,"People are relying on you to be Iron Man and you’ve disappeared, and all I’m doing is putting out your fires and taking the heat of it. I am trying to do the job that you were meant to do. Did you bring me strawberries? Did you know that there’s only one thing on Earth that I’m allergic to?",0.0,[ 0.9146997  -0.52115554],[ 1.5928646 -1.6130112],0.13439637422561646
+605,Tony,iron_man_2.txt,Allergic to strawberries. This is progress Pepper. I knew there was a correlation between you and this.,0.0,[-0.82856077  0.9953959 ],[ 1.5564634 -1.4089457],0.03285810351371765
+606,Pepper,iron_man_2.txt,I need you…,0.0,[ 1.6966305 -0.9249276],[ 2.0763335 -2.0577524],0.16873612999916077
+607,Tony,iron_man_2.txt,I need you too.,0.0,[ 1.2683235 -0.4238929],[ 1.9084281 -1.8090361],0.17438466846942902
+608,Pepper,iron_man_2.txt,…to leave now,0.0,[ 1.6137463 -0.8073712],[ 1.0733154 -1.0488499],0.029663145542144775
+609,Tony,iron_man_2.txt,That’s what I’m trying to…,0.0,[ 1.7233989  -0.96385306],[ 1.9450284 -1.9005578],0.08552682399749756
+610,Natasha,iron_man_2.txt,[Entering as Natalie in front of Happy] Ms Potts?,0.8,[ 1.4608326  -0.69106436],[ 1.756098 -1.855935],0.03740346431732178
+611,Pepper,iron_man_2.txt,"Hi, come on in.",0.0,[ 1.3449693  -0.49850497],[ 1.424888 -1.371987],0.024977505207061768
+612,Natasha,iron_man_2.txt,Wheels up in 25 minutes.,0.0,[-0.43556288  0.9535928 ],[ 1.4639448 -1.3726685],0.024437367916107178
+613,Pepper,iron_man_2.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+614,Happy,iron_man_2.txt,"Anything else, boss?",0.0,[ 1.9780153 -1.0802492],[ 1.6524965 -1.5736567],0.05702751874923706
+615,Tony,iron_man_2.txt,"I’m good, Hap.",0.7,[ 1.4753993 -0.6033005],[ 1.4040678 -1.4291319],0.13843196630477905
+616,Pepper,iron_man_2.txt,"No, I’ll be just another minute.",0.0,[ 1.701126   -0.72717965],[ 1.6050793 -1.3887998],0.14094111323356628
+617,Tony,iron_man_2.txt,"I lost both the kids in the divorce. [Tony looks over to Happy, who shakes his head.] Are you blending in well here, Natalie? Here are Stark Enterprises? Your name is Natalie, isn’t it? I thought you two didn’t get along?",0.3,[ 1.3123477  -0.72881645],[ 1.4342067 -1.4934107],0.17589524388313293
+618,Pepper,iron_man_2.txt,No. That’s not so.,0.0,[ 1.6876659  -0.94090575],[ 1.2978339 -1.2497379],0.04377281665802002
+619,Tony,iron_man_2.txt,It’s just me you don’t care for. No? Nothing?,0.0,[ 2.331476  -1.4035969],[ 1.9420506 -2.013998 ],0.11374565958976746
+620,Pepper,iron_man_2.txt,"Actually, while you’re here maybe you and Natalie could discuss the matter of the personal belongings.",0.0,[ 1.6722499 -1.1036472],[ 1.8763367 -1.8302459],0.10715386271476746
+621,Natasha,iron_man_2.txt,Absolutely. [Pepper and Happy leave] I’m surprised you can keep your mouth shut.,0.3666666666666667,[ 0.8999681  -0.24372849],[ 1.3981789 -1.256212 ],0.17278556525707245
+622,Tony,iron_man_2.txt,"Boy, you’re good. You are mind-blowingly duplicitous. How do you do it? You just tear things… You’re a triple imposter. I’ve never seen anything like you. Is there anything real about you? Do you even speak Latin?",0.4499999999999999,[ 1.5830144 -1.1067468],[ 1.2518114 -1.3006443],0.1761585772037506
+623,Natasha,iron_man_2.txt,[Latin],0.0,[ 1.4329554  -0.52689534],[ 1.5094439 -1.4799904],0.031109243631362915
+624,Tony,iron_man_2.txt,Which means? Wait. What? What did you just say?,0.0,[ 1.5179342 -0.9058031],[ 1.6996981 -1.8312846],0.028223514556884766
+625,Natasha,iron_man_2.txt,It means you can either drive yourself home or I can have you collected. [She leaves.],0.0,[ 1.6511014 -1.0597718],[ 0.77235234 -0.694451  ],0.09587565064430237
+626,Tony,iron_man_2.txt,You’re good. [Piles things up under desk spinny thing and throws strawberries in the bin. Goes back to the model and looks at it through one eye.,0.35,[ 1.4208878 -0.9520337],[ 1.529771  -1.5125599],0.0718698799610138
+627,Tony,iron_man_2.txt,"Jarvis, could you kindly Vac-U-Form a digital wire frame? I need a manipulatable projection.",0.3,[ 1.8250934 -1.1685239],[ 1.9559118 -1.8830458],0.028765380382537842
+628,Jarvis,iron_man_2.txt,"1974 Stark Expo model scan complete, sir.",-0.05,[0.43140927 0.28091258],[ 1.7953357 -1.8071433],0.0266302227973938
+629,Tony,iron_man_2.txt,[Lifting the blue projection away from the model] How many buildings are there?,0.25,[ 1.6284132 -1.0682042],[ 1.9243268 -2.036079 ],0.02237960696220398
+630,Jarvis,iron_man_2.txt,Am I to include the Belgium waffle stands?,0.0,[ 2.0026968 -1.2652266],[ 1.6970861 -1.7314699],0.026313573122024536
+631,Tony,iron_man_2.txt,That was rhetorical. Just show me. [Clicks his fingers and the model begins to spin and lifts upright] What does that look like to you Jarvis? Not unlike an atom. In which case the nucleus would be here. Highlight the unisphere. Lose the footpaths. Get rid of them.,0.0,[ 1.9600164 -1.3196989],[ 0.64054596 -0.95970684],0.05901002883911133
+632,Jarvis,iron_man_2.txt,"What is it you’re trying to achieve, sir?",0.0,[ 1.9149637 -1.2179083],[ 1.5880153 -1.583263 ],0.09666246175765991
+633,Tony,iron_man_2.txt,"I’m discovering… Correction. I’m rediscovering a new element, I believe. Lose the landscaping, the shrubbery, the trees. [Tony flicks things away] Parking lots, exits, entrances. Structure the protons and the neutrons using the pavilions as a framework. Dad. [The model now resembles a nucleus and Tony expands it.] Dead for almost 20 years, and still taking me to school. [Tony snaps down so the model fits in his hand]",-0.073063973063973,[ 1.3429209 -0.9555805],[ 1.926031  -2.0016057],0.03153538703918457
+634,Jarvis,iron_man_2.txt,The proposed element should serve as a viable replacement for palladium.,0.0,[0.3901244  0.08045067],[ 1.7346638 -1.7549219],0.02864515781402588
+635,Tony,iron_man_2.txt,Thank Dad.,0.0,[-0.23600066  0.9128439 ],[ 1.4835023 -1.4647186],0.17063266038894653
+636,Jarvis,iron_man_2.txt,"Unfortunately, it is impossible to synthesise.",-0.6666666666666666,[ 1.4128379 -0.6907934],[ 1.6550235 -1.5546695],0.02228415012359619
+637,Tony,iron_man_2.txt,"Get ready for a major remodel, fellas. We’re back in hardware mode.",0.0875,[ 1.6197563 -0.9913767],[ 1.8776824 -1.7708377],0.021229863166809082
+638,Tony,iron_man_2.txt,"Yeah. That was, like, three years ago. Where have you been?",0.0,[ 2.087004  -1.2995267],[ 2.0360594 -1.9385669],0.08644479513168335
+639,Tony,iron_man_2.txt,"Yeah, well, me too and it worked. Hey, I’m playing for the home team Coulson, you and all your Fabulous Furry Freak Brothers. Now, are you gonna let me work or break my balls?",0.4,[ 1.4049027  -0.61711395],[ 1.4351262 -1.5191575],0.17106442153453827
+640,Tony,iron_man_2.txt,That’s it. Bring that to me.,0.0,[ 1.9821925 -1.1666362],[ 1.0603696  -0.94908303],0.1663656234741211
+641,Tony,iron_man_2.txt,"[As Agent Coulson hands it to him] It’s exactly what I need to make this work. Lift the coil. Go, go. Put your knees into it. There you go. And… Drop it. Drop it. [The shield is now in position and the coil straight.] Perfectly level. I’m busy. What do you want?",0.3875,[ 2.070488  -1.2971708],[ 1.6150057 -1.8161454],0.10940203070640564
+642,Tony,iron_man_2.txt,Fantastic. Land of Enchantment.,0.4,[0.40492177 0.09029978],[ 1.4941794 -1.539236 ],0.06596201658248901
+643,Tony,iron_man_2.txt,Secret stuff?,-0.4,[ 0.9317834 -0.4148966],[ 1.493641  -1.5162585],0.02864477038383484
+644,Tony,iron_man_2.txt,Bye. Thanks. [They shake hands],0.2,[ 1.4444265  -0.63988936],[ 1.620352 -1.649752],0.09042084217071533
+645,Tony,iron_man_2.txt,"Yeah, more than you know.",0.5,[0.3966168  0.20507789],[ 1.4432219 -1.2765516],0.07018893957138062
+646,Jarvis,iron_man_2.txt,"Initialising prismatic accelerator. [Tony turns a wheel on top] Approaching maximum power. [Using a wrench as a lever, the wheel is turned, but not before cutting holes in the wall. Eventually it’s concentrated on a triangle which begins to glow blue.]",-0.0249999999999999,[ 1.5307277  -0.87094873],[ 1.5532997 -1.6420243],0.016467034816741943
+647,Tony,iron_man_2.txt,That was easy. [He removes the triangle using a pair of pliers],0.4333333333333333,[0.1890156  0.42989343],[ 1.6932064 -1.6757272],0.017232298851013184
+648,Jarvis,iron_man_2.txt,"Congratulations sir. You have created a new element. [Placed into arc reactor] Sir, the reactor has accepted the modified core. I will begin running diagnostics.",0.1363636363636363,[ 0.76379836 -0.1214575 ],[ 1.8633066 -2.0598328],0.029257655143737793
+649,Ivan,iron_man_2.txt,The drone is not going to be ready.,0.2,[ 1.1690062  -0.36376524],[ 1.3680154 -1.2880908],0.020740538835525513
+650,Justin,iron_man_2.txt,Not ready? What do you mean?,-0.20625,[ 2.2794998 -1.4429256],[ 2.0267813 -1.9885501],0.054257214069366455
+651,Ivan,iron_man_2.txt,"I can make presentation, not demonstration.",0.0,[0.65567636 0.16930708],[ 1.7929345 -1.5398523],0.023840129375457764
+652,Justin,iron_man_2.txt,What the hell is the difference?,0.0,[ 2.2570193 -1.364152 ],[ 1.3983022 -1.3735632],0.05488884449005127
+653,Ivan,iron_man_2.txt,Presentation. No fly. No shoot.,-0.4,[ 1.7939717 -1.143096 ],[ 1.3706186 -1.2251894],0.020600944757461548
+654,Justin,iron_man_2.txt,"Wait, wait, wait. Wait, wait, wait. What can you make them do? I mean, this is a weapons demonstration.",-0.3125,[ 1.5554676 -0.9480023],[ 1.6049901 -1.58034  ],0.03283268213272095
+655,Ivan,iron_man_2.txt,I can make salute.,0.0,[0.44487688 0.25500667],[ 1.2543144 -1.0960437],0.09580200910568237
+656,Justin,iron_man_2.txt,"You can make salute? What do you mean “make salute”? What the hell does that mean Ivan? This is not what we agreed to, okay? You promised me suits and then you promised me drones. [Camera pans to show Ivan has remade his arc reactor whips]",-0.0416666666666666,[ 0.8933923  -0.38791066],[ 1.5217253 -1.6870271],0.05470260977745056
+657,Ivan,iron_man_2.txt,"Hey, man, everything will be okay.",0.5,[0.356528  0.3541842],[ 2.0597498 -1.9938258],0.08035185933113098
+658,Justin,iron_man_2.txt,This is not what I wanted.,0.0,[ 1.141157   -0.45154753],[ 1.5756681 -1.478017 ],0.103019118309021
+659,Justin,iron_man_2.txt,"Hey, there he is. It’s the bird man. Now you like the bird. Is that right? Is that your bird? I’m confused. You said it wasn’t, but now it looks like you’re the best of pals. You love that bird, don’t you? You know what? Take the bird.",0.3464285714285714,[ 1.5338057 -0.8004915],[ 1.782139  -2.0141969],0.12700611352920532
+660,Ivan,iron_man_2.txt,[As man grabs bird] Hey!,0.0,[ 1.1299418  -0.27200496],[ 1.6399797 -1.9272563],0.020659148693084717
+661,Justin,iron_man_2.txt,"Take his pillows too. Both of them. And his shoes. Take his shoes. I took your stuff. How does that make you feel? Do you feel bad? Good. ‘Cause that’s how I feel! We had a contract. I saved your life and you give me suits. That was our deal. And you did not deliver. I don’t know if you’re a genius or a fraud. I don’t know what you are. Something really, really great fell into my lap. And if it hadn’t, I’d be at your mercy tonight. Now I have a piece of Stark tech that I pimped out myself. And now your overpriced paperweights and gonna look like a backdrop to my demonstration. Do you dig what I’m getting at here?",0.19375,[ 2.021953  -1.4004595],[ 1.5093931 -1.5858766],0.1722046583890915
+662,Ivan,iron_man_2.txt,[Russian] unintelligible,0.0,[ 1.2314248 -0.4634423],[ 1.5024325 -1.4682835],0.027040034532546997
+663,Justin,iron_man_2.txt,"I don’t know if you know this, but I don’t speak Russian! I’m gonna leave now. I’m gonna go to the Expo. Maybe I’ll even get laid. You see these guys? They’re your babysitters. They are not to be trifled with. When I get back, we’re gonna renegotiate the terms of our agreement. And you’re gonna make good on our arrangement because if you don’t, you’re gonna be exactly what you were when I found you, a dead man. You got that? Maybe you can watch me on TV. [Leaves]",0.15,[ 1.9524626 -1.2491034],[ 1.12011   -1.2120513],0.16540594398975372
+664,Tony,iron_man_2.txt,"Dummy, You, can we clean up this mess? You’re killing me. You know I don’t…",0.0958333333333333,[ 1.8924104 -0.8781975],[ 1.4181827 -1.3843848],0.17556217312812805
+665,Jarvis,iron_man_2.txt,Incoming call with a blocked number sir.,0.0,[ 1.1926137 -0.5539277],[ 1.8571781 -1.7915434],0.02762851119041443
+666,Tony,iron_man_2.txt,My phone privilege is reinstated. Lovely. Coulson. How’s the Land of Enchantment?,0.5,[ 1.3407856  -0.90896875],[ 1.6471151 -1.7450575],0.06860530376434326
+667,Ivan,iron_man_2.txt,"Hey, Tony, how you doing? I double cycle.",0.0,[ 1.5311167 -0.9774323],[ 1.990789 -2.031717],0.05495405197143555
+668,Tony,iron_man_2.txt,You what?,0.0,[ 1.3806814  -0.55872554],[ 1.5916505 -1.5147127],0.09553706645965576
+669,Ivan,iron_man_2.txt,You told me double cycle’s more power. Good advice.,0.3999999999999999,[-0.74443024  0.9579259 ],[ 1.632274  -1.6370839],0.08413997292518616
+670,Tony,iron_man_2.txt,You sound pretty sprightly for a dead guy.,0.2125,[-0.5608234  1.181014 ],[ 1.2816552 -1.3040384],0.17366863787174225
+671,Ivan,iron_man_2.txt,You too.,0.0,[0.4300751  0.23052049],[ 1.5262066 -1.3671952],0.15406158566474915
+672,Tony,iron_man_2.txt,[mutes his speaker] Trace him.,0.0,[ 1.6204672 -0.6563966],[ 1.6889616 -1.8007255],0.09655079245567322
+673,Jarvis,iron_man_2.txt,Sir.,0.0,[ 0.92819375 -0.1868605 ],[ 1.089847 -1.036383],0.04097723960876465
+674,Ivan,iron_man_2.txt,"Now, the true history of Stark name will be written.",0.0749999999999999,[ 1.2759007  -0.40653035],[ 1.578622  -1.6253833],0.025199145078659058
+675,Tony,iron_man_2.txt,"Jarvis, where is he?",0.0,[ 2.2760534 -1.2828159],[ 1.5190047 -1.5964365],0.028177320957183838
+676,Jarvis,iron_man_2.txt,Accessing the Oracle grid. Eastern Seaboard.,0.0,[ 0.8668422  -0.24407125],[ 1.9524723 -2.085945 ],0.03583437204360962
+677,Ivan,iron_man_2.txt,"What your father did to my family over 40 years, I will do to you in 40 minutes.",0.0,[ 1.4692456  -0.81459093],[ 1.3969945 -1.4214262],0.17561008036136627
+678,Tony,iron_man_2.txt,Sounds good. Let’s get together and hash it out.,0.7,[ 1.1806124  -0.58403826],[ 1.547975  -1.5393564],0.16892193257808685
+679,Jarvis,iron_man_2.txt,Tri-State area. Manhattan and outlying boroughs.,0.0,[ 1.5225958 -0.6071591],[ 1.5867299 -1.7548347],0.02953338623046875
+680,Ivan,iron_man_2.txt,I hope you’re ready. [Call ends],0.2,[ 1.9119532 -0.9767616],[ 1.9380442 -1.9034196],0.10362768173217773
+681,Jarvis,iron_man_2.txt,Call trace incomplete.,0.0,[ 1.2862607 -0.5234491],[ 1.7393994 -1.730091 ],0.02615201473236084
+682,Jarvis,iron_man_2.txt,Sir,0.0,[0.18533647 0.33286765],[ 0.98938215 -0.9477049 ],0.03244510293006897
+683,Tony,iron_man_2.txt,"You want to run some tests, run them. And assemble the suit while you’re at it. Put it together now.",0.0,[ 1.7165549 -1.0922191],[ 1.7744572 -1.7310939],0.03502127528190613
+684,Jarvis,iron_man_2.txt,We are unclear as to the effects.,0.0,[ 1.5623859  -0.88683856],[ 1.7744532 -1.7050824],0.021026670932769775
+685,Tony,iron_man_2.txt,"I don’t want to hear it Jarvis. [Reactor gains power] That tastes like coconut. And metal. Oh wow, yeah!",0.125,[ 1.276792  -0.6210615],[ 1.2235113 -1.2495228],0.06224849820137024
+686,Happy,iron_man_2.txt,"I’ll keep the car down here, all right?",0.065079365079365,[ 1.7664868 -0.8795115],[ 1.4684972 -1.3177171],0.1252346932888031
+687,Pepper,iron_man_2.txt,Thank you Happy.,0.8,[-0.18284303  0.8173294 ],[ 1.5846334 -1.665816 ],0.1708754450082779
+688,Justin,iron_man_2.txt,"Yeah. That’s what I’m talking about. Thanks for coming. Ladies and gentlemen, for far too long, this country has had to place its brave men and women in harm’s way, but then the Iron Man arrived, and we thought the days of losing lives were behind us. Sadly, that technology was kept out of reach. That’s not fair. That’s not right. And it’s just too bad.",-0.1158730158730158,[ 1.4617944 -0.6905176],[ 1.4952439 -1.5321381],0.14166197180747986
+689,Pepper,iron_man_2.txt,"Oh, Lord.",0.0,[ 1.0183235  -0.12938473],[ 1.2789627 -1.1935185],0.05423232913017273
+690,Justin,iron_man_2.txt,"Regardless, it was an impressive innovation, one that grabbed the headlines the world over. Well, today, my friends, the press is faced with quite a difficult problem. They are about to run out of ink. [Two people run on to remove the podium] Get that out of here. Ladies and gentlemen, today I present to you the new face of the United States military. The Hammer drone. [Drones rise out of the stage as he calls names] Army! Navy! Air Force! Marines! Yeah! Yeah! Woo! That’s a hell of a lot better than some cheerleaders, let me tell you. But as revolutionary as this technology is, there will always be a need for man to be present in the theatre of war [Ivan is typing something] Ladies and gentlemen, today I am proud to present to you the very first prototype in the Variable Threat Response Battle Suit and its pilot, Air Force Lieutenant Colonel James Rhodes.",0.1784526478160511,[ 0.96661425 -0.35955894],[ 1.8627732 -1.9688858],0.054320722818374634
+691,Pepper,iron_man_2.txt,What? [Rises and salutes.],0.0,[ 1.2329779  -0.37504584],[ 1.5575818 -1.6754016],0.021440088748931885
+692,Justin,iron_man_2.txt,"For America and its allies, Hammer Industries is reporting for… [incoming Iron Man]",0.0,[-0.14715344  0.5714701 ],[ 1.6713071 -1.8713702],0.031617701053619385
+693,Tony,iron_man_2.txt,We got trouble.,-0.2,[ 1.0635849  -0.26098737],[ 1.3722024 -1.3606569],0.06819254159927368
+694,Rhodey,iron_man_2.txt,"Tony, there are civilians present. I’m here on orders. Let’s not do this right now.",0.1428571428571428,[ 1.6485488  -0.88790256],[ 1.3640307 -1.479545 ],0.05298084020614624
+695,Tony,iron_man_2.txt,Give them a wave.,0.0,[0.48893264 0.33088103],[ 1.232677  -1.3097303],0.06189155578613281
+696,Justin,iron_man_2.txt,"Hey, all right. Yeah.",0.2857142857142857,[-0.94109184  1.2568622 ],[ 1.4275514 -1.3544028],0.029586732387542725
+697,Tony,iron_man_2.txt,All these people are in danger. We gotta get them out of here. You gotta trust me for the next five minutes.,0.0,[ 1.7960097 -1.0889363],[ 0.23011346 -0.36022827],0.12580111622810364
+698,Rhodey,iron_man_2.txt,"Yeah, I tried that. I got tossed around your house, remember?",0.0,[ 1.25847   -0.6731711],[ 1.6956161 -1.7272443],0.1571098119020462
+699,Tony,iron_man_2.txt,"Listen, I think he’s working with Vanko.",0.0,[ 0.96798605 -0.3504004 ],[ 1.6567861 -1.7675598],0.07960441708564758
+700,Rhodey,iron_man_2.txt,Vanko’s alive?,0.1,[ 1.9418057 -1.0157108],[ 1.3654797 -1.5494281],0.04265028238296509
+701,Justin,iron_man_2.txt,Yeah. [Tony approaches him],0.0,[ 1.2703037 -0.5619346],[ 1.638363  -1.8273469],0.02423587441444397
+702,Tony,iron_man_2.txt,What is he?,0.0,[ 2.2115169 -1.2310921],[ 1.3076667 -1.4411613],0.055375903844833374
+703,Justin,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+704,Tony,iron_man_2.txt,Where’s Vanko?,0.0,[ 2.2425163 -1.342232 ],[ 1.4627988 -1.536395 ],0.05278238654136658
+705,Justin,iron_man_2.txt,Who?,0.0,[ 1.9149289 -0.9018236],[ 1.2673016 -1.2214421],0.03859183192253113
+706,Tony,iron_man_2.txt,Tell me.,0.0,[ 1.087446   -0.23852015],[ 1.2731608 -1.1391562],0.10656595230102539
+707,Justin,iron_man_2.txt,What are you doing here man?,0.0,[ 2.1693225 -1.3278818],[ 1.7168214 -1.7564738],0.11010415852069855
+708,Rhodey,iron_man_2.txt,"Whoa, whoa, whoa.",0.0,[0.3124529  0.21085307],[ 1.5652155 -1.5128382],0.09064579010009766
+709,Tony,iron_man_2.txt,[As a large gun takes aim] Is that you?,0.2142857142857142,[ 1.767543   -0.97301656],[ 1.2569542 -1.4527332],0.025774866342544556
+710,Rhodey,iron_man_2.txt,"No, I’m not doing that. That’s not me. I can’t move. I’m locked up. I’m locked up! [Drones take aim] Get out of here. Go! This whole system’s been compromised.",0.2,[ 1.9438778 -1.1669961],[ 1.2221597 -1.430611 ],0.07161301374435425
+711,Tony,iron_man_2.txt,[Takes off] Let’s take it outside. [Drones and Rhodey fire at him. Rhodey takes off],0.0,[ 1.673812  -0.9484133],[ 1.0526555 -1.446164 ],0.03687030076980591
+712,Rhodey,iron_man_2.txt,"No, no!",0.0,[ 1.3591228 -0.4957716],[ 0.9138818 -0.8553449],0.03295817971229553
+713,Tony,iron_man_2.txt,"Jarvis, break in. I need to own him.",0.6,[ 2.216691  -1.3614676],[ 1.038312 -1.212155],0.10316500067710876
+714,Jarvis,iron_man_2.txt,Yes sir.,0.0,[0.26986057 0.28475237],[ 1.1048143 -1.0551014],0.1003294587135315
+715,Rhodey,iron_man_2.txt,"Tony, Tony, I’m locked on. I have target lock.",0.0,[ 1.8364782 -0.9263415],[ 1.6844637 -1.74855  ],0.05505874752998352
+716,Tony,iron_man_2.txt,On what?,0.0,[ 1.4625919  -0.54678875],[ 1.4981133 -1.4673854],0.026195168495178223
+717,Rhodey,iron_man_2.txt,"On you. [Shooting at Tony] Tony, on your six!",0.0,[ 1.2941585  -0.53761154],[ 1.4185623 -1.6150649],0.10971876978874207
+718,Justin,iron_man_2.txt,[Running to a computer] What’s going on? What’s happening?,0.0,[ 2.013061  -1.2049932],[ 1.9487576 -1.8977269],0.018707692623138428
+719,Justin,iron_man_2.txt,What? What do you mean it’s been overridden? What does that mean?,-0.3125,[ 1.9068968 -1.2836157],[ 1.8578432 -1.8650941],0.023833513259887695
+720,Justin,iron_man_2.txt,That’s impossible. Call the guards.,-0.6666666666666666,[ 1.7176518 -0.9351579],[ 1.2996234 -1.1039785],0.0665222704410553
+721,Justin,iron_man_2.txt,"Well, then call their… Call their cells.",0.0,[0.39979014 0.16205323],[ 1.5921686 -1.6083885],0.10271303355693817
+722,Pepper,iron_man_2.txt,[Entering] Who’s locked you out of the mainframe?,0.0,[ 1.9140649 -1.151643 ],[ 1.6327385 -1.7885455],0.033488929271698
+723,Justin,iron_man_2.txt,"Please, please, go away. Go away. I’ve got this handled.",0.0,[ 1.8084514  -0.87306035],[ 0.76423067 -0.514328  ],0.11528727412223816
+724,Pepper,iron_man_2.txt,Have you now?,0.0,[ 2.0929408 -1.2117305],[ 1.6617547 -1.5369493],0.13904376327991486
+725,Justin,iron_man_2.txt,"Yes, I do. In fact, if your guy hadn’t showed up, this wouldn’t be happening. So, please, now go away. Thank you [To technician] Listen, we got to get these bitches out of here. What?",0.0,[ 1.6901301 -0.9468134],[-1.0392765  1.0980213],0.15148892998695374
+726,Natasha,iron_man_2.txt,[Grabs Justin and holds him down on the desk] You tell me who’s behind this. Who’s behind this?,-0.3185185185185185,[ 1.9812136 -1.2356364],[ 1.7730978 -1.8957657],0.08786949515342712
+727,Justin,iron_man_2.txt,Ivan. Ivan Vanko.,0.0,[ 1.2645472  -0.33262697],[ 1.8162254 -1.9349087],0.031737715005874634
+728,Natasha,iron_man_2.txt,Where is he?,0.0,[ 2.199423  -1.2714038],[ 1.4096739 -1.4931155],0.04591339826583862
+729,Justin,iron_man_2.txt,At my facility.,0.0,[0.48686925 0.1535714 ],[ 1.4779736 -1.3719903],0.11513926088809967
+730,Pepper,iron_man_2.txt,"I need NYPD, please.",0.0,[ 1.6770982  -0.76397496],[ 1.5782026 -1.5444834],0.08332625031471252
+731,Justin,iron_man_2.txt,"No, no, no!",0.0,[ 1.5277926 -0.6865215],[ 0.85876226 -0.8147769 ],0.035145580768585205
+732,Pepper,iron_man_2.txt,Command Central.,0.0,[0.19133215 0.3804549 ],[ 1.1637515 -1.0469869],0.030951738357543945
+733,Justin,iron_man_2.txt,"No, no, honey. Don’t call the authorities.",0.0,[ 2.056197  -1.3209759],[ 1.2010318  -0.93017054],0.05584841966629028
+734,Pepper,iron_man_2.txt,Okay. Right away. Right away. [To Justin] Step aside. Step aside. [To technician] Tell me everything you know. Go.,0.3571428571428571,[ 1.4258473 -0.6113222],[ 1.4920249 -1.519535 ],0.07024416327476501
+735,Tony,iron_man_2.txt,How are we doing Jarvis?,0.0,[ 2.1173458 -1.1701211],[ 1.6230656 -1.6761729],0.039449453353881836
+736,Jarvis,iron_man_2.txt,Remote reboot unsuccessful.,-0.1,[0.33798942 0.2694436 ],[ 1.8404491 -1.7222981],0.02002418041229248
+737,Happy,iron_man_2.txt,Nobody’s answering the phone. What’s going on?,0.0,[ 2.0208733 -1.1357615],[ 1.6895777 -1.7875   ],0.028106123208999634
+738,Natasha,iron_man_2.txt,Get in the car. Take me to Hammer Industries.,0.0,[ 1.4718951 -0.7311369],[ 1.4164457 -1.3836206],0.05393636226654053
+739,Happy,iron_man_2.txt,I’m not taking you anywhere.,0.0,[ 1.7432393  -0.96988195],[ 1.3489429 -1.3756939],0.1284865438938141
+740,Natasha,iron_man_2.txt,Fine. You want me to drive?,0.4166666666666667,[ 1.4376838 -0.7128057],[ 1.4176606 -1.2340676],0.12142664194107056
+741,Happy,iron_man_2.txt,"No, I’m driving. Get in the car.",0.0,[ 1.6546686  -0.84502983],[ 1.2873945 -1.1512705],0.08534756302833557
+742,Tony,iron_man_2.txt,Nice work kid. [Takes off again],0.6,[0.00139775 0.5581021 ],[ 1.6103069 -1.7345263],0.043305903673172
+743,Rhodey,iron_man_2.txt,You got multiples coming in on you.,0.0,[0.39645922 0.2673773 ],[ 1.2575419 -1.2823632],0.07556676864624023
+744,Tony,iron_man_2.txt,Let’s get this away from the Expo.,0.0,[ 0.9165549  -0.27993283],[ 1.267723  -1.2478057],0.023445576429367065
+745,Natasha,iron_man_2.txt,"Wen we arrive, I need you to watch the perimeter. [She’s getting undressed in the back of the car] I’m gonna enter the facility and take down the target. Watch the road.",-0.0777777777777777,[ 1.7478248 -1.1186956],[ 1.3115733 -1.3629718],0.08147501945495605
+746,Happy,iron_man_2.txt,I got it. I got it.,0.0,[ 1.3968344  -0.58717483],[ 1.2410924 -1.0750303],0.08561977744102478
+747,Rhodey,iron_man_2.txt,"Listen, listen. A pack just peeled off. They’re headed back to the Expo.",0.0,[ 1.4231538 -0.7631517],[ 0.83635086 -0.9144762 ],0.016320616006851196
+748,Tony,iron_man_2.txt,Got it.,0.0,[0.37925467 0.45034435],[ 1.0255817 -0.9373219],0.12302771210670471
+749,Rhodey,iron_man_2.txt,In closing in on you. Ordnance coming in hot Tony. Watch it.,0.25,[ 1.2494298 -0.672273 ],[ 1.2724527 -1.424776 ],0.06558617949485779
+750,Natasha,iron_man_2.txt,Stay in the car.,0.0,[ 1.1942306 -0.3811317],[ 1.2222878 -1.112019 ],0.03381919860839844
+751,Happy,iron_man_2.txt,I’m not staying in the car.,0.0,[ 1.7088215 -0.841783 ],[ 1.3142966 -1.1976284],0.07957786321640015
+752,Natasha,iron_man_2.txt,"I said, stay in the car.",0.0,[ 1.1279886  -0.28717175],[ 1.3290695 -1.1905932],0.08183014392852783
+753,Happy,iron_man_2.txt,"[As Natasha heads up the stairs to the front door] What are you wearing? Look, I’m not letting you go in there alone.",0.0,[ 1.9153612 -1.2369931],[ 0.75746334 -0.83647037],0.11202538013458252
+754,Natasha,iron_man_2.txt,You want to help? Keep the car running.,0.0,[ 0.9666823 -0.5645454],[ 1.9823954 -1.9952596],0.08530068397521973
+755,Happy,iron_man_2.txt,[Opens the door as she unlocks it and runs in] Okay.,0.5,[ 0.9835118  -0.32038218],[ 1.0614327 -1.1639378],0.026351183652877808
+756,Pepper,iron_man_2.txt,"Well, choose one and focus on that.",0.0,[ 1.354713  -0.8160104],[ 1.6950806 -1.6552848],0.026078611612319946
+757,Justin,iron_man_2.txt,Have you tried Russian? Why don’t you try Russian?,0.0,[ 1.6503931 -1.1982741],[ 1.6339163 -1.6226624],0.06251499056816101
+758,Happy,iron_man_2.txt,I got him! [Sees what Natasha has done,0.0,[ 1.0260394 -0.4782879],[ 1.7173702 -1.8194045],0.05572286248207092
+759,Tony,iron_man_2.txt,"Rhodey, you still locked on?",0.0,[ 2.2124555 -1.2894593],[ 1.6548511 -1.7607654],0.09587275981903076
+760,Rhodey,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+761,Tony,iron_man_2.txt,Drop your socks and grab your Crocs. We’re about to get wet on this ride.,-0.1,[ 1.7865566 -1.147991 ],[ 1.2619776 -1.1924266],0.17409130930900574
+762,Rhodey,iron_man_2.txt,"Wait, wait, wait!",0.0,[ 0.7933004  -0.17972812],[ 1.2916988 -1.2957073],0.03727349638938904
+763,Natasha,iron_man_2.txt,He’s gone.,0.0,[ 1.2017064 -0.406755 ],[ 1.1643546 -1.1367036],0.09797248244285583
+764,Tony,iron_man_2.txt,I’m sorry buddy. Had to thin out the herd. What’s your 20?,-0.45,[ 2.0522137 -1.2938336],[ 1.8490459 -1.8908633],0.16103142499923706
+765,Happy,iron_man_2.txt,What are you doing?,0.0,[ 2.0138843 -1.2099693],[ 1.7089423 -1.7421534],0.08302116394042969
+766,Natasha,iron_man_2.txt,I’m rebooting Rhodey’s suit.,0.0,[ 0.9277887  -0.19310921],[ 1.5244561 -1.6289104],0.037306904792785645
+767,Rhodey,iron_man_2.txt,Tony.,0.0,[ 0.76238877 -0.10943621],[ 1.1385132 -1.0731232],0.030747592449188232
+768,Natasha,iron_man_2.txt,Reboot complete [Image of Tony on screen] You got your best friend back.,0.3666666666666667,[0.5077611 0.1630035],[ 2.2739522 -2.309832 ],0.07787060737609863
+769,Tony,iron_man_2.txt,"Thank you very much, Agent Romanoff.",0.26,[-1.2954053  1.4849224],[ 2.0218751 -2.0148401],0.1263047754764557
+770,Natasha,iron_man_2.txt,Well done on the new chest piece. I am reading significant higher output and your vitals all look promising.,0.2403409090909091,[-0.7099884  0.8461287],[ 2.003754 -2.136186],0.0801222026348114
+771,Tony,iron_man_2.txt,"Yes, for the moment, I’m not dying. Thank you.",0.0,[0.21243267 0.21442926],[ 1.7247447 -1.7155645],0.12836700677871704
+772,Pepper,iron_man_2.txt,[Image appears on second screen] What do you mean you’re not dying? Did you just say you’re dying?,-0.15625,[ 1.872976  -1.1899167],[ 2.1036665 -2.2154791],0.03176754713058472
+773,Tony,iron_man_2.txt,"Is that you? No, I’m not. Not anymore. [Natasha looks confused.]",-0.4,[ 2.1286666 -1.4034098],[ 1.7819794 -1.876382 ],0.112093985080719
+774,Pepper,iron_man_2.txt,What’s going on?,0.0,[ 2.1644013 -1.2517626],[ 1.6185389 -1.6437811],0.030151665210723877
+775,Tony,iron_man_2.txt,I was going to tell you. I didn’t want to alarm you.,0.0,[ 1.540056   -0.72277915],[ 1.5837983 -1.4703523],0.15033692121505737
+776,Pepper,iron_man_2.txt,You were gonna tell me? You really were dying?,0.2,[ 1.4894253  -0.60706496],[ 2.020801  -1.9862422],0.12276591360569
+777,Tony,iron_man_2.txt,You didn’t let me.,0.0,[ 1.400346  -0.5438792],[ 1.5881239 -1.411283 ],0.16119208931922913
+778,Pepper,iron_man_2.txt,Why didn’t you tell me that?,0.0,[ 2.0418775 -1.148462 ],[ 1.72928   -1.7042353],0.14874911308288574
+779,Tony,iron_man_2.txt,I was gonna make you an omelette and tell you.,0.0,[ 1.0593612  -0.25291252],[ 1.6089503 -1.4886264],0.10867080092430115
+780,Natasha,iron_man_2.txt,"Hey, hey. Save it for the honeymoon. You got incoming Tony. Looks like the fight’s coming to you.",0.0,[ 1.450724   -0.63767415],[ 1.6760126 -1.7212309],0.11193105578422546
+781,Tony,iron_man_2.txt,Great. Pepper?,0.8,[ 1.4597179 -0.7710665],[ 1.5111058 -1.4300177],0.025156408548355103
+782,Pepper,iron_man_2.txt,Are you okay now?,0.5,[ 2.1093254 -1.106299 ],[ 1.8281797 -1.8224572],0.094053715467453
+783,Tony,iron_man_2.txt,I am fine. Don’t be mad. I will formally apologise…,-0.1041666666666666,[ 1.8474207 -1.19809  ],[ 2.004678 -1.852274],0.17265842854976654
+784,Pepper,iron_man_2.txt,I am mad!,-0.78125,[ 1.0986568  -0.26942402],[ 1.3489354 -1.2494212],0.14695177972316742
+785,Tony,iron_man_2.txt,…when I’m not fending off a Hammeroid attack.,0.0,[0.6679853  0.14000455],[ 1.4633067 -1.55644  ],0.04608798027038574
+786,Pepper,iron_man_2.txt,Fine.,0.4166666666666667,[0.05572554 0.59937966],[ 1.0356396  -0.97486377],0.052315980195999146
+787,Tony,iron_man_2.txt,We could have been in Venice.,0.0,[ 1.3456395  -0.51777434],[ 1.7437004 -1.5906011],0.05015397071838379
+788,Pepper,iron_man_2.txt,Oh please.,0.0,[0.67403847 0.25659567],[ 1.2011638 -1.0951736],0.062426626682281494
+789,Tony,iron_man_2.txt,"Rhodes? Snap out of it buddy. I need you. They’re coming. Come on, let’s roll. Get up.",0.0,[ 2.3457816 -1.4517713],[ 1.2447553 -1.3614805],0.1767963320016861
+790,Rhodey,iron_man_2.txt,"[Helmet opens] Oh, man. You can have your suit back.",0.0,[0.44040054 0.16945088],[ 1.6253669 -1.7161309],0.09937551617622375
+791,Tony,iron_man_2.txt,[Helps him up] You okay?,0.5,[ 1.838907  -1.0440242],[ 1.7838491 -1.9768629],0.1677832454442978
+792,Rhodey,iron_man_2.txt,"Yeah, thanks. Tony, look, I’m sorry, okay?",0.0666666666666666,[0.28503135 0.27684182],[ 1.9709595 -1.9922265],0.16300790011882782
+793,Tony,iron_man_2.txt,Don’t be.,0.0,[ 1.718333 -0.930457],[ 1.134411  -1.0144209],0.12771201133728027
+794,Rhodey,iron_man_2.txt,No. I should have trusted you more.,0.5,[ 1.3839335 -0.7281975],[ 1.4679416 -1.3873849],0.166742205619812
+795,Tony,iron_man_2.txt,I’m the one who put you in this position. Forget it.,0.0,[ 1.6495384 -0.8037628],[ 1.3672477 -1.219844 ],0.17706355452537537
+796,Rhodey,iron_man_2.txt,No. It’s your fault. I just wanted to say I’m sorry.,-0.5,[ 1.7113318 -0.8557203],[ 1.8832092 -1.698054 ],0.1767292618751526
+797,Tony,iron_man_2.txt,"Thank you. That’s all I wanted to hear. Partner. They’re coming in hot, any second. What’s the play?",0.125,[ 2.2764091 -1.3424122],[ 1.7447258 -1.8503687],0.17663100361824036
+798,Rhodey,iron_man_2.txt,"Well, we want to take the high ground, okay? So let’s put the biggest gun up on that ridge.",0.33,[0.29113367 0.38706243],[ 1.283269  -1.3783789],0.026498407125473022
+799,Tony,iron_man_2.txt,Got you. Where do you want to be?,0.0,[ 2.3183224 -1.4886186],[ 1.7492393 -1.8268985],0.1461164355278015
+800,Rhodey,iron_man_2.txt,Where are you going?,0.0,[ 2.1602573 -1.2644271],[ 1.4261588 -1.4490031],0.06172293424606323
+801,Tony,iron_man_2.txt,What’re you talking about?,0.0,[ 2.221415  -1.3621871],[ 1.5659214 -1.5831448],0.0771138072013855
+802,Rhodey,iron_man_2.txt,I meant me.,0.0,[0.6296434  0.14449584],[ 1.2983866 -1.2626319],0.09865203499794006
+803,Tony,iron_man_2.txt,You have a big gun. You are not the big gun.,0.0,[ 1.307759   -0.68711734],[ 1.3179256 -1.1698624],0.05693987011909485
+804,Rhodey,iron_man_2.txt,"Tony, don’t be jealous.",0.0,[ 1.495986   -0.70089066],[ 1.5478134 -1.4964224],0.1379675269126892
+805,Tony,iron_man_2.txt,No. It’s subtle all the bells and whistles.,-0.3333333333333333,[0.26876205 0.30230975],[ 1.456773  -1.3294094],0.021514475345611572
+806,Rhodey,iron_man_2.txt,Yeah. It’s called being a badass.,0.0,[-0.41655177  0.93675846],[ 0.911834  -0.8431848],0.10963800549507141
+807,Tony,iron_man_2.txt,Fine. All right. You go up to. I’ll draw them in.,0.3511904761904761,[ 1.9486568 -1.0051949],[ 1.399252  -1.3853041],0.15621118247509003
+808,Rhodey,iron_man_2.txt,Don’t stay down here. This is the worst place to be.,-0.5777777777777778,[ 2.166335 -1.523617],[ 1.4656459 -1.5131568],0.09125140309333801
+809,Tony,iron_man_2.txt,"Okay, you got a spot. Where’s mine?",0.5,[ 2.0024998 -1.1091785],[ 1.4914439 -1.4350615],0.1055525541305542
+810,Rhodey,iron_man_2.txt,"It’s the kill box, Tony. Okay This is where you go to die. [Drones incoming. And Rhodey and Ton are still in the kill box. Helmets down. Shooting begins.]",0.1722222222222222,[ 1.2071263 -0.5028843],[ 1.370165  -1.6066688],0.01825651526451111
+811,Tony,iron_man_2.txt,See that?,0.0,[ 1.261019  -0.3939129],[ 1.3653964 -1.3050386],0.02226957678794861
+812,Rhodey,iron_man_2.txt,"Yeah, yeah. Nice.",0.6,[-1.71855    1.7678652],[ 1.2631767 -1.1721567],0.025826454162597656
+813,Tony,iron_man_2.txt,Rhodey? Get down. [Laser slices all the drones in half. And a tree.],-0.1611111111111111,[ 1.5268666  -0.85188127],[ 0.8838022  -0.95665103],0.021493107080459595
+814,Rhodey,iron_man_2.txt,Wow. I think you should lead with that next time.,0.05,[ 1.1298645 -0.41519  ],[ 1.2895883 -1.2498924],0.07029411196708679
+815,Tony,iron_man_2.txt,Yeah. Sorry boss. I can only use it one. It’s a one-off.,-0.25,[ 2.021404  -1.2465702],[ 1.7594029 -1.6641401],0.03958773612976074
+816,Justin,iron_man_2.txt,I told you that five minutes ago.,0.0,[0.31267196 0.6174761 ],[ 1.4940685 -1.3450621],0.09347507357597351
+817,Pepper,iron_man_2.txt,[As police enter] That’s your guy here.,0.0,[ 1.1924416  -0.32592764],[ 1.5931152 -1.7056172],0.08928272128105164
+818,Justin,iron_man_2.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+819,Justin,iron_man_2.txt,Are you kidding me?,0.0,[ 1.8199068 -0.8814415],[ 1.3472999 -1.2633878],0.0999390184879303
+820,Justin,iron_man_2.txt,"I’m trying to help here. I get it. I see what you’re doing. You’re trying to pin this on me, huh? That’s good. That’s good. You’re starting to think like a CEO, taking out the competition. I like that. You think you’re making a problem for me? [Being led away] I’m gonna make a problem for you. I’m gonna be seeing you again real soon.",0.3999999999999999,[0.07176412 0.34392455],[ 1.7202471 -1.610339 ],0.17456769943237305
+821,Pepper,iron_man_2.txt,"[Now outside with some police officers] When they get here, I think you should station them at the south, east and both west exits.",0.0,[ 1.3818891 -0.6379201],[ 1.5601693 -1.5243782],0.02824842929840088
+822,Pepper,iron_man_2.txt,"Well, have city buses there to ferry people to operating lines.",0.0,[-0.97492284  1.3840153 ],[ 1.8951279 -1.7740567],0.02423340082168579
+823,Pepper,iron_man_2.txt,"No, I’m gonna stay until to park is clear.",0.1,[ 1.9056597 -1.0596374],[ 1.5385681 -1.415152 ],0.03436446189880371
+824,Natasha,iron_man_2.txt,Head up. You got one more drone incoming. This one looks different. [Tony and Rhodey; Natasha on speaker] The repulsor signature is significantly higher.,0.25,[ 1.6200461 -1.017259 ],[ 1.4898632 -1.5859666],0.016488224267959595
+825,Ivan,iron_man_2.txt,[Landing in a full suit] Good to be back.,0.3499999999999999,[-0.01991026  0.51917267],[ 1.582383  -1.6828026],0.035822927951812744
+826,Rhodey,iron_man_2.txt,This ain’t gonna be good. [Ivan’s whisps turn on] I got something special for this guy. I’m gonna bust his bunker with the Ex-Wife.,0.5285714285714286,[ 1.9093908 -0.9304783],[ 0.75045943 -0.9163585 ],0.17501690983772278
+827,Tony,iron_man_2.txt,"With the what? [Rhodey shoots it and it bounces off Ivan, fizzling off in the water] Hammer tech?",0.0,[ 1.8628969 -1.247383 ],[ 1.5221366 -1.7892162],0.021364808082580566
+828,Rhodey,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+829,Tony,iron_man_2.txt,"I got this. [Targets points on Ivan’s armour. Doesn’t do much. Both shooting, fighting. Ends with both Tony and Rhodey held onto by Ivan’s whips] Rhodes. I got an idea. You want to be a hero?",0.2,[ 2.1003304 -1.2428555],[ 1.6445966 -1.8099759],0.032529354095458984
+830,Rhodey,iron_man_2.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+831,Tony,iron_man_2.txt,I could really use a sidekick. Put your hand up.,0.2,[ 2.1663158 -1.3393325],[ 1.4976572 -1.4985307],0.08938071131706238
+832,Rhodey,iron_man_2.txt,This is your idea?,0.0,[ 1.1808383  -0.75642663],[ 1.8712735 -1.8208232],0.1171901524066925
+833,Tony,iron_man_2.txt,Yep.,0.0,[0.489407   0.05312944],[ 0.76243705 -0.71287125],0.027241259813308716
+834,Rhodey,iron_man_2.txt,"I’m ready. I’m ready. Go, go, go!",0.225,[ 1.8648158  -0.87297326],[ 1.187009 -1.220841],0.09499439597129822
+835,Tony,iron_man_2.txt,"Take it! [Same as at the house, they shoot each other and the middle explodes. Unfortunately for Ivan, he is in the middle]",-0.125,[ 1.3048131 -0.6014455],[ 1.3532448 -1.5858835],0.07263535261154175
+836,Ivan,iron_man_2.txt,You lose. [Dies. Reactor starts flashing red. So do all the drones],0.0,[ 0.97990096 -0.35104743],[ 1.3536471 -1.3473525],0.023631691932678223
+837,Rhodey,iron_man_2.txt,All these drones are rigged to blow. We gotta get out of here man.,0.0,[ 1.301554   -0.52590287],[ 0.6181051  -0.63565445],0.024821162223815918
+838,Tony,iron_man_2.txt,Pepper? [Takes off. Pepper is by a drone. Tony grabs her just as it explodes. They land on a roof. Takes off helmet.],0.0,[ 1.4609956  -0.87209475],[ 1.1733148 -1.1283746],0.03424921631813049
+839,Pepper,iron_man_2.txt,Oh my God. I can’t take this anymore.,0.0,[ 2.0079374 -1.0479879],[ 1.7277085 -1.4998305],0.15533500909805298
+840,Tony,iron_man_2.txt,You can’t?,0.0,[ 1.5318986  -0.68315655],[ 1.5207369 -1.3673576],0.10093331336975098
+841,Pepper,iron_man_2.txt,I can’t take this.,0.0,[ 1.4753648 -0.6329709],[ 1.1855911 -0.9863124],0.11377736926078796
+842,Tony,iron_man_2.txt,Look at me.,0.0,[0.16627063 0.4902273 ],[ 1.5397758 -1.4809035],0.1536341905593872
+843,Pepper,iron_man_2.txt,"My body, literally, cannot handle the stress. I never know if you’re gonna kill yourself or wreak the whole company.",0.2,[ 1.9764893 -1.0465204],[ 1.635501  -1.4196538],0.17227301001548767
+844,Tony,iron_man_2.txt,I think I did okay. [Everything being on fire having been covered by exploding drones behind him. One more explosion. Just as he finishes speaking.],0.1999999999999999,[0.25150335 0.37822407],[ 1.6556501 -1.7121967],0.042561084032058716
+845,Pepper,iron_man_2.txt,I quit. I’m resigning. That’s it.,0.0,[ 1.398424  -0.6093103],[ 1.425397  -1.1557144],0.10130196809768677
+846,Tony,iron_man_2.txt,"What did you just say? You’re done? That’s surprising. No, it’s not surprising. I get it. You don’t have to make excuses.",0.175,[ 1.28466    -0.60792917],[ 1.784944  -1.5839287],0.1378958821296692
+847,Pepper,iron_man_2.txt,I’m… I’m… I’m not making any excuses.,0.0,[ 1.8543282 -1.2015679],[ 1.9180878 -1.856594 ],0.14536085724830627
+848,Tony,iron_man_2.txt,You actually were just making excuses. But you don’t have to.,0.0,[ 1.4266126  -0.75306356],[ 1.6288751 -1.3290603],0.12883242964744568
+849,Pepper,iron_man_2.txt,"No, I wasn’t making an excuse. I’m actually very justified.",0.235,[ 1.4018309  -0.83576614],[ 1.914012  -1.8287591],0.11934550106525421
+850,Tony,iron_man_2.txt,"Listen. Hey, hey. You deserve better.",0.5,[ 1.123963   -0.41443706],[ 1.6260545 -1.6274245],0.176467627286911
+851,Pepper,iron_man_2.txt,Well…,0.0,[0.51277363 0.03210781],[ 1.506329  -1.4439806],0.03210744261741638
+852,Tony,iron_man_2.txt,"You’ve taken such good care of me. I’ve been in a tough spot, but you got me through it, so… Right?",0.1492063492063491,[ 1.3069161  -0.56162614],[ 2.1181605 -2.0816464],0.17373472452163696
+853,Pepper,iron_man_2.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+854,Tony,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+855,Pepper,iron_man_2.txt,Thank you for understanding.,0.0,[-0.21842027  0.8137598 ],[ 1.8563138 -1.867627 ],0.11143168807029724
+856,Tony,iron_man_2.txt,"Yeah, yeah. Let’s talk clean-up.",0.0,[-0.38458344  0.748174  ],[ 1.6834186 -1.6953679],0.031696975231170654
+857,Pepper,iron_man_2.txt,I’ll handle the transition. It’ll be smooth.,0.4,[ 1.720205   -0.81471574],[ 1.7200097 -1.5588453],0.08481821417808533
+858,Tony,iron_man_2.txt,Okay. What about the press? Because you only had the job for a week. That’s gonna seem…,0.25,[0.13366023 0.37449008],[ 2.0200975 -1.7416143],0.06219413876533508
+859,Pepper,iron_man_2.txt,"Well, with you it’s like dog years.",0.0,[ 0.61415124 -0.07021256],[ 1.6592773 -1.6943405],0.11841362714767456
+860,Tony,iron_man_2.txt,I know.,0.0,[0.3627474  0.27165455],[ 1.018171  -0.8657721],0.07816323637962341
+861,Pepper,iron_man_2.txt,"I mean, it’s like the Presidency. [They kiss]",-0.3125,[ 1.0393537  -0.21661267],[ 1.0977091 -1.2142831],0.09564393758773804
+862,Tony,iron_man_2.txt,Weird.,-0.5,[0.16447641 0.46777853],[ 1.0753437 -1.0430416],0.043126702308654785
+863,Pepper,iron_man_2.txt,"No, it’s not weird.",0.25,[ 1.005181   -0.39673382],[ 1.494799  -1.5101041],0.07271981239318848
+864,Tony,iron_man_2.txt,"It’s okay, right?",0.3928571428571428,[ 0.83449274 -0.0045884 ],[ 1.7403516 -1.6942317],0.06553485989570618
+865,Pepper,iron_man_2.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+866,Tony,iron_man_2.txt,Run that by me again. [They start to kiss again],0.0,[ 1.1356667  -0.38533434],[ 0.52364206 -0.65412235],0.1777552366256714
+867,Rhodey,iron_man_2.txt,I think it was weird. [They break apart and turn around] You guys look like two seals fighting over a grape.,-0.5,[ 0.94561535 -0.11503706],[ 1.1421956 -1.0398989],0.14820832014083862
+868,Pepper,iron_man_2.txt,"I had just quit, actually.",0.0,[ 1.2606778  -0.51107836],[ 1.7233142 -1.489658 ],0.0404028594493866
+869,Tony,iron_man_2.txt,"Yeah, so we’re not…",0.0,[0.17920081 0.31550226],[ 1.648003 -1.698884],0.060627758502960205
+870,Rhodey,iron_man_2.txt,You don’t have to do that. I heard the whole thing.,0.2,[ 1.8693234 -0.9563958],[ 1.7768875 -1.5690919],0.06850573420524597
+871,Tony,iron_man_2.txt,You should get lost.,0.0,[ 1.4044576 -0.7182613],[ 1.7397076 -1.6309911],0.1083785891532898
+872,Rhodey,iron_man_2.txt,I was here first. Get a roof.,0.25,[ 1.500038  -0.5633462],[ 1.4187341 -1.3410794],0.05366271734237671
+873,Tony,iron_man_2.txt,I thought you were out of one-liners.,0.0,[0.24611865 0.5162891 ],[ 1.3276116 -1.2772474],0.07846269011497498
+874,Rhodey,iron_man_2.txt,That’s the last one.,0.0,[ 1.4965544 -0.5243801],[ 1.0503027 -0.9514884],0.023709774017333984
+875,Tony,iron_man_2.txt,"You kicked ass back there, by the way.",0.0,[0.30323628 0.16772568],[ 1.4381917 -1.3345844],0.1667928695678711
+876,Rhodey,iron_man_2.txt,"Thank you. You too. Listen, my car got taken out in the explosion, so I’m gonna have to hang on to your suit for a minute, okay?",0.5,[ 1.6596154 -0.9897859],[ 2.026673 -2.010167],0.17644986510276794
+877,Tony,iron_man_2.txt,Not okay. Not okay with that.,-0.25,[ 1.6225854 -0.9078487],[ 1.5980048 -1.6213518],0.10285887122154236
+878,Rhodey,iron_man_2.txt,It wasn’t a question. [Takes off],0.0,[ 1.949478  -1.1834699],[ 1.5306919 -1.7005165],0.03174912929534912
+879,Tony,iron_man_2.txt,How are you gonna resign if I don’t accept?,0.0,[ 2.1679761 -1.3008791],[ 1.3985933 -1.2003762],0.11599808931350708
+880,Fury,iron_man_2.txt,"I don’t think I want you looking at that. I’m not sure it pertains to you anymore. Now this on the other hand, is Agent Romanoff’s assessment of you. Read it. [Hands Tony the file]",-0.1875,[ 2.051378  -1.3579667],[ 1.977388  -2.0362837],0.08328106999397278
+881,Tony,iron_man_2.txt,"“Personality overview. Mr Stark displays compulsive behaviour.” In my own defence, that was last week. “Prone to self-destructive tendencies.” I was dying. I mean, please. Aren’t we all? “Textbook narcissism”? Agreed. Okay, here it is. “Recruitment assessment for Avenger Initiative. Iron Man? Yes.” I gotta think about it.",0.1174999999999999,[ 1.0545751  -0.49373654],[ 1.8159672 -1.9495722],0.060407280921936035
+882,Fury,iron_man_2.txt,Read on.,0.0,[ 1.293918   -0.44560874],[ 1.2051482 -1.2301785],0.027561724185943604
+883,Tony,iron_man_2.txt,“Tony Stark not… Not recommended”? That doesn’t make any sense. How can you approve me but not approve me? I got a new ticker. I’m trying to do right by Pepper. I’m in a stable-ish relationship. [Fury walks round and rest against the table by Tony’s chair],0.0055194805194805,[ 1.3755256 -0.8594313],[ 2.065195 -2.284898],0.13807229697704315
+884,Fury,iron_man_2.txt,Which leads us to believe at this juncture we’d only like to use you as a consultant. [Tony stands and offers his hand. They shake],0.05,[ 1.8120317 -1.1528939],[ 2.0663443 -2.093276 ],0.1731519103050232
+885,Tony,iron_man_2.txt,"[Clasping his other hand on top of Fury’s] You can’t afford me. [Goes to leave, but turns around again] Then again, I will waive my customary retainer in exchange for a small favour. Rhodey and I are being honoured in Washington and we need a presenter.",0.0416666666666666,[ 1.7980851 -1.152793 ],[ 1.4413611 -1.6136733],0.09631019830703735
+886,Fury,iron_man_2.txt,I’ll see what I can do.,0.0,[ 1.4749228  -0.64660966],[ 1.189092  -1.0499277],0.05361133813858032
+887,Stern,iron_man_2.txt,"It is my honour to be here today to present these distinguished awards to Lieutenant Colonel James Rhodes and Mr Tony Stark, who is, of course, a national treasure. [Pinning on medals] Thank you Lieutenant Colonel, for such and exceptionally distinguished performance. You deserve this.",0.1166666666666666,[ 1.2143297 -0.3273816],[ 1.9233791 -2.1163766],0.1684255599975586
+888,Rhodey,iron_man_2.txt,Thank you sir.,0.0,[-0.17417514  0.7789562 ],[ 1.3263236 -1.3214654],0.15962335467338562
+889,Stern,iron_man_2.txt,"Mr Stark. Thank you for such as exceptionally distinguished performance. You deserve this. [Tony winces in pain] Oh, sorry. Funny how annoying a little prick can be, isn’t it? Let’s get a photo.",-0.1101190476190476,[0.23214768 0.37575582],[ 1.63309   -1.6402614],0.18065710365772247

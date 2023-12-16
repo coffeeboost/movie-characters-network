@@ -1,0 +1,890 @@
+Unnamed: 0,Name,Movie,Line,Sentiment,Irony,Hate,Intimacy
+0,Happy Hogan,iron_man_3.txt,(to Maya.) Half hour till the ball drops.,-0.1666666666666666,[ 1.7299767  -0.73228824],[ 1.6379403 -1.4895048],0.02591228485107422
+1,Tony Stark,iron_man_3.txt,"Hey, do you want...?",0.0,[ 2.139014  -1.4654235],[ 1.8985254 -2.0477803],0.13866738975048065
+2,Happy Hogan,iron_man_3.txt,"I got you, pal.",0.0,[ 1.0379758 -0.1950588],[ 1.5224721 -1.4306282],0.12407386302947998
+3,Tony Stark,iron_man_3.txt,I gave a speech? How was it?,0.0,[ 1.3553109  -0.66220456],[ 2.0382204 -1.9406248],0.07346433401107788
+4,Happy Hogan,iron_man_3.txt,Pitiful,0.0,[0.01061657 0.6718307 ],[ 1.0332853 -1.0397046],0.06363710761070251
+5,Maya Hansen,iron_man_3.txt,Unintelligible.,0.0,[0.47925034 0.39487514],[ 1.4693638 -1.2572392],0.027583837509155273
+6,Tony Stark,iron_man_3.txt,Really?,0.2,[ 1.025617   -0.31121793],[ 1.1886078 -1.1071012],0.05093225836753845
+7,Maya Hansen,iron_man_3.txt,Mmm-hmm.,0.0,[ 0.88400936 -0.25926173],[ 1.4338024 -1.3756517],0.040786921977996826
+8,Tony Stark,iron_man_3.txt,"It's my favorite kind, a winning combo.",0.5333333333333333,[0.49099866 0.09245432],[ 1.4392837 -1.4142188],0.0639948844909668
+9,Maya Hansen,iron_man_3.txt,Where are we going?,0.0,[ 2.2329865 -1.3300048],[ 1.4768624 -1.5442382],0.031038671731948853
+10,Tony Stark,iron_man_3.txt,"Uh, to town on each other, probably back in your room. Cause I also wanna see your research.",-0.0625,[ 1.5720248 -0.9562095],[ 1.6101438 -1.7221793],0.14344888925552368
+11,Maya Hansen,iron_man_3.txt,"Okay, you can see my research, but that's...I'm not gonna show you my ""town.""",0.5,[ 1.9505131 -1.3701456],[ 1.9497613 -2.0315826],0.11464790999889374
+12,Tony Stark,iron_man_3.txt,"Oh, I finally met a man called ""Ho.""",0.0,[-0.50602436  0.99902844],[ 1.8196515 -2.0800984],0.06915012001991272
+13,Tony Stark,iron_man_3.txt,"[to Wu] Oh, this guy.",0.0,[0.8826826  0.04608586],[ 1.4949044 -1.6738117],0.05094149708747864
+14,Tony Stark,iron_man_3.txt,"Hey. (Dr. Wu greets Tony in mandarin as they shake hands.) You're a heart doctor. She's going to need a cardiologist after I... (Tony turns, starts blowing on his party horn & walks away with Maya.)",0.0,[ 0.76109815 -0.10702211],[ 1.3302981 -1.4523934],0.14830699563026428
+15,Maya Hansen,iron_man_3.txt,Bye.,0.0,[ 1.3802972 -0.518535 ],[ 0.9596808 -0.820585 ],0.07178306579589844
+16,Aldrich Killian,iron_man_3.txt,Mr. Stark!,-0.25,[0.8009823  0.02673631],[ 1.3656467 -1.5553088],0.033113032579422
+17,Aldrich Killian,iron_man_3.txt,"Oh, wow! Hey, Tony! Aldrich Killian. (Stuttering To Maya) I'm a big fan of your work!",0.078125,[ 1.028679   -0.23869142],[ 2.0711944 -2.3026335],0.17373035848140717
+18,Maya Hansen,iron_man_3.txt,My work?,0.0,[ 1.0258698  -0.48449737],[ 1.8569077 -1.7623373],0.10821923613548279
+19,Tony Stark,iron_man_3.txt,Who isn't? He means me.,0.0,[ 1.435336  -0.7987637],[ 1.7716553 -1.927092 ],0.1169356107711792
+20,Aldrich Killian,iron_man_3.txt,"Well, of course. But, Miss Hansen, my organization has been tracking your research since year two of MIT.",0.0,[-0.390127   0.5196494],[ 1.9559262 -2.0122056],0.055027276277542114
+21,Happy Hogan,iron_man_3.txt,"Yeah, we're full.",0.35,[-0.12442409  0.70316255],[ 1.280728  -1.2231114],0.03861537575721741
+22,Tony Stark,iron_man_3.txt,"Oh, wow. He made it. He made the cut.",0.1,[-0.11909125  0.8289289 ],[ 1.5202972 -1.503678 ],0.03841215372085571
+23,Happy Hogan,iron_man_3.txt,"What floor are you going to, pal?",0.0,[ 2.3889303 -1.476723 ],[ 1.6307441 -1.6724771],0.08327671885490417
+24,Aldrich Killian,iron_man_3.txt,"Oh, now, that is an appropriate question. The ground floor, actually. I've got a proposal I'm putting together with myself. It's a privately funded think tank called, Advanced Idea Mechanics. [He holds out two business cards towards Tony and Maya]",0.225,[ 1.5922731  -0.96640843],[ 2.0654547 -2.1530528],0.024813354015350342
+25,Tony Stark,iron_man_3.txt,Uh... she'll take both.,0.0,[ 1.4565226 -0.7470624],[ 0.9135362 -0.9083051],0.0897015631198883
+26,Maya Hansen,iron_man_3.txt,Okay. [takes the cards],0.5,[ 1.7761104 -0.8766312],[ 1.3821023 -1.4731581],0.01926538348197937
+27,Tony Stark,iron_man_3.txt,One to throw away and one to not call.,0.0,[ 2.3159726 -1.3759607],[ 1.3413159 -1.2475119],0.020486176013946533
+28,Aldrich Killian,iron_man_3.txt,"Advanced Idea Mechanics, or AIM for short. (Points to the logo on his shirt) Do you get it?",0.2,[ 1.5388279 -0.9251278],[ 2.1216507 -2.120757 ],0.027279645204544067
+29,Tony Stark,iron_man_3.txt,"I see that, cause it's on your t-shirt.",0.0,[0.5003172  0.15214291],[ 1.6537645 -1.5978748],0.08548176288604736
+30,Aldrich Killian,iron_man_3.txt,Aw!,0.0,[0.17613171 0.52935934],[ 1.3640082 -1.2946073],0.044718772172927856
+31,Tony Stark,iron_man_3.txt,"(to the party of women in the elevator; referring to Hogan as they walk out) Ladies, follow the mullet.(To Maya) Ladies first.",0.25,[0.56927174 0.23065543],[-0.3170888  0.2904825],0.16222183406352997
+32,Maya Hansen,iron_man_3.txt,"(to Aldrich as she walks out of the elevator) Thank you, I'll call you.",0.0,[ 1.2509325  -0.45186555],[ 1.4919562 -1.4078454],0.12787099182605743
+33,Tony Stark,iron_man_3.txt,I'm titillated by the notion of working with you.,0.0,[ 0.5368639  -0.16463602],[ 2.1156397 -2.068032 ],0.17515593767166138
+34,Aldrich Killian,iron_man_3.txt,Yeah?,0.0,[ 0.8216908  -0.10445262],[ 1.205829  -1.1815833],0.02401787042617798
+35,Tony Stark,iron_man_3.txt,"Yeah, cheese clown. I'll see you up on the roof in five minutes. [steps out of the elevator] I'm just going to try to get my beef wet real quick. You know what I'm talkin' about?",0.2,[ 1.2702076 -0.6163669],[ 0.9011073 -0.9178041],0.1775120347738266
+36,Aldrich Killian,iron_man_3.txt,I'll see you up there.,0.0,[ 1.3011321  -0.51067364],[ 1.3955604 -1.2745761],0.17168453335762024
+37,Tony Stark,iron_man_3.txt,Damn betcha.,0.0,[0.5180944  0.09080071],[ 1.079997  -1.0224482],0.025333166122436523
+38,Tony Stark,iron_man_3.txt,Come on! I thought that was just a theory.,0.0,[ 0.7496546  -0.03946674],[ 1.4821552 -1.450876 ],0.0518379807472229
+39,Maya Hansen,iron_man_3.txt,"Well, it was. If I'm right, we can access the area of the brain that governs repair...",0.2857142857142857,[0.392089   0.04538348],[ 2.0622277 -1.9568797],0.030170857906341553
+40,Tony Stark,iron_man_3.txt,Wow.,0.1,[-0.23829356  0.8402889 ],[ 1.0188035  -0.94825435],0.0306379497051239
+41,Maya Hansen,iron_man_3.txt,...And chemically recode it.,0.0,[-0.3061925   0.71466774],[ 1.5194832 -1.498314 ],0.02770930528640747
+42,Tony Stark,iron_man_3.txt,That's incredible. Essentially you're hacking into the genetic...,0.45,[-0.7660715  0.8857043],[ 1.6434658 -1.6812288],0.06360229849815369
+43,Tony Stark,iron_man_3.txt,...of a...,0.0,[ 0.9817508  -0.28558803],[ 1.3134058 -1.2335888],0.029504239559173584
+44,Maya Hansen,iron_man_3.txt,Exactly.,0.25,[0.10223784 0.4836308 ],[ 1.0705729  -0.93674684],0.029907166957855225
+45,Maya Hansen,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+46,Tony Stark,iron_man_3.txt,Wow.,0.1,[-0.23829356  0.8402889 ],[ 1.0188035  -0.94825435],0.0306379497051239
+47,Maya Hansen,iron_man_3.txt,Is that... Can you...,0.0,[ 1.7924666 -1.0467055],[ 1.7691098 -1.8647014],0.1284651756286621
+48,Happy Hogan,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+49,Maya Hansen,iron_man_3.txt,Can you not touch my plant. It's not...she doesn't like it. She prefers...,0.0,[ 2.1277175 -1.5679656],[ 0.7538657 -0.7152184],0.09758719801902771
+50,Tony Stark,iron_man_3.txt,She's not like the others.​​​​​​ (to Maya) Come on. Let's go in the bedroom. Happy...,0.8,[ 1.93668   -1.2052441],[ 0.9008055 -1.1331547],0.17795133590698242
+51,Maya Hansen,iron_man_3.txt,"That's cute, but...",0.5,[ 0.55492485 -0.00291682],[ 1.4611117 -1.5192603],0.1372574418783188
+52,Tony Stark,iron_man_3.txt,Leave her ficus alone.,0.0,[ 0.97421116 -0.2004098 ],[0.03715087 0.07175741],0.12543749809265137
+53,Maya Hansen,iron_man_3.txt,"[turns to Hogan] Because... and, no, seriously don't. [walks into the bedroom]",0.1666666666666666,[ 1.8641112 -1.2543464],[ 1.3329797 -1.5653385],0.08839389681816101
+54,Tony Stark,iron_man_3.txt,And you're starting with plants?,0.0,[0.27302018 0.10386438],[ 1.64809   -1.6763283],0.04499697685241699
+55,Maya Hansen,iron_man_3.txt,"For now, yeah.",0.0,[ 0.7561461  -0.01320579],[ 1.1825441 -1.1259383],0.027349859476089478
+56,Tony Stark,iron_man_3.txt,Huh.,0.0,[0.25806877 0.31324133],[ 1.0337294 -1.0147848],0.02811509370803833
+57,Maya Hansen,iron_man_3.txt,I'm calling it Extremis.,0.0,[0.5300514  0.26002923],[ 1.443406  -1.4164559],0.035486459732055664
+58,Maya Hansen,iron_man_3.txt,"Well, it's...",0.0,[0.4742398  0.06892996],[ 1.7477275 -1.689281 ],0.03304332494735718
+59,Maya Hansen,iron_man_3.txt,Exactly! Exactly.,0.25,[0.75392634 0.18172175],[ 1.2120944 -1.0843596],0.027440130710601807
+60,Maya Hansen,iron_man_3.txt,Dendritic revitalization.,0.0,[-0.7410656  1.0878521],[ 1.9441378 -1.9157265],0.02587491273880005
+61,Tony Stark,iron_man_3.txt,It's revolutionary.,0.0,[-1.3910242  1.6489564],[ 1.1505483 -1.1191268],0.031179368495941162
+62,Maya Hansen,iron_man_3.txt,Disease prevention...,0.0,[-0.16204855  0.4743576 ],[ 1.6316749 -1.6446   ],0.019478797912597656
+63,Tony Stark,iron_man_3.txt,Changes the world.,0.0,[0.3310607  0.24116418],[ 1.3853933 -1.3642732],0.03130161762237549
+64,Maya Hansen,iron_man_3.txt,...even limb regrowth.,0.0,[0.02976786 0.46616194],[ 1.4987648 -1.5254046],0.02602139115333557
+65,Tony Stark,iron_man_3.txt,You're the most gifted woman I've ever met.,0.5,[0.00924611 0.6999701 ],[ 0.8375442 -0.6220798],0.1767919510602951
+66,Maya Hansen,iron_man_3.txt,Wow.,0.1,[-0.23829356  0.8402889 ],[ 1.0188035  -0.94825435],0.0306379497051239
+67,Tony Stark,iron_man_3.txt,In Switzerland.,0.0,[0.47891232 0.12168954],[ 1.3578337 -1.2913674],0.028873682022094727
+68,Maya Hansen,iron_man_3.txt,"Hmm, that's better. Aw, you're seeing things.",0.5,[-0.3219253  0.8292473],[ 1.8374902 -1.822042 ],0.04767376184463501
+69,Tony Stark,iron_man_3.txt,"You almost bought it, didn't you?",0.0,[ 1.1529094 -0.7906636],[ 1.5750014 -1.452967 ],0.12761063873767853
+70,Maya Hansen,iron_man_3.txt,"This is what I'm talking about, the glitch.",0.0,[ 0.50602436 -0.09245316],[ 1.8344558 -1.8246266],0.019495487213134766
+71,Tony Stark,iron_man_3.txt,Have you checked the telomerase algorithm?,0.0,[ 1.4281738  -0.82561374],[ 1.8430936 -1.7697948],0.02436003088951111
+72,Maya Hansen,iron_man_3.txt,The what?,0.0,[ 1.4956517 -0.6385674],[ 1.5097793 -1.4334637],0.03401660919189453
+73,Happy Hogan,iron_man_3.txt,"Down! Stay down! Stay down, boss.",-0.1814814814814815,[ 0.93805784 -0.27143136],[ 1.3112739 -1.4175652],0.08364945650100708
+74,Tony Stark,iron_man_3.txt,We're good.,0.7,[-0.0101284  0.5618592],[ 1.3868347 -1.3434657],0.08549454808235168
+75,Happy Hogan,iron_man_3.txt,Stay down.,-0.1555555555555555,[ 1.0058458  -0.34265924],[ 1.2656372 -1.2566673],0.06159713864326477
+76,Tony Stark,iron_man_3.txt,You're...you're right on me. I made it. (Happy gets up) What the hell was that?,0.5428571428571429,[ 1.7845573 -0.8473214],[ 1.9827403 -2.005114 ],0.17588704824447632
+77,Happy Hogan,iron_man_3.txt,What was that?,0.0,[ 2.135712  -1.1180547],[ 1.4864482 -1.4070758],0.025134563446044922
+78,Maya Hansen,iron_man_3.txt,It's a glitch in my work. It's...,0.0,[ 0.8403653 -0.1912851],[ 1.8229922 -1.7563537],0.03775784373283386
+79,Tony Stark,iron_man_3.txt,She was just talking about it. Glitches happening.,0.0,[0.43803862 0.11354548],[ 1.8664527 -1.6372069],0.039100468158721924
+80,Happy Hogan,iron_man_3.txt,It's not Y2K.,0.0,[ 1.2383577  -0.41222355],[ 1.4803288 -1.4466223],0.024169564247131348
+81,Maya Hansen,iron_man_3.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+82,Tony Stark,iron_man_3.txt,Hey!,0.0,[0.6611168  0.13126478],[ 1.1559635 -1.1226578],0.02856665849685669
+83,Happy Hogan,iron_man_3.txt,Happy New Year.,0.4681818181818182,[0.23158114 0.39800546],[ 1.0036358 -1.105183 ],0.17085281014442444
+84,Tony Stark,iron_man_3.txt,Happy New Year.,0.4681818181818182,[0.23158114 0.39800546],[ 1.0036358 -1.105183 ],0.17085281014442444
+85,Maya Hansen,iron_man_3.txt,Happy New Year.,0.4681818181818182,[0.23158114 0.39800546],[ 1.0036358 -1.105183 ],0.17085281014442444
+86,Tony Stark,iron_man_3.txt,"Alright, I'll see you in the morning, goodnight.",0.0,[ 1.3108863  -0.56006354],[ 1.2945125 -1.1305498],0.17888641357421875
+87,Happy Hogan,iron_man_3.txt,You good?,0.7,[ 1.8134629  -0.88928103],[ 1.530329 -1.554598],0.1551627516746521
+88,Tony Stark,iron_man_3.txt,Yep.,0.0,[0.489407   0.05312944],[ 0.76243705 -0.71287125],0.027241259813308716
+89,Happy Hogan,iron_man_3.txt,I'll be right outside.,0.1428571428571428,[ 1.2203716  -0.42158142],[ 1.2870375 -1.1596311],0.06056162714958191
+90,Tony Stark,iron_man_3.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+91,Tony Stark,iron_man_3.txt,"[voice over] So why am I telling you this? Because I had just created demons, and I didn't even know it.",0.0,[ 1.532381  -0.7691246],[ 1.6518859 -1.6005031],0.10503706336021423
+92,Tony Stark,iron_man_3.txt,"[voice over] Yeah, those were the good times. Then I moved on. After a brief soiree in an Afghan cave, I said goodbye to the party scene. Forgot that night in Switzerland. These days I'm a changed man, I'm different now. I'm well... you know who I am.",0.2333333333333333,[ 1.5536052  -0.72940797],[ 1.9871114 -2.0277755],0.16668857634067535
+93,Tony Stark,iron_man_3.txt,Ow!,0.0,[0.626656   0.24759826],[ 1.3477703 -1.270032 ],0.044245630502700806
+94,JARVIS,iron_man_3.txt,"Sir, please may I request just a few hours to calibrate...",-0.2,[ 1.6444248 -0.8671583],[ 1.9773674 -1.983044 ],0.042838603258132935
+95,Tony Stark,iron_man_3.txt,No. Forty-eight. [he injects himself] Ah! Micro-repeater implanting sequence complete.,0.1,[ 0.9680915  -0.35815758],[ 1.7951007 -1.8846797],0.02347266674041748
+96,JARVIS,iron_man_3.txt,"As you wish, sir. I've also prepared a safety briefing for you to entirely ignore.",0.0,[ 1.0270064  -0.46910572],[ 1.657185  -1.5799242],0.062217891216278076
+97,Tony Stark,iron_man_3.txt,"Which I will. Right, let's do this.",0.2857142857142857,[ 1.4404725 -0.6351393],[ 1.1029135 -1.1128813],0.06377121806144714
+98,Tony Stark,iron_man_3.txt,"Dummy. Hi, Dummy. How did you get that cap on your head? You earned it.",0.0,[ 1.4571724 -0.9642605],[ 1.2223197 -1.1973993],0.1741916835308075
+99,Tony Stark,iron_man_3.txt,"Hey. Hey! What are you doing round in the corner? You know what you did. Blood on my mat, handle it.",-0.2,[ 1.6803396 -0.925077 ],[ 1.1718911 -1.2588841],0.17711281776428223
+100,JARVIS,iron_man_3.txt,"Sir, may I remind you that you've been awake for nearly seventy-two hours.",0.1,[ 0.72167176 -0.36816853],[ 1.9479722 -1.9783002],0.0681157112121582
+101,Tony Stark,iron_man_3.txt,"Focus up, ladies. Good evening, and welcome to the birthing suite. I'm pleased to announce the imminent arrival of your bouncing, bad-ass, baby brother.",0.6666666666666666,[-0.09220208  0.38065013],[ 0.78446245 -0.98249215],0.1862797737121582
+102,Tony Stark,iron_man_3.txt,"Start tight and go wide, stamp in time. Mark 42 autonomous prehensile propulsion suit test. Initialize sequence.",0.0404761904761904,[ 1.7698599 -1.1096541],[ 1.8522987 -1.7363875],0.028889715671539307
+103,Tony Stark,iron_man_3.txt,"Jarvis, drop my needle.",0.0,[ 1.5875201 -0.8053322],[ 1.3365755 -1.4165283],0.1588127613067627
+104,Tony Stark,iron_man_3.txt,Crap.,-0.8,[-0.02695744  0.5335204 ],[ 1.1425639 -1.0319653],0.05767795443534851
+105,Tony Stark,iron_man_3.txt,"Alright, I think we got this. Send 'em all.",0.0,[ 1.5972493  -0.77989966],[ 1.3717179 -1.3324617],0.06473207473754883
+106,Tony Stark,iron_man_3.txt,"Probably a little fast, slow it down. Slow it down just a...",-0.1497685185185185,[ 1.7937653 -1.0646123],[ 1.6702216 -1.5797795],0.035947173833847046
+107,Tony Stark,iron_man_3.txt,...little bit.,0.0,[0.35502097 0.27400926],[ 1.1533345 -1.0242505],0.06654968857765198
+108,Tony Stark,iron_man_3.txt,"Cool it, will you, Jarvis?",0.35,[ 1.583484 -0.744728],[ 1.6293436 -1.7115666],0.10969425737857819
+109,Tony Stark,iron_man_3.txt,Come on. I ain't scared of you.,0.0,[ 1.5524395  -0.70416206],[ 1.2874869 -1.2631956],0.17691317200660706
+110,Tony Stark,iron_man_3.txt,I'm the best.,1.0,[-0.32952762  1.0178918 ],[ 1.4868976 -1.3815917],0.17211492359638214
+111,JARVIS,iron_man_3.txt,"As always, sir, a great pleasure watching you work.",0.8,[-0.6336224  1.0365808],[ 1.500482  -1.5546428],0.17208297550678253
+112,Tony Stark,iron_man_3.txt,[voice over] And I guess seventy-two hours isn't a long time between siesta's. Didn't think it could get any worse. Then I had to go and turn on the TV.,-0.225,[ 1.5331185 -0.5687292],[ 1.8416144 -1.6805303],0.02638944983482361
+113,Tony Stark,iron_man_3.txt,[voice over] That's when he happened.,0.0,[0.708147   0.09161906],[ 1.7975817 -1.7503189],0.02354377508163452
+114,The Mandarin,iron_man_3.txt,"Some people call me a terrorist, I consider myself a teacher. America, ready for another lesson. In 1864 in Sand Creek Colorado the U.S. military waited till the friendly Cheyenne braves all gone hunting, waited to attack and slaughter their families left behind, and claim their land. Thirty-nine hours ago the Ali Al Salem Air Base in Kuwait was attacked. I...I...I did that. A quaint military church filled with wives and children, of course. The soldiers were out on maneuvers, the braves were away. President Ellis, you continue to resist my attempts to educate you, sir. And now, you've missed me again. You know who I am, you don't know where I am, and you'll never see me coming.",-0.053125,[ 0.94570243 -0.4158928 ],[ 0.8856975 -1.0589433],0.11169126629829407
+115,Colonel James Rhodes,iron_man_3.txt,"It tested well with focus groups, alright?",0.0,[-1.2511789  1.5024474],[ 2.0782537 -2.0822575],0.025220900774002075
+116,Tony Stark,iron_man_3.txt,[putting on a mocking voice] I am Iron Patriot...,0.0,[ 0.8335634  -0.09289585],[ 1.7359718 -1.8624586],0.05733725428581238
+117,Colonel James Rhodes,iron_man_3.txt,"Listen, War Machine was a little too aggressive, alright? This sends a better message.",0.15625,[0.49308714 0.0143868 ],[ 1.7468175 -1.7684491],0.033011674880981445
+118,Tony Stark,iron_man_3.txt,"So what's really goin' on? With Mandarin. Seriously, can we talk about this guy?",-0.0666666666666666,[ 2.0030003 -1.2965454],[ 1.523259  -1.6136376],0.07764548063278198
+119,Colonel James Rhodes,iron_man_3.txt,"It's classified information, Tony. Okay, there have been nine bombings.",0.5,[-0.35543787  0.6587418 ],[ 1.5688969 -1.7462022],0.023489058017730713
+120,Tony Stark,iron_man_3.txt,Nine.,0.0,[ 0.7480709  -0.13309246],[ 0.8946574  -0.82963026],0.026031464338302612
+121,Colonel James Rhodes,iron_man_3.txt,"The public only knows about three. Here's the thing, nobody can ID a device. There's no bomb casings.",0.0,[0.43615165 0.03161939],[ 1.6987177 -1.7880126],0.017269432544708252
+122,Tony Stark,iron_man_3.txt,"You know I can help, just ask. I got a ton of new tech, I got a prehensile, I got a...I got a new bomb disposal. Catches explosions mid-air.",0.1363636363636363,[ 1.6545923 -0.9815953],[ 1.8191841 -1.6706582],0.05749082565307617
+123,Colonel James Rhodes,iron_man_3.txt,When's the last time you got a good night's sleep?,0.35,[ 1.9904314 -1.1204109],[ 1.7486304 -1.7237586],0.11601483821868896
+124,Tony Stark,iron_man_3.txt,Einstein slept three hours a year. Look what he did?,0.0,[-0.3800172   0.62112033],[ 1.3777146 -1.4610454],0.04336583614349365
+125,Colonel James Rhodes,iron_man_3.txt,"People are concerned about you, Tony. I'm concerned about you.",0.0,[0.2458558  0.23350164],[ 2.0190675 -2.105778 ],0.17522624135017395
+126,Tony Stark,iron_man_3.txt,You're gonna come at me like that?,0.0,[ 0.8534538  -0.07165298],[ 1.580827  -1.5567778],0.17453449964523315
+127,Colonel James Rhodes,iron_man_3.txt,"No. No, look, I'm not trying to be a dic...",0.0,[ 1.5304755 -0.8685373],[ 1.6373758 -1.6059288],0.10369104146957397
+128,Colonel James Rhodes,iron_man_3.txt,...tator.,0.0,[0.517724  0.1675382],[ 1.0656949 -1.0088023],0.028752535581588745
+129,Tony Stark,iron_man_3.txt,"If Richard doesn't mind. [to Rhodes] You alright with this, Dick?",0.0,[ 2.061301 -1.353122],[ 1.5862446 -1.8427949],0.14987102150917053
+130,Colonel James Rhodes,iron_man_3.txt,Fine with me.,0.4166666666666667,[0.3955103 0.3233651],[ 1.0703946 -1.0813361],0.16911496222019196
+131,Tony Stark,iron_man_3.txt,[To the girl] What's your name?,0.0,[ 2.11118   -1.1281599],[ 1.1781756 -1.3092319],0.16692668199539185
+132,Tony Stark,iron_man_3.txt,"I loved you in A Christmas Story, by the way.",0.7,[ 0.74668294 -0.12608123],[ 1.8463563 -1.8026425],0.1714620143175125
+133,Colonel James Rhodes,iron_man_3.txt,"Listen, the Pentagon is scared. After what happened in New York... aliens, come on. They need to look strong. Stopping the Mandarin is priority, but it's not...",0.2848484848484848,[0.12065963 0.55384606],[ 0.45010036 -0.5590835 ],0.03340369462966919
+134,Tony Stark,iron_man_3.txt,"It's not superhero business, I get it.",0.0,[0.21365035 0.2395511 ],[ 1.542173  -1.4868809],0.042263031005859375
+135,Colonel James Rhodes,iron_man_3.txt,"No, it's not, quite frankly. It's American business.",0.0,[0.17759705 0.05591982],[ 1.4815587 -1.3809661],0.0552409291267395
+136,Tony Stark,iron_man_3.txt,That's why I said I...got it.,0.0,[ 0.8670798  -0.32166052],[ 1.7515475 -1.6529368],0.08977222442626953
+137,Colonel James Rhodes,iron_man_3.txt,Are you okay?,0.5,[ 2.1348462 -1.2184303],[ 1.7840706 -1.8255793],0.1370542347431183
+138,Tony Stark,iron_man_3.txt,I broke the crayon.,0.0,[0.77148736 0.02087997],[ 1.7955703 -1.5898793],0.02553221583366394
+139,Colonel James Rhodes,iron_man_3.txt,Take it easy. Tony...,0.4333333333333333,[ 1.6850946  -0.87202495],[ 1.8237988 -1.8350831],0.04653477668762207
+140,Colonel James Rhodes,iron_man_3.txt,Wait a minute! Tony!,0.0,[0.6075456  0.11368101],[ 1.6052244 -1.6595279],0.047993868589401245
+141,Tony Stark,iron_man_3.txt,What'd he say?!,0.0,[ 1.8335221 -0.955287 ],[ 1.7836683 -1.6972734],0.06649374961853027
+142,Colonel James Rhodes,iron_man_3.txt,Tony!,0.0,[0.22504413 0.42607108],[ 1.1232215 -1.1137425],0.027603864669799805
+143,Tony Stark,iron_man_3.txt,Sorry. Have to check on the suit...make sure...okay.,-0.5,[ 1.6341269 -1.0301743],[ 1.7094516 -1.7852979],0.041676878929138184
+144,Tony Stark,iron_man_3.txt,"Check the heart, check the...check the...is it the brain?",0.0,[ 2.0756307 -1.3459998],[ 1.7527515 -1.7246166],0.04325506091117859
+145,JARVIS,iron_man_3.txt,No sign of cardiac analomy or unusual brain activity.,0.075,[0.678453   0.04640127],[ 1.6387523 -1.7847673],0.16730426251888275
+146,Tony Stark,iron_man_3.txt,"Okay, so I was poisoned?",0.5,[-0.2899677   0.65694517],[ 1.7246217 -1.825446 ],0.07086467742919922
+147,Tony Stark,iron_man_3.txt,Me?,0.0,[ 1.7062445  -0.85600704],[ 1.3731533 -1.2985487],0.08874547481536865
+148,Colonel James Rhodes,iron_man_3.txt,"Come on, man. This isn't a good look, open up.",0.35,[ 1.5754315  -0.78809863],[ 1.3359632 -1.3144501],0.0759243369102478
+149,Tony Stark,iron_man_3.txt,"Sorry, I gotta split.",-0.5,[ 0.8272608  -0.00252996],[ 1.5094727 -1.4283556],0.0838647186756134
+150,Happy Hogan,iron_man_3.txt,"Badge. Badge. Come on, badge. Badge, guys. I put a memo in the toilet, come on. [referring to Tony's robots as Hogan meets with Pepper] Tony has got them in his basement, they're wearing party hats. This is an asset that we can put to use.",-0.0333333333333333,[ 1.5263883  -0.81655663],[ 1.2648678 -1.3136115],0.0902954638004303
+151,Pepper Potts,iron_man_3.txt,"Uh-huh. So, you're suggesting that I replace the entire janitorial staff with robots?",0.0,[-0.6322119   0.85158396],[ 1.7633536 -1.6828532],0.037743210792541504
+152,Happy Hogan,iron_man_3.txt,What I'm saying is that the human element of Human Resources is our biggest point of vulnerability. We should start phasing it out immediately.,0.0,[ 0.6559535  -0.15795317],[ 1.8231356 -1.6595005],0.030337005853652954
+153,Pepper Potts,iron_man_3.txt,What!?,0.0,[ 0.83081675 -0.02250028],[ 1.1688625 -1.1043874],0.032210320234298706
+154,Happy Hogan,iron_man_3.txt,"[to another employee as Hogan walks past them] Excuse me, Bambi.",-0.15,[ 0.7202944 -0.1478416],[ 1.8755656 -1.9115859],0.12122681736946106
+155,Pepper Potts,iron_man_3.txt,[Hogan points to his badge] Did you just say that?,0.0,[ 1.5181068  -0.76558524],[ 1.7451273 -1.8905264],0.04000958800315857
+156,Happy Hogan,iron_man_3.txt,Security.,0.0,[ 0.75404125 -0.11096101],[ 1.0090163 -0.9513203],0.02455851435661316
+157,Pepper Potts,iron_man_3.txt,Happy?,0.8,[ 1.4615155 -0.768221 ],[ 1.4980849 -1.5224272],0.09144839644432068
+158,Happy Hogan,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+159,Pepper Potts,iron_man_3.txt,"Okay, I am thrilled that you're now the Head of Security, okay? It is the perfect position for you.",0.65,[-1.4181799  1.698712 ],[ 1.820451  -1.8017259],0.17172423005104065
+160,Happy Hogan,iron_man_3.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+161,Pepper Potts,iron_man_3.txt,However...,0.0,[0.58270633 0.03976714],[ 1.170811  -1.1069773],0.025442063808441162
+162,Happy Hogan,iron_man_3.txt,I do appreciate it,0.0,[0.37841976 0.21170062],[ 1.5160817 -1.5323063],0.17210674285888672
+163,Pepper Potts,iron_man_3.txt,Since you've taken the post...,0.0,[ 1.0686586  -0.54283434],[ 1.9200047 -1.9944268],0.05238693952560425
+164,Happy Hogan,iron_man_3.txt,You don't have to thank me.,0.0,[ 1.3295754 -0.6021335],[ 1.5354655 -1.4186188],0.16578581929206848
+165,Pepper Potts,iron_man_3.txt,We've had a rise in staff complaints of three hundred percent,0.0,[-1.4042588  1.4576457],[ 2.112796  -1.9606329],0.02338460087776184
+166,Happy Hogan,iron_man_3.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+167,Pepper Potts,iron_man_3.txt,That's not a compliment.,0.0,[ 1.0306411  -0.35766113],[ 1.1842263 -1.1898819],0.07416084408760071
+168,Happy Hogan,iron_man_3.txt,That's not a compli...? It is a compliment! Clearly somebody's trying to hide something.,0.1,[ 1.1321374 -0.4471606],[ 1.4941996 -1.5444629],0.07080599665641785
+169,Pepper Potts,iron_man_3.txt,I...,0.0,[ 0.90454185 -0.11042006],[ 1.5382246 -1.4275182],0.05506789684295654
+170,Pepper Potts,iron_man_3.txt,Yes?,0.0,[ 1.4607873 -0.628932 ],[ 1.1038216 -1.0922269],0.0379202663898468
+171,Pepper Potts,iron_man_3.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+172,Happy Hogan,iron_man_3.txt,Did you clear this four o'clock with me?,0.1,[ 2.0803888 -1.1782784],[ 1.9734272 -1.9348687],0.15297262370586395
+173,Pepper Potts,iron_man_3.txt,"Happy, we'll talk about this later. But right now I have to go deal with this very annoying thing.",0.0214285714285714,[ 1.5340629  -0.76229364],[ 1.7110673 -1.5778992],0.06052413582801819
+174,Happy Hogan,iron_man_3.txt,How so?,0.0,[ 1.999396  -1.0572245],[ 1.2678548 -1.2088485],0.04536789655685425
+175,Pepper Potts,iron_man_3.txt,"I used to work with him, and he used to ask me out all the time. So it's a little awkward.",-0.39375,[ 0.53654104 -0.10906402],[ 2.0094435 -1.9774002],0.17361845076084137
+176,Happy Hogan,iron_man_3.txt,I don't like the sound of that.,0.4,[ 1.1678916  -0.44204992],[ 1.2355686 -1.146947 ],0.114580899477005
+177,Aldrich Killian,iron_man_3.txt,Pepper.,0.0,[0.331373  0.2299859],[ 0.9477673 -0.9012736],0.028599798679351807
+178,Pepper Potts,iron_man_3.txt,Killian?,0.0,[ 1.2570981  -0.41046917],[ 1.3325888 -1.3241729],0.037502169609069824
+179,Aldrich Killian,iron_man_3.txt,You look great. You look really great.,0.8,[-0.8239225  1.051711 ],[ 1.3710557 -1.3213502],0.17719650268554688
+180,Pepper Potts,iron_man_3.txt,"God, you look...you look great. I... I...I can't... What on earth have you been doing?",0.8,[ 1.7799227 -1.0444512],[ 1.8162619 -1.9628493],0.17311930656433105
+181,Aldrich Killian,iron_man_3.txt,"Nothing fancy, just five years in the hands of physical therapists. And please, call me Aldrich.",0.0,[0.13136564 0.35975373],[ 2.07671  -2.020282],0.14604564011096954
+182,Happy Hogan,iron_man_3.txt,Uh...you were supposed to be issued a security badge.,0.0,[-0.6932513  0.9272143],[ 1.8961294 -1.7528862],0.039046913385391235
+183,Pepper Potts,iron_man_3.txt,"Happy, it's okay.",0.65,[-0.14447324  0.85176724],[ 1.6843201 -1.6786405],0.12093554437160492
+184,Happy Hogan,iron_man_3.txt,Yes?,0.0,[ 1.4607873 -0.628932 ],[ 1.1038216 -1.0922269],0.0379202663898468
+185,Pepper Potts,iron_man_3.txt,We're good.,0.7,[-0.0101284  0.5618592],[ 1.3868347 -1.3434657],0.08549454808235168
+186,Happy Hogan,iron_man_3.txt,You sure?,0.5,[ 1.9552666 -1.1223384],[ 1.6527463 -1.6623343],0.09562915563583374
+187,Pepper Potts,iron_man_3.txt,Yes. Stand down.,-0.1555555555555555,[ 1.2640917  -0.42043173],[ 0.90499973 -0.8408132 ],0.022948414087295532
+188,Happy Hogan,iron_man_3.txt,"Okay. I'm gonna linger, right here.",0.3928571428571428,[ 1.9125291 -1.084859 ],[ 1.4400443 -1.3928418],0.0906527042388916
+189,Pepper Potts,iron_man_3.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+190,Happy Hogan,iron_man_3.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+191,Pepper Potts,iron_man_3.txt,"It's very nice to see you, Killian.",0.78,[-0.7343053  1.0174122],[ 1.6024188 -1.642285 ],0.17806437611579895
+192,Happy Hogan,iron_man_3.txt,"Hey, guy.",0.0,[0.13934873 0.5145759 ],[ 1.4249474 -1.453883 ],0.04525262117385864
+193,Savin,iron_man_3.txt,Merry Christmas.,0.0,[0.4649092  0.10691588],[ 1.0783483 -1.1171815],0.10687622427940369
+194,Aldrich Killian,iron_man_3.txt,"After years dodging the President's ban on ""immoral biotech research"", my think tank now has a little something in the pipeline. It's an idea we like to call Extremis. I'm gonna turn your lights down.",-0.1715277777777777,[-0.21016303  0.4242974 ],[ 1.8401815 -1.9867116],0.042022109031677246
+195,Aldrich Killian,iron_man_3.txt,Regard the human brain.,0.0,[0.27287936 0.35578206],[ 1.5986508 -1.4466859],0.07510387897491455
+196,Aldrich Killian,iron_man_3.txt,"Uh...wait. Hold on, hold on. That's...that's the universe, my bad. But if I do that...",-0.6999999999999998,[ 1.7226316 -1.0531118],[ 1.566739  -1.7902689],0.09936410188674927
+197,Aldrich Killian,iron_man_3.txt,"That's the brain. Strangely mimetic though, wouldn't you say?",-0.05,[ 1.1360829 -0.6477319],[ 1.5849138 -1.5166255],0.07035204768180847
+198,Aldrich Killian,iron_man_3.txt,"Thanks, it's mine.",0.2,[0.41644925 0.20487303],[ 1.7231001 -1.7608098],0.14082302153110504
+199,Pepper Potts,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+200,Aldrich Killian,iron_man_3.txt,This...you're inside my head. It's a...,0.0,[ 1.7251209  -0.95664626],[ 1.8087095 -1.6173661],0.14027155935764313
+201,Aldrich Killian,iron_man_3.txt,"It's a live feed. Come on up, I'll prove it to you.",0.1363636363636363,[ 1.5528436  -0.98614126],[ 1.9539369 -1.8638834],0.044986575841903687
+202,Aldrich Killian,iron_man_3.txt,Come on.,0.0,[ 0.8295334  -0.10513789],[ 0.80590206 -0.69385916],0.11768479645252228
+203,Aldrich Killian,iron_man_3.txt,"Now, pinch my arm. I can take it. Pinch me.",0.0,[ 1.830033   -0.94825166],[ 0.8972906 -0.9244725],0.17815490067005157
+204,Pepper Potts,iron_man_3.txt,What is that?,0.0,[ 2.0403779 -1.0718771],[ 1.3264277 -1.3025846],0.025523483753204346
+205,Aldrich Killian,iron_man_3.txt,It's the primary somatosensory cortex. It's the brain's pain center. But this is what I wanted to show you.,0.15,[ 0.79682493 -0.19493663],[ 2.1242504 -1.8673829],0.05818420648574829
+206,Aldrich Killian,iron_man_3.txt,"Now, Extremis harnesses our bioelectrical potential and it goes...here. This is essentially an empty slot, and what this tells us is that our mind, our entire DNA in fact, is destined to be upgraded.",-0.0333333333333333,[ 1.2115831  -0.62835544],[ 1.6897393 -1.7092566],0.025822103023529053
+207,Pepper Potts,iron_man_3.txt,Wow.,0.1,[-0.23829356  0.8402889 ],[ 1.0188035  -0.94825435],0.0306379497051239
+208,Happy Hogan,iron_man_3.txt,Hello?,0.0,[ 1.5538695 -0.6634318],[ 1.4267398 -1.4074689],0.028099507093429565
+209,Tony Stark,iron_man_3.txt,Is this forehead of Security?,0.0,[ 1.3326253 -0.7136106],[ 1.3704427 -1.4301199],0.08741909265518188
+210,Happy Hogan,iron_man_3.txt,"What? You know, look, I got a real job. What do you want? I'm working, I got something going on here.",0.2,[ 1.3714614  -0.71068287],[ 1.9361163 -1.7144423],0.12651538848876953
+211,Tony Stark,iron_man_3.txt,What? Harassing interns?,0.0,[-0.59430635  0.8926397 ],[ 1.7360398 -1.5882237],0.024341285228729248
+212,Happy Hogan,iron_man_3.txt,"Let me tell you something, you know what happened when I told people I was Iron Man's body guard? They would laugh in my face.",0.3,[-0.21570168  0.64780617],[ 1.9899181 -2.0075934],0.14337211847305298
+213,Happy Hogan,iron_man_3.txt,"I had to leave while I still had a shred of dignity. Now I got a real job, I'm watching Pepper.",0.2,[ 0.93024945 -0.30274323],[ 1.7322613 -1.558473 ],0.141476571559906
+214,Tony Stark,iron_man_3.txt,What's going on? Fill me in.,0.0,[ 2.1331553 -1.2764299],[ 1.9382504 -1.9187986],0.11577478051185608
+215,Happy Hogan,iron_man_3.txt,For real?,0.2,[ 1.359812  -0.6668807],[ 1.3792908 -1.3525451],0.037353575229644775
+216,Tony Stark,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+217,Happy Hogan,iron_man_3.txt,"Alright, so she's meeting up with this scientist. Rich guy, handsome.",0.4375,[-0.9998996  1.2673982],[ 1.3763958 -1.4702803],0.16399678587913513
+218,Tony Stark,iron_man_3.txt,Right.,0.2857142857142857,[0.02233725 0.5421472 ],[ 0.9082546 -0.8296772],0.039899617433547974
+219,Happy Hogan,iron_man_3.txt,"I couldn't make his face at first, right? You know I'm good with faces.",0.4119047619047619,[0.31130806 0.22210938],[ 1.5445746 -1.4539701],0.17473438382148743
+220,Tony Stark,iron_man_3.txt,"Oh, Yeah, yeah. You're the best.",1.0,[-1.5334654  1.8701445],[ 1.5086399 -1.4370605],0.17396996915340424
+221,Happy Hogan,iron_man_3.txt,"Yeah. Well, so I run his credentials, I make him Aldrich Killian. We actually met the guy back in... where were we in '99? The science conference?",0.0,[ 1.330024   -0.74901754],[ 1.8392035 -2.0510008],0.08224356174468994
+222,Tony Stark,iron_man_3.txt,Um...Switzerland.,0.0,[0.40955883 0.13837889],[ 1.7551463 -1.7337904],0.029213786125183105
+223,Happy Hogan,iron_man_3.txt,"Right, right, exactly.",0.2738095238095238,[0.4511216  0.24577722],[ 0.9857327 -0.9021198],0.02887547016143799
+224,Tony Stark,iron_man_3.txt,"Killian? No, I don't remember that guy.",0.0,[ 1.4766484 -0.7362359],[ 1.5612901 -1.6585938],0.0772387683391571
+225,Happy Hogan,iron_man_3.txt,"Of course you don't. He's not a blond with a big rack. At first it was fine, they were talking business, but now it's like getting weird. He's showing her a big brain.",0.0333333333333333,[ 0.52274746 -0.03906356],[ 0.2977291  -0.20134121],0.17352864146232605
+226,Tony Stark,iron_man_3.txt,His what?,0.0,[ 1.4018254 -0.4910779],[ 1.4766172 -1.4284141],0.07275983691215515
+227,Happy Hogan,iron_man_3.txt,"Big brain, and she likes it. Here, let me show you. Hold on. See? [he holds his tablet up and points it towards Pepper's glass office, where Aldrich and Pepper are standing close together on the coffee table watching the 3d image of the brain, but all Tony sees is Hogan pointing the tablet camera at himself]",0.0,[ 1.3258384  -0.79248106],[ 1.8230358 -1.7583343],0.07730013132095337
+228,Tony Stark,iron_man_3.txt,Look at what? You watching them? Flip the screen and then we can get started.,0.0,[ 1.3729452 -0.8498953],[ 1.8769466 -1.8620732],0.023891955614089966
+229,Happy Hogan,iron_man_3.txt,"I'm not a tech genius like you. Just...just trust me, get down down here.",-0.1555555555555555,[ 1.8228735  -0.99355423],[ 1.9468262 -1.815274 ],0.14641891419887543
+230,Tony Stark,iron_man_3.txt,"Flip the screen, then I can see what they're doing.",0.0,[ 0.8203181 -0.1352266],[ 1.6887472 -1.6155392],0.021261096000671387
+231,Happy Hogan,iron_man_3.txt,I can't! I don't know how to flip the screen! Don't talk to me like that anymore. You're not my boss.,0.0,[ 2.094883 -1.255428],[ 1.2831155 -1.033639 ],0.15352419018745422
+232,Happy Hogan,iron_man_3.txt,"Alright, I don't work for you. Now I don't trust this guy. He's got another guy with him, he's shifty.",0.0,[ 1.920145  -1.2602323],[ 1.2692057 -1.455088 ],0.17739823460578918
+233,Tony Stark,iron_man_3.txt,Relax.,0.0,[-0.03843613  0.45275792],[ 1.6164228 -1.4398855],0.024659067392349243
+234,Happy Hogan,iron_man_3.txt,Seriously?,-0.3333333333333333,[ 1.4002771 -0.5995707],[ 1.2580729 -1.1948351],0.03723451495170593
+235,Tony Stark,iron_man_3.txt,I'm just asking you to secure the perimeter. Tell him to go out for a drink or something?,0.4,[ 2.0681214 -1.2140967],[ 1.5672454 -1.7415458],0.09409657120704651
+236,Happy Hogan,iron_man_3.txt,"You know what? You should take more of an interest in what's going on here. This woman... this woman's the best thing that ever happened to you, and you...you're just ignoring her.",0.75,[ 1.1969569  -0.63503075],[ 1.2700552 -1.0804276],0.17342153191566467
+237,Tony Stark,iron_man_3.txt,A giant brain?,0.0,[0.68275523 0.03283184],[ 1.3244346 -1.3044589],0.051447927951812744
+238,Happy Hogan,iron_man_3.txt,"Yeah, there's a giant brain, there's a shifty character. I'm gonna follow this guy. I'm gonna run his plates and if it gets rough, so be it.",-0.05,[ 1.616349  -0.9154989],[ 1.6747206 -1.7695376],0.16924279928207397
+239,Tony Stark,iron_man_3.txt,"I miss you, Happy.",0.8,[ 1.1673294 -0.331641 ],[ 1.8021154 -1.7919112],0.1628628969192505
+240,Happy Hogan,iron_man_3.txt,"Yeah, I miss you too. But the way it used to be. Now you're off with the 'superfriends', I don't know what's going on with you anymore. The world's getting weird...",-0.5,[ 1.2631434 -0.5706905],[ 2.0359094 -1.9611493],0.17659012973308563
+241,Tony Stark,iron_man_3.txt,"Hey, I...I'd hate to cut you off. Do you have your taser on you?",-0.8,[ 2.1752315 -1.4497553],[ 1.0702597 -1.2804054],0.1763664186000824
+242,Happy Hogan,iron_man_3.txt,Why?,0.0,[ 1.8556874 -0.9093038],[ 1.1259345 -1.0720764],0.06853637099266052
+243,Tony Stark,iron_man_3.txt,"I think there's a gal in HR who's trying to steal some printer ink, you should probably go over there and zap her.",0.0,[ 1.2291669 -0.6455001],[-0.6892593   0.90399605],0.08459240198135376
+244,Happy Hogan,iron_man_3.txt,"Yeah, nice.",0.6,[-2.0295851  2.0326083],[ 1.1099354 -1.0339141],0.08715119957923889
+245,Aldrich Killian,iron_man_3.txt,Imagine if you could hack into the hard drive of any living organism and recode its DNA.,-0.2916666666666667,[0.34694573 0.06603902],[ 1.7183297 -1.6204652],0.02853289246559143
+246,Pepper Potts,iron_man_3.txt,It would be incredible.,0.9,[0.16881344 0.38183397],[ 1.0233406 -0.9405771],0.08648908138275146
+247,Aldrich Killian,iron_man_3.txt,Mm.,0.0,[ 1.2614228 -0.5311917],[ 1.3580008 -1.251141 ],0.1169750988483429
+248,Pepper Potts,iron_man_3.txt,"Unfortunately, to my ears it also sounds highly weaponizable. As in enhanced soldiers, private armies, and Tony is not...",-0.1133333333333333,[ 0.6784312  -0.16428277],[ 1.8795758 -1.789076 ],0.03682774305343628
+249,Aldrich Killian,iron_man_3.txt,"Tony. Tony. You know, I invited Tony to join AIM thirteen years ago, he turned me down. But something tells me now there is a new genius on the throne who doesn't have to answer to Tony anymore, and who has slightly less of an ego.",-0.0619528619528619,[ 1.2228159  -0.64589655],[ 1.8978978 -2.033282 ],0.1301000863313675
+250,Pepper Potts,iron_man_3.txt,"It's gonna be a no, Aldrich. As much as I'd like to help you.",0.2,[ 1.8928416 -1.1348352],[ 1.8393126 -1.7964693],0.16495610773563385
+251,Aldrich Killian,iron_man_3.txt,"Well, I can't say that I'm not disappointed. But then as my father used to say, 'Failure is the fog through which we glimpse triumph.'",0.0291666666666666,[ 1.6373312 -0.8772891],[ 1.9057654 -1.8087457],0.11434686183929443
+252,Pepper Potts,iron_man_3.txt,That's very deep.,0.0,[0.34600466 0.28989053],[ 1.2522126 -1.1775329],0.055751681327819824
+253,Aldrich Killian,iron_man_3.txt,Mm,0.0,[ 1.0905169  -0.29909304],[ 1.3116558 -1.2013189],0.11783413589000702
+254,Pepper Potts,iron_man_3.txt,And I have no idea what it means.,0.0,[ 1.4773382 -0.5987429],[ 1.7617499 -1.698779 ],0.03353092074394226
+255,Aldrich Killian,iron_man_3.txt,"Well, me neither. He was kind of an idiot, my old man.",-0.0333333333333333,[ 1.3790783 -0.5675581],[ 1.3580061 -1.3974787],0.16718962788581848
+256,Aldrich Killian,iron_man_3.txt,"I'm sure I'll see you again, Pepper.",0.5,[ 0.9467596  -0.14475024],[ 1.5962948 -1.4928532],0.14383290708065033
+257,Pepper Potts,iron_man_3.txt,Happy...,0.8,[0.15115029 0.38640615],[ 1.6252799 -1.6508938],0.10285359621047974
+258,Happy Hogan,iron_man_3.txt,"The car is ready, if you're ready to go.",0.2,[ 2.11695   -1.2591676],[ 1.5862594 -1.5323426],0.030849218368530273
+259,Pepper Potts,iron_man_3.txt,"Yes. I just um... God, I forgot my... other thing, so... I'm just gonna...",-0.125,[ 1.7767259 -1.1059958],[ 1.9596685 -1.9427599],0.11114645004272461
+260,Pepper Potts,iron_man_3.txt,I'm sorry I'm late. I was... What the...? What is that?!,-0.4375,[ 1.7477219 -0.8987259],[ 2.0113733 -2.0047042],0.10062667727470398
+261,Pepper Potts,iron_man_3.txt,"You're wearing this in the house now? What is that, like Mark 15?",0.0,[ 1.8391708 -1.1773565],[ 1.6629179 -1.6752447],0.058679163455963135
+262,Tony Stark,iron_man_3.txt,Uh...yeah. Something like that. You know everybody needs a hobby.,0.0,[-0.8410222  1.0198706],[ 1.6484939 -1.5938224],0.06696018576622009
+263,Pepper Potts,iron_man_3.txt,"Oh, and you have to wear your hobby in the living room?",0.0,[-1.01788    1.1944703],[ 1.654852 -1.563294],0.08737438917160034
+264,Tony Stark,iron_man_3.txt,"Just breakin' it in. You know, it's always a little pinchy in the gooey bag at first, so.",0.03125,[ 1.424081   -0.73662776],[ 1.8082609 -1.8459281],0.09906095266342163
+265,Tony Stark,iron_man_3.txt,"Oh hey, did you see your Christmas present?",0.0,[ 1.0724299  -0.51950675],[ 1.8638971 -1.9210595],0.1139916181564331
+266,Pepper Potts,iron_man_3.txt,"Yes, I did. I...I don't know how I could have missed that Christmas present. Is it gonna fit through the door?",0.2,[ 2.2696123 -1.626177 ],[ 1.8803307 -1.9147516],0.07718664407730103
+267,Tony Stark,iron_man_3.txt,"Well actually, uh...it's a good question. I got a team of guys comin' tomorrow, they're gonna blow out that wall.",0.35,[ 1.7483795  -0.98848265],[ 0.68532133 -0.66660655],0.07186174392700195
+268,Pepper Potts,iron_man_3.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+269,Tony Stark,iron_man_3.txt,"So, uh...tense? Good day?",0.7,[-0.46862534  0.5772536 ],[ 1.8685738 -1.9714411],0.1364770382642746
+270,Tony Stark,iron_man_3.txt,"Ooh shoulders, a little naughty. Naughty girl. I don't wanna harp on this, but did you like the custom rabbit?",-0.1625,[ 2.0363598 -1.3491877],[ 1.1139212 -1.1759179],0.18075159192085266
+271,Pepper Potts,iron_man_3.txt,Did I like it?,0.0,[ 2.0269005 -1.1355819],[ 1.6328939 -1.5992225],0.0707128643989563
+272,Tony Stark,iron_man_3.txt,"Nailed it, right?",0.2857142857142857,[0.5554812  0.08097261],[ 1.1008527 -1.0368992],0.09340515732765198
+273,Pepper Potts,iron_man_3.txt,Wow. I appreciate the thought very much.,0.18,[ 0.9910687 -0.3002316],[ 1.4196092 -1.457088 ],0.11589816212654114
+274,Pepper Potts,iron_man_3.txt,So why don't you lift up that face mask and give me a kiss?,0.0,[ 1.7209287 -0.8638419],[ 0.74925774 -0.65996337],0.14148083329200745
+275,Tony Stark,iron_man_3.txt,"Huh. Yup, dammit. No can do. You wanna just kiss it on the...",0.0,[ 2.1720777 -1.4076911],[ 1.5301548 -1.4251751],0.1745176613330841
+276,Pepper Potts,iron_man_3.txt,Uh-huh.,0.0,[0.33403358 0.20642814],[ 1.1282914 -1.0878879],0.03097444772720337
+277,Tony Stark,iron_man_3.txt,The facial slit?,0.0,[ 1.3936855 -0.6234175],[ 1.5706415 -1.5520309],0.17569303512573242
+278,Pepper Potts,iron_man_3.txt,"Well, why don't I run down to the garage and see if I can't find a crowbar to shimmy that thing open?",-0.0777777777777777,[ 1.7861236 -1.1188569],[ 1.0658486 -0.9087867],0.04289191961288452
+279,Tony Stark,iron_man_3.txt,Crowbar. Yeah.,0.0,[ 0.86942536 -0.10718188],[ 1.1764582 -1.2139052],0.02541828155517578
+280,Tony Stark,iron_man_3.txt,"Oh, except there's been a...uh...a radiation leak.",0.0,[-0.344854    0.60246974],[ 1.5960466 -1.7728298],0.021656453609466553
+281,Pepper Potts,iron_man_3.txt,I'll take my chances.,0.0,[ 1.2200166  -0.39866516],[ 1.2226135 -1.1459332],0.16668394207954407
+282,Tony Stark,iron_man_3.txt,That's risky.,0.0,[ 1.1654217 -0.3978033],[ 1.0384368 -1.0172124],0.025984644889831543
+283,Tony Stark,iron_man_3.txt,At least let me get you like a Hazmat suit or a Geiger counter or something like that.,-0.3,[ 1.7765049 -0.9615431],[ 1.677734  -1.7127844],0.04652377963066101
+284,Tony Stark,iron_man_3.txt,Busted.,0.0,[0.69299924 0.05405844],[ 1.2718482 -1.1511437],0.027464181184768677
+285,Pepper Potts,iron_man_3.txt,This is a new level of lame.,-0.1818181818181818,[0.15831058 0.3833118 ],[ 0.8625045 -0.8314126],0.1147196888923645
+286,Tony Stark,iron_man_3.txt,Sorry.,-0.5,[0.11915877 0.49564156],[ 1.1443355 -1.0534722],0.06820344924926758
+287,Pepper Potts,iron_man_3.txt,"You ate without me, already? On date night?",0.0,[ 1.7453703 -1.0490417],[ 1.4617313 -1.5052382],0.16612400114536285
+288,Tony Stark,iron_man_3.txt,[referring to Mark 42 suit] He was just...,0.0,[ 1.4037491 -0.7135639],[ 1.9453691 -2.1156814],0.02606460452079773
+289,Pepper Potts,iron_man_3.txt,You mean you?,-0.3125,[ 1.3553467  -0.57745624],[ 1.5664815 -1.5494349],0.09390753507614136
+290,Tony Stark,iron_man_3.txt,"Well, yeah. I just mean we were just...just hosting you while I finished up a little work.",-0.25,[ 1.0057026  -0.40102628],[ 1.9792619 -1.9678307],0.11746904253959656
+291,Pepper Potts,iron_man_3.txt,Uh-huh.,0.0,[0.33403358 0.20642814],[ 1.1282914 -1.0878879],0.03097444772720337
+292,Tony Stark,iron_man_3.txt,"And yes, I had a quick bite. I didn't know if you were comin' home or if you were having drinks with Aldrich Killian.",0.3333333333333333,[ 1.9841417 -1.2555239],[ 1.807395  -1.9159901],0.08706140518188477
+293,Pepper Potts,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+294,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+295,Pepper Potts,iron_man_3.txt,Aldrich Killian? What are you checking up on me?,0.0,[ 1.9066482 -1.3101896],[ 1.9048963 -2.190319 ],0.14415690302848816
+296,Tony Stark,iron_man_3.txt,Happy was concerned.,0.8,[ 0.8003189  -0.10655788],[ 1.445774  -1.3947915],0.039625585079193115
+297,Pepper Potts,iron_man_3.txt,"No, you're spying on me.",0.0,[0.3078739  0.27497748],[ 1.368033 -1.384716],0.13781040906906128
+298,Tony Stark,iron_man_3.txt,I wasn't...,0.0,[ 1.1531764 -0.3685749],[ 1.6255219 -1.5655419],0.08524766564369202
+299,Pepper Potts,iron_man_3.txt,I'm going to bed.,0.0,[ 1.35323   -0.4974349],[ 1.1433192 -1.0223056],0.11068475246429443
+300,Tony Stark,iron_man_3.txt,Hold on. Come on. Pep.,0.0,[ 1.596089   -0.72070473],[ 1.0523728 -0.9891124],0.036545634269714355
+301,Tony Stark,iron_man_3.txt,"Hey, I admit it! My fault. Sorry.",-0.5,[0.71211433 0.05774891],[ 1.5317818 -1.4225112],0.17341279983520508
+302,Tony Stark,iron_man_3.txt,"I'm a piping hot mess. It's been going on for a while, I haven't said anything.",0.0375,[ 2.1905346 -1.2818143],[ 1.9853638 -1.9576521],0.1522599458694458
+303,Tony Stark,iron_man_3.txt,Nothing's been the same since New York.,0.0681818181818181,[ 0.59582186 -0.03277332],[ 1.8018433 -1.7362868],0.027126193046569824
+304,Pepper Potts,iron_man_3.txt,"Oh really? Well, I didn't notice that, at all.",0.2,[0.21213426 0.31010702],[ 1.6942924 -1.6697701],0.036396563053131104
+305,Tony Stark,iron_man_3.txt,"You experience things and then they're over and you still can't explain 'em. Gods, aliens, other dimensions. I...I'm just a man in a can. The only reason I haven't cracked up is probably because you moved in. Which is great. I love you, I'm lucky. But, honey, I can't sleep. You go to bed, I come down here. I do what I know, I tinker.",0.2254629629629629,[ 1.5621943 -0.9530719],[ 1.8558996 -1.7984935],0.15882331132888794
+306,Tony Stark,iron_man_3.txt,"But threat is imminent, and I have to protect the one thing that I can't live without. That's you. My suits, they're uh...",0.1363636363636363,[ 1.5721664 -0.7639112],[ 1.5762814 -1.809181 ],0.09853774309158325
+307,Pepper Potts,iron_man_3.txt,Machines.,0.0,[-0.79725516  1.2344142 ],[ 1.0097009 -0.573614 ],0.024679064750671387
+308,Tony Stark,iron_man_3.txt,They're part of me.,0.0,[8.4971642e-01 1.8593669e-04],[ 1.8510315 -1.7095917],0.1709863841533661
+309,Pepper Potts,iron_man_3.txt,A distraction.,0.0,[0.1956987 0.6291608],[ 1.4079101 -1.3269016],0.05990445613861084
+310,Tony Stark,iron_man_3.txt,Maybe.,0.0,[0.45124775 0.12634778],[ 0.92405224 -0.84286803],0.04712939262390137
+311,Pepper Potts,iron_man_3.txt,I'm gonna take a shower.,0.0,[0.64062214 0.06583063],[ 1.1983854 -1.1485903],0.14865800738334656
+312,Tony Stark,iron_man_3.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+313,Pepper Potts,iron_man_3.txt,And you're gonna join me.,0.0,[0.8452269 0.0666092],[ 1.6555115 -1.6020609],0.17113743722438812
+314,Tony Stark,iron_man_3.txt,Better.,0.5,[0.23170413 0.29575375],[ 0.86880934 -0.8100457 ],0.05524781346321106
+315,Pepper Potts,iron_man_3.txt,Tony! Tony! Tony! Tony...,0.0,[ 1.0696453  -0.17179129],[ 1.580549  -1.5963668],0.027382075786590576
+316,Tony Stark,iron_man_3.txt,Power down!,-0.1944444444444444,[0.6574751  0.06857525],[ 1.2144128 -1.1585184],0.018470823764801025
+317,Tony Stark,iron_man_3.txt,"I must have called it in my sleep. That's not supposed to happen. I'll recalibrate the sensors. Can we just...just let me...just let me catch my breath, okay?",0.5,[ 1.7627479  -0.92503995],[ 1.8948046 -1.792436 ],0.09052324295043945
+318,Tony Stark,iron_man_3.txt,"Don't go, alright? Pepper?",0.0,[ 2.147718 -1.418483],[ 1.6726581 -1.6318563],0.027421534061431885
+319,Pepper Potts,iron_man_3.txt,I'm going to sleep downstairs. Tinker with that.,0.0,[ 1.3972622  -0.72097707],[ 1.2524351 -1.1721184],0.11401806771755219
+320,Savin,iron_man_3.txt,Can you regulate?,0.0,[ 1.3040586 -0.6448371],[ 1.6827222 -1.609915 ],0.06265595555305481
+321,Savin,iron_man_3.txt,Are you sure about that?,0.5,[ 2.190206  -1.3708425],[ 1.4438004 -1.4865254],0.07931095361709595
+322,Savin,iron_man_3.txt,It's a decent batch. Don't say I never did nothin' for you.,0.1666666666666666,[ 1.9125049 -1.220681 ],[ 1.957282  -2.0176694],0.0807485282421112
+323,Happy Hogan,iron_man_3.txt,"I'm sorry, buddy.",-0.5,[0.5485437 0.1421091],[ 1.5385629 -1.4637661],0.1754721999168396
+324,Savin,iron_man_3.txt,"What are you doin', buddy? You out by yourself? A little date night? Watching your favorite chick flick maybe?",0.15625,[ 2.1811962 -1.3853166],[ 1.5186733 -1.6469933],0.1993415802717209
+325,Happy Hogan,iron_man_3.txt,"Yeah, a little movie called ""The Party's Over"", starring you and your junkie girlfriend, and here's the ticket. [Hogan shows him what he took from Taggert's suitcase]",-0.1875,[ 1.3409636 -0.7123734],[ 1.5447334 -1.6217273],0.1298695206642151
+326,Savin,iron_man_3.txt,"No kidding? That doesn't belong to you. [Savin goes to take the item from Hogan's hand, but Hogan punches Savin in the face twice, Hogan notices Savin's face glow red and heal, then Savin grabs hold of Hogan and with super strength throws him aside, as Savin walks towards Hogan, Taggert begins to glow red and turn super hot]",0.1833333333333333,[ 1.87057   -1.1929395],[ 1.2760972 -1.6022657],0.05155864357948303
+327,Savin,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+328,The Mandarin,iron_man_3.txt,"True story about fortune cookies. They look Chinese, they sound Chinese, but they're actually an American invention. Which is why they're hollow, full of lies, and leave a bad taste in the mouth. My disciples just destroyed another cheap American knock-off, The Chinese Theater. Mr. President, I know this must be getting frustrating, but this season of terror is drawing to a close. And don't worry, the big one is coming; your graduation.",0.023076923076923,[ 0.51331854 -0.08903918],[ 1.0652477 -1.1624233],0.10185515880584717
+329,Tony Stark,iron_man_3.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+330,Tony Stark,iron_man_3.txt,[referring to the TV] Uh...mind leaving that on?,0.0,[ 1.8752437 -1.3090035],[ 1.7821821 -1.8855952],0.0344088077545166
+331,Tony Stark,iron_man_3.txt,"Sunday night's PBS 'Downtown Abbey'. That's his show, he thinks it's elegant. [he pauses for a moment] One more thing...make sure everyone wears their badges. He's a stickler for that sort of thing, plus my guys won't let anyone in without them. [Tony turns to leave]",0.5,[ 0.70029104 -0.26934716],[ 1.8447405 -1.999328 ],0.11242678761482239
+332,Tony Stark,iron_man_3.txt,"Is that what you want? Here's a little Holiday greeting I've been wanting to send to the Mandarin. I just didn't know how to phrase it until now. My name is Tony Stark and I'm not afraid of you. I know you're a coward, so I've decided [He removes his sunglasses and stares into the phone's camera] that you just died, pal. I'm gonna come get the body. There's no politics here; it's just good old-fashioned revenge. There's no Pentagon; it's just you and me. And on the off-chance you're a man, here's my home address",0.1531249999999999,[ 2.1415737 -1.2473218],[ 1.5727041 -1.7439672],0.14674203097820282
+333,JARVIS,iron_man_3.txt,"I've compiled a Mandarin database for you, sir. Drawn from S.H.I.E.L.D., F.B.I., and C.I.A. intercepts. Initiating virtual crime scene reconstruction. [Tony starts looking at all the data gathered]",0.0,[ 1.5042     -0.88778764],[ 2.1669683 -2.214694 ],0.025325894355773926
+334,Tony Stark,iron_man_3.txt,"Okay, what do we got here? His name is an ancient Chinese war mantle, meaning ""adviser to the King"". South American insurgency tactics, talks like a Baptist preacher. There's lots of pageantry going on here...lots of theater. [Tony pushes the virtual information down to close] Close. [Tony looks at the virtual crime scene reconstruction]",0.0861111111111111,[ 0.97616917 -0.37256354],[ 1.942914  -1.9817333],0.023081421852111816
+335,JARVIS,iron_man_3.txt,The heat from the blast was in excess of 3000 degrees Celsius. Any subjects within 12.5 yards were vaporized instantly.,0.0,[ 1.4746472 -0.7896649],[ 1.173003  -1.2833111],0.022433102130889893
+336,Tony Stark,iron_man_3.txt,No bomb parts found in a three mile radius of the Chinese theater.,0.0,[0.13912578 0.3490753 ],[ 1.5408076 -1.6407017],0.024220317602157593
+337,JARVIS,iron_man_3.txt,"No, sir.",0.0,[0.57854116 0.00281802],[ 1.0856522  -0.99595726],0.06191831827163696
+338,Tony Stark,iron_man_3.txt,"Talk to me, Happy. [in the virtual reconstruction, Tony sees Hogan pointing his finger at some dog tags] When is a bomb not a bomb? [Tony picks up the virtual image of the dog tags to investigate them further] When is a bomb not a bomb? [Tony picks up the virtual image of the dog tags to investigate them further] Any military victims?",0.175,[ 1.2804338  -0.82923055],[ 1.80232   -1.9696146],0.03887638449668884
+339,JARVIS,iron_man_3.txt,"Not according to public records, sir.",0.0,[ 1.1293958  -0.65543026],[ 1.5166783 -1.5187514],0.02672189474105835
+340,Tony Stark,iron_man_3.txt,"Bring up the thermogenic signatures again, factor in three thousand degrees.",0.0,[ 0.94280463 -0.317648  ],[ 1.5432761 -1.6093955],0.02275577187538147
+341,JARVIS,iron_man_3.txt,The oracle cloud has completed analysis. Accessing satellites and plotting the last twelve months of thermogenic occurrence now.,0.0,[ 0.80182236 -0.11439766],[ 1.7744305 -1.8990697],0.027228355407714844
+342,Tony Stark,iron_man_3.txt,"Take away everywhere that there's been a Mandarin attack. [Tony looks at the information popping up] Nope. [he sees an attack in Rose Hill, Tennessee] That. You sure that's not one of his?",0.55,[ 0.64368737 -0.22063017],[ 1.6973274 -1.9533144],0.0225774347782135
+343,JARVIS,iron_man_3.txt,It predates any known Mandarin attack. The incident was the use of a bomb to assist a suicide.,0.0,[0.53481287 0.05995832],[ 1.4166074 -1.5630829],0.02594292163848877
+344,Tony Stark,iron_man_3.txt,Bring her around.,0.0,[ 1.1366725 -0.436936 ],[ 0.9733181 -1.050459 ],0.16366562247276306
+345,JARVIS,iron_man_3.txt,The heat signature is remarkably similar. Three thousand degrees Celsius. [Tony looks at all the information being presented on the Tennessee attack],0.0,[ 0.7723605  -0.17007008],[ 1.8216145 -1.9617742],0.025143593549728394
+346,Tony Stark,iron_man_3.txt,"That's two military guys. Ever been to Tennessee, Jarvis?",-0.1,[ 1.7426931 -0.9242944],[ 1.6657356 -1.7513677],0.023530900478363037
+347,JARVIS,iron_man_3.txt,"Creating a flight plan for Tennessee. [as Tony is about to get ready to leave for Tennessee, he hears his door bell ring]",0.2,[ 1.1344625  -0.40932655],[ 1.8431965 -2.0015733],0.026967674493789673
+348,Tony Stark,iron_man_3.txt,"Are we still at ""ding-dong""? We're supposed to be on total security lock down. Come on, I threatened a terrorist. Who is that?",-0.0777777777777777,[ 1.2731447  -0.50901425],[ 1.2728921 -1.3706127],0.0646824836730957
+349,JARVIS,iron_man_3.txt,"There's only so much I can do, sir, when you give the world's press your home address. [we see Maya standing outside Tony's house, the glass doors are opened and she enters]",0.0666666666666666,[ 1.2944598  -0.60449106],[ 1.438035  -1.4952605],0.08389189839363098
+350,Tony Stark,iron_man_3.txt,"Right there's fine. [Tony dressed in his Iron Man suit walks toward her] You're not the Mandarin, are you? Are you?",0.3511904761904761,[ 1.5962226 -0.8588429],[ 1.5713273 -1.676193 ],0.13199269771575928
+351,Maya Hansen,iron_man_3.txt,You don't remember. Why am I not surprised?,-0.05,[ 2.0441637 -1.2705088],[ 1.7734898 -1.6696998],0.1174723356962204
+352,Tony Stark,iron_man_3.txt,"Don't take it personally, I don't remember what I had for breakfast.",0.0,[ 1.5439444  -0.87588644],[ 1.811781 -1.805319],0.06581306457519531
+353,JARVIS,iron_man_3.txt,"Gluten-free waffles, sir.",0.0,[-0.846449   1.2158247],[ 1.2855005 -1.3130959],0.023619383573532104
+354,Tony Stark,iron_man_3.txt,That's right.,0.2857142857142857,[-0.23289101  0.8131516 ],[ 1.0282716  -0.92415416],0.03901517391204834
+355,Maya Hansen,iron_man_3.txt,"Okay, look, I need to be alone with you. Someplace not here, it's urgent.",0.5,[ 2.2032475 -1.2966592],[ 1.8717012 -1.8732477],0.10787340998649597
+356,Tony Stark,iron_man_3.txt,"Normally, I'd go for that sort of thing, but now I'm in a committed relationship. [as he turns to walk into the living room, two bags are thrown down from the above balcony] It's...with her.",-0.0018518518518518,[ 1.6177796  -0.97575426],[ 1.3294567 -1.5573527],0.16870975494384766
+357,Pepper Potts,iron_man_3.txt,"Tony, is somebody there? [Tony steps out of his suit]",0.0,[ 1.9706308 -1.0829479],[ 1.7684181 -2.0019124],0.06818044185638428
+358,Tony Stark,iron_man_3.txt,"Yeah, it's Maya Hansen. [Maya smiles] Old botanist pal that I used to know, barely. [as Pepper starts walking downstairs, Tony moves towards Maya and speaks quietly] Please don't tell me that there is a twelve year-old kid waiting in the car that I've never met.",0.05,[ 1.2184832 -0.676055 ],[ 1.9368607 -1.9025043],0.0917012095451355
+359,Maya Hansen,iron_man_3.txt,"He's thirteen. And no, I need your help.",0.0,[ 1.9851685 -1.270005 ],[ 1.8862402 -1.9149562],0.1731569468975067
+360,Tony Stark,iron_man_3.txt,What...what for? Why now?,0.0,[ 2.2527714 -1.3405256],[ 1.6772417 -1.6177357],0.03537839651107788
+361,Maya Hansen,iron_man_3.txt,"Because I read the papers, and, frankly, I don't think you'll last the week.",0.0,[ 1.9616781 -1.0859437],[ 1.9387895 -1.956009 ],0.07110798358917236
+362,Tony Stark,iron_man_3.txt,I'll be fine.,0.4166666666666667,[0.5112357 0.4224109],[ 1.4977602 -1.3830062],0.16323524713516235
+363,Pepper Potts,iron_man_3.txt,"I'm sorry. With Happy in the hospital, I didn't know we were expecting guests.",0.15,[ 1.2603444  -0.61103463],[ 2.0477824 -2.0037735],0.13605032861232758
+364,Tony Stark,iron_man_3.txt,We weren't.,0.0,[0.39563957 0.21795574],[ 1.4829615 -1.3734215],0.0760444700717926
+365,Maya Hansen,iron_man_3.txt,"No, I...",0.0,[ 1.1156425  -0.32834816],[ 1.8319054 -1.690835 ],0.05867686867713928
+366,Pepper Potts,iron_man_3.txt,And old girlfriends!,0.125,[-0.5713117   0.87483764],[ 0.72798485 -0.7266447 ],0.1672075390815735
+367,Tony Stark,iron_man_3.txt,She's not really.,-0.1,[ 0.5246042  -0.01133918],[ 1.1584632 -1.0514205],0.13146480917930603
+368,Maya Hansen,iron_man_3.txt,"No, not really. It...it was just one night.",-0.1,[ 1.8848627 -1.1520468],[ 2.0620825 -1.90444  ],0.07959240674972534
+369,Tony Stark,iron_man_3.txt,Yep.,0.0,[0.489407   0.05312944],[ 0.76243705 -0.71287125],0.027241259813308716
+370,Pepper Potts,iron_man_3.txt,"That's how you did it, isn't it? Yep.",0.0,[-0.5068028  1.0106723],[ 1.4819859 -1.345713 ],0.04446694254875183
+371,Tony Stark,iron_man_3.txt,It was a great night.,0.8,[-1.7425007  1.7795894],[ 1.311565  -1.2645856],0.1339617669582367
+372,Pepper Potts,iron_man_3.txt,"Well, you know...",0.0,[-0.0056279   0.38604522],[ 1.6647054 -1.5412416],0.07320356369018555
+373,Maya Hansen,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+374,Pepper Potts,iron_man_3.txt,You have saved yourself a world of pain.,0.0,[ 0.61836994 -0.11957595],[ 1.7865998 -1.6672018],0.1430688500404358
+375,Maya Hansen,iron_man_3.txt,I'm sure.,0.5,[0.4498945  0.21693808],[ 1.1379396 -1.029369 ],0.06956920027732849
+376,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+377,Pepper Potts,iron_man_3.txt,Trust me. [to Tony] We're going out of town.,0.0,[ 1.8197489 -1.0065753],[ 1.797779  -1.8405144],0.10873961448669434
+378,Tony Stark,iron_man_3.txt,"Okay, we've been through this. Nope.",0.5,[ 0.87067306 -0.09307512],[ 1.5520024 -1.3831927],0.03166040778160095
+379,Pepper Potts,iron_man_3.txt,Yep!,0.0,[-0.01628335  0.7019556 ],[ 0.8538369  -0.83945334],0.02306687831878662
+380,Tony Stark,iron_man_3.txt,The man says no.,0.0,[ 0.9074021  -0.27680805],[ 1.2343711 -1.1362776],0.05610355734825134
+381,Pepper Potts,iron_man_3.txt,Immediately and indefinitely!,0.0,[ 1.1766735 -0.438298 ],[ 1.2944806 -1.2930084],0.02242511510848999
+382,Tony Stark,iron_man_3.txt,Honey...,0.0,[ 0.8414074  -0.37090948],[ 1.5777291 -1.4741443],0.04361125826835632
+383,Maya Hansen,iron_man_3.txt,Great idea. Let's go.,0.8,[0.33308154 0.10051202],[ 1.1843091 -1.1824206],0.050342291593551636
+384,Tony Stark,iron_man_3.txt,I'm sorry. That's a terrible idea. Please don't touch her bags.,-0.75,[ 1.7795395 -1.1729314],[ 1.0880264 -1.0188175],0.1705573946237564
+385,Pepper Potts,iron_man_3.txt,"Tony, this is how normal people behave.",0.15,[-1.2628479  1.5584141],[ 1.3667089 -1.306432 ],0.052475571632385254
+386,Tony Stark,iron_man_3.txt,I can't protect you out there. I challenged... [Maya notices giant stuffed rabbit Tony had bought for Pepper],0.0,[ 1.7866046 -1.0279843],[ 1.6226618 -1.722798 ],0.10366818308830261
+387,Maya Hansen,iron_man_3.txt,Is...is that normal?,0.15,[ 1.6699615  -0.98813003],[ 1.6033    -1.7169312],0.03481188416481018
+388,Tony Stark,iron_man_3.txt,"Yes, this is normal!",0.1875,[-1.2596314  1.5170908],[ 1.6758912 -1.6432215],0.024287700653076172
+389,Pepper Potts,iron_man_3.txt,"Sadly, that...is very normal.",-0.1525,[-0.5214424  0.7260219],[ 1.636255 -1.535761],0.03761926293373108
+390,Tony Stark,iron_man_3.txt,"It's a big bunny, relax about it!",0.0,[ 1.214446   -0.49104705],[ 1.0651504 -1.1025696],0.10671162605285645
+391,Pepper Potts,iron_man_3.txt,Calm down!,0.0527777777777777,[ 1.1509677  -0.42216742],[ 1.4565251 -1.3304626],0.025844335556030273
+392,Tony Stark,iron_man_3.txt,I got this for you.,0.0,[ 1.1339585  -0.32690558],[ 1.5381192 -1.384484 ],0.17488153278827667
+393,Pepper Potts,iron_man_3.txt,I'm aware of that.,0.25,[0.5270305  0.12392879],[ 1.4772773 -1.3369414],0.07263857126235962
+394,Tony Stark,iron_man_3.txt,You still haven't even told me that you liked it!,0.75,[ 1.3949597  -0.65629935],[ 1.7213098 -1.7844129],0.14613530039787292
+395,Pepper Potts,iron_man_3.txt,I don't like it!,0.0,[ 1.5393572 -0.6345376],[ 1.5439771 -1.5368974],0.13502229750156403
+396,Tony Stark,iron_man_3.txt,"I asked you three... You don't like it?! [as Tony and Pepper are bickering, Maya notices on the TV that helicopters are coming toward Tony's home]",0.0,[ 1.0987282 -0.5068526],[ 1.6652054 -1.7081152],0.08027642965316772
+397,Pepper Potts,iron_man_3.txt,"Tony, we are leaving the house; that's not even up for discussion.",0.0,[ 1.8108871 -1.1866581],[ 1.6921293 -1.6845266],0.04568856954574585
+398,Tony Stark,iron_man_3.txt,I said no.,0.0,[ 1.105541  -0.2954797],[ 1.2586957 -1.1036373],0.05994462966918945
+399,Maya Hansen,iron_man_3.txt,"Guys, can we um...",0.0,[ 1.7484733 -0.8950906],[ 1.7816728 -1.9074566],0.04475069046020508
+400,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+401,Maya Hansen,iron_man_3.txt,"[she points to the bomb heading straight for the house] Do we need to worry about that? [The house is suddenly hit, as everything explodes around them, Tony manages to get his Iron Man suit onto Pepper to protect her from the fall, Tony looks over to Maya, who's lying unconscious on the ground, as the ceiling is about to fall on Tony, Pepper saves him with the Iron Man suit]",0.1,[ 1.6877167 -1.1266321],[ 1.3175098 -1.6180437],0.06808245182037354
+402,Pepper Potts,iron_man_3.txt,I got you.,0.0,[ 0.8745619 -0.0522813],[ 1.4241924 -1.2454635],0.1631709784269333
+403,Tony Stark,iron_man_3.txt,"I got you first. Like I said, we can't stay here. [the helicopters starts shooting at the house] Move! I'm right behind! [as they run to get out, the floor between Pepper and Tony collapses] Get her, I'm gonna find a way around. [Pepper hesitates] Stop stopping! Get her, get outside! Go! [Pepper manages to grab Maya and use the Iron Man suit to get them safely out of the house, but the house gets further destroyed as the helicopters continue to fire on it]",0.0788690476190476,[ 1.6476749 -1.0079168],[ 1.0681237 -1.2320229],0.09147918224334717
+404,Pepper Potts,iron_man_3.txt,Oh my God. Tony! [back inside as the house is being destroyed around Tony],0.0,[ 1.3021559 -0.5309109],[ 1.7175689 -1.8968706],0.10119271278381348
+405,JARVIS,iron_man_3.txt,"Sir, Miss Potts is clear of the structure. [Tony motions for his Iron Man suit to come off Pepper and onto him]",0.1,[ 1.4234185 -0.7665251],[ 1.1944028 -1.3438737],0.06299802660942078
+406,Tony Stark,iron_man_3.txt,"Jarvis, where's my flight power?!",0.0,[ 1.9893155 -1.0871124],[ 1.769137  -1.8424613],0.07151055335998535
+407,JARVIS,iron_man_3.txt,"Working on it, sir. This is a prototype. [Tony manages to fire a piano at a helicopter to destroy it]",-0.2,[ 1.1506312 -0.4615231],[ 1.6833116 -1.6847687],0.02150934934616089
+408,Tony Stark,iron_man_3.txt,That's one.,0.0,[0.22638823 0.46493286],[ 0.9093931 -0.8522432],0.02293914556503296
+409,JARVIS,iron_man_3.txt,"Sir, the suit is not combat-ready. [Tony manages to get away from the bullets being fired at him from one of the remaining helicopters and again uses his suit to bring down the helicopter]",-0.1555555555555555,[ 1.2525835  -0.55095196],[ 1.5167996 -1.6492783],0.023386359214782715
+410,Tony Stark,iron_man_3.txt,"That's two. [as the helicopter explodes it crashes into the house, the remaining helicopter continues on shooting at the house, finally the remains of house with Tony inside fall into the ocean, Pepper runs to the edge of the cliff and looks down into the ocean. In the water, Tony starts to feel like he's drowning]",-0.0777777777777777,[ 1.4661394  -0.82373744],[ 1.678532  -1.8534893],0.029656648635864258
+411,Pepper Potts,iron_man_3.txt,Tony!,0.0,[0.22504413 0.42607108],[ 1.1232215 -1.1137425],0.027603864669799805
+412,JARVIS,iron_man_3.txt,"Sir, take a deep breath. [after a few moments Tony's suit gets its flight power activated by Jarvis] Flight power restored. [finally Tony manages to fly out of the ocean.]",0.15,[ 0.7386213  -0.21591607],[ 1.8758793 -2.0404284],0.029243260622024536
+413,JARVIS,iron_man_3.txt,Sir. Sir!,0.0,[ 1.118745  -0.1506592],[ 1.47432   -1.4814211],0.05528786778450012
+414,Tony Stark,iron_man_3.txt,"Alright, kill the alarm. I got it.",0.0,[0.3012087  0.40764877],[ 1.4083825 -1.2476138],0.043131083250045776
+415,JARVIS,iron_man_3.txt,"That's the emergency alert triggered by the power dropping below five percent. [Tony notices that he's flying through the snow at night, he falls and crashes into the ground in the middle of a forest, he takes off his face helmet as he lies on the ground catching his breath]",0.3,[ 1.2345619 -0.5044224],[ 1.8053006 -1.933969 ],0.029950469732284546
+416,Tony Stark,iron_man_3.txt,"It's snowing, right? Where are we, upstate?",0.2857142857142857,[ 1.9509834 -1.1609416],[ 1.6542572 -1.7422055],0.025221139192581177
+417,JARVIS,iron_man_3.txt,"We're five miles outside of Rose Hills, Tennessee.",0.3,[ 1.1045594  -0.32257718],[ 1.9270744 -1.8672739],0.027432411909103394
+418,Tony Stark,iron_man_3.txt,"Why?! Jarvis! Not my idea! What are we doing here? This is thousands of miles away, I gotta get Pepper, I gotta...",0.0,[ 2.1092577 -1.3871359],[ 1.6632311 -1.7520223],0.10501933097839355
+419,JARVIS,iron_man_3.txt,I prepared a flight plan. This was the location.,0.0,[ 1.6468562  -0.89939296],[ 1.8848004 -1.7868642],0.017644643783569336
+420,Tony Stark,iron_man_3.txt,Who asked you? Open the suit.,0.0,[ 1.6636325 -1.0113815],[ 1.5743352 -1.5128835],0.09840333461761475
+421,JARVIS,iron_man_3.txt,"I...I think I may be malfunctioning, sir.",0.0,[ 1.5850359 -0.9594172],[ 1.9116411 -1.8968217],0.12322556972503662
+422,Tony Stark,iron_man_3.txt,Open eject. [the suit gets off Tony and he sits up] That's brisk! [as Tony starts to feel the cold weather.] Maybe I'll just cozy back up for a bit.,-0.1999999999999999,[ 1.5499963 -0.9977863],[ 1.6725746 -1.9607602],0.08480292558670044
+423,JARVIS,iron_man_3.txt,"I actually think I need to sleep now, sir. [the suit loses power]",-0.15,[ 1.8797854 -1.1732837],[ 1.6119956 -1.7477447],0.07833102345466614
+424,Tony Stark,iron_man_3.txt,"Jarvis. Jarvis? Don't leave me, buddy. [Tony drags the suit to a petrol station and makes a call to Pepper]",0.0,[ 1.9944016 -1.2083449],[ 1.6556556 -1.8196365],0.10294651985168457
+425,Tony Stark,iron_man_3.txt,"Pepper, it's me. I've got a lot of apologies to make and not a lot of time. So first off, I'm so sorry I put you in harm's way. That was selfish and stupid and it won't happen again. Also, it's Christmas time, the rabbit's too big. Done. Sorry. And I'm sorry in advance because...I can't come home yet. I need to find this guy. You gotta stay safe. That's all I know. I just stole a poncho from a wooden Indian. [Tony drags the suit to an abandoned looking farmhouse, he places the suit on a couch and sits next to it] Let's get you comfy. [he places its hand by its side] You happy now? [as Tony tries to fix the micro-repeater implants in his arm, a boy stands by the doorway and points his toy gun at Tony]",-0.1124999999999999,[ 1.9867238 -1.3374096],[ 1.4101783 -1.6007978],0.17045196890830994
+426,Harley Keener,iron_man_3.txt,Freeze! Don't move.,0.0,[ 1.6187174 -0.8599873],[ 1.2421961 -1.2837363],0.04126003384590149
+427,Tony Stark,iron_man_3.txt,"You got me. Nice potato gun. Barrel's a little long. Between that and the wide gauge, it's gonna diminish your FPS. [the boy points his gun at a glass on a shelf and shoots at it, breaking the glass] And now you're out of ammo.",0.0656249999999999,[ 1.4395208  -0.86574763],[ 1.3391536 -1.4724044],0.0682080090045929
+428,Harley Keener,iron_man_3.txt,What's that thing on your chest?,0.0,[ 2.0293434 -1.1458634],[ 1.451166  -1.6008748],0.16582562029361725
+429,Tony Stark,iron_man_3.txt,"It's a electromagnet. You should know, you've got a box of them right here.",0.2857142857142857,[ 1.7317861 -1.0215653],[ 1.2760998 -1.1572871],0.027319222688674927
+430,Harley Keener,iron_man_3.txt,What does it power? [Tony stands and points the desk light at his suit sitting on the couch behind him] Oh my God! [Harley drops his toy gun and takes a step towards Tony] Oh my god! That... that's... Is that Iron Man?,-0.1124999999999999,[ 1.8035293 -1.1399919],[ 1.7683321 -2.0364494],0.07196792960166931
+431,Tony Stark,iron_man_3.txt,"Technically, I am.",0.0,[0.3846881  0.21591479],[ 1.4487468 -1.3670077],0.053541719913482666
+432,Harley Keener,iron_man_3.txt,"Technically, you're dead. [he give Tony a newspaper which has Tony's picture with the headline 'Mandarin Attack",-0.1,[ 0.60244864 -0.12262765],[ 1.502519  -1.7482488],0.03104153275489807
+433,Tony Stark,iron_man_3.txt,A valid point.,0.0,[0.6809129  0.01515435],[ 1.0282811 -1.0008694],0.024352282285690308
+434,Harley Keener,iron_man_3.txt,[referring to the suit as he sits next to it on the couch checking it out] What happened to him?,0.0,[ 1.936374  -1.2385848],[ 1.9837049 -2.2086873],0.08119022846221924
+435,Tony Stark,iron_man_3.txt,"Life. I built him, I take care of him, I'll fix him.",0.0,[ 1.5804199  -0.80239046],[ 2.000352  -2.0028315],0.16393816471099854
+436,Harley Keener,iron_man_3.txt,Like a mechanic?,0.0,[ 1.1616198  -0.40169576],[ 1.7209986 -1.6464516],0.031212806701660156
+437,Tony Stark,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+438,Harley Keener,iron_man_3.txt,Oh. If I was building Iron Man and War Machine.,0.0,[0.33027214 0.23458153],[ 1.5504974 -1.5444853],0.02623194456100464
+439,Tony Stark,iron_man_3.txt,[Interupting Harley] It's Iron Patriot now.,0.0,[ 1.3702174 -0.540923 ],[ 1.5883459 -1.6732234],0.02384239435195923
+440,Harley Keener,iron_man_3.txt,That's way cooler!,0.0,[-0.870625   1.1101917],[ 1.0177383 -1.0770324],0.015677034854888916
+441,Tony Stark,iron_man_3.txt,"No, it's not.",0.0,[ 0.6608173  -0.11798307],[ 1.234714  -1.1237031],0.04065108299255371
+442,Harley Keener,iron_man_3.txt,"Anyways, I would have added in um... the retro...",0.0,[ 1.666622  -1.0279462],[ 1.7139341 -1.7602371],0.023541122674942017
+443,Tony Stark,iron_man_3.txt,Retroreflective panels?,0.0,[ 0.78358734 -0.26819545],[ 1.8615953 -1.8985292],0.021060943603515625
+444,Harley Keener,iron_man_3.txt,To make him stealth mode.,0.0,[0.4929137  0.24788198],[ 1.2344114 -1.2902056],0.03359586000442505
+445,Tony Stark,iron_man_3.txt,You want a stealth mode?,0.0,[ 1.6883615 -1.0765952],[ 1.7082788 -1.8351728],0.0406649112701416
+446,Harley Keener,iron_man_3.txt,"Cool, right?",0.3178571428571428,[-0.82451206  1.1274487 ],[ 1.2000291 -1.249004 ],0.03175070881843567
+447,Tony Stark,iron_man_3.txt,That's actually a good idea. Maybe I'll build one.,0.7,[ 1.2995819 -0.6851565],[ 1.3095212 -1.3271278],0.038256317377090454
+448,Harley Keener,iron_man_3.txt,"[as he touches the suit, Harley accidentally snaps off one of its fingers] Oops!",0.0,[ 1.0996428  -0.49821383],[ 1.6070429 -1.7319933],0.08973020315170288
+449,Tony Stark,iron_man_3.txt,"Not a good idea! What are you doing? You're gonna break his finger? He's in pain, he's been injured. Leave him alone.",-0.4375,[ 2.2115145 -1.4410623],[ 1.398307  -1.3513789],0.17286910116672516
+450,Harley Keener,iron_man_3.txt,S...Sorry.,0.0,[0.3356381  0.39775732],[ 1.5319062 -1.438438 ],0.026160448789596558
+451,Tony Stark,iron_man_3.txt,"Are you? Don't worry about it, I'll fix it. So, uh, who's home?",0.0,[ 1.7816375 -1.04243  ],[ 1.8843402 -1.8268019],0.10227751731872559
+452,Harley Keener,iron_man_3.txt,"Well, my mom already left for the diner and dad went to 7-Eleven to get scratchers. I... I guess he won, 'cause that was six years ago.",0.0,[ 1.0105293  -0.49543518],[ 1.6854439 -1.6313542],0.05864331126213074
+453,Tony Stark,iron_man_3.txt,"Mm. Which happens, dads leave. No need to be a pussy about it. Here's what I need",0.0,[ 1.5492269 -0.8645826],[ 1.4354104 -1.2998781],0.19477194547653198
+454,Harley Keener,iron_man_3.txt,What's in it for me?,0.0,[ 2.3702028 -1.4214206],[ 1.6299096 -1.6027285],0.08153840899467468
+455,Tony Stark,iron_man_3.txt,Salvation. What's his name?,0.0,[ 2.1480913 -1.2908653],[ 1.7822174 -1.9102923],0.10628682374954224
+456,Harley Keener,iron_man_3.txt,Who?,0.0,[ 1.9149289 -0.9018236],[ 1.2673016 -1.2214421],0.03859183192253113
+457,Tony Stark,iron_man_3.txt,"The kid that bullies you at school, what's his name?",0.0,[ 1.8197964 -1.0155617],[ 1.7412647 -1.7820352],0.09245917201042175
+458,Harley Keener,iron_man_3.txt,How'd you know that?,0.0,[ 1.8599473 -1.1338831],[ 1.3979074 -1.3883966],0.09493076801300049
+459,Tony Stark,iron_man_3.txt,"I got just the thing. [he opens a compartment on the suit and takes out a metal object] This is a pinata for a cricket. I'm kidding, it's a very powerful weapon. Point it away from your face, press the button on top. It discourages bullying. Non-lethal, just to cover one's ass. [Harley reaches out to take it, but Tony pulls his hand away] Deal? Deal? What'd you say?",0.445,[ 2.010271  -1.2426455],[ 1.2930032 -1.333307 ],0.05953732132911682
+460,Harley Keener,iron_man_3.txt,Deal.,0.0,[0.32937127 0.33231872],[ 0.94792545 -0.8823453 ],0.02507650852203369
+461,Tony Stark,iron_man_3.txt,Deal? [Tony gives the object to Harley] What's you're name?,0.0,[ 2.0700889 -1.233203 ],[ 1.5653616 -1.7735513],0.05577513575553894
+462,Harley Keener,iron_man_3.txt,Harley. And you're...,0.0,[ 1.0295206  -0.38753775],[ 1.7478907 -1.8959701],0.09877592325210571
+463,Tony Stark,iron_man_3.txt,"The mechanic. Tony [Tony looks at Harley for a moment] You know what keeps going through my head? Where's my sandwich? [back at Tony's house, which is now surrounded by emergency rescue and news reporters, Pepper stands alone and looks out across the ocean. She sees one of Tony's shattered Iron Man helmets and pulls it towards her, her forehead resting against the helmet's. She sees a red flashing light inside the helmet and as she puts the helmet on she receives the message Tony had left her earlier]",0.08,[ 1.5822164 -1.0210506],[ 2.01073   -2.0613863],0.11316490173339844
+464,Tony Stark,iron_man_3.txt,"Pepper, it's me. [Pepper gasps and smiles] I've got a lot of apologies to make and not a lot of time. So first off, I'm so sorry I put you in harm's way. That was selfish and stupid and it won't happen again.",-0.3874999999999999,[ 2.068159  -1.1994427],[ 1.8031821 -1.7797402],0.17380565404891968
+465,Pepper Potts,iron_man_3.txt,Why were you at the house tonight? What was so important that you had to speak to Tony?,0.4,[ 2.2217906 -1.428421 ],[ 1.8735013 -1.8058732],0.15993919968605042
+466,Maya Hansen,iron_man_3.txt,"[A beat] I think that my boss is working for the Mandarin. So if you still want to talk about it, I suggest that we get ourselves someplace safe.",0.5,[ 1.3405585  -0.77979374],[ 1.826098  -1.8215141],0.1000542938709259
+467,Pepper Potts,iron_man_3.txt,"Your boss works for the Mandarin, you think? But Tony says you're a botanist, so...",0.0,[-0.17557628  0.41773203],[ 1.6793526 -1.6815704],0.10363556444644928
+468,Maya Hansen,iron_man_3.txt,"That figures. What I actually am is a biological DNA coder running a team of forty out of a privately-funded think tank, but sure you can call me a botanist.",0.25,[-0.04637126  0.46474436],[ 1.8387126 -1.8347481],0.031824201345443726
+469,Pepper Potts,iron_man_3.txt,"This boss of yours, does he have a name?",0.0,[ 2.061271  -1.2310696],[ 1.5949923 -1.5588489],0.16680096089839935
+470,Maya Hansen,iron_man_3.txt,"Yeah, Aldrich Killian. [Pepper looks at her in shock]",0.0,[ 1.1217688 -0.3820956],[ 1.6835724 -1.8068947],0.14459659159183502
+471,Savin,iron_man_3.txt,"Well, we took the house down, sir...",-0.1555555555555555,[-0.57874316  1.0183446 ],[ 1.679922  -1.7009398],0.07395586371421814
+472,Aldrich Killian,iron_man_3.txt,Mmhmm.,0.0,[ 0.68635637 -0.08794557],[ 1.3131924 -1.2329813],0.07552492618560791
+473,Savin,iron_man_3.txt,But there's no sign of a body.,0.0,[ 1.2547405 -0.5448106],[ 1.589131  -1.6602131],0.05439084768295288
+474,Aldrich Killian,iron_man_3.txt,I see.,0.0,[-0.00405407  0.5472854 ],[ 1.169933  -1.0319955],0.05481204390525818
+475,Savin,iron_man_3.txt,No Stark.,0.1,[0.4285262  0.13797635],[ 1.0652536 -1.0548323],0.029976099729537964
+476,Aldrich Killian,iron_man_3.txt,"I have to go. [Aldrich rises from his seat walks towards another room] The Master is about to record and he's a little... Well, you know how he gets. Keep your appointment tonight and call me when it's done. [Aldrich walks into a room which has been set up as a set with all of Mandarin's props in place and camera crew ready to record Mandarin's message] Alright everybody. No talking and no eye contact, unless you wanna get shot in the face.",0.00625,[ 1.2730696 -0.6494719],[ 1.8507544 -1.8420554],0.12581413984298706
+477,The Mandarin,iron_man_3.txt,Well then. What are we waiting for?,0.0,[ 1.7879883 -1.0883805],[ 1.5667592 -1.4902071],0.04322469234466553
+478,Tony Stark,iron_man_3.txt,"The sandwich was fair, the spring was a little rusty, the rest of the materials, I'll make do. By the way, when you said your sister had a watch, I was kinda hoping for something a little more than that. [he pulls his sleeve up and we see he's wearing a little girl's pink watch, Harley laughs]",0.0895833333333333,[ 2.0173275 -1.3383409],[ 1.6571143 -1.745006 ],0.13010194897651672
+479,Harley Keener,iron_man_3.txt,"She's six! Anyway, it's limited edition. When can we talk about New York?",0.0324675324675324,[ 1.7767735 -1.1227872],[ 1.8341705 -1.844287 ],0.022556424140930176
+480,Tony Stark,iron_man_3.txt,"Maybe never, relax about it.",0.0,[ 1.6043949 -0.9059405],[ 1.3757201 -1.311886 ],0.14440254867076874
+481,Harley Keener,iron_man_3.txt,"What about The Avengers, can you talk about them?",0.0,[ 2.2311354 -1.2622643],[ 1.9331377 -1.9570684],0.048413485288619995
+482,Tony Stark,iron_man_3.txt,"I don't know, later. Hey kid, give me a little space. [they stop and Tony looks at the remains of the local explosion site that Tony came to investigate] What's the official story here? What happened?",-0.0625,[ 2.066429 -1.350931],[ 2.2645879 -2.3323252],0.04445505142211914
+483,Harley Keener,iron_man_3.txt,"I guess this guy named Chad Davis, used to live roundabouts, won a bunch of medals in the army. One day, folks said he went crazy and made, you know, a bomb. Then he blew himself up right here. [Tony looks around at the remains]",-0.0593073593073593,[ 0.88944906 -0.20989442],[ 1.6421854 -1.8724573],0.05687069892883301
+484,Tony Stark,iron_man_3.txt,"Six people died, right?",0.2857142857142857,[0.21307538 0.32038555],[ 1.8771144 -1.7660286],0.03729736804962158
+485,Harley Keener,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+486,Tony Stark,iron_man_3.txt,Including Chad Davis?,0.0,[ 1.6174377  -0.97013265],[ 1.5956229 -1.6528263],0.02343621850013733
+487,Harley Keener,iron_man_3.txt,Yeah. [Tony keeps looking around at the remains of the explosion site],0.0,[ 0.75689524 -0.32072324],[ 1.9727281 -2.1271021],0.021533817052841187
+488,Tony Stark,iron_man_3.txt,"Yeah. That doesn't make sense. [he sits next to Harley] Think about it. Six dead, only five shadows.",-0.0666666666666666,[ 1.7658085 -0.9719724],[ 1.6723775 -1.8007385],0.0415322482585907
+489,Harley Keener,iron_man_3.txt,"Yeah, people said these shadows are like the mark of souls gone to Heaven. Except the bomb guy, he went to Hell on account of he didn't get a shadow. That's why there's only five.",0.0,[ 0.5124996  -0.00366824],[ 1.4759605 -1.7256075],0.033774733543395996
+490,Tony Stark,iron_man_3.txt,Do you buy that?,0.0,[ 1.9511126 -1.3479264],[ 1.6485418 -1.6117834],0.07896161079406738
+491,Harley Keener,iron_man_3.txt,That's what everyone says. You know what this crater reminds me of?,0.0,[-0.16792451  0.67097306],[ 1.7722751 -1.7388245],0.03538382053375244
+492,Tony Stark,iron_man_3.txt,No idea. I'm not...I don't care.,0.0,[ 2.160661  -1.4922416],[ 1.7243791 -1.6959985],0.11225605010986328
+493,Harley Keener,iron_man_3.txt,"That giant wormhole, in um...in New York. Does it remind you?",0.0681818181818181,[ 1.4410493  -0.90557337],[ 1.7333063 -1.8539397],0.03851950168609619
+494,Tony Stark,iron_man_3.txt,That's manipulative. I don't want to talk about it.,0.0,[ 1.82571   -1.0706716],[ 1.1557449 -1.0561299],0.13966143131256104
+495,Harley Keener,iron_man_3.txt,Are they coming back? The aliens?,0.0,[ 1.8200076 -1.049505 ],[ 0.7070018 -0.8063361],0.03424334526062012
+496,Tony Stark,iron_man_3.txt,"Maybe. Can you stop? Remember when I told you, that I have an anxiety issue?",0.0,[ 1.3037896  -0.44624555],[ 1.996532  -1.9281751],0.08635121583938599
+497,Harley Keener,iron_man_3.txt,Does this subject make you...make you edgy?,-0.2333333333333333,[ 1.2311099 -0.9108613],[ 1.8139824 -1.8867602],0.1400369554758072
+498,Tony Stark,iron_man_3.txt,"Yeah, a little bit. Can I just catch my breath for a second?",-0.09375,[ 1.9287246 -1.0474603],[ 1.9376712 -1.792238 ],0.1204439103603363
+499,Harley Keener,iron_man_3.txt,Are there bad guys in Rose Hills? Do you...do you need a plastic bag to breathe into? Do you have medication?,-0.0499999999999999,[ 2.157513 -1.507671],[ 1.0666746 -1.2274331],0.06845754384994507
+500,Tony Stark,iron_man_3.txt,Nope.,0.0,[0.5296393  0.10025536],[ 0.9449149 -0.8784879],0.07461822032928467
+501,Harley Keener,iron_man_3.txt,Do you need to be on it?,0.0,[ 2.3271136 -1.4475837],[ 1.8391271 -1.7885064],0.10088169574737549
+502,Tony Stark,iron_man_3.txt,Probably.,0.0,[0.38521358 0.1475034 ],[ 0.82102454 -0.7350594 ],0.036011725664138794
+503,Harley Keener,iron_man_3.txt,Do you have PTSD?,0.0,[ 1.7526332 -1.1127241],[ 2.0519872 -1.8822715],0.08009427785873413
+504,Tony Stark,iron_man_3.txt,I don't think so.,0.0,[ 1.4066114 -0.6592142],[ 1.192413  -1.1178321],0.0796806812286377
+505,Harley Keener,iron_man_3.txt,"Are you...are you going completely mental? I can stop, do you want me to stop? Do you want me to stop?",-0.1,[ 2.3416252 -1.6235465],[ 1.6280164 -1.5557395],0.1358703374862671
+506,Tony Stark,iron_man_3.txt,"Remember when I said to stop doing that? I swear to God, you're going to freak me out! [Tony, looking agitated, suddenly rises] Ah man, you did it, didn't you? You happy now?",0.4,[ 1.3700905  -0.68012863],[ 1.4830651 -1.5658611],0.17330129444599152
+507,Harley Keener,iron_man_3.txt,"What did I say? [Tony starts running off and Harley runs after him] Hey, wait up! Wait, wait. [Tony stops running and Harley catches up with him] What the hell was that? [Tony holds his face in his hands for a moment and then throws some snow at Harley]",0.0,[ 1.8235929 -1.1580176],[ 1.5346295 -1.7649087],0.090577632188797
+508,Tony Stark,iron_man_3.txt,"Your fault, you spazzed me out. Okay, back to business. Where were we? The guy who died...relatives? Mom? Mrs. Davis, where is she?",0.25,[ 1.9807106 -1.3084896],[ 1.869358 -1.821772],0.17644530534744263
+509,Harley Keener,iron_man_3.txt,Where she always is.,0.0,[0.58967954 0.06788188],[ 1.010099   -0.94780874],0.07886365056037903
+510,Tony Stark,iron_man_3.txt,"See, now you're being helpful. [later we see Tony walking towards a bar and he bumps into a woman] Sorry. [the woman drops something] Lady, this uh... [he picks up the item and hands it back to the woman]",-0.1666666666666666,[ 0.78455645 -0.2798688 ],[ 0.7262034 -0.7644092],0.12339100241661072
+511,Tony Stark,iron_man_3.txt,"Nice haircut, suits you.",0.6,[-1.0759755  1.490049 ],[ 1.3271465 -1.3455237],0.17476674914360046
+512,Tony Stark,iron_man_3.txt,"Yeah, limited edition.",-0.0714285714285714,[-0.2961657  0.6591882],[ 1.2406195 -1.2044775],0.02693992853164673
+513,Tony Stark,iron_man_3.txt,"Mrs. Davis, mind if I join you?",0.0,[ 1.868521 -1.14319 ],[ 1.4609073 -1.4421403],0.17497244477272034
+514,Tony Stark,iron_man_3.txt,"It sure is. [Tony sits next to her, Mrs. Davis looks at Tony for a moment]",0.25,[ 1.2727304  -0.73336977],[ 1.4768425 -1.5328726],0.14622481167316437
+515,Tony Stark,iron_man_3.txt,I just want to say I'm sorry about your loss. I want to know what you think happened.,-0.5,[ 2.0787463 -1.2309059],[ 1.915088  -1.7218772],0.17374549806118011
+516,Tony Stark,iron_man_3.txt,"Clearly, you're waiting for someone else. Yeah? Supposed to meet somebody here?",0.1,[ 0.96841305 -0.34078684],[ 1.949972  -1.9180001],0.04813730716705322
+517,Tony Stark,iron_man_3.txt,"Mrs. Davis, your son didn't kill himself, I guarantee you. He didn't kill anyone. Someone used him.",0.0,[ 1.3937086  -0.82549995],[ 1.7480408 -1.7875644],0.16744720935821533
+518,Tony Stark,iron_man_3.txt,As a weapon.,0.0,[0.8184036  0.02190367],[ 0.9800544  -0.93888575],0.03226932883262634
+519,Tony Stark,iron_man_3.txt,"Hey hot wings, you wanna party? You and me, let's go. [as Tony turns to run again he sees Savin getting out of a car and walk towards him, as Savin gets his gun out to shoot at him, Tony runs off and Harley throws something at Savin to make him miss Tony, Tony stops behind a car and sees a man hiding low on the ground] Crazy, huh?",-0.1875,[ 1.746319  -1.0961643],[ 1.3924838 -1.7022362],0.11726170778274536
+520,Tony Stark,iron_man_3.txt,"Watch this. [Tony smashes into the window of a shop] [as Tony and Brandt are fighting in the shop, Tony starts a fire in shop] You walked right into this one, I've dated hotter chicks than you. [Tony puts Chad's dog tags into the microwave and he turns on the gas]",0.2857142857142857,[ 0.69386655 -0.27353552],[ 0.02719332 -0.16946042],0.14840298891067505
+521,Tony Stark,iron_man_3.txt,"Sweetheart, that could be the name of my autobiography. [Tony quickly leaves through the back door, as the dog tags heat up in the microwave they start sparking up fire, Brandt realizes the gas has been left on and suddenly the shop explodes killing Brandt] [Tony stumbles out of the shop as people run past. A watertank falls down and traps Tony's leg. He finds that Savin has grabbed Harley]",-0.012037037037037,[ 1.5506306 -1.0286944],[ 1.273409  -1.4328078],0.07062572240829468
+522,Harley Keener,iron_man_3.txt,Let me go! [Savin mocks Harley],0.0,[ 1.5571029  -0.73787314],[ 1.3007616 -1.5068313],0.13958269357681274
+523,Savin,iron_man_3.txt,"Help me! Help me! [as Tony's leg is trapped under some rubble, Savin sits in front of him with Harley sat on his lap] Hey kid, what would you like for Christmas?",-0.2,[ 2.167795  -1.4087154],[ 2.0286503 -2.1798232],0.16115832328796387
+524,Harley Keener,iron_man_3.txt,"Mr. Stark, I am so sorry!",-0.4125,[ 1.3518736  -0.61251986],[ 1.7822937 -1.8444439],0.15449067950248718
+525,Savin,iron_man_3.txt,"Oh. No, no. I think he was trying to say, ""I want my god damn file.""",0.0,[ 1.6731056 -0.9251409],[ 1.5348705 -1.5912969],0.12078911066055298
+526,Tony Stark,iron_man_3.txt,"It's not your fault, kid. Remember what I told you about bullies. [Harley uses the gadget Tony gave him earlier and runs away] Do you like that, Westworld? That's the thing about smart guys, we always cover our ass. [Tony brings up his hand and reveals his Iron Man suit hand. He fires at Savin and sends him flying backwards. Tony makes his way out of the rubble before leaving.]",0.1071428571428571,[ 1.1604711  -0.60486513],[ 1.082022  -1.2639514],0.10897749662399292
+527,Harley Keener,iron_man_3.txt,You're welcome,0.8,[0.22606488 0.30374327],[ 1.4916482 -1.3968433],0.13934263586997986
+528,Tony Stark,iron_man_3.txt,For what? Did I miss something?,0.0,[ 2.062718  -1.1240219],[ 1.8555297 -1.8446579],0.03198996186256409
+529,Harley Keener,iron_man_3.txt,Me saving your life,0.0,[-0.18514822  0.7916647 ],[ 2.0624108 -2.054901 ],0.17096352577209473
+530,Tony Stark,iron_man_3.txt,"Yeah. A, saved you first. B, thanks, sort of. And C, if you do someone a solid, don't be a yutz, alright? Just play it cool otherwise you come off grandiose.",0.2,[ 1.4530855  -0.78628856],[ 1.7035047 -1.6821457],0.1697613000869751
+531,Harley Keener,iron_man_3.txt,"Unlike you? Admit it, you need me. We're connected.",0.0,[ 1.4517549  -0.74424696],[ 1.9965687 -2.0531228],0.12119477987289429
+532,Tony Stark,iron_man_3.txt,"What I need is for you to go home, be with your mom, keep your trap shut, guard the suit and stay connected to the telephone because if I call, you better pick up. Okay, can you feel that? We're done here. Move it out the way or I'm going to run you over. Bye kid. [Tony gets in his car] I'm sorry, kid, you did good.",0.3,[ 1.8810483 -1.032954 ],[ 1.080536  -1.0128771],0.17442046105861664
+533,Harley Keener,iron_man_3.txt,"So now you're just going to leave me here, like my dad?",0.0,[0.42037767 0.26950994],[ 1.680382  -1.6816846],0.1746526062488556
+534,Tony Stark,iron_man_3.txt,"Yep [A beat] Wait, you're guilt tripping me, aren't you?",0.0,[ 1.2878542  -0.46751812],[ 1.807887  -1.8081951],0.16815057396888733
+535,Harley Keener,iron_man_3.txt,[Childishly] I'm cold.,-0.6,[ 1.4835982  -0.63671786],[ 1.6446316 -1.6991941],0.059243083000183105
+536,Tony Stark,iron_man_3.txt,[Mocking him] I can tell. You know how I can tell? Cus we're connected. [Tony drives away],0.0,[ 1.4211321 -0.6586521],[ 1.5389086 -1.8180251],0.1196908950805664
+537,Harley Keener,iron_man_3.txt,It was worth a shot.,0.3,[ 1.04058    -0.26919186],[ 1.3559507 -1.3267707],0.03107556700706482
+538,The Mandarin,iron_man_3.txt,"Mr President. Only two lessons remain and I intend to finish this before Christmas morning. Meet Thomas Richards. [The screen zooms out to show a man lying on the floor while Mandarin points a gun at him] Good strong name. Good strong job. Thomas, here, is an accountant for the Roxxon Oil Corporation. [Thomas sobs] But I'm sure he's a really good guy. I'm going to shoot him in the head, live on your television in 30 seconds.",0.4503787878787879,[ 1.1578084  -0.61098593],[ 2.0381262 -2.1578453],0.12517738342285156
+539,The Mandarin,iron_man_3.txt,"The number for this telephone is in your cell phone. Exciting, isn't it, imagining how it got there? America, if your president calls me in the next half-minute, Tom lives. Go!",0.15,[ 0.47455347 -0.18483552],[ 1.4686987 -1.5925437],0.047815948724746704
+540,The Mandarin,iron_man_3.txt,"There's just one lesson left, President Ellis. So run away, hide, kiss your children goodbye. Because nothing, not your army, not your red, white and blue attack dog, can save you. I'll see you soon.",0.0,[ 1.1815755  -0.46629435],[ 1.0173243 -1.0564376],0.13956868648529053
+541,Tony Stark,iron_man_3.txt,"Man. Happy, Happy, Happy-",0.8000000000000002,[ 0.7445446  -0.19974425],[ 1.8138884 -1.9360652],0.1266452968120575
+542,Rhodey,iron_man_3.txt,Don't move! (His phone rings.) Uh... Hang on a second. Hello?,0.0,[ 1.895815  -1.0328093],[ 1.6912458 -1.8483897],0.0535123348236084
+543,Tony Stark,iron_man_3.txt,"You ever have a chick straddling you and you look up and suddenly she's glowing from the inside out, kind of a bright orange?",0.4333333333333333,[ 1.1769855  -0.59730136],[-0.33379024  0.05194884],0.12285193800926208
+544,Rhodey,iron_man_3.txt,"Yeah, I've had that. Who is this?",0.0,[ 2.1734653 -1.2641691],[ 1.5565239 -1.6155044],0.06211143732070923
+545,Tony Stark,iron_man_3.txt,"It's me, pal. Now, last time I went missing, if I remember correctly, you came looking for me. What are you doing?",-0.1,[ 2.1401594 -1.414825 ],[ 2.0695944 -2.1817224],0.14969396591186523
+546,Rhodey,iron_man_3.txt,"A little knock-and-talk, making friends in Pakistan. What are you doing?",-0.1875,[ 1.6518376 -0.9675037],[ 2.2105954 -2.3304539],0.08100435137748718
+547,Tony Stark,iron_man_3.txt,"Your redesign, your big rebrand, that was AIM, right?",0.1428571428571428,[-0.10608313  0.48742124],[ 1.9927716 -1.9436272],0.06979909539222717
+548,Rhodey,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+549,Tony Stark,iron_man_3.txt,"I'm gonna find a heavy-duty comm sat right now, I need your login.",0.2857142857142857,[ 1.6796492 -1.0306805],[ 1.8321902 -1.8173916],0.0601944625377655
+550,Rhodey,iron_man_3.txt,"It's the same as it's always been, ""WarMachine68.""",0.0,[ 1.0297892  -0.23356396],[ 1.5830985 -1.5387475],0.02203163504600525
+551,Tony Stark,iron_man_3.txt,"And password, please.",0.0,[ 1.6000267  -0.70151675],[ 1.3301896 -1.2883124],0.053351402282714844
+552,Rhodey,iron_man_3.txt,"Well, look, I gotta change it every time you hack in, Tony.",0.0,[0.22954366 0.2873483 ],[ 1.6155264 -1.6240091],0.07646322250366211
+553,Tony Stark,iron_man_3.txt,"It's not the '80s, nobody says ""hack"" any more. Give me your login. (Rhodey sighs.)",0.5,[ 0.9849774  -0.42964214],[ 1.654     -1.6996939],0.05879363417625427
+554,Rhodey,iron_man_3.txt,"""WAR MACHINE ROX"" with an ""X,"" all caps.",0.0,[ 0.91944593 -0.17045423],[ 1.4864997 -1.4632832],0.025873243808746338
+555,Tony Stark,iron_man_3.txt,"(He's laughing.) That is so much better than ""lron Patriot.""",0.5,[-0.35107884  0.8957673 ],[ 1.6576457 -1.6522921],0.04854714870452881
+556,Tony Stark,iron_man_3.txt,That ain't gonna cut it.,0.0,[ 1.0546569  -0.25458264],[ 1.097196  -1.0697442],0.11109419167041779
+557,Tony Stark,iron_man_3.txt,Shh.,0.0,[ 0.6662604  -0.03369604],[ 0.98113537 -0.8884491 ],0.03485387563705444
+558,Tony Stark,iron_man_3.txt,Shh. Keep it down.,-0.1555555555555555,[ 1.1719459  -0.39665884],[ 1.0631443 -0.9378114],0.05792072415351868
+559,Tony Stark,iron_man_3.txt,"No, he's not.",0.0,[ 0.6522996  -0.13750726],[ 1.3518301 -1.3237547],0.07567185163497925
+560,Tony Stark,iron_man_3.txt,Come on in. Close the door. (The cameraman gets in the van & closes the door.) Shh...,0.0,[ 1.2226155 -0.5837649],[ 1.5311321 -1.351827 ],0.06124266982078552
+561,Tony Stark,iron_man_3.txt,Yep.,0.0,[0.489407   0.05312944],[ 0.76243705 -0.71287125],0.027241259813308716
+562,Tony Stark,iron_man_3.txt,"Okay. First, is this your van? Is anyone else gonna come in?",0.375,[ 2.0782187 -1.3983943],[ 1.6847762 -1.6694294],0.09532198309898376
+563,Tony Stark,iron_man_3.txt,Great. What's your name?,0.8,[ 1.8615323 -0.9799746],[ 1.6338643 -1.6810995],0.17720414698123932
+564,Tony Stark,iron_man_3.txt,Gary?,0.0,[ 1.2957557 -0.4670448],[ 1.1392425 -1.1184523],0.03264415264129639
+565,Tony Stark,iron_man_3.txt,Right there is fine.,0.3511904761904761,[0.37809774 0.36160764],[ 1.3453113 -1.2946856],0.03225255012512207
+566,Tony Stark,iron_man_3.txt,"Okay? I get a lot of this, it's okay.",0.5,[-0.37127084  0.8319557 ],[ 1.727506  -1.7589947],0.05899745225906372
+567,Tony Stark,iron_man_3.txt,What do you want?,0.0,[ 2.326533  -1.3948891],[ 1.563152  -1.5864993],0.12887749075889587
+568,Tony Stark,iron_man_3.txt,It's fine.,0.4166666666666667,[-0.04474219  0.7257035 ],[ 1.3986915 -1.3101565],0.056593507528305054
+569,Tony Stark,iron_man_3.txt,Right.,0.2857142857142857,[0.02233725 0.5421472 ],[ 0.9082546 -0.8296772],0.039899617433547974
+570,Tony Stark,iron_man_3.txt,A Hispanic Scott Baio. I'm sorry. Is that me?,-0.5,[ 1.6275928 -0.8125009],[ 2.0502665 -1.9705204],0.0820898711681366
+571,Tony Stark,iron_man_3.txt,"Gary. Listen to me, okay? I don't want to clip your wings, here. We're both a little over-excited. I got an issue. I'm chasing bad guys. I'm trying to grab a little something from some hard-crypt data files. I don't have enough juice. I need you to jump on the roof... Right? Recalibrate the lSDNs. Pump it up by about 40%.",-0.0482142857142856,[ 2.0387194 -1.2731578],[ 1.2068497 -1.2537196],0.07380622625350952
+572,Tony Stark,iron_man_3.txt,All right? It's a mission.,0.2857142857142857,[0.42997724 0.34299755],[ 1.7243062 -1.6839361],0.03667271137237549
+573,Tony Stark,iron_man_3.txt,Tony needs Gary.,0.0,[0.5757914  0.06653129],[ 1.2858063 -1.2442588],0.04033005237579346
+574,Tony Stark,iron_man_3.txt,Be quiet about it. Go.,0.0,[ 0.9520354 -0.3539961],[ 1.1870221 -1.0373441],0.07997509837150574
+575,Aldrich Killian,iron_man_3.txt,What would you regard as the defining moment of your life?,0.0,[ 2.2376626 -1.4077581],[ 1.9926192 -1.9070541],0.1374182403087616
+576,Aldrich Killian,iron_man_3.txt,Will you please state your name for the camera?,0.0,[ 1.8045882 -0.8412427],[ 1.694779 -1.641494],0.11302828788757324
+577,Aldrich Killian,iron_man_3.txt,"Okay. So, the injections are administered periodically. Addiction will not be tolerated. And those who cannot regulate will be out from the programme. (More typing, another video.) Once misfits, cripples... You are the next iteration of human evolution. Everybody, before we start... I promise you, looking back at your life, there will be nothing as bitter as the memory of that glorious risk you prudently elected to forego. Today is your glory- Let's begin. (Brandt's missing arm grows back as she glows red. The other volunteers glow red & scream too.) We gotta get out of here! We gotta get out of here! Get her out! Get them out of here! (One of the volunteers exploads.)",0.0522727272727272,[ 1.5036724 -0.9284743],[ 0.64115703 -0.76560414],0.14062204957008362
+578,Tony Stark,iron_man_3.txt,"(He's muttering.) A bomb is not a bomb when it's a misfire. The stuff doesn't always work. Right, pal? It's faulty, but you found a buyer, didn't you? Sold it to the Mandarin. Got you, pal.",0.0428571428571428,[ 1.374869  -0.7532874],[ 1.2698649 -1.4649318],0.04814925789833069
+579,Maya Hansen,iron_man_3.txt,"What happened? Fun fact. Before he built rockets for the Nazis, the idealistic Wernher von Braun dreamed of space travel. He stargazed. Do you know what he said when the first V-2 hit London? ""The rocket performed perfectly. It just landed on the wrong planet."" See, we all begin wide-eyed. Pure science. And then the ego steps in, the obsession. And you look up, you're a long way from shore.",0.2023809523809523,[0.15004213 0.3460566 ],[ 1.3593956 -1.3812822],0.04407879710197449
+580,Pepper Potts,iron_man_3.txt,"You can't be too hard on yourself, Maya. I mean, you gave your research to a think tank.",-0.3020833333333333,[ 0.9616825 -0.5547013],[ 1.5730401 -1.4666709],0.08946067094802856
+581,Maya Hansen,iron_man_3.txt,"Yeah, but Killian built that think tank on military contracts.",-0.1,[-0.43131703  0.7982391 ],[ 1.6104051 -1.636492 ],0.026166528463363647
+582,Pepper Potts,iron_man_3.txt,"That's exactly what we used to do. So, don't judge yourself.",0.25,[ 0.4178986  -0.06817855],[ 2.0400455 -1.9774864],0.10289929807186127
+583,Maya Hansen,iron_man_3.txt,"Thank you, Pepper. I really appreciate that. (Someone knocks on the door & Pepper looks over. She gets up & opens the door. Room service pushes in a tray of food but Killain appears & snaps his neck. Pepper gasps.)",0.2,[ 1.2341266 -0.5533754],[ 1.6287875 -1.7402153],0.14699366688728333
+584,Pepper Potts,iron_man_3.txt,"Maya, run! [Killian grabs Pepper by the arm, spins her around and slams her against the wall, holding her by the neck.",0.0,[ 1.6520195 -0.8817555],[ 0.84733284 -1.0468506 ],0.17431597411632538
+585,Aldrich Killian,iron_man_3.txt,"Hi, Pepper. (To Maya) So, you want to tell me why you were at Stark's mansion last night?",-0.1,[ 1.8592973 -1.1587054],[ 1.9378446 -2.1386776],0.10210895538330078
+586,Maya Hansen,iron_man_3.txt,I'm trying to fix this thing. I didn't know you and the master were gonna blow the place up.,0.0,[0.53650063 0.18129769],[ 1.4691502 -1.465395 ],0.07644990086555481
+587,Aldrich Killian,iron_man_3.txt,"Oh, I see. So, you were trying to save Stark when he threatened us?",-0.2,[-1.0283782  1.3923917],[ 1.5796853 -1.7149203],0.08238521218299866
+588,Maya Hansen,iron_man_3.txt,"I've told you, Killian, we can use him.",0.0,[ 1.251797  -0.5184546],[ 1.6835786 -1.7306336],0.17288300395011902
+589,Aldrich Killian,iron_man_3.txt,Pepper. Pepper. Pepper.,0.0,[ 1.3040375 -0.4861926],[ 1.2235217 -1.1585337],0.02842944860458374
+590,Maya Hansen,iron_man_3.txt,"Look, if we want to launch product next year, I need Stark. He just lacked a decent incentive. Now, he has one.",-0.0111111111111111,[ 1.6098542 -1.0492867],[ 1.8871721 -1.8896551],0.029042959213256836
+591,Rhodey,iron_man_3.txt,"Copy. [Repulsor firing, people shrieking] Nobody move. [Women exclaiming in fear] Oh. Support Blue-Zero, unless the Mandarin's next attack on the U.S. involves cheaply-made sportswear, I think you messed up again. Yes, you're free, uh, if you weren't before. It's... Of course. Yes, ma'am. Iron Patriot on the job. Happy to help. No need to thank me, ma'am. It's my pleasure. [One of the women shakes Rhodey's hand and her hand glows red. Rhodey falls backwards, grunting.]",0.3,[ 1.1279544  -0.60668844],[ 0.51442444 -0.53511906],0.13393083214759827
+592,Rhodey,iron_man_3.txt,"If you want this suit, you're going to have to pry my cold dead body out of it.",-0.4,[ 1.8069572 -1.0962607],[ 0.84156716 -1.0215055 ],0.17770704627037048
+593,Tony Stark,iron_man_3.txt,"Harley, tell me what's happening. Give me a full report.",0.35,[ 1.7350467 -0.82994  ],[ 1.9296131 -1.8422005],0.07228124141693115
+594,Harley Keener,iron_man_3.txt,"Yeah, I'm still eating that candy. Do you want me to keep eating it?",0.0,[ 1.8948512 -1.2934773],[ 1.7697138 -1.8184232],0.15545344352722168
+595,Tony Stark,iron_man_3.txt,How much have you had?,0.2,[ 2.2087932 -1.5004363],[ 1.7063305 -1.5786704],0.1716182827949524
+596,Harley Keener,iron_man_3.txt,Two or three bowls.,0.0,[ 1.1162727 -0.3163064],[ 1.0443989 -1.0576086],0.030939429998397827
+597,Tony Stark,iron_man_3.txt,Can you still see straight?,0.2,[ 1.7966684  -0.88438016],[ 1.7045758 -1.630385 ],0.06138986349105835
+598,Harley Keener,iron_man_3.txt,Sort of.,0.0,[0.23219581 0.27633622],[ 1.0869712 -1.0051712],0.02853962779045105
+599,Tony Stark,iron_man_3.txt,"That means you're fine. Give me Jarvis. Jarvis, how are we?",0.4166666666666667,[ 1.7554451 -1.0039603],[ 1.9420806 -2.1534107],0.11824464797973633
+600,JARVIS,iron_man_3.txt,"It's totally fine, sir. I seem to do quite well for a stretch, and then at the end of the sentence I say the wrong cranberry. And, sir, you were right. Once I factored in available AIM downlink facilities I was able to pinpoint the Mandarin's broadcast signal.",0.2204761904761905,[ 0.74984866 -0.1329473 ],[ 1.9181304 -1.8886672],0.04653546214103699
+601,Tony Stark,iron_man_3.txt,"What are we talking? Far East, Europe, North Africa, Iran, Pakistan, Syria? Where is it?",0.1,[ 2.198391  -1.3563647],[ 1.4009969 -1.666974 ],0.025931596755981445
+602,JARVIS,iron_man_3.txt,"Actually, sir, it's in Miami.",0.0,[ 0.6543836  -0.07101969],[ 1.724604  -1.7275767],0.024032622575759888
+603,Tony Stark,iron_man_3.txt,"Okay, kid, I'm gonna have to walk you through rebooting Jarvis's speech drive, but not right now. Harley, where is he really? Just look on the screen and tell me where it is.",0.1857142857142857,[ 2.056809 -1.226063],[ 2.0057726 -1.9965795],0.04605919122695923
+604,Harley Keener,iron_man_3.txt,"Um, it does say Miami, Florida.",0.0,[0.64273953 0.02314057],[ 1.7468562 -1.7968309],0.025069445371627808
+605,Tony Stark,iron_man_3.txt,"Okay, first things first, I need the armour. Where are we at with it?",0.3333333333333333,[ 2.272375  -1.5649258],[ 1.7809896 -1.9452665],0.048587530851364136
+606,Harley Keener,iron_man_3.txt,"Uh, it's not charging. [Tony pulls over to the side of the road, heavy breathing]",-0.2,[ 1.3313537 -0.5774848],[ 1.8802478 -1.9890434],0.04068589210510254
+607,JARVIS,iron_man_3.txt,"Actually, sir, it is charging, but the power source is questionable. It may not succeed in revitalising the Mark 42.",-0.25,[ 1.6517801 -0.914242 ],[ 1.733384  -1.7705649],0.01918017864227295
+608,Tony Stark,iron_man_3.txt,"What's questionable about electricity? All right? It's my suit, and I can't... I'm not gonna... I don't wanna... [Breathing heavily] Oh, God, not again.",-0.1380952380952381,[ 2.0216517 -1.2250175],[ 1.7711297 -1.8641542],0.13969376683235168
+609,Harley Keener,iron_man_3.txt,Tony? [Tony gets out of the car] Are you having another attack? I didn't even mention New York.,0.1363636363636363,[ 1.6636863  -0.93018514],[ 1.91995  -2.068106],0.04229632019996643
+610,Tony Stark,iron_man_3.txt,"Right, and then you just said it by name while denying having said it.",0.2857142857142857,[0.06673881 0.62104034],[ 1.4201857 -1.3024075],0.08847534656524658
+611,Harley Keener,iron_man_3.txt,"Okay, um, uh...",0.5,[0.43384498 0.0117255 ],[ 1.7945522 -1.8500254],0.03250998258590698
+612,Tony Stark,iron_man_3.txt,"[Panting] God, what am I gonna do?",0.0,[ 2.257599  -1.3139648],[ 1.9617391 -1.9540596],0.08371281623840332
+613,Harley Keener,iron_man_3.txt,"Just breathe. Really, just breathe. You're a mechanic, right?",0.2428571428571428,[ 1.1083902  -0.47519454],[ 1.9814521 -1.9084895],0.12215432524681091
+614,Tony Stark,iron_man_3.txt,Right.,0.2857142857142857,[0.02233725 0.5421472 ],[ 0.9082546 -0.8296772],0.039899617433547974
+615,Harley Keener,iron_man_3.txt,You said so.,0.0,[0.2335181  0.40390572],[ 0.99346375 -0.9013132 ],0.13389286398887634
+616,Tony Stark,iron_man_3.txt,"Yes, I did.",0.0,[5.997772e-01 9.270199e-05],[ 1.6045423 -1.4330884],0.04443433880805969
+617,Harley Keener,iron_man_3.txt,Why don't you just build something?,0.0,[ 1.6259147  -0.83923733],[ 1.6137859 -1.6159174],0.06725293397903442
+618,Tony Stark,iron_man_3.txt,"Okay. Thanks, kid. [He gets back in the car.] [Cut to Tony in a shop buying supplies.] [Cut to Tony building something.] [Cut to Miama, Florida. Tony climbs a wall and begins fighting guards. He makes his way into the house and finds a woman lying on a table.] [Cut to a different woman lying on a sofa with a man sitting at a desk.]",0.175,[ 0.6984176 -0.3261094],[ 1.4543992 -1.4426199],0.08951982855796814
+619,The Mandarin,iron_man_3.txt,"Well, I wouldn't go in there for 20 minutes. [He laughs] Now, which one of you is Vanessa?",0.0,[ 1.8343056 -1.1872649],[ 1.1144308 -1.094363 ],0.15229785442352295
+620,The Mandarin,iron_man_3.txt,Ah! Nessie. Did you know that fortune cookies aren't even Chinese?,0.0,[-0.02832706  0.400345  ],[ 1.4276427 -1.4592352],0.032607078552246094
+621,The Mandarin,iron_man_3.txt,"They're made by Americans, based on a Japanese recipe.",0.0,[-0.2630848  0.78762  ],[ 1.4591969 -1.322653 ],0.024428993463516235
+622,Tony Stark,iron_man_3.txt,Hey! [Mandarin raises his hands],0.0,[ 1.4778194 -0.5110986],[ 1.4926342 -1.8548063],0.024206936359405518
+623,The Mandarin,iron_man_3.txt,Bloody hell. Bloody hell.,-0.8,[ 1.2171321  -0.45778933],[ 1.2603456 -1.2314105],0.1628892570734024
+624,Tony Stark,iron_man_3.txt,Don't move.,0.0,[ 1.5234144 -0.7107351],[ 1.2376106 -1.1337458],0.07153680920600891
+625,The Mandarin,iron_man_3.txt,I'm not moving. You want something? Take it. Although the guns are all fake because those wankers wouldn't trust me with the real ones.,-0.15,[ 1.7353815 -1.1753607],[ 0.3170247 -0.4963642],0.09848225116729736
+626,Tony Stark,iron_man_3.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+627,The Mandarin,iron_man_3.txt,"Hey, do you fancy either of the birds?",0.0,[ 2.2381034 -1.4627572],[ 1.3675176 -1.6744566],0.053991347551345825
+628,Tony Stark,iron_man_3.txt,"Heard enough. You're not him. The Mandarin, the real guy. Where? Where's the Mandarin? Where is he?",0.1,[ 2.2019415 -1.4258121],[ 1.5217595 -1.6123046],0.10983066260814667
+629,The Mandarin,iron_man_3.txt,"Whoa, whoa, whoa. He's here. He's here, but he's not here. He's here, but he's not here.",0.0,[ 1.3744525 -0.6853556],[ 1.7305363 -1.8834236],0.09196487069129944
+630,Tony Stark,iron_man_3.txt,What do you mean?,-0.3125,[ 2.054106  -1.1554011],[ 1.4421924 -1.3994256],0.05629071593284607
+631,The Mandarin,iron_man_3.txt,"It's complicated. Hey, it's complicated.",-0.5,[ 0.9982522  -0.30714163],[ 1.7621009 -1.5881537],0.019607633352279663
+632,Tony Stark,iron_man_3.txt,It is?,0.0,[ 1.7260894 -0.8894525],[ 1.3204731 -1.293569 ],0.028223931789398193
+633,The Mandarin,iron_man_3.txt,It's complicated.,-0.5,[0.64931923 0.18206468],[ 1.3740563 -1.2354411],0.025884687900543213
+634,Tony Stark,iron_man_3.txt,"Uncomplicate it. Ladies, out. Get out of the bed. Get into the bathroom. Sit. [Door closes. Gunshot. Women exclaim in fear]",0.0,[ 1.5480105 -1.0004647],[-0.68795216  0.5440495 ],0.15858879685401917
+635,The Mandarin,iron_man_3.txt,My name is Trevor. Trevor Slattery.,0.0,[ 1.4645945 -0.6588268],[ 1.796642 -1.918229],0.06360641121864319
+636,Tony Stark,iron_man_3.txt,"What are you? What are you, a decoy? You're a double, right?",0.1428571428571428,[ 1.8852191 -1.0621682],[ 1.3193496 -1.3380302],0.10975387692451477
+637,Trevor Slattery,iron_man_3.txt,"What, you mean like an understudy? No, absolutely not. [Tony points the gun at Trevor's face] Don't hurt the face! I'm an actor.",-0.21875,[ 1.3932769 -0.635972 ],[ 1.7464043 -1.7952303],0.15091204643249512
+638,Tony Stark,iron_man_3.txt,You got a minute to live. Fill it with words.,0.1363636363636363,[ 1.7901987 -1.0182528],[ 1.8122326 -1.6232213],0.0695996880531311
+639,Trevor Slattery,iron_man_3.txt,"It's just a role. ""The Mandarin,"" see, it's not real.",-0.1,[ 0.7646303  -0.08838327],[ 1.6716002 -1.6266292],0.028060317039489746
+640,Tony Stark,iron_man_3.txt,"Then how did you get here, Trevor?",0.0,[ 1.6726445  -0.98783505],[ 1.7568955 -1.7951522],0.07880273461341858
+641,Trevor Slattery,iron_man_3.txt,"Um. Well, I, um, had a little problem with, um, substances. And I ended up, um, doing things, no two ways about it, in the street, that a man shouldn't do.",-0.1875,[ 0.9169895  -0.47343743],[ 1.5220522 -1.6110114],0.11216574907302856
+642,Tony Stark,iron_man_3.txt,Next?,0.0,[ 1.5201542 -0.6472611],[ 1.0577527 -1.0087308],0.02577531337738037
+643,Trevor Slattery,iron_man_3.txt,"Then, they approached me about the role, and they knew about the drugs.",0.0,[0.18795198 0.12027311],[ 2.0050411 -1.9053963],0.08052477240562439
+644,Tony Stark,iron_man_3.txt,What did they say? They'd get you off them?,0.0,[ 1.8254093 -1.0620947],[ 1.409268  -1.3414301],0.15639197826385498
+645,Trevor Slattery,iron_man_3.txt,They said they'd give me more. They gave me things. They gave me this palace. They gave me plastic surgery. They gave me things. [Snoring],0.5,[ 0.59351397 -0.07571311],[ 1.6243677 -1.6545852],0.1717163324356079
+646,Tony Stark,iron_man_3.txt,Did you just nod off? Hey. [Tony kicks him],0.0,[ 1.9071872 -1.1523402],[ 1.5951271 -1.8465444],0.041715413331985474
+647,Trevor Slattery,iron_man_3.txt,"No, and a lovely speedboat. And the thing was, he needed someone to take credit for some accidental explosions. [Mimic explosion]",0.5,[0.65455437 0.03986211],[ 1.5930536 -1.7829752],0.06380206346511841
+648,Tony Stark,iron_man_3.txt,"""He""? Killian?",0.0,[ 1.5739619  -0.93547887],[ 1.8031152 -1.9911516],0.041888147592544556
+649,Trevor Slattery,iron_man_3.txt,Killian.,0.0,[0.169682   0.38397625],[ 0.9726728  -0.91674876],0.03508567810058594
+650,Tony Stark,iron_man_3.txt,He created you?,0.0,[ 1.1277125  -0.47821388],[ 1.6530087 -1.6618199],0.1490129828453064
+651,Trevor Slattery,iron_man_3.txt,He created me.,0.0,[0.4713265  0.20586231],[ 1.5244673 -1.5322168],0.1671442687511444
+652,Tony Stark,iron_man_3.txt,Custom-made terror threat.,0.0,[-0.35389975  0.90235376],[ 1.0927665 -1.0923334],0.029989778995513916
+653,Trevor Slattery,iron_man_3.txt,"Yes. Yes. His think tank thinked it up. The pathology of a serial killer. The manipulation of Western iconography. Ready for another lesson? Blah, blah, blah. No. Of course, it was my performance that brought the Mandarin to life.",0.1,[0.41968232 0.17086029],[ 1.2616044 -1.3647994],0.12462586164474487
+654,Tony Stark,iron_man_3.txt,Your performance? Where people died?,0.0,[ 0.7123163  -0.17708766],[ 1.955798  -1.7439513],0.11027172207832336
+655,Trevor Slattery,iron_man_3.txt,"No, they didn't. Look around you. The costumes, green screen. Honestly, I wasn't on location for half this stuff. And when I was, it was movie magic, love.",0.2466666666666666,[ 1.4763007 -0.8762413],[ 1.9667034 -1.7870501],0.07328057289123535
+656,Tony Stark,iron_man_3.txt,"I'm sorry, but I got a best friend who's in a coma and he might not wake up. So you're gonna have to answer for that. You're still going down, pal. You under... [Savin hits Tony around the head, unconcious]",0.0611111111111111,[ 2.2395265 -1.3245609],[ 1.6700007 -1.8206803],0.17522095143795013
+657,Savin,iron_man_3.txt,"Okay, Trevor, what did you tell him?",0.5,[ 1.8559515 -1.0478342],[ 1.9882092 -1.985109 ],0.0708545446395874
+658,Trevor Slattery,iron_man_3.txt,I didn't tell him anything.,0.0,[ 1.0620219  -0.46566364],[ 1.7722988 -1.6024054],0.1278824508190155
+659,Savin,iron_man_3.txt,Nothing?,0.0,[ 1.4486132  -0.61492145],[ 1.3058442 -1.2723056],0.0474853515625
+660,Trevor Slattery,iron_man_3.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+661,Savin,iron_man_3.txt,You should have pressed the panic button.,0.0,[ 0.98473346 -0.37797523],[ 1.6784154 -1.5051519],0.04099619388580322
+662,Trevor Slattery,iron_man_3.txt,"Well, I panicked, but then I handled it.",0.0,[ 0.8446621  -0.15223387],[ 1.9977094 -1.7730356],0.03538072109222412
+663,Tony Stark,iron_man_3.txt,Ah... [Sighs] Okay.,0.5,[ 1.3086005 -0.4493715],[ 1.7426785 -1.6665534],0.04405707120895386
+664,Maya Hansen,iron_man_3.txt,"It's just like old times, huh?",0.1,[-0.30836836  0.78301597],[ 1.5181984 -1.4850887],0.06192141771316528
+665,Tony Stark,iron_man_3.txt,"Oh, yeah. With zip ties. It's a ball.",0.0,[-0.5327166   0.90658355],[ 1.2384948 -1.047777 ],0.02536866068840027
+666,Maya Hansen,iron_man_3.txt,It wasn't my idea.,0.0,[ 0.9048778 -0.2893856],[ 1.4241079 -1.3283356],0.09977364540100098
+667,Tony Stark,iron_man_3.txt,Okay. So you took Killian's card.,0.5,[0.07388988 0.41048124],[ 1.4178847 -1.4347924],0.05478373169898987
+668,Maya Hansen,iron_man_3.txt,I took his money.,0.0,[ 0.6284767  -0.24261084],[ 1.4160478 -1.4294764],0.10114619135856628
+669,Tony Stark,iron_man_3.txt,"And here you are 13 years later, in a dungeon.",0.0,[ 0.83853704 -0.13290387],[ 1.9335318 -1.9325528],0.07066938281059265
+670,Maya Hansen,iron_man_3.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+671,Tony Stark,iron_man_3.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+672,Maya Hansen,iron_man_3.txt,"No, you're in a dungeon. I'm free to go.",0.4,[ 1.962159 -1.10773 ],[ 0.94950354 -1.0770934 ],0.07690820097923279
+673,Tony Stark,iron_man_3.txt,Yeah?,0.0,[ 0.8216908  -0.10445262],[ 1.205829  -1.1815833],0.02401787042617798
+674,Maya Hansen,iron_man_3.txt,"[Sighs and walks towards him] A lot has happened, Tony. But I'm close. Extremis is practically stabilised.",0.0,[ 1.928293  -1.1063653],[ 2.093529  -2.1801238],0.052186816930770874
+675,Tony Stark,iron_man_3.txt,"[Shouting] I'm telling you it isn't. [Lowers voice to usual volume] I'm on the street. People are going bang. They're painting the walls. Maya, you're kidding yourself.",-0.25,[ 1.1835793  -0.52325183],[ 1.0642003 -1.0345054],0.0864633321762085
+676,Maya Hansen,iron_man_3.txt,"Then help me fix it. [She shows him the ""You Know Who I Am"" note he left in 1999.]",0.0,[ 1.2534877 -0.5254235],[ 1.9024588 -1.8649842],0.08351242542266846
+677,Tony Stark,iron_man_3.txt,Did I do that?,0.0,[ 1.5622587  -0.90376556],[ 1.8990434 -1.8473946],0.06498169898986816
+678,Maya Hansen,iron_man_3.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+679,Tony Stark,iron_man_3.txt,"I remember the night, not the morning. Is this what you've been chasing around?",0.0,[ 2.062309  -1.3185438],[ 2.0179343 -1.9677503],0.07998842000961304
+680,Maya Hansen,iron_man_3.txt,You don't remember?,0.0,[ 1.6436472 -0.7740509],[ 1.8503903 -1.6356592],0.045363008975982666
+681,Tony Stark,iron_man_3.txt,I can't help you. You used to have a moral psychology. You used to have ideals. You wanted to help people. Now look at you. I get to wake up every morning with someone who still has their soul. Get me out of here. Come on.,0.0,[ 0.9598533 -0.2949503],[ 1.6443597 -1.6543199],0.1604820042848587
+682,Aldrich Killian,iron_man_3.txt,"You know what my old man used to say to me? One of his favourite of many sayings... ""The early bird gets the worm, but the second mouse gets the cheese.""",0.175,[ 1.6855892 -0.8385905],[ 1.3902644 -1.5096377],0.1049937754869461
+683,Tony Stark,iron_man_3.txt,"You're not still pissed off about the Switzerland thing, are you?",0.0,[ 1.3985057  -0.71594566],[ 1.5930284 -1.4600904],0.09415403008460999
+684,Aldrich Killian,iron_man_3.txt,"How can I be pissed at you, Tony? I'm here to thank you. You gave me the greatest gift that anybody's ever given me. Desperation. If you think back to Switzerland, you said you'd meet me on the rooftop, right? Well, for the first 20 minutes, I actually thought you'd show up. And the next hour... I considered taking that one-step shortcut to the lobby. If you know what I mean.",0.1747448979591836,[ 1.9948288 -1.2669319],[ 2.0566092 -2.173859 ],0.1511165201663971
+685,Tony Stark,iron_man_3.txt,"Honestly, I'm still trying to figure out what happened to the first mouse.",0.425,[ 1.9214891 -1.0832591],[ 1.8792738 -1.9374865],0.021017879247665405
+686,Aldrich Killian,iron_man_3.txt,"But as I looked out over that city, nobody knew I was there, nobody could see me, no one was even looking. I had a thought that would guide me for years to come. Anonymity, Tony. Thanks to you, it's been my mantra ever since. Right? You simply rule from behind the scenes. Because the second you give evil a face, a bin Laden, a Gaddafi, a Mandarin, you hand the people a target.",-0.1523809523809524,[ 1.0740746  -0.29313442],[ 1.1820734 -1.4176635],0.1039675772190094
+687,Tony Stark,iron_man_3.txt,You're something else.,0.0,[0.40236273 0.40543836],[ 1.383129  -1.2455076],0.13229778409004211
+688,Aldrich Killian,iron_man_3.txt,"You have met him, I assume?",0.0,[ 1.7234378 -1.1206934],[ 1.9335018 -1.9576513],0.17621560394763947
+689,Tony Stark,iron_man_3.txt,Yes. Sir Laurence Oblivier.,0.0,[ 0.93478644 -0.18978   ],[ 1.5604097 -1.6671729],0.028106480836868286
+690,Aldrich Killian,iron_man_3.txt,"I know he's a little over the top sometimes. It's not entirely my fault. He has a tenden... He's a stage actor. They say his Lear was the toast of Croydon, wherever that is. Anyway, the point is, ever since that big dude with the hammer fell out of the sky, subtlety has kind of had its day.",0.1825,[ 1.4371871  -0.78703505],[ 1.7499415 -1.7928704],0.15932483971118927
+691,Tony Stark,iron_man_3.txt,What's next for you in your world?,0.0,[ 1.9792204 -1.2150749],[ 1.8526014 -1.8602799],0.1371293067932129
+692,Aldrich Killian,iron_man_3.txt,"Well, I wanted to repay you the selfsame gift that you so graciously imparted to me. [Killian rolls three balls forwards and they stop, projecting an image of Pepper. She has Extremis.] Desperation. Now, this is live. I'm not sure if you can tell, but at this moment the body is trying to decide whether to accept Extremis or just give up. And if it gives up, I have to say, the detonation is quite spectacular. But until that point, it's really just a lot of pain. We haven't even talked salary yet. What kind of perk package are you thinking of?",0.2572727272727272,[ 2.2171261 -1.4548969],[ 1.5710446 -1.7099235],0.15910053253173828
+693,Maya Hansen,iron_man_3.txt,Let him go.,0.0,[ 1.1396854  -0.31548154],[ 0.91214573 -0.9024391 ],0.13138097524642944
+694,Aldrich Killian,iron_man_3.txt,"Hold on, hold on. Maya...",0.0,[ 1.693042   -0.88919795],[ 1.6078976 -1.5546477],0.024406105279922485
+695,Maya Hansen,iron_man_3.txt,"I said, let him go.",0.0,[ 1.3209362  -0.50883585],[ 1.2392799 -1.1956604],0.15160658955574036
+696,Aldrich Killian,iron_man_3.txt,What are you doing?,0.0,[ 2.0138843 -1.2099693],[ 1.7089423 -1.7421534],0.08302116394042969
+697,Maya Hansen,iron_man_3.txt,"1200 CCs. A dose half of this size, I'm dead.",-0.1833333333333333,[ 1.6164509 -0.7951465],[ 1.5554916 -1.5141724],0.05372551083564758
+698,Aldrich Killian,iron_man_3.txt,"It's times like this my temper is tested somewhat. Maya, give me the injector.",0.0,[ 1.6039516  -0.86738956],[ 1.4431787 -1.3999933],0.16742390394210815
+699,Maya Hansen,iron_man_3.txt,"If I die, Killian, what happens to your soldiers? What happens to your product?",0.0,[ 1.9814038 -1.2828096],[ 1.5703546 -1.7912782],0.08740675449371338
+700,Aldrich Killian,iron_man_3.txt,"We're not doing this, okay?",0.5,[ 1.431254  -0.6104747],[ 1.6196548 -1.5636654],0.056644558906555176
+701,Maya Hansen,iron_man_3.txt,What happens to you? What happens if you go too hot? [He looks back at Tony and shoots Maya],0.125,[ 1.9980491 -1.24952  ],[ 1.422446  -1.5929774],0.1379239559173584
+702,Aldrich Killian,iron_man_3.txt,"The good news is, a high-level position has just been vacated.",0.7,[-0.553003   0.8351241],[ 1.7244796 -1.4538485],0.015398234128952026
+703,Tony Stark,iron_man_3.txt,You are a maniac.,0.0,[0.00502692 0.5559859 ],[ 1.108255  -1.0637821],0.10508538782596588
+704,Aldrich Killian,iron_man_3.txt,"No, I'm a visionary. But I do own a maniac. And he takes the stage tonight. [Killian leaves and talks to Savin] Once we get the Patriot installed, it will take me nine or 10 minutes for the takedown.",0.6,[ 2.011874  -1.1775943],[ 1.5487331 -1.6830863],0.07453793287277222
+705,Savin,iron_man_3.txt,"Well, that's great, but the last time I looked there was somebody inside of it. [Whirring]",0.4,[ 0.8336579  -0.10178399],[ 1.336792 -1.575211],0.09243261814117432
+706,Aldrich Killian,iron_man_3.txt,"Afternoon, gentlemen. [Whirring ceases] Hello, Colonel. Step aside. [Killian places his hand on the suit and it blows orange.] Oh! We'll get you out of there. Don't worry.",0.0,[ 1.4436252 -0.7871231],[ 1.4316766 -1.5664146],0.17459788918495178
+707,Savin,iron_man_3.txt,You'll damage the armour.,0.0,[ 1.290698   -0.38007143],[ 1.3529872 -1.4241952],0.054975688457489014
+708,Aldrich Killian,iron_man_3.txt,"Yes, I will. But you can fix it, right? I'm gonna take the Chinook to base camp. And I want Potts with me.",-0.2571428571428572,[ 2.0621996 -1.1329876],[ 1.6769257 -1.7855142],0.10965681076049805
+709,Savin,iron_man_3.txt,She's still in Phase Two.,0.0,[ 1.0977875  -0.46194035],[ 1.3888358 -1.300718 ],0.022691398859024048
+710,Aldrich Killian,iron_man_3.txt,"You're not going deaf, are you?",0.0,[ 1.564888  -0.7564344],[ 1.5519975 -1.3854923],0.0627312958240509
+711,Tony Stark,iron_man_3.txt,"[Watch beeping.] Careful, there. It's a limited edition. Hey, uh, Ponytail Express. What's the mileage count between Tennessee and Miami?",-0.0857142857142857,[ 1.961395  -1.2466875],[ 2.026156 -2.18104 ],0.02646338939666748
+712,Tony Stark,iron_man_3.txt,Very nice.,0.78,[-1.3734077  1.7178291],[ 1.1759838 -1.1006039],0.135043203830719
+713,Tony Stark,iron_man_3.txt,"Break it, you bought it.",0.0,[ 0.8493611  -0.38107607],[ 1.3894151 -1.2657865],0.10385820269584656
+714,Tony Stark,iron_man_3.txt,"Okay, that wasn't mine to give away. That belongs to my friend's sister. And that's why I'm gonna kill you first.",0.375,[ 1.919069  -1.1531973],[ 0.6062083  -0.65359104],0.17212830483913422
+715,Tony Stark,iron_man_3.txt,You'll see.,0.0,[0.5933158  0.04028814],[ 1.1972669 -1.0282254],0.08454889059066772
+716,Rhodey,iron_man_3.txt,"[Panting and sweating] Do not open. Do not open. Don't open. Don't open. [Beeping.] All right. Let's go. [The suit opens, Rhodey jumps and punches Savin in the face, then kicks him. Killian glows red and breathes fire at Rhodey.] You... You breathe fire? Okay. [Savin knocks Rhodey unconcious.]",0.1122448979591836,[ 1.7514535 -1.158341 ],[ 1.0435919 -1.2681755],0.14694741368293762
+717,Aldrich Killian,iron_man_3.txt,"It's a glorious day, Savin. This time tomorrow, I'll have the West's most powerful leader in one hand, and the world's most feared terrorist in the other. I'll own the war on terror. Create supply and demand. For you, for your brothers and sisters.",0.355,[ 1.0852398 -0.4518173],[ 0.94770634 -1.2375053 ],0.10658182203769684
+718,Tony Stark,iron_man_3.txt,"Trust me, you're gonna be in a puddle of blood on the ground in five, four, three... Come on! Two...",0.0,[ 2.0787988 -1.2517211],[ 1.7041565 -1.7206103],0.16620893776416779
+719,Tony Stark,iron_man_3.txt,"All right, I'm gonna give you a chance to escape. Put down your weapons. Tie yourselves to those chairs. I'll let you live. In five, four, bang!",0.1002044252044251,[ 1.618998  -0.6744866],[ 0.7491314  -0.85553277],0.12401944398880005
+720,Tony Stark,iron_man_3.txt,You should be gone by now. You should've already been gone.,0.0,[ 1.9773465 -1.0217392],[ 1.1740824  -0.89770997],0.14459353685379028
+721,Tony Stark,iron_man_3.txt,"Here it comes. Three, four...",0.0,[ 1.810932  -1.0500623],[ 1.8029606 -1.6558602],0.02340543270111084
+722,Tony Stark,iron_man_3.txt,"[Quickly] Five, four, three, two, one! [The Iron Man suit joins to his left arm] Told you. Where's the rest? [He blasts one of the men and unties himself. As they fight, the suit connects to his rigth leg and he kicks them] Where's the rest? [Meanwhile, Harley watches as the garage door shakes. He runs over and blows it open. The suit flies out.] [Repulsor powering up, gunfire, screaming.]",0.1388888888888888,[ 1.7650857 -1.0141021],[ 1.1386269 -1.3879327],0.07884883880615234
+723,Tony Stark,iron_man_3.txt,"Ah! Better late than never. [He gets outside and catches the face mask.] Not this time. Not the face. Phew! It's good to be back. Hello, by the way.",0.18,[ 1.31459    -0.65723366],[ 1.9386723 -1.9858186],0.11204256117343903
+724,JARVIS,iron_man_3.txt,"Oh, hello, sir.",0.0,[-0.8626103  1.3645936],[ 1.5450162 -1.5605617],0.06078749895095825
+725,Tony Stark,iron_man_3.txt,"Ah! Let's go! [Thrusters misfiring.] Aw, crap.",-0.8,[ 1.3395594 -0.5591949],[ 1.734308  -1.7065262],0.1227695494890213
+726,Rhodey,iron_man_3.txt,Tony?,0.0,[ 1.353037   -0.50576013],[ 1.296998  -1.2654854],0.03053206205368042
+727,Tony Stark,iron_man_3.txt,"Rhodey, tell me that was you in the suit.",0.0,[ 1.5373093 -0.6990457],[ 1.5796463 -1.5992591],0.1762077957391739
+728,Rhodey,iron_man_3.txt,No. You got yours'?,0.0,[ 1.9664826 -1.0820553],[ 1.7889024 -1.7852012],0.12178775668144226
+729,Tony Stark,iron_man_3.txt,"Uh... Mmm. Kind of. Main house, as fast as you can. There's somebody I'd like you to meet.",0.3222222222222222,[ 1.7224463 -1.1764015],[ 1.8170449 -1.905375 ],0.15835919976234436
+730,Rhodey,iron_man_3.txt,"You, you, you! Move! Get out!",0.0,[ 1.2647318 -0.6428155],[ 0.04321301 -0.05624942],0.10809585452079773
+731,Tony Stark,iron_man_3.txt,[Girls whimpering] The room is secure. I have eyes on the Mandarin.,0.4,[ 1.4422837 -0.6771442],[ 0.67761856 -0.641773  ],0.16631343960762024
+732,Rhodey,iron_man_3.txt,What's this? I had winners. [Gunshots. Trevor wakes up and begins drinking beer again.],0.0,[ 1.333176  -0.9485192],[ 1.8427821 -1.9029045],0.032640159130096436
+733,Tony Stark,iron_man_3.txt,What have you come as?,0.0,[ 2.2609544 -1.3507284],[ 1.4889665 -1.392541 ],0.14275804162025452
+734,Rhodey,iron_man_3.txt,"You make a move, and I break your face.",0.0,[ 1.3408449  -0.44613498],[ 1.3003448 -1.178388 ],0.17480289936065674
+735,Tony Stark,iron_man_3.txt,I never thought people had been hurt. They lied to me.,0.0,[ 1.5240115  -0.89527416],[ 2.2312977 -2.0956488],0.16108766198158264
+736,Rhodey,iron_man_3.txt,This is the Mandarin?,0.0,[ 0.9706537  -0.27723792],[ 1.4794253 -1.4880474],0.024913758039474487
+737,Tony Stark,iron_man_3.txt,"Yeah, I know, it's... It's embarrassing.",0.0,[-0.15013878  0.72187465],[ 1.7880656 -1.6513397],0.1500668227672577
+738,Trevor Slattery,iron_man_3.txt,"Hi, Trevor. Trevor Slattery. I know I'm shorter in person. A bit smaller. Everyone says that. But, um, hey, if you're here to arrest me, there's some people I'd like to roll on.",-0.025,[ 1.5618576  -0.94414616],[ 1.7057161 -1.8215922],0.09182792901992798
+739,Tony Stark,iron_man_3.txt,"Here's how it works, Meryl Streep.",0.0,[0.02297764 0.63538545],[ 0.89810324 -0.654698  ],0.02444198727607727
+740,Rhodey,iron_man_3.txt,You tell him where Pepper is and he'll stop doing it.,0.0,[ 0.69636333 -0.18870205],[ 1.4601659 -1.544741 ],0.08147668838500977
+741,Trevor Slattery,iron_man_3.txt,"Doing what? Ow, I get it! Ow! That hurt. I get it! I get it! I don't know about any Pepper, but I know about the plan.",0.0,[ 1.434881  -0.7001531],[ 2.0709174 -1.9097272],0.13126522302627563
+742,Tony Stark,iron_man_3.txt,Spill.,0.0,[0.6421947  0.12761429],[ 1.1240962 -1.1182684],0.025274455547332764
+743,Rhodey,iron_man_3.txt,Do you know what they did to my suit?,0.0,[ 2.0256171 -1.2719079],[ 1.9878845 -2.0830634],0.15752026438713074
+744,Tony Stark,iron_man_3.txt,What? No. But I do know it's happening off the coast. Something to do with a big boat. I can take you there.,0.0,[ 1.8058746 -1.1405189],[ 1.5210196 -1.5579385],0.06201434135437012
+745,Trevor Slattery,iron_man_3.txt,"Woah! [Rhodey jumps.] Ole', ole', ole', ole'...",0.0,[ 1.6973149  -0.92921555],[ 1.7273914 -1.8862158],0.031936585903167725
+746,Rhodey,iron_man_3.txt,"Tony, I swear to God, I'm gonna blow his face off.",0.0,[ 1.8981141 -0.8696651],[ 1.2153262 -1.304795 ],0.17743773758411407
+747,Tony Stark,iron_man_3.txt,"Oh, and this next bit may include the vice president as well. Is that... Is that important?",0.2,[ 0.970881  -0.5972237],[ 1.9226531 -1.9834081],0.030392825603485107
+748,Rhodey,iron_man_3.txt,"Yeah, a little bit.",-0.1875,[0.20857552 0.27468002],[ 1.2243717 -1.1112429],0.07814997434616089
+749,Tony Stark,iron_man_3.txt,So?,0.0,[ 1.1633258 -0.3415736],[ 1.073502  -1.0363197],0.03487890958786011
+750,Rhodey,iron_man_3.txt,"What are we gonna do? I mean, we don't have any transport.",-0.3125,[ 1.9529045 -1.0701531],[ 1.9146316 -1.7804846],0.03990638256072998
+751,Tony Stark,iron_man_3.txt,"Right. [Beer opens] Hey, Ringo. Didn't you say something about a ""lovely speedboat""? If he's right about the location, we're 20 minutes from where Pepper is.",0.3571428571428571,[ 1.3880584 -0.8876013],[ 1.8453434 -1.990651 ],0.09025171399116516
+752,Rhodey,iron_man_3.txt,"But we also have to figure out this vice president thing, right?",0.2857142857142857,[ 0.6249374  -0.05789167],[ 1.7610077 -1.7738342],0.024592578411102295
+753,Tony Stark,iron_man_3.txt,Right. I wonder who I'm calling right now. Oh! That's the vice president.,0.3214285714285714,[0.11431762 0.64409494],[ 1.552913  -1.5841116],0.0676872730255127
+754,Tony Stark,iron_man_3.txt,"Sir, this is Tony Stark.",-0.2,[ 0.93356144 -0.17209932],[ 1.6623882 -1.8110135],0.026531904935836792
+755,Tony Stark,iron_man_3.txt,We believe you're about to be drawn into the Mandarin campaign. We gotta get you somewhere safe as soon as possible.,0.25,[ 1.4692174 -0.9955403],[ 1.6082624 -1.7367592],0.04261893033981323
+756,Rhodey,iron_man_3.txt,"Sir, this is Colonel Rhodes. They're using the Iron Patriot as a Trojan horse. They're gonna take out the president somehow. We have to immediately alert that plane.",0.0,[ 0.76989645 -0.10626941],[ 1.0120381 -1.1697332],0.022143900394439697
+757,Rhodey,iron_man_3.txt,Rhodes and Stark out.,-0.2,[ 1.1112368  -0.26812845],[ 1.1749862 -1.1941491],0.025742530822753906
+758,Rhodey,iron_man_3.txt,"We gotta make a decision. We can either save the president, or Pepper. We can't do both.",0.0,[ 1.9581791 -1.2376049],[ 1.3051671 -1.2459774],0.027813494205474854
+759,JARVIS,iron_man_3.txt,"Sir, I have an update from Malibu. The cranes have finally arrived, and the cellar doors are being cleared as we speak.",0.0,[ 1.1264511 -0.5011917],[ 1.8954072 -1.8742524],0.031887829303741455
+760,Tony Stark,iron_man_3.txt,And what about the suit I'm wearing?,0.0,[ 1.3411417  -0.81736785],[ 1.5622472 -1.6608208],0.12197916209697723
+761,JARVIS,iron_man_3.txt,The armour is now at 92%.,0.0,[ 0.8454109  -0.21594748],[ 1.6502221 -1.6396974],0.02150028944015503
+762,Tony Stark,iron_man_3.txt,That's going to have to do.,0.0,[ 1.2724689  -0.33890364],[ 1.1505711 -1.0993793],0.04426693916320801
+763,Savin,iron_man_3.txt,"It is an honour, Mr President.",0.0,[-0.02042488  0.6163372 ],[ 1.2766988 -1.3839563],0.16540950536727905
+764,Savin,iron_man_3.txt,"Whoa! Cool your boots, sir. That's not how the Mandarin works.",0.35,[0.53169185 0.09690451],[ 1.2728117 -1.3320445],0.13854917883872986
+765,Tony Stark,iron_man_3.txt,The President. Now.,0.0,[ 1.124221   -0.22464266],[ 1.1254245 -1.1343064],0.027967095375061035
+766,Savin,iron_man_3.txt,"He's not here. [Savin burns the Iron Man suit's arm. Electrical crackling, mechanisms grinding, soft groaning.] Try the jet stream? Speaking of which, go fish. [A door blasts open on the plane, people screaming, metal creaking, more screaming. Tony blasts Savin in the chest.]",0.1999999999999999,[ 1.4442028  -0.75235885],[ 1.2974101 -1.4518121],0.09203341603279114
+767,Tony Stark,iron_man_3.txt,"Walk away from that, you son of a bitch. [Savin falls to the ground.] How many in the air?",0.5,[ 1.9580851 -1.1995271],[ 0.4909131  -0.76741505],0.12396731972694397
+768,JARVIS,iron_man_3.txt,"Thirteen, sir.",0.0,[ 0.8768124  -0.15171346],[ 1.2932953 -1.2930601],0.026205360889434814
+769,Tony Stark,iron_man_3.txt,How many can I carry?,0.5,[ 2.2705383 -1.4799536],[ 1.4401983 -1.4461921],0.05701178312301636
+770,JARVIS,iron_man_3.txt,"Four, sir.",0.0,[0.36294314 0.22126153],[ 1.0643122 -1.0161619],0.02966177463531494
+771,Tony Stark,iron_man_3.txt,"Slow down. Slow down, relax. What's your name? Heather?",-0.2277777777777778,[ 2.2840796 -1.431524 ],[ 1.5055245 -1.3683244],0.16762912273406982
+772,Tony Stark,iron_man_3.txt,"Listen to me. See that guy? I'm gonna swing by, you're just gonna grab him. You got it?",0.0,[ 2.2034535 -1.38283  ],[ 1.6061261 -1.7270687],0.17697009444236755
+773,Tony Stark,iron_man_3.txt,"I'll electrify your arm, you won't be able to open your hand. We can do this, Heather. Easy, see? Eleven more to go. Remember that game called Barrel of Monkeys? That's what we're going to do.",0.2066666666666666,[ 1.8673182 -0.9641967],[ 1.0999035 -1.1092896],0.08828386664390564
+774,JARVIS,iron_man_3.txt,"18,000 feet.",0.0,[0.54184604 0.19150126],[ 1.3926003 -1.2787496],0.030829578638076782
+775,Tony Stark,iron_man_3.txt,"Come on, people. Everybody, grab your monkey. Nice.",0.2749999999999999,[-1.1672347  1.4971932],[ 1.2692528 -1.3198447],0.1520853042602539
+776,JARVIS,iron_man_3.txt,"10,000 feet. 6,000 feet.",0.0,[ 1.4817383  -0.54362065],[ 1.4546331 -1.4045724],0.0294836163520813
+777,Tony Stark,iron_man_3.txt,"Come on, people. Come on, come on, come on! Yeah!",0.0,[ 1.2268906  -0.35061136],[ 1.0291175 -1.0432519],0.1284218579530716
+778,JARVIS,iron_man_3.txt,"1, 000 feet. 400 feet. 200 feet, sir.",0.0,[ 1.7376927  -0.93797797],[ 1.7046477 -1.666977 ],0.03800535202026367
+779,Tony Stark,iron_man_3.txt,"He's a chunky monkey, let's get him. Hello. [Tony drops them all in the water from a few feet above.]",-0.0833333333333333,[ 1.8020561 -1.0494053],[ 1.3820726 -1.5596951],0.14782726764678955
+780,Tony Stark,iron_man_3.txt,"Nice work, guys! Excellent. Good team effort all around. Go us. All right, Jarvis. But it's only half-done. We've still got to get Pepper... [The Iron Man suit flies into a truck and the suit disassembles. He sighs.] That came out of nowhere. Wow [We now see Tony on the boat, where he was controlling the suit.]",0.4726190476190476,[ 1.3641926  -0.56460387],[ 2.0022466 -2.0900447],0.07526847720146179
+781,Rhodey,iron_man_3.txt,"Give me some good news, man.",0.7,[ 1.3376675 -0.4527876],[ 1.5859691 -1.5789633],0.16021740436553955
+782,Tony Stark,iron_man_3.txt,I think they all made it.,0.0,[0.50026697 0.2554872 ],[ 1.6753808 -1.5128949],0.09948870539665222
+783,Rhodey,iron_man_3.txt,"Oh, thank God.",0.0,[-0.9962681  1.3147086],[ 1.3589679 -1.3063215],0.10008043050765991
+784,Tony Stark,iron_man_3.txt,"Yeah, but I missed the president.",0.0,[0.26234087 0.37716252],[ 1.6374632 -1.5912381],0.05410867929458618
+785,Rhodey,iron_man_3.txt,"You couldn't save the president with the suit, how are we gonna save Pepper with nothing?",0.0,[ 1.6231977  -0.91264117],[ 1.2945396 -1.2965683],0.10319703817367554
+786,Tony Stark,iron_man_3.txt,"Uh... Say, Jarvis, is it that time?",0.0,[ 2.1766145 -1.3004253],[ 1.8925213 -2.0501816],0.02352118492126465
+787,JARVIS,iron_man_3.txt,"The House Party Protocol, sir?",0.0,[ 1.0074823 -0.3982085],[ 1.7502265 -1.7983567],0.028412222862243652
+788,Tony Stark,iron_man_3.txt,Correct.,0.0,[0.31904048 0.29596904],[ 1.0171273 -0.9204453],0.02776893973350525
+789,Aldrich Killian,iron_man_3.txt,[Pepper wakes up and gasps.] Hi.,0.0,[ 1.1109861  -0.44431445],[ 1.8017809 -1.9127405],0.023236066102981567
+790,Pepper Potts,iron_man_3.txt,[Breathing heavily.] You think he's gonna help you? He won't.,-0.2,[ 1.5383152 -0.8602451],[ 1.8287446 -1.8768191],0.15811382234096527
+791,Aldrich Killian,iron_man_3.txt,"Having you here is not just to motivate Tony Stark. It's, um... Well, it's actually more embarrassing than that. You're here as my, um...",0.15,[ 0.9902443  -0.60731864],[ 2.0840628 -2.0870726],0.176535502076149
+792,Pepper Potts,iron_man_3.txt,Trophy,0.0,[-0.23876463  0.9012648 ],[ 1.312946  -1.2923955],0.025468766689300537
+793,Aldrich Killian,iron_man_3.txt,"[Chuckles.] Mmm. [Iron Patriot walks in and Pepper gasps.] Good evening, sir. [The armor opens and the President falls out.] Welcome aboard, Mr President. Ever hear of an elephant graveyard? Well, two years ago, the elephant in the room was this scow.",0.75,[ 1.2579024 -0.6715413],[ 1.087304  -1.3480691],0.12123386561870575
+794,Aldrich Killian,iron_man_3.txt,"And, of course, you'll remember that when she spilled a million gallons of crude off Pensacola, thanks to you, not one fat cat saw a day in court.",-0.2499999999999999,[-0.64708424  0.9338872 ],[ 0.17424147 -0.1428339 ],0.11594429612159729
+795,Aldrich Killian,iron_man_3.txt,"Uh, nothing, sir. I just needed a reason to kill you that would play well on TV. You see, I've moved on. I found myself a new political patron, and this time tomorrow, he'll have your job. String him up.",0.0681818181818181,[0.3588864  0.12805003],[ 1.4285792 -1.5385967],0.16933631896972656
+796,Rhodey,iron_man_3.txt,"[Climbs on to the boat.] Come on. You're not gonna freak out on me, right?",0.2857142857142857,[ 1.7500484 -0.815091 ],[ 1.2116052 -1.2706305],0.17156720161437988
+797,Tony Stark,iron_man_3.txt,I hope not.,0.0,[ 1.3707908 -0.6634585],[ 1.1611477 -1.0365688],0.08859983086585999
+798,Rhodey,iron_man_3.txt,"Oh, my God. [Sighs] He's strung up over the oil tanker. They're gonna light him up, man.",0.4,[ 1.59353    -0.75114733],[ 1.5229377 -1.7586236],0.1427212953567505
+799,Tony Stark,iron_man_3.txt,Viking funeral. Public execution.,0.0,[0.34528798 0.27924675],[ 1.4039124 -1.3834387],0.04615974426269531
+800,Rhodey,iron_man_3.txt,"Yeah, death by oil.",0.0,[-0.52740926  0.97872996],[ 1.1960362 -1.1921085],0.029748916625976562
+801,Aldrich Killian,iron_man_3.txt,Okay. That's good. Now give me cameras A through E and we'll do a full tech rehearsal. (Technician typing),0.5166666666666666,[0.3993098 0.4641159],[ 1.8486165 -1.7355402],0.03145226836204529
+802,Rhodey,iron_man_3.txt,ls your gun up?,0.0,[ 1.8720746 -0.9720155],[ 1.1656606 -1.2321314],0.09392085671424866
+803,Tony Stark,iron_man_3.txt,Yep. What do I do?,0.0,[ 2.2024329 -1.4330884],[ 1.7454826 -1.6368824],0.036016106605529785
+804,Rhodey,iron_man_3.txt,"Stay on my six, cover high and don't shoot me in the back.",0.08,[ 2.0078623 -1.0600507],[ 1.1577173 -1.2135037],0.1388963758945465
+805,Tony Stark,iron_man_3.txt,"Six, high, back. Alright. [Gunfire, bullets ricocheting] You see that? Nailed it.",0.08,[ 1.4713919  -0.62745863],[ 1.2523023 -1.392485 ],0.028121650218963623
+806,Rhodey,iron_man_3.txt,"Yeah, you really killed the glass.",-0.2,[-0.36431706  0.7903178 ],[ 1.5175542 -1.3538665],0.1370530128479004
+807,Tony Stark,iron_man_3.txt,You think I was aiming for the bulb? You can't hit a bulb at this distance. [Rhodey fires a bullet and hits the bulb.],0.0,[ 1.3961676  -0.82303274],[ 1.1849555 -1.3434354],0.026459425687789917
+808,Tony Stark,iron_man_3.txt,I'm out. Give me. You got extra magazines?,0.0,[ 2.1902852 -1.5257086],[ 1.674996  -1.8459704],0.1119941771030426
+809,Rhodey,iron_man_3.txt,"They're not universal, Tony.",0.0,[ 0.9026679  -0.22411937],[ 1.7985584 -1.758345 ],0.02570474147796631
+810,Tony Stark,iron_man_3.txt,"I know what I'm doing, I make this stuff. Give me another one.",0.0,[ 0.686298   -0.21427059],[ 1.7604533 -1.5672439],0.07891422510147095
+811,Rhodey,iron_man_3.txt,Okay,0.5,[0.29301438 0.45524395],[ 1.0641636 -1.0105236],0.028722643852233887
+812,Tony Stark,iron_man_3.txt,Give me one of yours.,0.0,[ 1.7525154 -0.8187198],[ 1.3568598 -1.4273143],0.17366084456443787
+813,Rhodey,iron_man_3.txt,I don't have one that fits that gun.,0.0,[ 1.8484758 -0.9223038],[ 1.1886853 -1.0937401],0.027776092290878296
+814,Tony Stark,iron_man_3.txt,"You've got, like, five of them. Here's what I'm going to do. Save my spot, ready?",0.2,[ 2.0895352 -1.2896625],[ 1.6115996 -1.6290078],0.17200219631195068
+815,Rhodey,iron_man_3.txt,What'd you see?,0.0,[ 2.0708592 -1.1588765],[ 1.8647977 -1.7948302],0.08326926827430725
+816,Tony Stark,iron_man_3.txt,"Too fast. Nothing. Here we go. [Clears throat] Three guys, one girl, all armed.",0.2,[ 1.3785367  -0.68374604],[ 1.11572   -1.0543524],0.05460718274116516
+817,Rhodey,iron_man_3.txt,"God, I would kill for some armour right now.",0.2857142857142857,[ 1.6830341 -0.7757553],[ 1.3676363 -1.3566347],0.08617538213729858
+818,Tony Stark,iron_man_3.txt,You're right. We need backup.,0.2857142857142857,[ 1.3147182  -0.44655228],[ 1.4003488 -1.4313639],0.06491601467132568
+819,Rhodey,iron_man_3.txt,"Yeah, a bunch.",0.0,[-0.05489956  0.5632352 ],[ 1.2772874 -1.1923805],0.025345981121063232
+820,Tony Stark,iron_man_3.txt,"You know what? [He nods at something in the distance, whooshing]",0.0,[ 1.5202787 -0.8477752],[ 1.8857279 -2.0920088],0.0690450668334961
+821,Rhodey,iron_man_3.txt,Is that...?,0.0,[ 1.4589005  -0.78177035],[ 1.5073562 -1.5572597],0.03387385606765747
+822,Tony Stark,iron_man_3.txt,Yep.,0.0,[0.489407   0.05312944],[ 0.76243705 -0.71287125],0.027241259813308716
+823,Rhodey,iron_man_3.txt,Are those...?,0.0,[ 1.6132865 -0.8802271],[ 1.4875919 -1.5425106],0.0400620698928833
+824,Tony Stark,iron_man_3.txt,"Yeah. [Dozens of Iron Man suits fly over.] Merry Christmas, buddy. JARVIS, target Extremis heat signatures. Disable with extreme prejudice.",0.3375,[ 1.0975804  -0.55893445],[ 1.1292506 -1.2672912],0.03393545746803284
+825,JARVIS,iron_man_3.txt,"[Through armors] Yes, sir.",0.0,[ 0.8867932  -0.08053393],[ 1.5913268 -1.6772774],0.04500475525856018
+826,Tony Stark,iron_man_3.txt,What are you waiting for? It's Christmas. Take them to church.,0.0,[ 0.6710738  -0.16009068],[ 1.1995949 -1.1960264],0.09114119410514832
+827,JARVIS,iron_man_3.txt,"Gentlemen. [Grunting, screaming.]",0.0,[ 1.5056089  -0.60784763],[ 1.6420468 -1.5700226],0.07911914587020874
+828,Tony Stark,iron_man_3.txt,"Incoming! Jarvis, get Igor to steady this thing. [Mechanisms whirring.]",0.1666666666666666,[ 1.4479396  -0.71629703],[ 1.3683647 -1.4248658],0.038897305727005005
+829,Rhodey,iron_man_3.txt,"This is how you've been managing your down time, huh?",-0.1555555555555555,[-0.56148314  0.980194  ],[ 1.9727957 -1.8277435],0.13314546644687653
+830,Tony Stark,iron_man_3.txt,"Everybody needs a hobby. Heartbreaker, help Red Snapper out, will you? [Tony suits up.] Nice timing.",0.3,[ 0.83365464 -0.28049338],[ 1.8193668 -1.9747084],0.17626303434371948
+831,Rhodey,iron_man_3.txt,"Oh, yeah. That's awesome. Give me a suit, okay?",0.75,[-0.4511255   0.88838625],[ 1.4424555 -1.579871 ],0.16885828971862793
+832,Tony Stark,iron_man_3.txt,"Oh, I'm sorry, they're only coded to me.",-0.25,[0.53754383 0.14862815],[ 1.8396057 -1.7692606],0.0596870481967926
+833,Rhodey,iron_man_3.txt,What does that mean?,-0.3125,[ 1.9133142 -1.0963682],[ 1.426209  -1.4221166],0.02340880036354065
+834,Tony Stark,iron_man_3.txt,I got you covered.,0.0,[ 1.1216079  -0.35534185],[ 1.4753057 -1.3164172],0.17714834213256836
+835,JARVIS,iron_man_3.txt,"Good evening, Colonel. Can I give you a lift?",0.7,[ 1.8360682 -1.0694036],[ 1.742227 -1.861772],0.17551150918006897
+836,Rhodey,iron_man_3.txt,Very funny.,0.325,[-1.126531   1.5128725],[ 1.0877441  -0.98897785],0.10870938003063202
+837,JARVIS,iron_man_3.txt,"Sir, I've located Ms Potts.",0.0,[ 0.92151934 -0.25521758],[ 1.7095879 -1.6653873],0.07044851779937744
+838,Tony Stark,iron_man_3.txt,About time.,0.0,[0.31487298 0.30747762],[ 0.9434232  -0.87747467],0.03192538022994995
+839,Pepper Potts,iron_man_3.txt,"[Gasps, panting.] Stop! Put it down. Put it down. Put it down.",-0.1555555555555555,[ 1.7145314 -0.917119 ],[ 1.1857392 -1.2324071],0.042867034673690796
+840,Tony Stark,iron_man_3.txt,See what happens when you hang out with my ex-girlfriends?,0.0,[-0.8251209  1.0842001],[ 0.587006   -0.43791747],0.17232857644557953
+841,Pepper Potts,iron_man_3.txt,You're such a jerk.,0.0,[-0.55517995  1.1832708 ],[ 1.0270323 -1.0536712],0.1591683328151703
+842,Tony Stark,iron_man_3.txt,"Yep. We'll talk about it over dinner. [Metal creaking, Pepper sobbing.] Come on. A little more, baby. [Pepper straining, Tony grunting. Killian shoves his hand on Tony's suit, burning it.]",0.15625,[ 1.8517054 -1.0108185],[ 1.5929339 -1.6123203],0.17714938521385193
+843,Aldrich Killian,iron_man_3.txt,"Is this guy bothering you? Don't get up. Ooh. Is it hot in there? [Sizzling.] Stuck? Do you feel a little stuck? Like a little turtle, cooking in his little turtle suit.",-0.078125,[ 2.056799  -1.4247649],[ 1.6365567 -1.8733857],0.17635144293308258
+844,Pepper Potts,iron_man_3.txt,Tony.,0.0,[ 0.76238877 -0.10943621],[ 1.1385132 -1.0731232],0.030747592449188232
+845,Aldrich Killian,iron_man_3.txt,"She's watching. I think you should close your eyes. Close your eyes. Close your eyes. You don't want to see this. [Tony cuts off Killian's arm, it burns through the floor and Pepper falls down.]",-0.1555555555555555,[ 1.6482726 -0.9428341],[ 1.2033254 -1.0923831],0.16048158705234528
+846,Tony Stark,iron_man_3.txt,"Yeah, you take a minute. [Groaning, sizzling, metal creaking, yelling, grunts, Pepper whimpers.] Jarvis, give me a suit right now! [The suit he called gets destroyed.] Oh, come on!",0.4464285714285714,[ 1.7314185  -0.85395306],[ 1.4351927 -1.59083  ],0.1759946346282959
+847,Rhodey,iron_man_3.txt,"Mr President! Just hold on, all right? I'm coming. Just hold on. Hold on. [Gunfire] Oh, kay. Bye-bye. Brace yourself. You look damn good, Mr President, but I'm gonna need that suit back. The President is secure, Tony. I'm clearing the area.",0.3464285714285714,[ 1.4014624 -0.6851996],[ 1.1563045 -1.4347428],0.13489863276481628
+848,Tony Stark,iron_man_3.txt,Nice work.,0.6,[-1.4793881  1.8446423],[ 1.2521187 -1.1044565],0.06471896171569824
+849,Rhodey,iron_man_3.txt,"Ready, sir?",0.2,[ 2.024867  -1.0355971],[ 1.3845409 -1.4885801],0.06083869934082031
+850,Tony Stark,iron_man_3.txt,"Pep, I got you. Relax, I got you. Just look at me! Honey, I can't reach any further and you can't stay there. All right? You've got to let go. You've got to let go! I'll catch you, I promise. No! [Pepper falls to the ground and into the flames below.]",0.2232142857142857,[ 1.9997147 -1.1399018],[ 0.7548068 -0.67961  ],0.14284774661064148
+851,Aldrich Killian,iron_man_3.txt,"A shame. I would've caught her. [Tony and Killian run towards each other. Killian jumps up to attack, Tony slides under and armors up. Repulsors firing, flesh burning, both grunting.]",-0.125,[ 1.712493  -0.9205351],[ 0.60833997 -0.8737782 ],0.1621679812669754
+852,Tony Stark,iron_man_3.txt,Eject. [More repulsors firing.],0.5,[ 0.7785662  -0.07056071],[ 1.4346064 -1.4350295],0.02908286452293396
+853,Aldrich Killian,iron_man_3.txt,"Well, here we are on the roof. [Killian slices the suit in half.]",-0.1666666666666666,[ 0.8128955  -0.21613985],[ 1.3329751 -1.591849 ],0.08691194653511047
+854,JARVIS,iron_man_3.txt,"Mark 42, inbound.",0.0,[ 1.0532131 -0.343005 ],[ 1.6350554 -1.5028838],0.02545630931854248
+855,Tony Stark,iron_man_3.txt,"I'll be damned. The prodigal son returns. [The suit flies to Tony, hits a piece of metal and falls apart. Rolls his eyes.] Whatever.",0.0,[ 1.4190538  -0.63581884],[ 1.4339365 -1.5587255],0.15587443113327026
+856,Aldrich Killian,iron_man_3.txt,"You really didn't deserve her, Tony. It's a pity. I was so close to having her perfect.",0.3666666666666667,[ 1.7564788  -0.92128336],[ 1.5670784 -1.4226383],0.16292257606983185
+857,Tony Stark,iron_man_3.txt,"Okay, okay, wait, wait, wait! Slow down! Slow down! You're right. I don't deserve her. Here's where you're wrong. She was already perfect. [Tony motions to the suit and it flies on to Killian.] Jarvis, do me a favour and blow Mark 42.",0.1024250440917107,[ 1.93132   -1.1962353],[ 0.7531986  -0.84453386],0.17703109979629517
+858,Aldrich Killian,iron_man_3.txt,"[Muffled screaming.] No! [He walks towards Tony, his flesh held together by flames.] No more false faces. You said you wanted the Mandarin. You're looking right at him. It was always me, Tony. Right from the start. I am the Mandarin! [Someone hits Killian and he flies to the side. It's Pepper. Heavy breathing.]",-0.0414285714285714,[ 1.6747868  -0.85656273],[ 1.197232  -1.2956555],0.17064034938812256
+859,Tony Stark,iron_man_3.txt,"I got nothing. [Repulsor powering up.] Jarvis, subject at my 12 o'clock is not a target, disengage! What? Oh, what, are you mad at me? [Pepper runs towards Tony, flips in the air, punches through the Iron Man suit and destroys it. She uses the suit to blow up Killian.] Honey?",-0.4166666666666666,[ 1.8644811 -1.2395822],[ 0.64964134 -0.7438117 ],0.07889258861541748
+860,Pepper Potts,iron_man_3.txt,"Oh, my God. That was really violent.",-0.8,[ 0.8645551  -0.07735362],[ 1.5089825 -1.4215597],0.09572899341583252
+861,Tony Stark,iron_man_3.txt,You just scared the devil out of me. I thought you were...,0.0,[ 1.1523417  -0.33247954],[ 1.535659  -1.4503478],0.1602158099412918
+862,Pepper Potts,iron_man_3.txt,I was dead. Why? Because I fell 200 feet? Who's the hot mess now?,-0.0416666666666666,[ 2.0297785 -1.29052  ],[ 1.5995733 -1.7420743],0.1394234597682953
+863,Tony Stark,iron_man_3.txt,It's still debatable. Probably tipping your way a little bit. Why don't you dress like this at home? Hmm? Sport bra. The whole deal.,0.00625,[ 2.123035  -1.5157125],[ 1.0435344 -1.0510825],0.17553478479385376
+864,Pepper Potts,iron_man_3.txt,"You know, I think I understand why you don't want to give up the suits. What am I going to complain about now?",0.0,[ 1.9258691 -1.0275573],[ 1.8451145 -1.8264493],0.14786982536315918
+865,Tony Stark,iron_man_3.txt,"Well, it's me. You'll think of something. Come here.",0.0,[ 1.863191  -1.1441162],[ 1.8619838 -1.7276295],0.118600994348526
+866,Pepper Potts,iron_man_3.txt,"No, don't touch me.",0.0,[ 1.5245382 -0.7994997],[ 0.88829017 -0.86119473],0.17019212245941162
+867,Tony Stark,iron_man_3.txt,Don't worry about it.,0.0,[ 1.1699151  -0.52602804],[ 1.448107 -1.277517],0.11864271759986877
+868,Pepper Potts,iron_man_3.txt,"No, I'm gonna burn you.",0.0,[ 1.2055863 -0.4486154],[ 0.9981823 -1.0215605],0.14946553111076355
+869,Tony Stark,iron_man_3.txt,"No, you're not. Not hot.",-0.125,[ 1.3958415 -0.7645857],[ 1.3779224 -1.4251975],0.15953004360198975
+870,Pepper Potts,iron_man_3.txt,Am I gonna be okay?,0.5,[ 1.9340779 -0.8685089],[ 1.8421472 -1.8178722],0.12870287895202637
+871,Tony Stark,iron_man_3.txt,"No. You're in a relationship with me. Everything will never be okay. But I think I can figure this out, yeah. I almost had this 20 years ago when I was drunk. I think I can get you better. That's what I do. I fix stuff.",0.1666666666666666,[ 1.3570129  -0.65441966],[ 1.6430403 -1.455378 ],0.16506202518939972
+872,Pepper Potts,iron_man_3.txt,And all your distractions?,0.0,[ 0.5644321  -0.07859431],[ 1.6902801 -1.6578196],0.10672593116760254
+873,Tony Stark,iron_man_3.txt,Uh... I'm going to shave them down a little bit. Jarvis. Hey.,-0.1715277777777777,[ 1.5631398  -0.96402085],[ 1.6851165 -1.7725129],0.09491223096847534
+874,JARVIS,iron_man_3.txt,"All wrapped up here, sir. Will there be anything else?",0.0,[ 2.2997007 -1.4794859],[ 1.8325285 -1.7762414],0.040412306785583496
+875,Tony Stark,iron_man_3.txt,You know what to do.,0.0,[0.11901473 0.60430384],[ 1.2897751 -1.1136962],0.05852338671684265
+876,JARVIS,iron_man_3.txt,"The Clean Slate Protocol, sir?",0.3666666666666667,[ 0.75314754 -0.26182   ],[ 1.9184631 -2.0262074],0.027134329080581665
+877,Tony Stark,iron_man_3.txt,"Screw it, it's Christmas. Yes, yes. [Pepper and Tony hug as the Iron Man suits blow up.] Okay, so far? Do you like it?",0.3,[ 1.8248752 -1.025561 ],[ 1.637271  -1.8206959],0.11206914484500885
+878,Pepper Potts,iron_man_3.txt,It'll do.,0.0,[ 0.9811168  -0.08517265],[ 1.0672766 -1.0154456],0.03405377268791199
+879,Trevor Slattery,iron_man_3.txt,"Oh! Great to see you! Oh, bloody hell!",0.0,[-1.2491473  1.5181961],[ 1.5342633 -1.5322174],0.17923453450202942
+880,Happy Hogan,iron_man_3.txt,"[Weak] No, look.",-0.375,[ 1.7909435 -0.8950558],[ 1.4858344 -1.5019175],0.027025610208511353
+881,Tony Stark,iron_man_3.txt,"To be able to share all my intimate thoughts and my experiences with someone, it just cuts the weight of it in half. You know, it's like a snake swallowing its own tail. Everything comes full circle. [The camera zooms out to show Bruce Banner, asleep.] And the fact that you've been able to -help me process... [Tony stops and looks over as Bruce rubs his eyes.] Are you with me?",0.3305555555555555,[ 1.7039552 -1.0128905],[ 2.2162583 -2.217945 ],0.17161166667938232
+882,Tony Stark,iron_man_3.txt,Are you actively napping?,-0.1333333333333333,[ 1.3532854 -0.8995655],[ 1.9150718 -1.9802389],0.054624974727630615
+883,Tony Stark,iron_man_3.txt,Where did I lose you?,0.0,[ 2.261006  -1.3108704],[ 1.836603  -1.8145868],0.14912235736846924
+884,Tony Stark,iron_man_3.txt,"So, you heard none of it?",0.0,[ 1.3400056  -0.51158917],[ 1.7438661 -1.6303803],0.05757257342338562
+885,Tony Stark,iron_man_3.txt,So?,0.0,[ 1.1633258 -0.3415736],[ 1.073502  -1.0363197],0.03487890958786011
+886,Tony Stark,iron_man_3.txt,What? The time?,0.0,[ 1.9302254 -1.204177 ],[ 1.5091434 -1.4884961],0.023856163024902344
+887,Tony Stark,iron_man_3.txt,"You know what? Now that I think about it... Oh! God, my original wound. 1983, all right?",0.3303571428571428,[ 1.7764087 -0.9647304],[ 1.9652152 -1.9907792],0.174543559551239
+888,Tony Stark,iron_man_3.txt,"I'm 14 years old, I still have a nanny. That was weird.",-0.2,[ 1.0268615  -0.33050928],[ 1.5690233 -1.4451858],0.14688754081726074

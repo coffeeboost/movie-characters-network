@@ -1,0 +1,640 @@
+Unnamed: 0,Name,Movie,Line,Sentiment,Irony,Hate,Intimacy
+0,Odin,thor_dark_world.txt,"[voice over] Long before the birth of light there was darkness, and from that darkness, came the Dark Elves. Millennia ago, the most ruthless of their kind, Malekith, sought to transform our universe back into one of eternal night.",0.0428571428571428,[ 1.1908015  -0.55300504],[ 0.9941145 -1.1575018],0.08016616106033325
+1,Odin,thor_dark_world.txt,"Such evil was possible through the power of the Aether, an ancient force of infinite destruction.",-0.3333333333333333,[ 0.47483206 -0.03835692],[ 0.9864522 -1.1204191],0.030599653720855713
+2,Odin,thor_dark_world.txt,"The noble armies of Asgard, led by my father, King Bor, waged a mighty war against these creatures.",0.5,[0.57755834 0.21757391],[ 0.8653873  -0.97659355],0.07082203030586243
+3,Malekith,thor_dark_world.txt,Send the Kursed.,0.0,[ 0.76794505 -0.06235996],[ 1.0616344 -1.1575178],0.03861933946609497
+4,Odin,thor_dark_world.txt,"As the Nine Worlds converged above him, Malekith could at last unleash the Aether...",0.0,[ 1.07219   -0.3287273],[ 1.2379082 -1.3745542],0.024647563695907593
+5,Odin,thor_dark_world.txt,"But Asgard ripped the weapon from his grasp. Without it, the Dark Elves fell. With the battle all but lost, Malekith sacrificed his own people in a desperate attempt to lay waste to Asgard's army.",-0.0875,[ 1.5275939 -0.7228643],[ 0.6375154  -0.85838765],0.07223978638648987
+6,Malekith,thor_dark_world.txt,[subtitled] Their deaths will mean our survival. This war is far from over.,-0.10625,[ 1.3457253 -0.5617421],[ 1.1406947 -1.3122283],0.07247567176818848
+7,Odin,thor_dark_world.txt,"Malekith was vanquished, and the Aether was no more. Or so we were led to believe.",-0.25,[ 1.1067021  -0.40822023],[ 1.2806123 -1.3689789],0.0328560471534729
+8,Frigga,thor_dark_world.txt,Loki.,0.0,[ 1.3074534  -0.45312917],[ 1.2027811 -1.2232503],0.029624342918395996
+9,Loki,thor_dark_world.txt,"Hello, mother. Have I made you proud?",0.8,[ 1.0632055  -0.35944638],[ 1.3472909 -1.3455856],0.17632471024990082
+10,Frigga,thor_dark_world.txt,"Please, don't make this worse.",-0.4,[ 1.4860215 -0.6562133],[ 1.6792485 -1.5190223],0.13046950101852417
+11,Loki,thor_dark_world.txt,Define worse.,-0.4,[ 1.2585834  -0.36964676],[ 1.3470286 -1.1994356],0.025443315505981445
+12,Odin,thor_dark_world.txt,Enough! I will speak to the prisoner alone.,0.0,[ 1.9643089 -1.036958 ],[ 1.2132447 -1.282955 ],0.08407795429229736
+13,Loki,thor_dark_world.txt,[laughs] I really don't see what all the fuss is about.,0.2,[ 0.7593833  -0.15630287],[ 1.5652457 -1.5501274],0.0610470175743103
+14,Odin,thor_dark_world.txt,"Do you not truly feel the gravity of your crimes? Wherever you go there is war, ruin and death.",0.0,[ 1.5116549 -0.8439876],[ 1.3691096 -1.6064961],0.09270608425140381
+15,Loki,thor_dark_world.txt,I went down to Midgard to rule the people of Earth as a benevolent god. Just like you.,-0.1555555555555555,[-0.12437066  0.7083306 ],[ 1.5530376 -1.7153338],0.08033633232116699
+16,Odin,thor_dark_world.txt,"We are not gods. We are born, we live, we die. Just as humans do.",0.1363636363636363,[ 0.95613426 -0.33162296],[ 1.4609007 -1.4371003],0.09212899208068848
+17,Loki,thor_dark_world.txt,Give or take 5000 years.,0.0,[0.8075663  0.01302918],[ 1.5680653 -1.5173112],0.04845249652862549
+18,Odin,thor_dark_world.txt,All this because Loki desires a throne.,0.0,[-0.7492261  1.1968262],[ 1.0904797 -1.2833272],0.0822264552116394
+19,Loki,thor_dark_world.txt,It is my birthright.,0.0,[0.67530555 0.16837493],[ 1.354186  -1.4151083],0.1644640415906906
+20,Odin,thor_dark_world.txt,Your birthright was to die as a child. Cast out onto a frozen rock. If I had not taken you in you would not be here now to hate me.,-0.8,[ 1.9771326 -1.2229846],[ 1.1514443 -1.2109674],0.174739807844162
+21,Loki,thor_dark_world.txt,"If I am for the axe, then for mercy's sake, just swing it. It's not that I don't love our little talks, it's just ... I don't love them.",0.2708333333333333,[ 1.6788684 -0.9212804],[ 1.3869169 -1.4680041],0.172896146774292
+22,Odin,thor_dark_world.txt,Frigga is the only reason you are still alive and you will never see her again. You will spend the rest of your days in the dungeons.,0.05,[ 1.845148  -1.1536864],[ 0.47702333 -0.54657555],0.16681748628616333
+23,Loki,thor_dark_world.txt,And what of Thor? You'll make that witless oaf king while I rot in chains?,0.0,[ 1.5273055 -0.6500924],[ 0.66261363 -0.8117732 ],0.12487339973449707
+24,Odin,thor_dark_world.txt,"Thor must strife to undo the damage you have done. He will bring order to the nine realms and then, yes. He will be king.",0.0,[ 0.9441411  -0.25172824],[ 1.2751876 -1.4378983],0.06875073909759521
+25,Sif,thor_dark_world.txt,I've got this completely under control!,0.125,[0.5543204  0.24701333],[ 1.6065387 -1.434199 ],0.12644195556640625
+26,Thor,thor_dark_world.txt,Is that why everything is on fire?,0.0,[ 1.5834572 -0.920301 ],[ 1.3826616 -1.5076563],0.0412711501121521
+27,Sif,thor_dark_world.txt,You're welcome. [a Kronan arrives] All yours.,0.8,[ 1.5176642  -0.81082684],[ 1.2470708 -1.421265 ],0.1458948701620102
+28,Thor,thor_dark_world.txt,Hello. [the Kronan growls] I accept your surrender.,0.0,[ 1.2467104  -0.51022595],[ 1.1867324 -1.4104272],0.11845973134040833
+29,Thor,thor_dark_world.txt,Anyone else?,0.0,[ 2.0898001 -1.0680714],[ 1.6352273 -1.6172522],0.05305910110473633
+30,Thor,thor_dark_world.txt,"Hogun, the peace is nearly won across the Nine Realms. You should stay here. Be with your people, where your heart is. Asgard can wait.",0.1,[ 1.3404156 -0.5929607],[ 1.2456317 -1.4790837],0.12954117357730865
+31,Thor,thor_dark_world.txt,"As you have mine. Heimdall, when you're ready.",0.2,[ 2.1895518 -1.4247651],[ 1.7514297 -1.7585924],0.14780983328819275
+32,Odin,thor_dark_world.txt,Is Vanaheim secure?,0.4,[ 2.108427  -1.3571907],[ 1.6387284 -1.7793717],0.024512290954589844
+33,Thor,thor_dark_world.txt,As are Nornheim and Ria. Though our work would have gone more quickly with you at the fore.,0.4166666666666666,[ 1.6560546 -1.0470294],[ 1.9595574 -1.8862159],0.1587039828300476
+34,Odin,thor_dark_world.txt,You must think I'm a piece of bread that needs to be buttered so heavily.,-0.2,[ 0.9245985 -0.4353099],[ 1.5269197 -1.4554985],0.0653296411037445
+35,Thor,thor_dark_world.txt,That was not my intent.,0.0,[ 0.9486979  -0.37956497],[ 1.3113319 -1.3422731],0.14141249656677246
+36,Odin,thor_dark_world.txt,"For the first time since the Bifrost was destroyed, the Nine Realms are at peace. They're well reminded of our strength and you have earned their respect and my gratitude.",0.25,[ 0.65706104 -0.09203084],[ 1.8132659 -2.137794 ],0.15828768908977509
+37,Thor,thor_dark_world.txt,Thank you.,0.0,[-0.3281238   0.90289474],[ 1.3803478 -1.3589175],0.16198284924030304
+38,Odin,thor_dark_world.txt,Nothing out of order except your confused and distracted heart.,-0.4,[ 1.4054372 -0.6474501],[ 1.941151  -1.9115366],0.13872142136096954
+39,Thor,thor_dark_world.txt,"This isn't about Jane Foster, Father.",0.0,[ 1.0485183  -0.50345427],[ 1.688961 -1.620981],0.0984867513179779
+40,Odin,thor_dark_world.txt,"Human lives are fleeting, they are nothing. You'd be better served by what lies in front of you [Camera briefly turns to Sif] I'm telling you this not as the all-father but as your father. You are ready. The time has come for you to take the throne. Embrace and celebrate what you've won. Join your warriors. Eat and drink, revel in their celebration. At least pretend to enjoy yourself.",0.1333333333333333,[ 1.7062075 -1.0259433],[ 1.2018875 -1.4571643],0.17358940839767456
+41,Sif,thor_dark_world.txt,There was a time you would celebrate for weeks.,0.0,[0.36211994 0.12444081],[ 1.891817  -1.8269964],0.0803462564945221
+42,Thor,thor_dark_world.txt,I remember you celebrated the battle of Haragon so much that you nearly started a second.,0.1625,[0.50517654 0.16019845],[ 2.0281775 -2.085236 ],0.07722705602645874
+43,Sif,thor_dark_world.txt,"Well, the first was so much fun.",0.275,[-1.8196409  1.878516 ],[ 1.6719759 -1.5484977],0.05551636219024658
+44,Sif,thor_dark_world.txt,Take a drink with me. Surely the All-Father could have no further task for you tonight.,0.25,[ 2.0697193 -1.3431858],[ 1.4555467 -1.4689046],0.17412549257278442
+45,Thor,thor_dark_world.txt,"No, this is one I set myself.",0.0,[ 1.4100062 -0.7487687],[ 1.6203452 -1.5873698],0.07767021656036377
+46,Sif,thor_dark_world.txt,It has not gone unnoticed that you disappear each night. There are Nine Realms. Future king of Asgard must focus on more than one.,0.0999999999999999,[ 1.4789879 -0.9400642],[ 1.5371403 -1.6874427],0.03614071011543274
+47,Thor,thor_dark_world.txt,"I thank you for your sword and for your counsel, good Lady Sif.",0.7,[ 1.3387055  -0.48021692],[ 1.6830319 -1.7161092],0.17846062779426575
+48,Richard,thor_dark_world.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+49,Jane Foster,thor_dark_world.txt,Hi.,0.0,[0.09959511 0.5184133 ],[ 1.0330917 -1.003076 ],0.025873839855194092
+50,Richard,thor_dark_world.txt,So what's the story with you?,0.0,[ 2.1005158 -1.1669832],[ 1.5204234 -1.5025144],0.15003833174705505
+51,Jane Foster,thor_dark_world.txt,"Why does there have to be a story, there's no story.",0.0,[ 1.506764  -0.6822438],[ 1.5146338 -1.4434012],0.05733641982078552
+52,Richard,thor_dark_world.txt,"You've spent the first ten minutes of our date hiding behind a menu that has three choices on it. It's either chicken, vegetarian or fish, Jane. I think there's a story and I'm thinking the story involves a guy?",-0.1699999999999999,[ 1.1511576  -0.61385214],[ 1.3614668 -1.3074356],0.10014012455940247
+53,Jane Foster,thor_dark_world.txt,It's complicated.,-0.5,[0.64931923 0.18206468],[ 1.3740563 -1.2354411],0.025884687900543213
+54,Richard,thor_dark_world.txt,Is he still around?,0.0,[ 2.1874282 -1.3860054],[ 1.5650789 -1.6393813],0.06566545367240906
+55,Jane Foster,thor_dark_world.txt,"No, he...went away.",0.0,[ 0.91479504 -0.31139004],[ 1.64164   -1.6412276],0.039432525634765625
+56,Richard,thor_dark_world.txt,"I've been there. The going away, it's hard. I'd been seeing a woman and uh...she took a job in New York, eventually the distance killed it. And...and the fact that she uh...she kept sleeping with other dudes.",-0.1200757575757575,[ 1.0258509  -0.44662768],[ 0.26720616 -0.24758255],0.17189423739910126
+57,Jane Foster,thor_dark_world.txt,No!,0.0,[0.7419055  0.01583339],[ 0.86186445 -0.79056174],0.028834402561187744
+58,Richard,thor_dark_world.txt,"Oh, so many.",0.5,[-0.3480777  0.9081254],[ 1.5937983 -1.4309576],0.04821053147315979
+59,Richard,thor_dark_world.txt,Hi. Um...could we get some wine please?,0.0,[ 1.9947213 -1.4003116],[ 1.8463131 -1.7515596],0.10455524921417236
+60,Darcy Lewis,thor_dark_world.txt,"Sure, I'd love some.",0.5,[ 1.499169   -0.82107353],[ 1.0980095 -1.0695243],0.17531593143939972
+61,Jane Foster,thor_dark_world.txt,"Richard, this is Darcy. [to Darcy] What are you doing here?",0.0,[ 2.1168382 -1.4119691],[ 1.9160304 -2.1513555],0.06798669695854187
+62,Richard,thor_dark_world.txt,"Oh, hello.",0.0,[-0.66841286  1.2399578 ],[ 1.3344316 -1.2854143],0.03950485587120056
+63,Darcy Lewis,thor_dark_world.txt,"So, I show up to work at the lab-slash-your mom's house, fully expecting you to be moping around in your pajamas eating ice cream obsessing about you know who...",0.0,[-0.7559223   0.82699275],[ 1.3643888 -1.28783  ],0.13236533105373383
+64,Richard,thor_dark_world.txt,Ah.,0.0,[0.19033408 0.3187335 ],[ 1.0690838 -0.9701302],0.030640065670013428
+65,Darcy Lewis,thor_dark_world.txt,"But you're not! You're wearing lady clothes, you even showered, didn't you? You smell good.",0.7,[0.24257195 0.04022419],[ 0.49659455 -0.5400609 ],0.1595172882080078
+66,Jane Foster,thor_dark_world.txt,"Is there a point to all this, cause there really has to be a point to all this.",0.2,[ 1.7254605 -0.9871099],[ 1.5837098 -1.5349528],0.03935956954956055
+67,Darcy Lewis,thor_dark_world.txt,Right. You know that scientific equipment you don't look at anymore? You might wanna start looking at it now,0.2857142857142857,[ 0.2870581  -0.07471927],[ 1.8540844 -1.8593575],0.04398566484451294
+68,Darcy Lewis,thor_dark_world.txt,This is the reason we came all the way out here.,0.0,[ 0.5552545  -0.11401511],[ 1.7703588 -1.7269441],0.08219125866889954
+69,Jane Foster,thor_dark_world.txt,It's malfunctioning.,0.0,[0.39300263 0.18841231],[ 1.3144888 -1.2541928],0.03213280439376831
+70,Darcy Lewis,thor_dark_world.txt,That's what I said.,0.0,[ 0.7614709  -0.04293579],[ 1.3963867 -1.2897934],0.04673856496810913
+71,Darcy Lewis,thor_dark_world.txt,That's what I did! But you just hit a little more scientific.,0.15625,[ 1.350525  -0.7886753],[ 1.8710257 -1.8586625],0.06588345766067505
+72,Jane Foster,thor_dark_world.txt,I'm sure it's nothing.,0.5,[ 0.7997241  -0.00313384],[ 1.5757664 -1.3928283],0.06146541237831116
+73,Richard,thor_dark_world.txt,Yeah.,0.0,[-0.01128384  0.49658802],[ 0.8073447 -0.7215428],0.027981340885162354
+74,Darcy Lewis,thor_dark_world.txt,"It didn't look like nothing. Kind of looks like the readings that Erik was rambling about. [to Richard] Our friend Erik, kind of went banana-balls.",0.6,[ 1.7750658 -1.2516221],[ 2.0766346 -2.2508388],0.10559847950935364
+75,Jane Foster,thor_dark_world.txt,He's not interested. I'm not interested. Time for you to go now.,-0.125,[ 2.2205424 -1.3602501],[ 1.1699195 -1.2852739],0.17089253664016724
+76,Darcy Lewis,thor_dark_world.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+77,Richard,thor_dark_world.txt,Short but sweet.,0.175,[0.45132306 0.22456068],[ 1.2672607 -1.0982763],0.05849522352218628
+78,Jane Foster,thor_dark_world.txt,She needs help.,0.0,[ 1.1319051  -0.35124305],[ 1.2257334 -1.1020283],0.10969087481498718
+79,Richard,thor_dark_world.txt,I think I'm gonna have the sea bass.,-0.15,[ 1.8370827 -0.9774099],[ 1.2568629 -1.3079002],0.11653143167495728
+80,Jane Foster,thor_dark_world.txt,"Sea bass. Yeah, sea bass is good.",0.1333333333333333,[-0.5403926  0.8884249],[ 1.2538798 -1.2517971],0.03701603412628174
+81,Jane Foster,thor_dark_world.txt,"Sea bass, sea bass, sea bass, sea bass, sea bass, sea bass, sea bass...sea bass. Sea bass...",-0.15,[ 1.7510699 -0.9085222],[ 1.0032983 -1.1082733],0.03739440441131592
+82,Richard,thor_dark_world.txt,"Jane, maybe you should stop saying sea bass and go out to your friend.",-0.15,[ 1.0001137  -0.33021763],[ 0.79020476 -0.6228895 ],0.14647430181503296
+83,Jane Foster,thor_dark_world.txt,This was so fun.,0.3,[-1.785507  1.954094],[ 1.4538904 -1.3198591],0.07760661840438843
+84,Richard,thor_dark_world.txt,"You know, I'll just stay here and say sea bass alone.",-0.15,[ 1.3993467  -0.53677684],[ 1.6293105 -1.5526773],0.11794348061084747
+85,Jane Foster,thor_dark_world.txt,And I hate you.,-0.8,[0.5962234  0.16095513],[ 1.5197912 -1.3855188],0.1710178554058075
+86,Darcy Lewis,thor_dark_world.txt,What?! I thought he was cute.,0.5,[0.30869627 0.41033366],[ 1.6782728 -1.7147113],0.13441863656044006
+87,Jane Foster,thor_dark_world.txt,Just shut up and drive.,0.0,[-0.15945137  0.78347576],[ 0.8740246 -0.5644002],0.07783365249633789
+88,Jane Foster,thor_dark_world.txt,Who's he?,0.0,[ 2.2472854 -1.1746122],[ 1.1905242 -1.3350966],0.07514721155166626
+89,Darcy Lewis,thor_dark_world.txt,He's my intern.,0.0,[0.1730756  0.48032472],[ 1.7024051 -1.7062104],0.16690407693386078
+90,Jane Foster,thor_dark_world.txt,You have an intern?,0.0,[ 1.2991015 -0.716022 ],[ 1.8613077 -1.725556 ],0.06340697407722473
+91,Darcy Lewis,thor_dark_world.txt,"Oh, yeah.",0.0,[-1.0349818  1.2248405],[ 1.067646  -0.9831724],0.031575411558151245
+92,Ian Boothby,thor_dark_world.txt,"Hello, Dr. Foster. It's uh...it's a great honor to be working with you.",0.8,[-0.8226997  1.0303696],[ 2.1158512 -2.1438205],0.1785617470741272
+93,Jane Foster,thor_dark_world.txt,Right. I have to call Erik.,0.2857142857142857,[ 1.3324921  -0.50798184],[ 1.2837456 -1.1838127],0.04495331645011902
+94,Ian Boothby,thor_dark_world.txt,"Oh, uh...take a right.",0.2857142857142857,[-0.58522916  0.9422225 ],[ 1.6406792 -1.609619 ],0.07277455925941467
+95,Ian Boothby,thor_dark_world.txt,Left!,0.0,[0.5274385  0.24706268],[ 1.0775558 -1.0265381],0.025128722190856934
+96,Darcy Lewis,thor_dark_world.txt,I have totally mastered driving in London.,0.0,[-1.5112518  1.7714063],[ 1.7565094 -1.6363877],0.03409862518310547
+97,Jane Foster,thor_dark_world.txt,"Hi, Erik, it's me again. Where are you? I came here because you said you were onto something and then vanished.",0.0,[ 1.3602281 -0.8021804],[ 2.1026285 -2.1988823],0.10364815592765808
+98,Darcy Lewis,thor_dark_world.txt,"Come on, this is exciting! Look, the intern is excited.",0.375,[-1.1325358  1.375269 ],[ 1.9511715 -1.9132007],0.037984609603881836
+99,Ian Boothby,thor_dark_world.txt,Ian.,0.0,[ 0.6718339  -0.07950275],[ 1.0136578  -0.97171795],0.027568727731704712
+100,Darcy Lewis,thor_dark_world.txt,Do you want the phase meter?,0.0,[ 2.0850487 -1.423098 ],[ 2.0309525 -2.126924 ],0.053133487701416016
+101,Jane Foster,thor_dark_world.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+102,Darcy Lewis,thor_dark_world.txt,[to Ian] Bring the phase meter.,0.0,[ 1.6287414  -0.76055104],[ 1.5836899 -1.7458475],0.025243669748306274
+103,Darcy Lewis,thor_dark_world.txt,The toaster looking thing.,0.0,[0.2204947  0.41526577],[ 1.3251585 -1.2605537],0.021723031997680664
+104,Ian Boothby,thor_dark_world.txt,I know what the phase meter is.,0.0,[0.8513537  0.07095039],[ 1.6700286 -1.610971 ],0.021683156490325928
+105,Jane Foster,thor_dark_world.txt,How do I change the ring tone on this thing?,0.0,[ 2.1468558 -1.2104334],[ 1.6593792 -1.6467191],0.026352524757385254
+106,Darcy Lewis,thor_dark_world.txt,An Astrophysicist with three degrees should be able to change her own ring tone.,0.55,[-0.9428539  1.3213471],[ 1.2581421 -1.2422025],0.026439785957336426
+107,Jane Foster,thor_dark_world.txt,Why are you calling me?,0.0,[ 1.8523641  -0.95610774],[ 1.6348267 -1.5949478],0.1644916832447052
+108,Darcy Lewis,thor_dark_world.txt,"I didn't want to shout. [to Ian, who's following behind her] Intern, the entrance is this way.",-0.2,[ 1.5620211 -0.7839939],[ 1.6784512 -1.7073113],0.14474426209926605
+109,Ian Boothby,thor_dark_world.txt,Ian. My name's Ian.,0.0,[ 1.3201933  -0.40414438],[ 1.604145  -1.7390661],0.14701664447784424
+110,Darcy Lewis,thor_dark_world.txt,I am not getting stabbed in the name of science.,0.0,[0.3528332  0.19781184],[ 1.471322  -1.5230494],0.12867401540279388
+111,Darcy Lewis,thor_dark_world.txt,"It's okay, we're Americans!",0.625,[-0.54686034  1.0385833 ],[ 1.515114  -1.6030513],0.06056484580039978
+112,Jane Foster,thor_dark_world.txt,Is that supposed to make them like us?,0.0,[ 1.3392049 -0.5824196],[ 1.4326411 -1.3856571],0.13624215126037598
+113,Jane Foster,thor_dark_world.txt,"Oh, they're kids.",0.0,[-1.1957406  1.720255 ],[ 1.4658923 -1.2817801],0.05185645818710327
+114,Jane Foster,thor_dark_world.txt,"No, we're scientists. Well, I am.",0.0,[-0.19437934  0.7366312 ],[ 1.7091237 -1.6890249],0.05186760425567627
+115,Darcy Lewis,thor_dark_world.txt,Thanks.,0.2,[-0.37032345  0.8757285 ],[ 1.2195907 -1.1703982],0.06473758816719055
+116,Jane Foster,thor_dark_world.txt,Can you show us?,0.0,[ 2.0807018 -1.0289189],[ 1.616897  -1.5740281],0.1625787913799286
+117,Darcy Lewis,thor_dark_world.txt,That doesn't seem rigged.,0.0,[0.35414028 0.23767462],[ 1.2737871 -1.1654491],0.029293179512023926
+118,Darcy Lewis,thor_dark_world.txt,Where did it go?,0.0,[ 2.233541  -1.4627924],[ 1.4856611 -1.500365 ],0.02148452401161194
+119,Darcy Lewis,thor_dark_world.txt,That's...that's incredible.,0.9,[-0.48673272  0.9615995 ],[ 1.3410934 -1.2795497],0.0591789186000824
+120,Darcy Lewis,thor_dark_world.txt,What happened?,0.0,[ 2.0429142 -1.0419959],[ 1.545624  -1.4592237],0.023649483919143677
+121,Darcy Lewis,thor_dark_world.txt,"I want to throw something. Jane, give me your shoe.",0.0,[ 2.2775066 -1.3397496],[ 0.6997202  -0.70700777],0.1783984899520874
+122,Jane Foster,thor_dark_world.txt,I haven't seen readings like this since...,0.0,[ 1.2402246  -0.50370157],[ 1.9476635 -2.05134  ],0.026835739612579346
+123,Darcy Lewis,thor_dark_world.txt,New Mexico?,0.1363636363636363,[ 1.5082811  -0.76061964],[ 1.7199659 -1.6657368],0.026614755392074585
+124,Jane Foster,thor_dark_world.txt,Don't touch anything!,0.0,[ 2.1114275 -1.3370924],[ 1.1229556 -1.1047685],0.09225165843963623
+125,Darcy Lewis,thor_dark_world.txt,[to Ian] Give me your shoe.,0.0,[ 1.9755083 -0.9837877],[ 1.2805141 -1.5759841],0.16810759902000427
+126,Darcy Lewis,thor_dark_world.txt,Where those the car keys?,0.0,[ 1.8436525  -0.89074224],[ 1.1350013 -1.2189184],0.026519060134887695
+127,Jane Foster,thor_dark_world.txt,Darcy!,0.0,[0.65884906 0.20761281],[ 1.1709667 -1.15652  ],0.026074916124343872
+128,Malekith,thor_dark_world.txt,[subtitled] The Aether awakens us. The Convergence returns.,0.0,[ 1.4930904 -0.7987374],[ 1.7282914 -1.83794  ],0.022359371185302734
+129,Heimdall,thor_dark_world.txt,You're late.,-0.3,[0.38910547 0.12973168],[ 1.4892745 -1.3621014],0.11271205544471741
+130,Thor,thor_dark_world.txt,Merriment can sometimes be a heavier burden than battle.,0.0,[ 1.2583961  -0.60031784],[ 1.7920994 -1.8486239],0.0649784505367279
+131,Heimdall,thor_dark_world.txt,Then you're doing one of them incorrectly.,0.0,[ 0.8852534  -0.29377365],[ 1.5963963 -1.5287741],0.04923003911972046
+132,Thor,thor_dark_world.txt,Perhaps. How fare the stars?,0.0,[ 2.065054  -1.1272722],[ 1.3920915 -1.5332749],0.025716513395309448
+133,Heimdall,thor_dark_world.txt,Still shining. From here I can see Nine Realms and ten trillion souls.,0.0,[ 1.2241756  -0.44756237],[ 1.569707  -1.6502724],0.02478736639022827
+134,Heimdall,thor_dark_world.txt,You recall what I told you of the Convergence?,0.0,[ 1.2298189 -0.6933892],[ 2.0609443 -2.0625632],0.03063833713531494
+135,Thor,thor_dark_world.txt,"Yes, the alignment of the worlds. It approaches, doesn't it?",0.0,[0.2683341  0.39458537],[ 1.576365  -1.6619776],0.02029597759246826
+136,Heimdall,thor_dark_world.txt,"The universe hasn't seen this marvel since before my watch began. Few can sense, even fewer can see it. A world that's infected can be dangerous. It is truly beautiful.",0.0166666666666666,[ 1.3662454  -0.84134364],[ 1.543777  -1.6623299],0.04559201002120972
+137,Thor,thor_dark_world.txt,I see nothing.,0.0,[0.6905663  0.02657484],[ 1.5682453 -1.3969198],0.06251075863838196
+138,Heimdall,thor_dark_world.txt,Or perhaps that is not the beauty you seek.,0.0,[ 1.1995845 -0.7491456],[ 1.4720739 -1.46359  ],0.10611289739608765
+139,Thor,thor_dark_world.txt,How is she?,0.0,[ 2.245049  -1.3214402],[ 1.2196614 -1.2074407],0.14609411358833313
+140,Heimdall,thor_dark_world.txt,"She's quite clever, your mortal. She doesn't know it yet, but she studies the Convergence as well. Even...",0.1666666666666666,[ 1.1356684  -0.60315734],[ 1.2338634 -1.2909161],0.08464884757995605
+141,Thor,thor_dark_world.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+142,Heimdall,thor_dark_world.txt,I can't see her.,0.0,[ 1.2109754 -0.3776102],[ 1.1371967 -0.886679 ],0.13405105471611023
+143,Darcy Lewis,thor_dark_world.txt,Jane! Where the hell were you?,0.0,[ 2.0654237 -1.1766802],[ 0.78693247 -0.6737832 ],0.15760904550552368
+144,Jane Foster,thor_dark_world.txt,Tell me you didn't call the police!,0.0,[0.55133003 0.14729264],[ 1.4430157 -1.2919215],0.10658332705497742
+145,Darcy Lewis,thor_dark_world.txt,What was I supposed to do?,0.0,[ 2.1606512 -1.290112 ],[ 1.9759196 -1.8602421],0.05226185917854309
+146,Jane Foster,thor_dark_world.txt,Not call the police!,0.0,[ 1.3165243  -0.37744933],[ 1.0136925  -0.95720446],0.06987941265106201
+147,Darcy Lewis,thor_dark_world.txt,I was freaking out.,0.0,[0.6239784  0.17446527],[ 1.6638889 -1.4406263],0.09080418944358826
+148,Jane Foster,thor_dark_world.txt,"You call the cops they tell the feds, the next thing you know we have SHIELD crawling all over area fifty-one-ing the place.",0.0,[0.37462103 0.22104415],[ 1.2529695 -1.3246667],0.037393271923065186
+149,Darcy Lewis,thor_dark_world.txt,Jane!,0.0,[0.18471497 0.4886783 ],[ 1.003206   -0.96007097],0.056490182876586914
+150,Jane Foster,thor_dark_world.txt,"We had a stable gratification anomaly, we had unheeded access. Our only competition was ten years old!",0.0416666666666666,[ 0.92078924 -0.36977696],[ 2.0691297 -1.9715097],0.025027722120285034
+151,Darcy Lewis,thor_dark_world.txt,"Jane, you were gone for five hours!",0.0,[0.32721698 0.24936277],[ 1.8929696 -1.7194225],0.14361628890037537
+152,Jane Foster,thor_dark_world.txt,"What? [suddenly the weather turns, it starts raining and they hear the sound of thunder, Jane looks around her and puts her hand out]",0.2,[ 1.426116  -0.6388068],[ 1.6067914 -1.7181319],0.06899428367614746
+153,Darcy Lewis,thor_dark_world.txt,"That's weird. [they see it's raining but it's not raining on Jane and Darcy, there's an invisible barrier protecting them, suddenly Jane sees Thor standing a few feet away from them, Jane hands her gadget to Darcy and walks towards Thor, as she walks away the invisible barrier follows her and the rain starts falling on Darcy] Typical. [as Jane walks towards Thor]",-0.2166666666666666,[ 0.60580695 -0.09025458],[ 1.504425  -1.6136872],0.07503378391265869
+154,Thor,thor_dark_world.txt,Jane. [as she reaches him suddenly she slaps him hard in the face],-0.1458333333333333,[ 1.402997  -0.6733002],[ 0.47942883 -0.5688733 ],0.17668797075748444
+155,Jane Foster,thor_dark_world.txt,"Sorry. I just needed to make sure you were real, it's been a very strange day.",0.03375,[ 1.4725549 -0.7205172],[ 2.0905845 -1.9865587],0.14939884841442108
+156,Thor,thor_dark_world.txt,"Well, I am. Jane... [suddenly she slaps him again]",0.0,[ 1.4653516 -0.6848817],[ 0.7919123  -0.87236565],0.17555001378059387
+157,Jane Foster,thor_dark_world.txt,Where were you?!,0.0,[ 2.001266  -1.1688391],[ 1.8886268 -1.8657532],0.09534704685211182
+158,Thor,thor_dark_world.txt,Where were you? Heimdall could not see you.,0.0,[ 1.9036416 -1.104599 ],[ 1.9810377 -1.9573606],0.13417547941207886
+159,Jane Foster,thor_dark_world.txt,I was right here where you left me. I was waiting and then I was crying and then I went out looking for you. You said you were coming back,0.0214285714285714,[ 1.4837984 -0.7366475],[ 2.1709192 -2.0590098],0.17404583096504211
+160,Thor,thor_dark_world.txt,"I know, I know, but the Bifrost was destroyed. The Nine Realms erupted into chaos, wars were raging, marauding hordes were pillaging. I had to put an end to the slaughter.",0.0,[ 1.2391734 -0.3961379],[ 0.6718271 -0.8937862],0.04850649833679199
+161,Jane Foster,thor_dark_world.txt,"As excuses go, that's not terrible. But I saw you on TV, you were...you were in New York!",0.3352272727272727,[0.42633322 0.11146507],[ 2.0206413 -1.8956907],0.1108393669128418
+162,Thor,thor_dark_world.txt,"Jane, I fought to protect you from the dangers of my world, but I was wrong, I was a fool. [Thor places his hand Jane's face] I believe that fate brought us together. Jane, I don't know where you were or what happened, but I do know this.",-0.5,[ 1.884407 -1.095372],[ 1.6192966 -1.5916406],0.1704929620027542
+163,Jane Foster,thor_dark_world.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+164,Thor,thor_dark_world.txt,I know...,0.0,[0.7449397 0.1031977],[ 1.4148017 -1.2487763],0.07025501132011414
+165,Jane Foster,thor_dark_world.txt,You do?,0.0,[ 1.6195127 -0.8411593],[ 1.5609525 -1.5052105],0.10240483283996582
+166,Thor,thor_dark_world.txt,Do what? [they lean in close and just as they are about to kiss Darcy interrupts them; referring to the rain],0.0,[ 1.8294163 -1.08874  ],[ 1.7011977 -1.8185706],0.14792399108409882
+167,Jane Foster,thor_dark_world.txt,Hey! Is that you? [Thor looks up and the rain stops],0.0,[ 1.7756565 -0.9913038],[ 1.8112752 -2.0471354],0.02198493480682373
+168,Jane Foster,thor_dark_world.txt,Uh...we're kind of in the middle of something.,0.3,[ 1.5216835  -0.77213323],[ 2.0320802 -1.9718529],0.0631004273891449
+169,Darcy Lewis,thor_dark_world.txt,Um...I'm pretty sure we are getting arrested.,0.375,[-0.01470388  0.3860172 ],[ 1.7787169 -1.7661268],0.05376392602920532
+170,Jane Foster,thor_dark_world.txt,[to Thor] Hold that thought. [she turns and runs towards the police],0.0,[ 1.2782125 -0.6433861],[ 1.4615005 -1.5032357],0.05009695887565613
+171,Darcy Lewis,thor_dark_world.txt,"Look at you, still all muscly and everything. How's space?",0.0,[ 1.0011243  -0.39462632],[ 1.6007196 -1.8221797],0.1273508369922638
+172,Thor,thor_dark_world.txt,Space is fine. [Jane walks over to the police],0.4166666666666667,[0.197741   0.49171373],[ 1.421754  -1.4594897],0.03914707899093628
+173,Jane Foster,thor_dark_world.txt,Excuse me?,-0.05,[ 1.1781937  -0.23078704],[ 1.5333338 -1.5497638],0.1342793107032776
+174,Jane Foster,thor_dark_world.txt,Yes.,0.0,[0.35707045 0.19407645],[ 0.7713877 -0.6977943],0.02911853790283203
+175,Jane Foster,thor_dark_world.txt,He's my intern. My intern's intern.,0.0,[0.16260855 0.19688928],[ 1.894935  -1.9220513],0.16729888319969177
+176,Thor,thor_dark_world.txt,Jane! Jane? [he helps her stand] You alright?,0.0,[ 2.0734084 -1.222287 ],[ 1.771727  -1.9031702],0.17785929143428802
+177,Jane Foster,thor_dark_world.txt,What just happened? [the other police officer approaches Jane apprehensively],-0.125,[ 1.536242  -0.9479941],[ 1.7402083 -1.819575 ],0.03655397891998291
+178,Thor,thor_dark_world.txt,The woman is unwell.,0.0,[ 1.2945524 -0.5514864],[0.15769593 0.04597221],0.12765803933143616
+179,Thor,thor_dark_world.txt,So am I. [talking into his radio],0.0,[ 1.5946027  -0.70061314],[ 1.7768656 -1.8737862],0.09016171097755432
+180,Thor,thor_dark_world.txt,Hold on to me.,0.0,[ 1.3553972  -0.57906103],[ 1.3750232 -1.2759213],0.17591668665409088
+181,Jane Foster,thor_dark_world.txt,What are you doing? [suddenly the Bifrost opens and Thor takes Jane to Asgard; Darcy looks up as they disappear],0.0,[ 1.6717279 -0.9958   ],[ 1.4032737 -1.5269649],0.04279375076293945
+182,Darcy Lewis,thor_dark_world.txt,"Holy shit! [Thor and Jane travel through the Bifrost and enter Asgard where Heimdall is guarding as always, Jane looks around her in amazement]",-0.25,[ 0.6671099  -0.28482208],[ 1.3748883 -1.5400813],0.08441168069839478
+183,Jane Foster,thor_dark_world.txt,We have to do that again. [she notices Heimdall for the first time] Hi.,0.25,[ 0.8658031 -0.2913499],[ 1.9098655 -1.9760926],0.08515238761901855
+184,Heimdall,thor_dark_world.txt,"Welcome to Asgard. [returning to their homeland, Svartalfheim, Malekith kneels and grabs a handful of dust from the ground]",0.8,[ 1.4340358  -0.90145063],[ 1.59537   -1.8969429],0.028510570526123047
+185,Malekith,thor_dark_world.txt,"[subtitled] Look at my legacy, Algrim. I barely remember the time before light. [Algrim places his hand on Malekith's shoulder]",0.225,[ 1.836916   -0.97976184],[ 1.768128  -2.0214665],0.13162028789520264
+186,Malekith,thor_dark_world.txt,[subtitled] The Asgardians will suffer as we have suffered. I will reclaim the Aether. I will restore our world and I'll put an end to this poisonous world. [as the Asgardian physicians study Jane and the force within her],0.0,[ 1.4305637  -0.73716265],[ 0.8407249  -0.93372715],0.1397327184677124
+187,Jane Foster,thor_dark_world.txt,What's that?,0.0,[ 2.0485666 -1.0469857],[ 1.2492839 -1.2368416],0.027281612157821655
+188,Thor,thor_dark_world.txt,"This is not of Earth, what is it?",0.0,[ 2.013204  -1.2762437],[ 1.3240042 -1.5150288],0.024845600128173828
+189,Jane Foster,thor_dark_world.txt,"That's a quantum field generator, isn't it?",0.0,[0.22359964 0.31971633],[ 1.2026101 -1.2555522],0.021606922149658203
+190,Jane Foster,thor_dark_world.txt,Does a Soul Forge transfer molecular energy from one place to another? [Eir looks impressed],1.0,[ 1.2074378 -0.7385022],[ 1.6558613 -1.9140869],0.03090357780456543
+191,Jane Foster,thor_dark_world.txt,It's a quantum field generator. [Thor smiles at her] [Odin enters the room as the Thor looks on to Jane as she is being examined],0.0,[ 0.66680914 -0.28326482],[ 1.644467  -1.7589443],0.061963945627212524
+192,Odin,thor_dark_world.txt,My words are mere noises to you that you ignore them completely?,-0.2,[ 1.5815403  -0.78562045],[ 1.928459  -1.8577484],0.1452191323041916
+193,Thor,thor_dark_world.txt,She's ill.,-0.5,[ 0.77753246 -0.03966217],[ 1.0839349 -1.0304562],0.0763515830039978
+194,Odin,thor_dark_world.txt,She is mortal. Illness is their defining trait.,0.0,[ 1.1882248 -0.5778023],[ 0.3287164 -0.3583884],0.09992662072181702
+195,Thor,thor_dark_world.txt,I brought here because we can help her.,0.0,[0.45661986 0.00389939],[ 2.1424093 -2.054651 ],0.14049074053764343
+196,Odin,thor_dark_world.txt,She does not belong here in Asgard anymore than a goat belongs at a banquet table. [Jane sits up and looks at Thor],0.0,[ 1.496196  -1.0011637],[ 0.16695046 -0.06557433],0.10386615991592407
+197,Jane Foster,thor_dark_world.txt,Did he just...? [to Odin] Who do you think you are?,0.0,[ 1.893259  -1.2336202],[ 1.4167405 -1.6223043],0.08218371868133545
+198,Odin,thor_dark_world.txt,I'm Odin. King of Asgard. Protector of the Nine Realms.,0.0,[ 1.3684025  -0.44844306],[ 1.5091742 -1.6990131],0.04847925901412964
+199,Jane Foster,thor_dark_world.txt,"Oh. Well, I'm...",0.0,[-0.14476651  0.46860358],[ 2.0237706 -1.971241 ],0.08114469051361084
+200,Odin,thor_dark_world.txt,"I know very well who you are, Jane Foster. [Jane turns to look at Thor]",0.2,[ 1.178872   -0.59768045],[ 1.1025039 -1.1306452],0.1233988106250763
+201,Jane Foster,thor_dark_world.txt,You told your Dad about me?,0.0,[ 1.3600912 -0.7361162],[ 1.894574  -1.9004307],0.16980275511741638
+202,Thor,thor_dark_world.txt,"Something is within her, father, something I have not seen before.",0.0,[ 1.6723441 -0.9045503],[ 1.7790972 -1.7873541],0.1562524288892746
+203,Odin,thor_dark_world.txt,"Her world has its healers, their called doctors, let them deal with it. Guards, take her back to Midgard. [as two guards approach Jane and go to grab her, suddenly the energy force within her sets off again throwing the two guards aside]",0.0,[ 1.4886895 -0.8289662],[ 1.1523274 -1.2264656],0.11500701308250427
+204,Thor,thor_dark_world.txt,"Don't touch her. [he leans down and tenderly touches Jane] Jane, are you alright? [Jane nods her head, Odin inspects the energy force running through Jane's body and realizes it's the Aether]",-0.1555555555555555,[ 1.9502376 -1.2466567],[ 1.5164226 -1.5595261],0.17027123272418976
+205,Odin,thor_dark_world.txt,That's impossible.,-0.6666666666666666,[0.74254197 0.07759078],[ 1.1953517 -1.0499637],0.029826462268829346
+206,Thor,thor_dark_world.txt,"No, it's defending itself.",0.0,[-0.01606921  0.6869005 ],[ 1.341964  -1.2542111],0.06185877323150635
+207,Odin,thor_dark_world.txt,"Come with me. There are relics that predate the universe itself. What lies within her appears to be one of them. The Nine Realms are not eternal. They had a dawn as they will have a dusk. [Odin shows Thor and Jane an ancient book] But before that dawn the dark forces, the Dark Elves, reigned absolute and unchallenged.",-0.0333333333333333,[ 1.5785826  -0.86996484],[ 0.97368467 -1.1368705 ],0.06416657567024231
+208,Thor,thor_dark_world.txt,"[reading from the book] ""Born of eternal night, the Dark Elves comes to steal away your light."" They were these stories mother told us as children.",0.125,[ 1.474585  -0.6571829],[ 0.9500881 -0.9760916],0.10744534432888031
+209,Odin,thor_dark_world.txt,"Their leader, Malekith made a weapon out of that darkness, it was called the Aether. While the other relics often appeared as stones, the Aether is fluid and ever changing. It changes matter into dark matter and seeks out to host bodies, drawing strength from their life force. Malekith sought to use the Aether's power to return the universe to one of darkness. But after eternities of blood shed, my father Bor, finally triumphed, ushering in the peace that lasted thousands of years.",-0.06875,[ 1.6561949 -0.7587667],[ 1.4325124 -1.6555046],0.07292360067367554
+210,Jane Foster,thor_dark_world.txt,What happened?,0.0,[ 2.0429142 -1.0419959],[ 1.545624  -1.4592237],0.023649483919143677
+211,Odin,thor_dark_world.txt,He killed them all.,-0.2,[0.35089368 0.40331337],[ 1.2481167 -1.271604 ],0.09707951545715332
+212,Thor,thor_dark_world.txt,Are you certain? The Aether was said to have been destroyed with them and yet here it is.,0.2142857142857142,[ 1.6016923 -0.9041113],[ 1.6015826 -1.7049145],0.029655635356903076
+213,Odin,thor_dark_world.txt,The Dark Elves are dead.,-0.175,[0.70239294 0.08097582],[ 0.7655637 -0.8414367],0.045417726039886475
+214,Jane Foster,thor_dark_world.txt,Does your book happen to mention how to get it out of me?,0.0,[ 1.8343153 -1.2392999],[ 1.8309695 -1.960308 ],0.06374216079711914
+215,Odin,thor_dark_world.txt,"No, it does not. [back on Svartalfheim, in his ship Malekith plots his vengeance against the Asgardians]",0.0,[ 1.1617472  -0.63440365],[ 1.2686981 -1.4363294],0.08571457862854004
+216,Malekith,thor_dark_world.txt,[subtitled] The Realms will be aligned soon. [Malekith takes out a knife and turns to Algrim],0.0,[ 1.5858365 -0.7567329],[ 1.3303624 -1.5441867],0.02251410484313965
+217,Malekith,thor_dark_world.txt,[subtitled] You'll be the last of the Kursed. [Malekith stabs Algrim in the stomach with his knife],0.0,[ 1.8102021  -0.79786533],[ 0.8726864 -1.1805664],0.13053783774375916
+218,Malekith,thor_dark_world.txt,"[subtitled] You will become darkness, doomed to this existence until it consumes you. [one of the dark elves places a molten rock in Malekith's hand and Malekith places it inside Algrim's stomach] And then no power of our enemies will stop me.",-0.15,[ 1.824674   -0.99068016],[ 0.8722538 -1.1276201],0.1204572319984436
+219,Loki,thor_dark_world.txt,Odin continues to bring me new friends. How thoughtful.,0.2681818181818182,[-0.42595443  0.63240373],[ 1.8527671 -2.020332 ],0.12322162091732025
+220,Frigga,thor_dark_world.txt,"The books I sent, do they not interest you? [Loki turns and we see Frigga is in Loki's cell]",0.0,[ 1.7628057 -1.2037247],[ 1.7281655 -1.9500738],0.07276281714439392
+221,Loki,thor_dark_world.txt,"Is that how I'm to while away eternity, reading?",0.0,[ 1.64155    -0.92416435],[ 1.8291068 -1.8656752],0.07924574613571167
+222,Frigga,thor_dark_world.txt,"I've done everything in my power to make you comfortable, Loki.",0.4,[-0.26422366  0.7687129 ],[ 1.6045699 -1.7096084],0.1730056256055832
+223,Loki,thor_dark_world.txt,Have you? Does Odin share your concern? Does Thor? It must be so inconvenient them asking after me day and night.,-0.6,[ 1.6428857 -1.0144548],[ 1.9372578 -1.9574546],0.1500992625951767
+224,Frigga,thor_dark_world.txt,You know full well it was your actions that brought you here.,0.35,[ 0.67706555 -0.00271538],[ 1.6255734 -1.4643408],0.16365300118923187
+225,Loki,thor_dark_world.txt,"My actions. I was merely giving truth to the lie that I had been fed my entire life, that I was born to be a king.",-0.25,[ 1.0139079  -0.16576648],[ 1.8434618 -1.8976464],0.1729145497083664
+226,Frigga,thor_dark_world.txt,A king? A true king admits his faults. What of the lives you took on Earth?,0.35,[ 1.3224747 -0.6658298],[ 1.5937899 -1.8566247],0.09808018803596497
+227,Loki,thor_dark_world.txt,A mere handful compared to the number that Odin has taken himself.,-0.5,[ 1.0822005  -0.58306605],[ 1.400555  -1.5152274],0.024923056364059448
+228,Frigga,thor_dark_world.txt,Your father...,0.0,[ 0.99310076 -0.17466092],[ 1.6923112 -1.6678121],0.1712440550327301
+229,Loki,thor_dark_world.txt,[shouts] He's not my father!,0.0,[ 1.4773624 -0.5747044],[ 1.5356578 -1.639081 ],0.1634465605020523
+230,Frigga,thor_dark_world.txt,Then am I not your mother? [Loki hesitates for a moment],0.0,[ 1.7905273 -1.0998358],[ 1.3971817 -1.5241085],0.15671251714229584
+231,Loki,thor_dark_world.txt,You're not. [Frigga smiles at him with tears in her eyes],0.0,[ 1.2898049 -0.5744159],[ 1.5488979 -1.461589 ],0.17336826026439667
+232,Frigga,thor_dark_world.txt,"Always so perceptive about everyone but yourself. [she takes a step towards him and extends her hands, Loki goes to touch her hand but his hand goes through hers and we see that she's a hologram, Loki looks at Frigga with sadness and her hologram disappears] [Jane and Thor walk in Asgard]",0.0,[ 1.1202325  -0.63985705],[ 1.3247567 -1.4462516],0.17335212230682373
+233,Jane Foster,thor_dark_world.txt,"When you came for me, you knew I was in trouble.",-0.2,[ 1.0974796  -0.30552635],[ 1.9228007 -2.0201125],0.1659805178642273
+234,Thor,thor_dark_world.txt,"Well Heimdall had lost sight of you, you were no longer on Earth.",0.0,[ 1.2860262 -0.5360852],[ 1.682385  -1.7394402],0.10450537502765656
+235,Jane Foster,thor_dark_world.txt,"Well, how's that possible?",0.0,[ 1.4982392 -0.897494 ],[ 1.3355705 -1.3131536],0.021228492259979248
+236,Thor,thor_dark_world.txt,"I believe you were in between worlds. The Nine Realms travel within Yggdrasil, orbiting Midgard in much the way your planet orbits the sun. Every five thousand years the worlds align perfectly, we call this the Convergence. [he takes her hand and he shows her by touching his palm to hers] During this time the boarders between worlds become blurred. It's possible you found one of these points. We are lucky that it remained open. Once the worlds pass out of alignment, the connection is lost. [he leans closer and they kiss]",0.3388888888888888,[ 1.7150035 -1.0230736],[ 1.463865  -1.6872098],0.08412173390388489
+237,Jane Foster,thor_dark_world.txt,I liked the way you explained that. What's gonna happen to me?,0.6,[ 1.8134335 -0.9214465],[ 1.972531  -1.9418265],0.13746854662895203
+238,Thor,thor_dark_world.txt,"I'll find a way to save you, Jane.",0.0,[ 1.4137223 -0.580772 ],[ 1.2018139 -1.0256165],0.17770111560821533
+239,Jane Foster,thor_dark_world.txt,Your father said there was...,0.0,[0.35410118 0.17893791],[ 1.8954809 -1.8887541],0.13247352838516235
+240,Thor,thor_dark_world.txt,My father doesn't know everything. [suddenly they are interrupted by Frigga],0.0,[ 0.9098423  -0.24186525],[ 1.492511  -1.5714856],0.11214238405227661
+241,Frigga,thor_dark_world.txt,Don't let him hear you say that.,0.0,[ 1.2534283  -0.49846298],[ 1.341375  -1.1914726],0.17040938138961792
+242,Thor,thor_dark_world.txt,"Jane Foster, please meet Frigga, the Queen of Asgard, my mother. [Jane looking embarrassed quickly removes her hand from Thor's mother, Frigga]",0.3333333333333333,[ 1.4955679  -0.80709916],[ 1.208369  -1.2654144],0.17687997221946716
+243,Jane Foster,thor_dark_world.txt,"Hi. [in his cell, Algrim pulls out the rock that Malekith had placed in his stomach, he crushes it in his hand, transforming himself into a Kursed, he breaks free and releases the other prisoners, Loki watches all this from his cell, then Algrim walks up to Loki's cell and he look at Loki for a moment before turning and walking away]",0.1375,[ 1.5168191 -0.8914934],[ 1.4296678 -1.7519687],0.10695716738700867
+244,Loki,thor_dark_world.txt,You might want to take the stairs to the left. [Algrim turns and looks at Loki before walking away again; outside they hear the prison alarm going off],0.0,[ 1.2632971 -0.7139426],[ 1.5324534 -1.7520963],0.040674835443496704
+245,Frigga,thor_dark_world.txt,The prisons.,0.0,[-0.45481855  0.94086415],[ 1.1854413 -1.1511842],0.03729277849197388
+246,Thor,thor_dark_world.txt,Loki.,0.0,[ 1.3074534  -0.45312917],[ 1.2027811 -1.2232503],0.029624342918395996
+247,Frigga,thor_dark_world.txt,"[referring to Jane] Go, I will look after her. [Thor takes off with his hammer; in the prison Volstagg and Fandral enter the fight with the prisoners]",0.0,[ 1.8433093 -1.0784823],[ 1.212222  -1.3449374],0.13128536939620972
+248,Thor,thor_dark_world.txt,"Return to your cells and further harm will come to you. You have my word. [suddenly one of the prisoners punches him in the face] Very well, you don't have my word. [Thor punches him back and starts fighting with the other prisoners]",0.015,[ 1.7529026  -0.90475756],[ 1.1217948 -1.3945762],0.15098834037780762
+249,Odin,thor_dark_world.txt,"[to his guards] Send a squadron to the weapons vault, defend it at all costs. Seal the dungeon.",0.0,[ 1.2873695 -0.5002687],[ 1.0342671 -1.2457424],0.04061746597290039
+250,Frigga,thor_dark_world.txt,Odin.,0.0,[0.42644426 0.16074947],[ 1.1002147 -1.1633562],0.03217589855194092
+251,Odin,thor_dark_world.txt,"Frigga. [to the Asgardian guards] Go! [to Frigga and Jane] It's a skirmish, nothing to fear.",0.0,[ 1.5613457 -0.8329379],[ 1.2565192 -1.3944886],0.0637909471988678
+252,Frigga,thor_dark_world.txt,You've never been a very good liar. [at that moment Jane notices Sif as she walks past them],0.3299999999999999,[ 0.88406366 -0.28369805],[ 1.2735591 -1.2708408],0.15742947161197662
+253,Odin,thor_dark_world.txt,"Take her to you chambers, I'll come for you when it's safe.",0.5,[ 1.5533093 -0.8470548],[ 0.35986352 -0.4651583 ],0.17489874362945557
+254,Frigga,thor_dark_world.txt,You take care.,0.0,[0.2721879  0.25188187],[ 1.7554241 -1.6645459],0.13555657863616943
+255,Odin,thor_dark_world.txt,"Despite all I have survived, my queen still worries over me.",0.0,[ 1.1651015  -0.43428874],[ 1.4297096 -1.4151398],0.14910101890563965
+256,Frigga,thor_dark_world.txt,"It's only because I worry over you that you have survived. [Odin goes off, Frigga leads Jane away, she takes a sword from one of the guards] Listen to me now, I need you to do everything I ask and no questions.",0.0,[ 1.4983172 -0.7521289],[ 1.1575457 -1.2873633],0.1577242612838745
+257,Jane Foster,thor_dark_world.txt,"Yes, ma'am. [as Heimdall is stood in his usual guarding post, he suddenly hears something turns and runs out onto the Bifrost Bridge, he jumps onto one of Malekith's ships cloaked in invisibility, making it visible and manages to send it crashing into the sea, but he soon finds that a giant ship is behind him releasing smaller ships to attack Asgard, Heimdall activates a shield to protect Asgard but Algrim manages to deactivate it sending a ship to crash into the palace] [after Malekith's ship has crashed into the palace the Dark Elves start attacking the Asgardian soldiers killing them all, Malekith leaves the ship and goes to look for Frigga and Jane after which Odin arrives to find all the soldiers killed]",-0.1428571428571428,[ 0.98121184 -0.49615452],[ 0.98741746 -1.245778  ],0.03603005409240723
+258,Odin,thor_dark_world.txt,Frigga. [Malekith finds the tower where Frigga is hiding Jane and enters the room],0.0,[ 1.3680762  -0.82238317],[ 1.3861461 -1.5936007],0.07650023698806763
+259,Frigga,thor_dark_world.txt,"Stand down, creature. You may still survive this.",-0.1555555555555555,[ 1.6512402  -0.89634293],[ 0.35738203 -0.44547012],0.0655171275138855
+260,Malekith,thor_dark_world.txt,"I have survived worse, woman.",-0.4,[ 0.76296425 -0.06965564],[-0.37990797  0.6911204 ],0.07092353701591492
+261,Frigga,thor_dark_world.txt,Who are you?,0.0,[ 2.199139  -1.2008573],[ 1.411707  -1.4302005],0.11429658532142639
+262,Malekith,thor_dark_world.txt,"I am Malekith, and I would have what it is mine. [as he walks closer to Frigga she strikes him in the face with her sword, he takes out his blade and starts fighting with Frigga, she puts up a good fight but Algrim comes to his aid and subdues her, Malekith walks towards Jane] You have taken something, child. Give it back. [Malekith stands in front of Jane and as he goes to grab her she disappears and he realizes that she's a hologram, he turns to Frigga] Witch! Where is the Aether?",0.35,[ 1.9395121 -1.2871214],[ 0.5277518 -0.6176337],0.14347214996814728
+263,Frigga,thor_dark_world.txt,I'll never tell.,0.0,[ 1.2009861  -0.42180842],[ 1.1524125 -1.0608724],0.07482323050498962
+264,Malekith,thor_dark_world.txt,"I believe you. [suddenly Algrim stabs Frigga in the back, at the same time Thor rushes in and shoots a lightning bolt at Malekith's face, severely scarring it, he and Algrim escape and jump onto their ship before Thor can catch them; after Malekith and Algrim escape Odin arrives to find Frigga dead, he holds her body in his arms as Thor and Jane look on, a funeral is held for Frigga where all the Asgardians mourn her as her body is pushed out to the sea on a boat and the boat burnt by a flaming arrow, at the same time Loki expresses his grief in his cell] [back on Earth Erik has been institutionalized and is trying to explain the convergence to the patients in his ward]",-0.1428571428571428,[ 1.0153952 -0.5973344],[ 1.4438412 -1.6495718],0.14553019404411316
+265,Erik Selvig,thor_dark_world.txt,"The universe rotates on a five thousand year cycle, and once its cycled all the worlds align. [he picks up a shoe and holds it up] Imagine...imagine that this is our world, and...and... [one of the patients hands him another shoe] Oh, thank you. And this is another world. Normally they're separate, but during the alignment everything is connected. All Nine Realms, all Nine Realms are passing through each other and gravity, light, and even matter, is crunching from one world to the other. [he demonstrates with the shoes by smacking one on top of the other repeatedly] But if this happens to us now, the result would be cataclysmic. [he then puts the shoes down and picks up two pencils and holds them up] My gravimetric spikes can stabilize the focal point of the Convergence. [he puts the pencil down and picks up the shoes again] This time the alignment, and all the other worlds, would just pass up by. It's beautiful. It's simple. Any questions? [we see the patients in the ward just carrying on with their activity, no one has really taken any notice of him, then one of the patients (Stan Lee) interrupts]",0.1074074074074074,[ 1.693113  -1.0797203],[ 1.8137945 -2.0292   ],0.0344158411026001
+266,Thor,thor_dark_world.txt,"She's your prisoner now? [to Fandral, Volstagg and the guards] Leave us. [they all start walking off and leave Thor with Odin]",0.0,[ 1.6579882 -0.9268318],[ 0.90049314 -1.0384846 ],0.12669599056243896
+267,Odin,thor_dark_world.txt,I do not wish to fight with you.,0.0,[ 2.0329604 -1.2650511],[ 1.482886  -1.3983277],0.17398744821548462
+268,Thor,thor_dark_world.txt,"Nor I with you, but I intend to pursue Malekith.",0.0,[ 1.9304684 -1.1288995],[ 1.9010878 -2.0237916],0.16415011882781982
+269,Odin,thor_dark_world.txt,"We possess the Aether, Malekith will come to us.",0.0,[ 1.7407739  -0.93882495],[ 1.2877007 -1.3470215],0.03570681810379028
+270,Thor,thor_dark_world.txt,"Yes, and you will destroy us.",-0.2,[0.67951596 0.0855303 ],[ 1.0302263 -1.0312814],0.13914898037910461
+271,Odin,thor_dark_world.txt,You overestimate the power of these creatures.,0.0,[ 0.8819458 -0.1946105],[ 0.63355213 -0.59362745],0.04539346694946289
+272,Thor,thor_dark_world.txt,"No, I value our peoples lives. I'll take Jane to the Dark World and draw the enemy away from Asgard. When Malekith pulls the Aether from Jane it will be exposed vulnerable, and I will destroy it and him.",-0.2833333333333334,[ 1.5726254 -0.8462775],[ 0.40655875 -0.57391214],0.09825313091278076
+273,Odin,thor_dark_world.txt,"If you fail, you risk this weapon falling into the hands of our enemies.",-0.5,[ 1.6951609 -1.1060319],[ 1.0437951 -1.175164 ],0.05890047550201416
+274,Thor,thor_dark_world.txt,The risk is far greater if we do nothing. His ship could be over our heads right now and we'd never even know it.,0.2952380952380952,[ 1.7531337 -1.1514153],[ 0.89902866 -1.1526381 ],0.11701333522796631
+275,Odin,thor_dark_world.txt,"If and when he comes, his men will fall by ten thousand Asgardian blades.",0.0,[ 1.0843424 -0.278295 ],[ 0.8490938 -0.9821067],0.10077917575836182
+276,Thor,thor_dark_world.txt,And how of our men shall fall on theirs?,0.0,[ 1.6895607  -0.92135704],[ 0.90714073 -1.056238  ],0.14230221509933472
+277,Odin,thor_dark_world.txt,"As many as are needed! [there's a moment pause] We will fight! Until the last Asgardian breath, the last drop of Asgardian blood.",0.2604166666666667,[ 1.6385599  -0.80766207],[ 1.1935929 -1.3313984],0.10121890902519226
+278,Thor,thor_dark_world.txt,And how are you different from Malekith? [Odin chuckles],0.0,[ 1.7708313 -1.0338553],[ 1.6256307 -1.8786854],0.09124147891998291
+279,Odin,thor_dark_world.txt,"The difference, my son, is that I will win. [Odin turns and walks off] [back on Earth, Darcy paces around her apartment as Ian is sat watching the news on TV]",0.4,[ 1.530034  -0.8483786],[ 1.518939  -1.7630996],0.1628178507089615
+280,Darcy Lewis,thor_dark_world.txt,Jane isn't called me back. Erik isn't calling me back. Stupid SHIELD isn't calling me back!,-0.1999999999999999,[ 1.7456046 -1.096501 ],[ 1.5790167 -1.6344317],0.09118688106536865
+281,Ian Boothby,thor_dark_world.txt,What's SHIELD?,0.0,[ 2.0409343 -1.1002781],[ 1.5511073 -1.6319944],0.025329142808914185
+282,Darcy Lewis,thor_dark_world.txt,"It's a secret. [Darcy leaves a voice message for Erik] Uh...hey, Erik. It's Darcy again. Uh...Thor came back, he took Jane to Asgard and um...I'm not sure what I'm supposed to do. [as Ian is watching the news they start reporting about Erik being arrested at Stonehenge]",-0.2166666666666666,[ 1.3462207 -0.8230764],[ 1.973749  -2.0666454],0.04743802547454834
+283,Ian Boothby,thor_dark_world.txt,"Darcy, you really need to look at this. Your friend Erik, what was his last name again? [Darcy looks at the news report on TV]",0.1,[ 1.8778683 -1.1484483],[ 2.1999896 -2.275548 ],0.12675651907920837
+284,Thor,thor_dark_world.txt,You're not in Odin's war council?,0.0,[ 0.67450964 -0.1441088 ],[ 1.6512676 -1.7558132],0.05406275391578674
+285,Heimdall,thor_dark_world.txt,The Bifrost is closed by your father's orders. No one is to come or to go. [Heimdall takes off his helmet and places it on the table] We face an enemy that is invisible even to me. Of what use is a guardian such as that? [he sits down looking defeated],-0.0851851851851852,[ 1.8889604 -1.1180733],[ 1.1916696 -1.3950292],0.09388971328735352
+286,Thor,thor_dark_world.txt,"Malekith will return, you know this. I'll need your help.",0.0,[ 1.714858   -0.90796494],[ 1.7479188 -1.7896329],0.16398102045059204
+287,Heimdall,thor_dark_world.txt,"I cannot overrule my King's wishes, not even for you.",0.0,[ 1.6049929  -0.72149676],[ 1.577442  -1.6091077],0.1568482518196106
+288,Thor,thor_dark_world.txt,"I'm not asking you to. The Realms need their All-Father strong and unchallenged, whether he is or not. But he is blinded, Heimdall, by hatred and by grief.",-0.1833333333333333,[ 1.7633265 -1.0895036],[ 1.7324926 -1.8463323],0.12458688020706177
+289,Heimdall,thor_dark_world.txt,As are we all.,0.0,[0.45764455 0.26588747],[ 1.5707422 -1.4954722],0.06201699376106262
+290,Thor,thor_dark_world.txt,Well I see clearly enough.,0.0,[0.3355804  0.47322652],[ 1.6078714 -1.4845117],0.0373610258102417
+291,Heimdall,thor_dark_world.txt,The risks are too great.,0.8,[ 1.4029672 -0.8203903],[ 1.4261918 -1.3420721],0.05836150050163269
+292,Thor,thor_dark_world.txt,"Everything that we do from here on is a risk, there is no other way. [Heimdall hesitates before replying]",0.0625,[ 2.001655  -1.2679806],[ 1.8380767 -1.9530873],0.03189849853515625
+293,Heimdall,thor_dark_world.txt,What do you require of me?,0.0,[ 2.2410033 -1.3325648],[ 1.5881432 -1.5592417],0.17817609012126923
+294,Thor,thor_dark_world.txt,"What I'm about to ask of you is treason of the highest order. Success will bring us exile and failure shall mean our death. Malekith knew the Aether was here, he can sense its power. If we do nothing he will come for it again, but this time lay waste to all of Asgard. [we see Thor holding a meeting with Sif, Fandral, Volstagg and Heimdall] We must move Jane off world.",-0.1322916666666667,[ 1.6111828  -0.95856947],[ 0.9324372 -1.142052 ],0.09876468777656555
+295,Sif,thor_dark_world.txt,The Bifrost has been shut down and the Tesseract locked away in a vault.,-0.1555555555555555,[ 0.8207341  -0.14644575],[ 1.4770867 -1.6296692],0.021210402250289917
+296,Heimdall,thor_dark_world.txt,"There are other paths off Asgard, ways known only to a few.",-0.1083333333333333,[ 1.4822527  -0.85805386],[ 1.6806396 -1.7150425],0.021143734455108643
+297,Thor,thor_dark_world.txt,"One, actually. [the others suddenly realize he means Loki]",0.0,[ 1.0488473  -0.36928982],[ 1.7384628 -1.9295424],0.03735265135765076
+298,Loki,thor_dark_world.txt,"Thor, after all this time and now you come to visit me. Why? Have you come to gloat? To mock?",0.0,[ 1.4294935 -0.7158168],[ 1.5092045 -1.5814896],0.1582794189453125
+299,Thor,thor_dark_world.txt,"Loki, enough. No more illusions. [suddenly Loki's cell is transformed, the illusion is lifted and we see that Loki's cell is a mess, everything has been thrown around and he's sat on the floor, looking unkempt and messy, in the other corner of the cell]",-0.125,[ 1.5639677 -1.0438368],[ 1.8079425 -1.9599713],0.08040362596511841
+300,Loki,thor_dark_world.txt,"Now you see me, brother. [Thor walks up to the other side of the cell to be closer to Loki] Did she suffer?",-0.125,[ 1.9480767 -1.1807572],[ 1.4981962 -1.6250986],0.11754366755485535
+301,Thor,thor_dark_world.txt,I did not come here to share our grief. Instead I offer you the chance of a far richer sacrament.,-0.35,[ 1.8342917 -1.3874497],[ 2.2444046 -2.1049118],0.1744910478591919
+302,Loki,thor_dark_world.txt,Go on.,0.0,[ 0.82060474 -0.06210131],[ 0.9919504 -0.8731159],0.029269307851791382
+303,Thor,thor_dark_world.txt,"I know you seek vengeance as much as I do. You help me escape Asgard and I will grant it to you, vengeance. And afterward, this cell. [Loki chuckles]",0.2,[ 1.5244792 -0.7032778],[ 1.201601  -1.3460045],0.1624080240726471
+304,Loki,thor_dark_world.txt,You must be truly desperate to come to me for help. What makes you think you can trust me?,-0.6,[ 1.8335671 -1.3645071],[ 1.5782081 -1.5633874],0.17314252257347107
+305,Thor,thor_dark_world.txt,"I don't. Mother did. You should know that when we fought each other in the past, I did so with a glimmer of hope that my brother was still in there somewhere. That hope no longer exists to protect you. You betray me and I will kill you. [Loki smiles]",-0.1875,[ 2.0598314 -1.2447106],[ 1.2627851 -1.4372138],0.17107442021369934
+306,Loki,thor_dark_world.txt,Hmm. When do we start? [back to the meeting with Thor and his comrades],0.0,[ 1.7523646 -1.1803044],[ 1.7397906 -1.8903015],0.04866781830787659
+307,Thor,thor_dark_world.txt,He will try. [Loki and Thor walk out of the Asgardian prison],0.0,[ 0.9221658  -0.20573401],[ 1.3419738 -1.4647901],0.05532166361808777
+308,Loki,thor_dark_world.txt,"This is so unlike you, brother. So clandestine. Are you sure you wouldn't rather just punch your way out?",0.5,[ 2.1633637 -1.3166226],[ 1.453139  -1.5670155],0.16130153834819794
+309,Thor,thor_dark_world.txt,If you keep speaking I just might.,0.0,[ 1.2307541  -0.42026734],[ 1.8440784 -1.8291737],0.11100828647613525
+310,Loki,thor_dark_world.txt,Fine. As you wish. I'm not even here. [using his diversion tactics Loki turns himself into an Asgardian guard] Is this better?,0.4583333333333333,[ 1.5635256  -0.91698414],[ 1.4552203 -1.557542 ],0.09637689590454102
+311,Loki,thor_dark_world.txt,"Still, we could be less conspicuous. [Loki turns back into himself but turns Thor into Sif] Hm, brother. You look ravishing. [Thor looks down at his body then replies in his own voice]",0.0694444444444444,[ 1.7705091 -1.0639004],[ 1.4904782 -1.7734915],0.17030243575572968
+312,Thor,thor_dark_world.txt,It will hurt no less when I kill you in this form.,0.0833333333333333,[ 1.2633731 -0.4994602],[ 0.9643661 -1.059549 ],0.13016319274902344
+313,Loki,thor_dark_world.txt,"Very well. Perhaps you prefer one of your new companions, given that you seem to like them so much. [Loki then turns himself into Captain America in his full Captain America costume] Oh, this is much better. Woh. The costume's a bit much, so tight. But the confidence, I can feel the righteousness surging. Hey, you wanna have a rousing discussion about truth, honor, patriotism? God bless Amer– [suddenly Thor grabs hold of Loki puts his hand over his mouth and pushes him against the wall making Loki turn back into himself] What? [Thor looks to the side and they see two Asgardian guards walking away] You could at least furnish me with a weapon. My dagger, something! [Thor looks at him and we hear a noise like a sword being drawn] At last, a little common sense. [Loki then looks down then holds up his hands which now have iron handcuffs on them]",0.014595127095127,[ 1.4658374 -0.8408755],[ 1.4540998 -1.671101 ],0.15377655625343323
+314,Thor,thor_dark_world.txt,And I thought you liked tricks. [Thor laughs and turns to walk off] [back at the original meeting Thor was holding with his comrades],0.325,[ 0.37375876 -0.02956454],[ 1.5485502 -1.7246372],0.11764991283416748
+315,Thor,thor_dark_world.txt,I won't be the one who comes for her. [Thor looks over to Sif; then we see Jane is sat in her guarded room when one of the guards enters],0.4,[ 1.5259924 -0.783906 ],[ 1.1229123 -1.1809491],0.13881249725818634
+316,Jane Foster,thor_dark_world.txt,"I'm not hungry. [suddenly Sif comes up behind the guard and knocks him out, she looks over to Jane]",-0.2,[ 1.5914363 -0.6759829],[ 1.0620664 -1.2067941],0.12858615815639496
+317,Sif,thor_dark_world.txt,"Good, let's go. [Jane and Sif meet up with Thor with Loki standing beside him, Jane points to Loki]",0.7,[ 1.2529424  -0.69190174],[ 1.3869543 -1.5730084],0.11433562636375427
+318,Jane Foster,thor_dark_world.txt,You're...,0.0,[0.5650831  0.12414416],[ 1.6828126 -1.6053262],0.13458582758903503
+319,Loki,thor_dark_world.txt,I'm Loki. You may have heard of... [suddenly Jane slaps Loki hard in the face],-0.1458333333333333,[ 1.252358   -0.56837684],[ 1.0712069 -1.1798886],0.1524360328912735
+320,Jane Foster,thor_dark_world.txt,That was for New York. [Loki smiles and looks at Thor],0.1363636363636363,[ 0.8490746  -0.17674637],[ 1.805671  -1.8918356],0.01699584722518921
+321,Loki,thor_dark_world.txt,I like her. [back at Thor's meeting with his comrades],0.0,[ 1.0996171 -0.5747759],[ 1.5264966 -1.5967901],0.1575796753168106
+322,Sif,thor_dark_world.txt,And what of the All-Father?,0.0,[ 1.6863215 -0.8493836],[ 1.6500552 -1.7707504],0.05066022276878357
+323,Heimdall,thor_dark_world.txt,It is my sworn duty to notify him of crimes against the throne. [Odin visits Heimdall accompanied by some of his guards],0.0,[ 0.9227785  -0.35380077],[ 1.4583572 -1.7329503],0.11959251761436462
+324,Odin,thor_dark_world.txt,You called me here on an urgent matter. What is it?,0.0,[ 2.1229753 -1.2979363],[ 2.0657272 -1.9800558],0.10679346323013306
+325,Heimdall,thor_dark_world.txt,"Treason, my lord.",0.0,[ 0.78161407 -0.16371396],[ 1.2695237 -1.3585436],0.09689298272132874
+326,Odin,thor_dark_world.txt,Whose?,0.0,[ 2.1053076 -1.2242496],[ 1.4573141 -1.4822172],0.05010652542114258
+327,Heimdall,thor_dark_world.txt,"Mine. [Heimdall draws his sword, at the same time more guards interrupt them]",0.25,[ 0.73181593 -0.08001964],[ 1.2469181 -1.4050364],0.08544331789016724
+328,Odin,thor_dark_world.txt,"Stop Thor, by any means necessary. [as they hear the guards approaching]",0.0,[ 1.3415668  -0.62818664],[ 0.79542994 -0.9395503 ],0.027586519718170166
+329,Sif,thor_dark_world.txt,I'll hold them off. Take her.,0.0,[ 1.7810674 -0.9295525],[ 0.5712464 -0.519448 ],0.17609280347824097
+330,Thor,thor_dark_world.txt,"Thank you. [Thor and Jane go off, as Loki goes to follow them Sif draws her sword and places it under Loki's throat]",0.0,[ 1.1225824  -0.40563565],[ 1.0246354 -1.170942 ],0.15894466638565063
+331,Sif,thor_dark_world.txt,Betray him and I'll kill you. [Loki chuckles],0.0,[ 1.4688824 -0.6720978],[ 1.1856694 -1.4228942],0.15222761034965515
+332,Loki,thor_dark_world.txt,"It's good to see you too, Sif. [Loki leaves to join Thor and Jane as the guards get closer to Sif; back at the original meeting with Thor and his comrades]",0.3583333333333333,[ 0.8591681  -0.34681672],[ 1.8073655 -1.947523 ],0.13166752457618713
+333,Thor,thor_dark_world.txt,"That, my friend, is where we won't be leaving by foot. [Thor, Loki and Jane meet Volstagg where Malekith's ship had crashed into the palace]",0.0,[ 1.6704732  -0.97545695],[ 1.4855767 -1.6506548],0.06743422150611877
+334,Thor,thor_dark_world.txt,"Thank you, my friend. [as they walk towards Malekith's crashed ship, Jane smiles and nods at Volstagg, then as Loki is about to follow Thor and Jane Volstagg stops him]",0.0,[ 1.1213619 -0.5369035],[ 1.565754  -1.7290192],0.10464596748352051
+335,Loki,thor_dark_world.txt,"You'll kill me? Evidently there will be a line. [Volstagg then lets him pass] [Thor, Jane and Loki board Malekith's crashed ship, Thor looks at the controls and starts pressing some button, looking unsure of what he's doing] I thought you said you knew how to fly this thing.",0.525,[ 1.4653744  -0.81421596],[ 1.459112  -1.5853842],0.06353473663330078
+336,Thor,thor_dark_world.txt,"I said, ""how hard could it be?"" [meanwhile, the Asgardian guards rush towards the ship with Volstagg standing guard in front of it]",-0.2916666666666667,[ 1.7134787  -0.81644493],[ 1.337211  -1.4550012],0.04913574457168579
+337,Loki,thor_dark_world.txt,"They're on the ship! [as they approach the ship Volstagg starts attacking them; back in the ship] Well, whatever you're doing, brother, I suggest you do it faster.",0.0,[ 1.2507826  -0.55970335],[ 0.98847777 -1.2298912 ],0.06675297021865845
+338,Thor,thor_dark_world.txt,"Shut up, Loki. [outside the ship Volstagg continues to battle with the Asgardian guards; back in the ship Thor continues to frantically press every button to start the ship]",0.0,[ 0.9455351 -0.556395 ],[ 0.9779661 -1.0880885],0.029808461666107178
+339,Loki,thor_dark_world.txt,You must have missed something.,0.0,[ 1.2643515  -0.50439113],[ 1.4470544 -1.2997938],0.07107546925544739
+340,Thor,thor_dark_world.txt,"No, I didn't, I'm pressing every button on this thing.",0.0,[ 0.95430356 -0.3369299 ],[ 2.0800722 -1.9044185],0.020872950553894043
+341,Loki,thor_dark_world.txt,"No, don't hit it, just press it gently. [as he hits the buttons]",0.2,[ 1.6377039 -0.8210609],[ 1.7141355 -1.6930559],0.033033549785614014
+342,Thor,thor_dark_world.txt,"I am pressing it gently. It's not working! [suddenly the ship comes to life, Thor laughs; outside the ship Volstagg is overrun by the guards.]",-0.0416666666666666,[ 0.9033388  -0.29440558],[ 1.5644928 -1.6404562],0.07088568806648254
+343,Loki,thor_dark_world.txt,I think you missed a column.,0.0,[ 1.3587478 -0.5585838],[ 1.4846793 -1.481155 ],0.044900715351104736
+344,Thor,thor_dark_world.txt,Shut up! [finally the ship breaks through the palace walls and takes off] [as they are flying through Asgard],0.0,[0.21534902 0.37185544],[ 1.0646174 -1.1464138],0.02941608428955078
+345,Loki,thor_dark_world.txt,"Look, why don't you let me take over, I'm clearly the better pilot.",0.3,[ 0.75807256 -0.18525282],[ 1.4110125 -1.3788595],0.13440150022506714
+346,Thor,thor_dark_world.txt,"Is that right? Well, out of the two of us which one can actually fly? [as they are flying over Asgard suddenly Jane collapses]",0.3619047619047619,[ 1.492098   -0.77793854],[ 1.1507282 -1.2157968],0.027882248163223267
+347,Loki,thor_dark_world.txt,"Oh, dear. Is she dead?",-0.2,[ 2.1969438 -1.3335085],[ 1.6375178 -1.4726418],0.1518121361732483
+348,Thor,thor_dark_world.txt,"Jane. [Jane raises her head, looking weak]",-0.375,[ 1.4552126  -0.67978376],[ 1.5516165 -1.4731257],0.1686873733997345
+349,Jane Foster,thor_dark_world.txt,"I'm okay. [as they continue to fly, the ship hits and breaks off a part of a massive building; to Loki]",0.4333333333333333,[ 1.3194621 -0.5660224],[ 1.4653897 -1.7024643],0.04375600814819336
+350,Thor,thor_dark_world.txt,Not a word. [several smaller Asgardian ships start following them],0.0,[ 1.0015564 -0.3622395],[ 1.0842206 -1.2828954],0.02481737732887268
+351,Loki,thor_dark_world.txt,Now they're following us. [the smaller ships start firing at them] Now they're firing at us!,0.0,[0.4772647  0.16154206],[ 0.5565403 -0.7914154],0.0341876745223999
+352,Thor,thor_dark_world.txt,"Yeah, thank you for the commentary, Loki! It's not at all distracting! [the ship then hits a massive stone monument of King Bor, breaking the head off]",0.0,[ 0.9971327  -0.45707837],[ 1.5698187 -1.7534077],0.08220416307449341
+353,Loki,thor_dark_world.txt,"Well done, you just decapitated your grandfather. [the smaller ships continue to follow and fire at them as they fly over Asgard] You know this is wonderful. This is a tremendous idea. Let's steal the biggest, most obvious ship in the universe and escape in that. Flying around the city, smashing into everything in sight so everyone can see us. It's brilliant, Thor! It's truly brilliant! [suddenly Thor pushes Loki off the ship, Thor then picks up Jane and jumps off the flying ship and lands onto a smaller ship being flown by Fandral, Loki has also fallen onto the ship]",0.4633333333333332,[0.02030733 0.37236965],[ 0.98940074 -1.1593568 ],0.08722507953643799
+354,Loki,thor_dark_world.txt,You lied to me. I'm impressed.,1.0,[-0.3484811   0.70836824],[ 1.5377215 -1.4350246],0.17863395810127258
+355,Thor,thor_dark_world.txt,"I'm glad you're pleased. Now, do as you promised. Take us to your secret pathway. [Loki smiles and takes over the ship's control, at the same time the Asgardian ships spot them and start firing at them] Fandral.",0.15,[ 0.8236276  -0.19932261],[ 1.1500534 -1.3225197],0.13410921394824982
+356,Thor,thor_dark_world.txt,Loki!,0.0,[ 0.9161636  -0.02294612],[ 1.3004111 -1.3896538],0.029696553945541382
+357,Loki,thor_dark_world.txt,If it were easy everyone would do it.,0.4333333333333333,[-0.38680932  0.91503954],[ 1.3539594 -1.2115964],0.04026132822036743
+358,Thor,thor_dark_world.txt,Are you mad?,-0.625,[ 2.0832314 -1.2423942],[ 1.556688  -1.4818968],0.11502142250537872
+359,Loki,thor_dark_world.txt,"Possibly. [Thor holds on to Jane, as Loki heads straight for the wall of the mountain, suddenly they enter right through the mountain and then enter through a portal to Svartalfheim] Ta-da! [on their ship, Algrim approaches Malekith]",0.1392857142857143,[ 1.5636894 -0.9428826],[ 1.380808  -1.6165888],0.034454166889190674
+360,Malekith,thor_dark_world.txt,"[subtitled] No. Asgard is not important anymore. The Aether has returned home. [as they fly over Svartalfheim, Jane continues to lie down and Thor puts a cover over her]",0.1481481481481481,[ 1.7251632 -1.0449432],[ 1.436963  -1.4670849],0.04345989227294922
+361,Loki,thor_dark_world.txt,[sighs] What I could do with the power that flows through those veins.,0.0,[ 1.9050251 -1.1300999],[ 1.4722519 -1.5676503],0.177920401096344
+362,Thor,thor_dark_world.txt,It would consume you.,0.0,[ 0.9823256 -0.2679878],[ 1.3184513 -1.230496 ],0.1337941735982895
+363,Loki,thor_dark_world.txt,"She's holding up alright, for now.",0.0,[0.3128549  0.25209576],[ 1.5628153 -1.4061993],0.09897136688232422
+364,Thor,thor_dark_world.txt,She's strong in ways you'd never even know.,0.4333333333333333,[ 1.2300835 -0.4583522],[ 1.3335577 -1.125949 ],0.15881264209747314
+365,Loki,thor_dark_world.txt,Say goodbye.,0.0,[ 1.0616629  -0.03551519],[ 1.5530623 -1.3430457],0.1082305759191513
+366,Thor,thor_dark_world.txt,Not this day.,0.0,[ 0.8066506  -0.09862123],[ 1.1807753 -1.086202 ],0.03007686138153076
+367,Loki,thor_dark_world.txt,"This day, the next, a hundred years, it's nothing. It's a heart beat. You'll never be ready. The only woman whose love you've prized will be snatched from you.",0.175,[ 2.1169744 -1.1925375],[ 0.6677973 -0.5723677],0.19389387965202332
+368,Thor,thor_dark_world.txt,And will that satisfy you?,0.0,[ 1.8544673 -0.9967312],[ 1.6277955 -1.6895502],0.17540742456912994
+369,Loki,thor_dark_world.txt,Satisfaction is not in my nature.,0.0,[0.58980554 0.00098759],[ 1.6656592 -1.6509839],0.14395667612552643
+370,Thor,thor_dark_world.txt,Surrender not in mine.,0.0,[ 2.0861378 -1.2322356],[ 1.5222732 -1.6055249],0.022233545780181885
+371,Loki,thor_dark_world.txt,The son of Odin.,0.0,[0.6007612  0.12370837],[ 1.0690066 -1.1940575],0.03519868850708008
+372,Thor,thor_dark_world.txt,"No, not just of Odin! You think you alone were loved of mother? You had her tricks, but I had her trust!",0.875,[ 1.8747858 -1.1123809],[ 1.2495257 -1.3811454],0.17070874571800232
+373,Loki,thor_dark_world.txt,Trust. Was that her last expression? Trust? When you let her die!,0.0,[ 1.7037302  -0.99244666],[ 1.0957886  -0.97528166],0.1774195283651352
+374,Thor,thor_dark_world.txt,What help were you in your cell?,0.0,[ 2.2025065 -1.3764269],[ 1.9107288 -2.0026522],0.15056094527244568
+375,Loki,thor_dark_world.txt,Who put me there? Who put me there?! [Thor grabs hold of Loki],0.0,[ 1.6161066  -0.80861795],[ 1.0972643 -1.330557 ],0.12006257474422455
+376,Thor,thor_dark_world.txt,You know damn well! You know damn well who! [Thor raises his fist to punch Loki but stops himself] She wouldn't want us to fight.,0.0,[ 1.60006    -0.71411425],[ 0.56439567 -0.53521085],0.13814333081245422
+377,Loki,thor_dark_world.txt,"Well, she wouldn't exactly be shocked. [they both smile]",-0.1999999999999999,[ 1.0651497  -0.43148997],[ 1.4154841 -1.4055905],0.1397993564605713
+378,Thor,thor_dark_world.txt,I wish I could trust you. [Thor turns his back to Loki],0.0,[ 1.2114419  -0.48555887],[ 1.3986281 -1.5034105],0.15239056944847107
+379,Loki,thor_dark_world.txt,"Trust my rage. [back on Earth, Darcy and Ian go to free Erik from the mental institution]",0.1,[ 1.0882679  -0.40184176],[ 1.6603197 -1.7835716],0.14020417630672455
+380,Ian Boothby,thor_dark_world.txt,"What? Oh, yeah. My father, Dr. Erik Selvig. [Ian goes to sign the form]",0.0,[ 1.2745458 -0.6768036],[ 1.9121599 -2.0763588],0.07587945461273193
+381,Darcy Lewis,thor_dark_world.txt,Erik.,0.0,[0.46035248 0.15715238],[ 1.0964016 -1.0940852],0.027213990688323975
+382,Ian Boothby,thor_dark_world.txt,"Yeah, those. Thank goodness. [as Erik comes towards Darcy]",0.0,[ 1.1387404 -0.6132033],[ 1.6490022 -1.8477623],0.030744582414627075
+383,Darcy Lewis,thor_dark_world.txt,Erik.,0.0,[0.46035248 0.15715238],[ 1.0964016 -1.0940852],0.027213990688323975
+384,Erik Selvig,thor_dark_world.txt,Yes?,0.0,[ 1.4607873 -0.628932 ],[ 1.1038216 -1.0922269],0.0379202663898468
+385,Darcy Lewis,thor_dark_world.txt,It's uh...Darcy.,0.0,[0.41257423 0.18974686],[ 1.7398013 -1.724022 ],0.03428208827972412
+386,Erik Selvig,thor_dark_world.txt,"Darcy. [Darcy holds up her hands and smiles, Erik then hugs her] It's so good to see you.",0.7,[ 0.9502905  -0.28848866],[ 1.810007 -1.96656 ],0.17572368681430817
+387,Darcy Lewis,thor_dark_world.txt,Uh...I missed you too. [Darcy looks awkward as Erik continues to hold her tightly],-0.3892857142857143,[ 1.344955   -0.65652597],[ 1.9079502 -1.9864188],0.17729777097702026
+388,Erik Selvig,thor_dark_world.txt,How did you find me?,0.0,[ 2.0427485 -1.2463288],[ 1.8806434 -1.9092168],0.1491316258907318
+389,Ian Boothby,thor_dark_world.txt,You were naked on TV.,0.0,[-0.45386845  0.8295842 ],[ 1.3632141 -1.2823703],0.17198637127876282
+390,Darcy Lewis,thor_dark_world.txt,"Okay, time to go. Lots to do. [Erik continues to hold her] Getting weird now. [as they walk down the corridor of the mental institution with Ian holding Erik's gadgets] I should not be left in charge of stuff like this, I don't get paid enough. I don't get paid period. [Erik takes his bag of medicine from Ian]",-0.0425925925925926,[ 1.5167398 -1.07888  ],[ 1.6779516 -1.8066593],0.16124999523162842
+391,Ian Boothby,thor_dark_world.txt,I'm uh...Ian by the way. Uh..Darcy's intern. I don't get paid either. [Ian watches as Erik takes out a bottle of pills] Are you alright?,0.0,[ 1.4047183  -0.97442293],[ 2.0841494 -2.114726 ],0.1423514187335968
+392,Erik Selvig,thor_dark_world.txt,I have had a God in my brain. I don't recommend it. [as they step out of the building suddenly the gadget in Ian arms starts to beep],0.0,[ 1.6811324 -0.9788699],[ 1.480319  -1.5646478],0.10888175666332245
+393,Ian Boothby,thor_dark_world.txt,"Dr. Selvig, your gear is beeping at me.",0.0,[ 1.1804181  -0.47604954],[ 1.8600098 -1.9064404],0.1428176611661911
+394,Erik Selvig,thor_dark_world.txt,"It's happening, sooner than I calculated.",0.0,[ 0.838768   -0.06844175],[ 1.3041373 -1.2336911],0.01976916193962097
+395,Darcy Lewis,thor_dark_world.txt,"Wait, what's happening? [they look up to see flock of birds flying above them] Birds? Birds are happening?",0.0,[ 1.1910943 -0.4500959],[ 1.5509609 -1.7731571],0.020211458206176758
+396,Ian Boothby,thor_dark_world.txt,"They're starlings, it's called a murmuration. My dad used to take me bird watching as a kid.",0.0,[ 0.98629636 -0.49075744],[ 1.2939938 -1.4822147],0.0835118293762207
+397,Darcy Lewis,thor_dark_world.txt,Erik?,0.0,[ 1.7982885 -0.9237742],[ 1.4260756 -1.4991614],0.024179130792617798
+398,Erik Selvig,thor_dark_world.txt,Look. [suddenly the birds all fly in the same direction and they all suddenly disappear],0.2,[0.01879733 0.42639917],[ 1.260306  -1.4784981],0.024805724620819092
+399,Darcy Lewis,thor_dark_world.txt,"Where did they go? [suddenly all the birds appear behind, them flying away frantically making Darcy screams in terror] What the hell was that?! [Erik smiles] Why are you smiling?",-0.25,[ 1.7077751 -1.0575007],[ 1.5303284 -1.7594702],0.06324660778045654
+400,Erik Selvig,thor_dark_world.txt,"There's nothing more reassuring than realizing that the world is crazier than you are. [he walks ahead and throws his bag of medicine into the garbage bin nearby] Take me to Jane's lab! [on Svartalfheim, as they continue flying on their ship suddenly Jane's eyes open, it's clear that the Aether has taken her over, she rises and looks ahead]",0.18125,[ 0.6504953  -0.30162153],[ 1.6447068 -1.8218409],0.08842775225639343
+401,Thor,thor_dark_world.txt,Jane.,0.0,[0.6547155  0.00231814],[ 0.92036057 -0.80886805],0.03057682514190674
+402,Jane Foster,thor_dark_world.txt,"Malekith. [after landing their ship, they walk over to watch Malekith and his men in the distance]",0.0,[ 0.70731735 -0.11340021],[ 1.5066448 -1.7800739],0.0684266984462738
+403,Thor,thor_dark_world.txt,"Alright, are you ready? [Jane nods her head]",0.2,[ 2.0744178 -1.1895269],[ 1.4643608 -1.5622052],0.16022489964962006
+404,Loki,thor_dark_world.txt,I am. [they rise from their hiding spot and Malekith spots them standing on a hill in the distance] You know this plan of yours is going to get us killed.,-0.2,[ 1.2308002 -0.4503837],[ 1.3211119 -1.4754225],0.13310739398002625
+405,Thor,thor_dark_world.txt,"Yeah, possibly. [Loki holds up his shackled hands for Thor to uncuff him]",0.0,[ 1.6110353 -0.789028 ],[ 1.4158195 -1.6424886],0.1147291362285614
+406,Loki,thor_dark_world.txt,"You still don't trust me, brother?",0.0,[ 2.0927575 -1.1965064],[ 1.840685  -1.9732976],0.17544125020503998
+407,Thor,thor_dark_world.txt,Would you? [Thor takes off Loki's cuffs],0.0,[ 1.6395113  -0.86830056],[ 1.3368024 -1.4760746],0.10974469780921936
+408,Loki,thor_dark_world.txt,"No, I wouldn't. [suddenly Loki takes out a dagger stabs Thor and throws him down the hill]",-0.0777777777777777,[ 1.371383  -0.7388561],[ 0.9447435 -1.1525913],0.055430591106414795
+409,Jane Foster,thor_dark_world.txt,"Thor! No! [Malekith sees this and starts walking towards them] [after stabbing Thor and throwing him down the hill, Loki walks over to Thor]",-0.3777777777777777,[ 1.2203934  -0.55022395],[ 1.102029  -1.2779142],0.06897461414337158
+410,Loki,thor_dark_world.txt,"You really think I cared about Frigga, about any of you? [he kicks Thor in the stomach] All I ever wanted was you and Odin dead at my feet! [Thor raises his hand, attempting to summon Mjolnir, but Loki cuts off his hand making Thor scream out in pain, Jane rushes over to Thor but Loki grabs her and turns to face Malekith and his dark elves] Malekith, I am Loki of Jotunheim and I bring you a gift! [he throws Jane at Malekith's feet] I ask only one thing in return, a good seat from which to watch Asgard burn.",0.0925,[ 1.7001306 -1.0522295],[ 0.99001884 -1.1073936 ],0.1763373613357544
+411,Malekith,thor_dark_world.txt,"Look at me. [Malekith uses his foot to turn Thor, he then lifts Jane in the air and extracts the Aether from her, in that moment Jane has a vision of Earth, then as the Aether leaves her body Jane falls to the ground]",0.0,[ 1.3501005 -0.7478153],[ 1.0076755 -1.1617637],0.120645672082901
+412,Thor,thor_dark_world.txt,"Loki, now! [Loki uses his diversion tactics and we see that he had never amputated Thor's hand, Thor quickly summons Mjolnir and shoots lightning at the Aether attempting to destroy it, but he fails as Malekith is still able to absorb it and turns to leave on his ship] [two of the dark elves start attacking Thor but he quickly takes them down, Algrim then throws one of his vortex weapons in the air, Loki pushes Jane away and he is nearly sucked in when Thor pulls him out, Thor then attacks Algrim but he beats Thor down, Loki goes over to them and impales Algrim from behind, Algrim slowly turns and suddenly pulls Loki into the blade that is sticking out from him] No! [Algrim takes a step towards Loki]",-0.049537037037037,[ 1.4793807 -0.9485247],[ 0.89186186 -1.1304088 ],0.05143243074417114
+413,Loki,thor_dark_world.txt,"See you in hell, monster! [Algrim then realizes that attached to the blade in him is his own vortex weapon, it explodes before he can do anything destroying him; Thor then rushes over to Loki]",0.1999999999999999,[ 1.5151259  -0.83693784],[ 0.7840096  -0.91374195],0.08565777540206909
+414,Thor,thor_dark_world.txt,"No. No, no, no! Oh, you fool, you didn't listen!",0.0,[ 1.4259558  -0.65299493],[ 0.871402   -0.83069044],0.121328204870224
+415,Loki,thor_dark_world.txt,I know. I'm a fool. I'm a fool! [Loki squirms in pain],0.0,[ 1.3970393  -0.45963508],[ 1.6115152 -1.5888628],0.13954801857471466
+416,Thor,thor_dark_world.txt,"Stay with me, okay?",0.5,[ 1.9285611 -0.9246914],[ 1.647317  -1.7211663],0.17330347001552582
+417,Loki,thor_dark_world.txt,I'm sorry. I'm sorry.,-0.5,[ 0.8784695  -0.09330633],[ 1.6068995 -1.4306926],0.17412084341049194
+418,Thor,thor_dark_world.txt,Shh.,0.0,[ 0.6662604  -0.03369604],[ 0.98113537 -0.8884491 ],0.03485387563705444
+419,Loki,thor_dark_world.txt,I'm sorry.,-0.5,[0.50305516 0.23056296],[ 1.5023373 -1.3353301],0.16053707897663116
+420,Thor,thor_dark_world.txt,It's okay. [Thor nods his head] It's alright. I'll tell father what you did here today.,0.5,[ 1.1060786  -0.46097374],[ 1.8102633 -1.8260572],0.16211718320846558
+421,Loki,thor_dark_world.txt,"I didn't do it for him. [he closes his eyes and as he dies his skin turns to it's blue Frost Giant form, Thor cries out in anguish]",0.0,[ 1.5584698 -0.7673176],[ 1.796043 -1.873067],0.13032174110412598
+422,Thor,thor_dark_world.txt,"No! [Thor looks at Jane as he weeps for Loki] [after Loki's death, Thor and Jane enter a cave as they see a storm approaching]",0.0,[ 1.0202116  -0.46349362],[ 1.6852261 -1.8180641],0.05539983510971069
+423,Jane Foster,thor_dark_world.txt,"He's gonna unleash it, not just on Asgard or on a star, Malekith is gonna destroy everything.",-0.2,[ 1.5924202  -0.70117545],[ 1.1014644 -1.2900517],0.056719064712524414
+424,Thor,thor_dark_world.txt,"How? Jane, how?",0.0,[ 1.8420712 -1.0336766],[ 1.2821349 -1.0591235],0.03799477219581604
+425,Jane Foster,thor_dark_world.txt,I saw him on Earth. Why would he go to Earth?,0.0,[ 1.7603211 -1.1605064],[ 1.4595981 -1.7698532],0.04316037893295288
+426,Thor,thor_dark_world.txt,The Convergence.,0.0,[0.05714662 0.49336293],[ 1.3176064 -1.2988926],0.02884465456008911
+427,Jane Foster,thor_dark_world.txt,"Oh, God. None of this would have happened if I hadn't found the Aether.",0.0,[ 1.3218544 -0.6287758],[ 1.7513579 -1.7441921],0.026798933744430542
+428,Thor,thor_dark_world.txt,Then Malekith would have only possessed it that much sooner.,0.1,[ 1.1014926  -0.38461885],[ 1.2538899 -1.2500739],0.04968541860580444
+429,Jane Foster,thor_dark_world.txt,I only found it because I was looking for you.,0.0,[ 1.0477573  -0.30545327],[ 2.1906955 -2.185547 ],0.07445472478866577
+430,Thor,thor_dark_world.txt,Jane. [he places his hand on her face],0.0,[ 1.5201879 -0.8066822],[ 1.5100764 -1.5592833],0.1742541491985321
+431,Jane Foster,thor_dark_world.txt,"Now we're trapped here. [suddenly they hear music playing, Jane and Thor look at each other in confusion]",-0.1083333333333333,[ 1.1775106  -0.41432235],[ 1.86178   -1.8769412],0.05093330144882202
+432,Thor,thor_dark_world.txt,"It's not me. [Jane realizes it's her cell phone, she takes it out of her pocket and answers it]",0.0,[ 1.4461902  -0.50092006],[ 1.6423558 -1.6307276],0.08193379640579224
+433,Jane Foster,thor_dark_world.txt,Hello?,0.0,[ 1.5538695 -0.6634318],[ 1.4267398 -1.4074689],0.028099507093429565
+434,Richard,thor_dark_world.txt,"Hi, Jane, it's Richard.",0.0,[0.13581406 0.40896538],[ 1.7094653 -1.6566277],0.08371996879577637
+435,Jane Foster,thor_dark_world.txt,Richard?! Where are you?,0.0,[ 1.9360735 -1.1341743],[ 1.6588562 -1.7709144],0.08285719156265259
+436,Richard,thor_dark_world.txt,I'm still in the office. It's...It's been a crazy day here today. [Jane puts him on speaker and holds up her phone],-0.6,[ 1.9636713 -1.0581216],[ 1.9593846 -1.7884417],0.12694130837917328
+437,Jane Foster,thor_dark_world.txt,"Oh, my God! This is amazing.",0.6000000000000001,[0.03883336 0.60411704],[ 1.6348245 -1.5795256],0.16256552934646606
+438,Richard,thor_dark_world.txt,Is it? I quite enjoyed our lunch despite never actually ordering anything.,0.25,[ 1.1665015  -0.69800246],[ 1.68846   -1.6854788],0.07515284419059753
+439,Jane Foster,thor_dark_world.txt,How am I getting service here?,0.0,[ 1.9427778 -1.1059777],[ 1.5643153 -1.5978471],0.049987077713012695
+440,Richard,thor_dark_world.txt,Is this a bad time? Do you want me to try you there?,-0.6999999999999998,[ 2.3150115 -1.6199045],[ 1.7929507 -1.8363996],0.17248699069023132
+441,Jane Foster,thor_dark_world.txt,"No, no, no, no! Please, whatever you do, do not hang up the phone.",0.0,[ 2.0926757 -1.2430583],[ 1.2411188 -1.1837822],0.03309452533721924
+442,Richard,thor_dark_world.txt,Okay then. I was just wondering if you want to try again? Uh...maybe dinner next time.,0.25,[ 1.7888945 -1.0959022],[ 1.7978185 -1.7673204],0.09517550468444824
+443,Jane Foster,thor_dark_world.txt,"Uh...yeah, yeah, yeah. Um...just stay on the phone, okay?",0.5,[ 0.96169436 -0.36292744],[ 1.6519526 -1.4779378],0.0336480438709259
+444,Richard,thor_dark_world.txt,"Yeah, I will. [Jane looks down and notices can and keys that were thrown through from the abandoned factory]",-0.1555555555555555,[ 1.3301188  -0.76140445],[ 1.6149318 -1.6120263],0.02159595489501953
+445,Jane Foster,thor_dark_world.txt,"Oh, my God. [Jane picks up the keys from the floor of the cave]",0.0,[ 1.4717951 -0.7097643],[ 1.3964576 -1.4506903],0.11287865042686462
+446,Richard,thor_dark_world.txt,Am I interrupting something.,0.0,[ 1.5881739  -0.69109005],[ 1.7293829 -1.7295532],0.047632843255996704
+447,Jane Foster,thor_dark_world.txt,"No, no, no, nothing at all. [realizing how they can return to Earth, Jane turns to Thor] Come on.",0.0,[ 1.6409745  -0.99745345],[ 1.2742383 -1.2670718],0.03230541944503784
+448,Richard,thor_dark_world.txt,"I'm losing you there, are you in a tunnel? [Thor starts following Jane]",0.0,[ 2.071678  -1.3189543],[ 1.656117  -1.8334445],0.10753193497657776
+449,Thor,thor_dark_world.txt,Where are we going?,0.0,[ 2.2329865 -1.3300048],[ 1.4768624 -1.5442382],0.031038671731948853
+450,Richard,thor_dark_world.txt,"[to Jane] Hello? [they start walking further into the cave, Thor notices the discarded shoes that were thrown through from the abandoned factory]",0.0,[ 1.6972585 -1.0233759],[ 1.7691053 -2.0092921],0.0330750048160553
+451,Thor,thor_dark_world.txt,Why are there so many shoes in here? [as they walks further in suddenly they disappear; back in his office Richard loses Jane on the phone],0.04,[ 1.4162989  -0.71865004],[ 1.3853236 -1.5230198],0.06957036256790161
+452,Richard,thor_dark_world.txt,"I'll just text her. [Jane and Thor appear back on Earth outside the factory, they get into Ian's abandoned car still parked outside the factory and Jane tries to start the car]",-0.025,[ 1.1468124  -0.55640143],[ 1.3766252 -1.5193092],0.0685238242149353
+453,Darcy Lewis,thor_dark_world.txt,Jane!,0.0,[0.18471497 0.4886783 ],[ 1.003206   -0.96007097],0.056490182876586914
+454,Jane Foster,thor_dark_world.txt,Hey.,0.0,[0.19733094 0.37754387],[ 1.1227647 -1.0989131],0.02827894687652588
+455,Darcy Lewis,thor_dark_world.txt,"You can't just leave like that, the whole world is going crazy! [Thor hangs his hammer on the coat hanger next to the door] All the stuff we saw is spreading. [she looks at Jane's Asgardian clothes and disheveled state] Did you go to a party? [Jane notices Erik for the first time]",-0.075,[ 1.2859825 -0.9155623],[ 1.4124148 -1.5728472],0.10108783841133118
+456,Jane Foster,thor_dark_world.txt,Erik?!,0.0,[ 1.1989732  -0.48119536],[ 1.4267853 -1.4893762],0.02474689483642578
+457,Erik Selvig,thor_dark_world.txt,"Jane, how wonderful! [he rises and goes to Jane and as he embraces her we see he isn't wearing any pants] You've been to Asgard.",1.0,[ 0.64758044 -0.13753568],[ 1.2835368 -1.4694842],0.19485849142074585
+458,Jane Foster,thor_dark_world.txt,Where are your pants?,0.0,[ 2.0845776 -1.2521027],[ 0.56873286 -0.7290102 ],0.18736596405506134
+459,Ian Boothby,thor_dark_world.txt,"Oh, uh...he uh...he says it helps him think.",0.0,[-0.90170324  1.0439507 ],[ 2.220244  -2.2643297],0.07084807753562927
+460,Jane Foster,thor_dark_world.txt,"Okay. Well, I'm gonna need everything you got on this. All the work you've been doing on gravimetric anomalies, everything.",0.5,[ 1.374036 -0.663629],[ 1.8969319 -2.0256279],0.041356027126312256
+461,Erik Selvig,thor_dark_world.txt,Okay.,0.5,[0.18276119 0.53094673],[ 0.928708   -0.86421824],0.030240356922149658
+462,Thor,thor_dark_world.txt,"Are you well, Erik? [Erik chuckles then his smile fades quickly]",0.3166666666666666,[ 1.71786    -0.98425907],[ 1.8070145 -2.0391023],0.14132308959960938
+463,Erik Selvig,thor_dark_world.txt,"Your brother is not coming, is he?",0.0,[ 2.0975332 -1.3534569],[ 1.3672966 -1.6118448],0.16110163927078247
+464,Thor,thor_dark_world.txt,Loki is dead.,-0.2,[ 1.0054787  -0.14459828],[ 1.2289776 -1.30721  ],0.032397568225860596
+465,Erik Selvig,thor_dark_world.txt,"Oh, thank God. [Thor looks at him in confusion] I...I'm so sorry.",-0.5,[ 1.6196897 -0.7774365],[ 2.0000725 -1.9961814],0.15168260037899017
+466,Thor,thor_dark_world.txt,"Thank you. [Erik then embraces Thor] [back on Svartalfheim we see an Einherjar Guard use the ship that brought Thor, Loki and Jane onto the planet to return to Asgard, he goes to see Odin at the palace]",0.0,[ 1.0442513 -0.5536514],[ 1.5910097 -1.7589988],0.06261086463928223
+467,Odin,thor_dark_world.txt,Thor?,0.0,[ 1.3858424 -0.5593797],[ 1.2686857 -1.2810466],0.026235759258270264
+468,Odin,thor_dark_world.txt,What?,0.0,[ 1.4070889  -0.49027973],[ 1.2503315 -1.1553091],0.03506931662559509
+469,Odin,thor_dark_world.txt,Loki. [the warrior doesn't reply but just looks at Odin] [back at Jane's apartment],0.0,[ 1.4043678  -0.87113637],[ 1.4474455 -1.6082407],0.03561156988143921
+470,Jane Foster,thor_dark_world.txt,Malekith is going to fire the Aether at a spot where all the nine worlds are connected.,0.0,[0.30302438 0.25225502],[ 1.4336299 -1.5429782],0.02913588285446167
+471,Erik Selvig,thor_dark_world.txt,"Amplifying the weapon's impact. With each additional world, the power will increase exponentially. The effect would be universal.",0.0,[ 1.1983508 -0.6825213],[ 1.3969598 -1.4879115],0.019626975059509277
+472,Thor,thor_dark_world.txt,"Yes, well the alignment is only temporary. He must be in exactly at the right place at the right time.",0.2053571428571428,[ 2.0433471 -1.3097334],[ 1.6543407 -1.6687477],0.020137697458267212
+473,Darcy Lewis,thor_dark_world.txt,"Well, how do we know where that is?",0.0,[ 1.961479 -1.279665],[ 1.5030929 -1.5732013],0.02772235870361328
+474,Erik Selvig,thor_dark_world.txt,"We follow the directions. This has happened before, thousands of years ago, and The Ancients were there to see it. [Erik places a map of the British Isles on the coffee table] All the great constructions",0.4,[0.48358092 0.02725277],[ 1.4421337 -1.7791995],0.016845792531967163
+475,Ian Boothby,thor_dark_world.txt,Greenwich?,0.0,[ 1.7653807 -0.9964372],[ 1.4334716 -1.3502733],0.02735614776611328
+476,Jane Foster,thor_dark_world.txt,"The walls between worlds will be almost non-existent. Physics is gonna go ballistic. Increase and decrease in gravity, spatial extrusions. The very fabric of reality is gonna be torn apart. [Thor summons Mjolnir and it shoots over to Thor's hand from the where it was hanging on the coat hanger]",0.2,[ 1.3839054 -0.7357021],[ 1.1980852 -1.3368725],0.04106879234313965
+477,Erik Selvig,thor_dark_world.txt,I better get my pants. [in Greenwich at the location outside a library Darcy and Ian grab Erik's gadget],0.25,[ 1.0977366 -0.606908 ],[ 1.5771261 -1.6998707],0.1653018295764923
+478,Darcy Lewis,thor_dark_world.txt,"Focus, this is important. We have to hammer them in all around the site and then Jane and Erik will activate them from the tower.",0.4,[ 1.3743606 -0.684877 ],[ 1.3611375 -1.3099608],0.021156728267669678
+479,Ian Boothby,thor_dark_world.txt,They're taped together!,0.0,[ 0.7999194  -0.10113135],[ 1.2624496 -1.2051481],0.01927739381790161
+480,Darcy Lewis,thor_dark_world.txt,Do you even know what these things do?,0.0,[ 1.6274549 -0.8958227],[ 1.6137596 -1.4861273],0.031115293502807617
+481,Ian Boothby,thor_dark_world.txt,No.,0.0,[ 1.1156424 -0.377345 ],[ 0.848548 -0.758422],0.026728183031082153
+482,Darcy Lewis,thor_dark_world.txt,"Neither do I. [Darcy and Ian start placing Erik's gadgets around the library grounds] Come on, come on!",0.0,[ 1.2962934 -0.5904657],[ 1.7225329 -1.8557538],0.03383401036262512
+483,Ian Boothby,thor_dark_world.txt,Fine! [suddenly Malekith's giant ship appears on the River Thames near the library grounds],0.1552083333333333,[0.5315382  0.03886041],[ 1.5533055 -1.889328 ],0.026523977518081665
+484,Darcy Lewis,thor_dark_world.txt,"Holy shit! [the ship starts moving forward and crashing through the library grounds causing pandemonium until it finally stops in the middle of the grounds, Malekith and his dark elves step off the ship and the same time Thor flies in and lands in front of Malekith]",-0.08,[0.30526283 0.13431138],[ 1.3284518 -1.5406991],0.03683227300643921
+485,Malekith,thor_dark_world.txt,"You needn't have come so far, Asgardian! Death would have come to you soon enough.",0.0625,[ 1.7878838 -1.0713456],[ 0.7039585 -0.7148036],0.12933877110481262
+486,Thor,thor_dark_world.txt,Not by your hand!,0.0,[ 1.9373556 -1.0171589],[ 1.2604631 -1.2448485],0.1297379434108734
+487,Malekith,thor_dark_world.txt,Your universe was never meant to be. Your world and your family will be extinguished. [Malekith uses the power of the Aether to attack Thor but Thor manages to narrowly miss getting hit by it] [inside the library setting up the gravimetric device],-0.2,[ 1.3936794  -0.70310724],[ 1.3943161 -1.5448807],0.07832875847816467
+488,Erik Selvig,thor_dark_world.txt,We're running out of time.,0.0,[ 1.0721077 -0.2539384],[ 1.3486892 -1.20431  ],0.026970982551574707
+489,Jane Foster,thor_dark_world.txt,Almost there.,0.0,[0.60018504 0.11323301],[ 1.0247103  -0.94165826],0.03858315944671631
+490,Erik Selvig,thor_dark_world.txt,"Are you sure this is going to work? These devices were made to detect anomalies, not cause them.",0.5,[ 0.74218464 -0.27965376],[ 1.6723918 -1.65738  ],0.020388662815093994
+491,Jane Foster,thor_dark_world.txt,"Oh, come on. [Jane looks out and sees Thor and Malekith battling it out] Come on, Darcy. [Jane rushes off to find Darcy; outside Thor manages to deflect the Aether that Malekith is using to fight him off]",0.0,[ 1.392896   -0.60009676],[ 1.0657169 -1.165439 ],0.11662329733371735
+492,Thor,thor_dark_world.txt,"You know with all that power, I thought you would hit harder. [as Malekith is using the Aether to shield himself suddenly Thor throws his hammer at him which throws Malekith across the ground and smashes him against the library building, at the same time Jane sees Darcy and Ian placing the last of Erik's device in the ground]",-0.025,[ 1.2585568 -0.6318702],[ 1.2384735 -1.3852305],0.05679413676261902
+493,Ian Boothby,thor_dark_world.txt,Done. [Darcy gives the OK sign to Jane and Jane rushes back to Erik],0.25,[ 0.9322749  -0.35367486],[ 1.5984663 -1.7232035],0.023615151643753052
+494,Erik Selvig,thor_dark_world.txt,The Convergence will be in full effect in seven minutes.,0.35,[0.13533154 0.29348093],[ 1.8016732 -1.7421523],0.025017619132995605
+495,Jane Foster,thor_dark_world.txt,"That just means we have to keep Malekith busy for eight. [Jane gets the device ready] Okay, you might wanna hold on to something. [she turns on the device and suddenly some of the dark elves suddenly disappear; Darcy and Ian watch this nearby, Darcy talks to Jane on her phone]",0.1083333333333333,[ 1.3274401  -0.72272867],[ 1.1680733 -1.2112788],0.05620822310447693
+496,Darcy Lewis,thor_dark_world.txt,That is awesome! How did you do that?,1.0,[ 1.372774  -0.6213447],[ 1.5340122 -1.485328 ],0.15523356199264526
+497,Jane Foster,thor_dark_world.txt,"Well, gravitational fields interact with the weak spot between worlds creating...",-0.375,[0.02593061 0.4744469 ],[ 1.2861878 -1.4735655],0.024736642837524414
+498,Darcy Lewis,thor_dark_world.txt,"Oh, there's a guy with a sword! [Jane uses the device again to make the dark elf disappear but instead she accidentally makes Darcy and Ian disappear]",-0.15,[ 0.69684386 -0.10236772],[ 0.83641326 -0.94123775],0.06822121143341064
+499,Jane Foster,thor_dark_world.txt,Oops.,0.0,[0.04821462 0.5262171 ],[ 1.1317862 -1.0543638],0.06194445490837097
+500,Erik Selvig,thor_dark_world.txt,Let's go. [Darcy and Ian appear in another part of London],0.0,[ 1.4060918  -0.77639234],[ 1.7827502 -2.0250044],0.04281914234161377
+501,Darcy Lewis,thor_dark_world.txt,What the hell just happened? [suddenly the dark elves that had also disappeared appear and fall onto a parked car] Move! [Darcy grabs hold of Ian's hand and they run off as the dark elves start chasing after them; back at the library Thor and Malekith continue their battle and everyone inside the library rushes to the windows to watch],-0.084375,[ 1.4135813 -0.7716155],[ 1.1445446 -1.3285073],0.044999897480010986
+502,Jane Foster,thor_dark_world.txt,What are you all doing? You need to get out of here! Now!,0.0,[ 1.8290153 -1.0861918],[ 0.3272996  -0.40089568],0.12791305780410767
+503,Erik Selvig,thor_dark_world.txt,What are you doing?,0.0,[ 2.0138843 -1.2099693],[ 1.7089423 -1.7421534],0.08302116394042969
+504,Jane Foster,thor_dark_world.txt,My signal's lost connection. [some of the dark elves are behind them chasing after them],-0.275,[ 1.3608067  -0.60807997],[ 1.2823914 -1.4271809],0.05116996169090271
+505,Erik Selvig,thor_dark_world.txt,"Jane! Come on! [as Thor and Malekith continue their battle through the realms they land in Jotunheim and are confronted by a giant beast which then is transported to London, at the same time Darcy and Ian are being ambushed by the dark elves when Ian, with the help of the anti-gravitational energy force, grabs a car and throws it at them, Darcy looks at him in shock]",-0.0499999999999999,[ 1.1075698 -0.4854302],[ 0.95578593 -1.1118317 ],0.06677821278572083
+506,Ian Boothby,thor_dark_world.txt,Are you alright?,0.0,[ 2.1051316 -1.2172284],[ 1.7712303 -1.8202558],0.1618906706571579
+507,Darcy Lewis,thor_dark_world.txt,You saved my life.,0.0,[0.44088894 0.18048611],[ 1.7689142 -1.6993283],0.16830772161483765
+508,Ian Boothby,thor_dark_world.txt,"Yeah. Yes, I did. [back at the library grounds Jane manages to make the device work again and as she uses it suddenly makes Darcy and Ian appear behind her in each others arms kissing]",-0.1333333333333333,[ 0.9615541 -0.5207767],[ 1.4798436 -1.5735843],0.17245006561279297
+509,Jane Foster,thor_dark_world.txt,Darcy?,0.0,[ 1.5980299 -0.6202425],[ 1.3759596 -1.329713 ],0.023013949394226074
+510,Darcy Lewis,thor_dark_world.txt,Jane! [Darcy lets go of Ian and falls to the ground],0.0,[ 1.3826724  -0.60554975],[ 1.201797  -1.3395857],0.01774337887763977
+511,Erik Selvig,thor_dark_world.txt,Ian?,0.0,[ 1.3022224  -0.47574103],[ 1.1635062 -1.1386796],0.028700947761535645
+512,Ian Boothby,thor_dark_world.txt,Selvig! [suddenly Mjolnir appears and flies past them],-0.125,[ 1.2191646  -0.44102478],[ 1.3382837 -1.6540639],0.029316753149032593
+513,Darcy Lewis,thor_dark_world.txt,Meowmeow! [Thor and Malekith are then transported through the realms again with Malekith landing back in Greenwich but Thor ends up in Charing Cross Underground Station],0.0,[ 1.55263   -0.8804855],[ 1.6741287 -1.9218633],0.02294212579727173
+514,Thor,thor_dark_world.txt,How do I get to Greenwich?,0.0,[ 2.1692507 -1.3424116],[ 1.75094   -1.8500075],0.03831368684768677
+515,Jane Foster,thor_dark_world.txt,We're out of time. [Jane rushes off ahead],0.0,[ 1.305181  -0.5846999],[ 1.0061582 -1.0163959],0.025616049766540527
+516,Erik Selvig,thor_dark_world.txt,Jane. Jane! [Thor rushes out of the station to watch the Aether taking over],0.0,[ 0.8241637  -0.15930477],[ 1.176924  -1.3609049],0.025515437126159668
+517,Jane Foster,thor_dark_world.txt,Thor! We're too late.,-0.3,[ 1.3052958  -0.60042447],[ 1.4835734 -1.4589275],0.03848165273666382
+518,Erik Selvig,thor_dark_world.txt,The Convergence is at its peak. [Thor looks at the gadget spears in Erik's hand],0.0,[ 0.6492293  -0.04938123],[ 1.4588026 -1.566173 ],0.01925414800643921
+519,Thor,thor_dark_world.txt,Can those things stop him?,0.0,[ 1.7633638 -1.0261469],[ 1.3650769 -1.3636271],0.07953301072120667
+520,Erik Selvig,thor_dark_world.txt,Not from here.,0.0,[ 0.8382856  -0.19105598],[ 1.2854868 -1.193133 ],0.02885875105857849
+521,Jane Foster,thor_dark_world.txt,We can't get close enough. [Thor looks at Jane],0.0,[ 1.6572722 -0.838823 ],[ 1.2627435 -1.2618269],0.03282853960990906
+522,Thor,thor_dark_world.txt,I can. [Thor takes the spears from Erik and rushes off towards Malekith] [Thor pushes through the Aether and reaches Malekith] Malekith! [Malekith turns to face Thor],0.0,[ 1.5730847 -0.8733739],[ 1.1154284 -1.329599 ],0.03765261173248291
+523,Malekith,thor_dark_world.txt,"Darkness returns, Asgardian. Have you come to witness the end of your universe?",0.0,[ 1.7930803 -1.0743879],[ 1.5426493 -1.6972258],0.07885459065437317
+524,Thor,thor_dark_world.txt,"I've come to accept your surrender. [Thor throws one of Erik's gadget spears at Malekith and he catches it, Jane uses the gavemetric which makes his arm disappear and we see it transported to Svartalfheim, Thor throws the other spear at Malekith and he catches it and his other arm disappears]",-0.125,[ 1.4834806 -0.8827887],[ 1.233338  -1.4471979],0.07572311162948608
+525,Malekith,thor_dark_world.txt,You think you can stop this? The Aether cannot be destroyed.,0.0,[ 0.82861245 -0.238247  ],[ 0.9218679 -1.0178666],0.0439983606338501
+526,Thor,thor_dark_world.txt,"But you can. [Thor summons Mjolnir at the same time he rushes towards Malekith and as he grabs his hammer he uses it to throw Malekith into his ship and Jane is able to use her device to transport him Svartalfheim] [after Thor kills Malekith Jane goes to find Thor and finds him lying on the ground, suddenly Malekith's ship starts to crumble, Jane rushes towards the unconscious Thor]",0.1666666666666666,[ 1.2537452 -0.7812448],[ 1.2051669 -1.3715612],0.08466804027557373
+527,Jane Foster,thor_dark_world.txt,"Thor! No! [Jane turns Thor over grabs his arm and starts to pull him out of the way but he is too heavy, just them Erik, Darcy and Ian arrive on the scene]",-0.2,[ 1.7349923  -0.93923765],[ 1.2767711 -1.3377639],0.14590683579444885
+528,Erik Selvig,thor_dark_world.txt,"Jane! [the ship starts to fall, as Jane is not able to move Thor she throws herself on top of him and holds on to him with her eyes closed, just as the ship is about to land on them it disappears and appears on Svartalfheim landing on Malekith and crushing him to death; back in Greenwich] Everybody okay? [Thor becomes conscious and opens his eyes, Darcy smiles and throws her arms around Ian and kisses him passionately] [couple of days later, Jane, Erik, Darcy and Ian are in her apartment sat having breakfast quietly]",0.11,[ 1.6491657 -1.0986019],[ 1.4421424 -1.624597 ],0.17324765026569366
+529,Darcy Lewis,thor_dark_world.txt,"He's gonna come back. Except, you know, last time he was gone for, like, two years.",0.0,[0.48165908 0.09001877],[ 1.7784082 -1.7432513],0.147390216588974
+530,Jane Foster,thor_dark_world.txt,"Well, it's only been two days, so...",0.0,[ 1.1494917 -0.4490476],[ 1.8349057 -1.760103 ],0.03887930512428284
+531,Erik Selvig,thor_dark_world.txt,Did he say anything before he left?,0.0,[ 1.9543949 -1.2280085],[ 1.7139202 -1.8124129],0.05478188395500183
+532,Jane Foster,thor_dark_world.txt,"Yeah, he had to figure some stuff out with his father. He kind of committed treason... on our way out. [Jane looks away and carries on eating her breakfast]",0.6,[ 1.1412596 -0.6248886],[ 1.428626 -1.4685  ],0.15728475153446198
+533,Erik Selvig,thor_dark_world.txt,Oh.,0.0,[0.23362726 0.3343799 ],[ 1.1222034 -0.9999814],0.03327369689941406
+534,Odin,thor_dark_world.txt,You once said there would never be a wiser King than me. You were wrong. The alignment has brought all the realms together. Every one of them saw you offer your life to save them. What can Asgard offer its new King in return?,-0.1818181818181818,[ 1.8199935 -1.1136045],[ 1.0291878 -1.1772808],0.15056797862052917
+535,Thor,thor_dark_world.txt,"My life. Father, I cannot be King of Asgard. I will protect Asgard and all the realms with my last and every breath, but I cannot do so from that chair. Loki, for all his grave imbalance, understood rule as I know I never will. The brutality, the sacrifice, it changes you. I'd rather be a good man than a great King.",0.5,[ 2.0160758 -1.1962633],[ 1.2772514 -1.4619066],0.17574542760849
+536,Odin,thor_dark_world.txt,"Is this my son I hear, or the woman he loves?",0.0,[ 2.152605 -1.386121],[ 1.3716722 -1.4856004],0.16693058609962463
+537,Thor,thor_dark_world.txt,"When you speak, do I never hear Mother's voice? [Odin sighs] This is not for Jane, Father. She does not know what I came here to say. Now forbid me to see her or say she can rule at my side, it changes nothing.",0.0,[ 2.0273757 -1.23804  ],[ 0.6984554  -0.70799774],0.1732635796070099
+538,Odin,thor_dark_world.txt,"One son who wanted the throne too much, another who will not take it. Is this my legacy?",0.2,[ 2.0069115 -1.2144108],[ 1.1815392 -1.3410479],0.1586456596851349
+539,Thor,thor_dark_world.txt,"Loki died with honor, I shall try to live the same. Is that not legacy enough? [Odin nods his head, Thor then holds up Mjolnir to offer it back to Odin]",0.034090909090909,[ 2.0710506 -1.1737553],[ 1.4433979 -1.7956073],0.11810171604156494
+540,Odin,thor_dark_world.txt,"It belongs to you, if you are worthy of it.",0.3333333333333333,[ 1.9499315 -1.2124777],[ 1.6841094 -1.7531422],0.16730916500091553
+541,Thor,thor_dark_world.txt,I shall try to be.,0.0,[ 1.4056162 -0.7153074],[ 1.3427291 -1.2635999],0.11390809714794159
+542,Odin,thor_dark_world.txt,"I cannot give you my blessing, nor can I wish you good fortune.",0.7,[ 1.8365207 -1.1476349],[ 1.9725362 -1.9456147],0.17472518980503082
+543,Thor,thor_dark_world.txt,I know. [Thor turns to leave],0.0,[ 1.32864    -0.46591014],[ 1.5639423 -1.5412362],0.02945101261138916
+544,Odin,thor_dark_world.txt,"If I were proud of the man my son had become, even that I could not say. It would speak only from my heart. Go, my son. [Thor smiles]",0.4,[ 2.08104   -1.1655031],[ 1.7767695 -1.8449912],0.16354171931743622
+545,Thor,thor_dark_world.txt,"Thank you, father. [he turns and starts walking off, as Odin watches Thor walk off Odin's form transform to reveal Loki]",0.0,[ 0.71427697 -0.20542684],[ 1.3329481 -1.5050253],0.1034943163394928
+546,Loki,thor_dark_world.txt,"No. Thank you. [Loki smiles devilishly] [mid-credits scene; Sif and Volstagg are taken to meet, The Collector Taneleer Tivan]",0.0,[ 1.4176911 -0.7930101],[ 1.8500203 -2.0342946],0.08142879605293274
+547,Sif,thor_dark_world.txt,You know why we're here.,0.0,[ 0.83244425 -0.09534123],[ 1.9532275 -1.8184108],0.08908909559249878
+548,Sif,thor_dark_world.txt,"See that it is. [The Collector bows his head, Sif and Volstagg turn and leave]",0.0,[ 1.4158727  -0.61489797],[ 1.5371124 -1.6817601],0.04514765739440918
+549,Sif,thor_dark_world.txt,I've got this completely under control!,0.125,[0.5543204  0.24701333],[ 1.6065387 -1.434199 ],0.12644195556640625
+550,Thor,thor_dark_world.txt,Is that why everything's on fire?,0.0,[ 1.5828506 -0.8938663],[ 1.3856978 -1.5063095],0.043563276529312134
+551,Sif,thor_dark_world.txt,All yours. [steps back],0.0,[ 1.8286767 -1.03452  ],[ 1.4523474 -1.6932184],0.09404999017715454
+552,Thor,thor_dark_world.txt,Hello. [the beast roars] I accept your surrender.,0.0,[ 1.3865136 -0.567376 ],[ 0.95682377 -1.1207912 ],0.15161481499671936
+553,Thor,thor_dark_world.txt,Anyone else?,0.0,[ 2.0898001 -1.0680714],[ 1.6352273 -1.6172522],0.05305910110473633
+554,Loki,thor_dark_world.txt,[mock salute to Odin] I really don't see what all the fuss is about…,0.2,[ 1.15603   -0.5481348],[ 1.6499518 -1.8685309],0.04578757286071777
+555,Odin,thor_dark_world.txt,"Do you not truly feel the gravity of your crimes? Wherever you go there is war, ruin and death!",0.0,[ 1.2877116 -0.7075672],[ 0.9562028 -1.2630261],0.0970558226108551
+556,Loki,thor_dark_world.txt,"I went down to Midgard to rule the people of Earth as a benevolent God, just like you.",-0.1555555555555555,[-0.02247019  0.60491496],[ 1.6086477 -1.7892921],0.07443463802337646
+557,Odin,thor_dark_world.txt,"We are not gods. We're born, we live, we die, just as humans do.",0.1363636363636363,[ 0.9998453 -0.3610427],[ 1.5177919 -1.4903926],0.09098708629608154
+558,Loki,thor_dark_world.txt,Give or take five thousand years.,0.0,[0.7912885  0.07239734],[ 1.6522428 -1.6488416],0.05410805344581604
+559,Odin,thor_dark_world.txt,All this because Loki desires a throne...,0.0,[-0.34189582  0.77245724],[ 1.0668821 -1.2854408],0.08674278855323792
+560,Loki,thor_dark_world.txt,It is my birthright!,0.0,[ 1.1122264  -0.38636118],[ 1.4905912 -1.6221454],0.17122840881347656
+561,Odin,thor_dark_world.txt,"Your birthright was to DIE! As a child, cast out on a frozen rock. If I had not taken you in, you would not be here now, to hate me.",-0.8,[ 1.9949819 -1.1837578],[ 0.9382866 -1.0588003],0.1751895546913147
+562,Loki,thor_dark_world.txt,"If I'm for the axe, then for mercy's sake, just swing it. It's not that I don't like our little talks, it's just... I don't love them.",0.15625,[ 1.6353294 -0.8633392],[ 1.2978762 -1.361647 ],0.16671067476272583
+563,Odin,thor_dark_world.txt,"Frigga is the only reason you're still alive, and you will never see her again. You'll spend the rest of your days in the dungeons.",0.05,[ 2.022443  -1.2209145],[ 0.63214236 -0.7147435 ],0.16470368206501007
+564,Loki,thor_dark_world.txt,And what of Thor? You'll make that witless oaf King while I rot in chains?,0.0,[ 1.5871451  -0.71496904],[ 0.68250746 -0.8407635 ],0.11580732464790344
+565,Odin,thor_dark_world.txt,"Thor must strive to undo the damage you have done. He will bring order to the Nine Realms, and then, yes, he will be King.",0.0,[ 0.9278368  -0.24542835],[ 1.3240703 -1.52516  ],0.07545995712280273
+566,Thor,thor_dark_world.txt,Jane?,0.0,[ 1.3243488 -0.4475421],[ 1.1710274 -1.0700476],0.048399776220321655
+567,Jane Foster,thor_dark_world.txt,Sorry. I just…needed to make sure you were real. It's been a very strange day.,0.03375,[ 1.2702376 -0.6049513],[ 2.1268537 -2.0614111],0.16290900111198425
+568,Thor,thor_dark_world.txt,I am. Jane—,0.0,[ 1.6376594 -0.8602132],[ 1.9363328 -1.9233778],0.08925500512123108
+569,Thor,thor_dark_world.txt,Where were you? Heimdall could not see you.,0.0,[ 1.9036416 -1.104599 ],[ 1.9810377 -1.9573606],0.13417547941207886
+570,Thor,thor_dark_world.txt,"I know. I know, but the Bifröst was destroyed. The Nine Realms erupted into chaos. Wars were raging, marauders were pillaging…I had to put an end to the slaughter.",0.0,[ 1.2778139 -0.5756931],[ 0.9005294 -1.1109601],0.048408448696136475
+571,Thor,thor_dark_world.txt,"Jane, I fought to protect you from the dangers of my world, but I was wrong. I was a fool. I believe that fate brought us together.",-0.5,[ 1.5496652 -0.748557 ],[ 1.7530304 -1.6611937],0.1707986444234848
+572,Malekith,thor_dark_world.txt,"[looking out over the ruins of Svartalfheim] Look upon my legacy, Algrim. I can barely remember a time before the light.",0.1,[ 1.6616222  -0.89219236],[ 1.8090595 -2.0074692],0.10725070536136627
+573,Malekith,thor_dark_world.txt,The Asgardians will suffer as we have suffered. I will reclaim the Aether. I will restore our world. And I will put an end to this poisoned universe.,0.0,[ 1.1500466  -0.44992027],[ 0.7360778  -0.92487204],0.10383659601211548
+574,Odin,thor_dark_world.txt,She does not belong in Asgard any more than a goat belongs at a banquet!,0.625,[ 1.425917   -0.89385164],[-0.14247586  0.24139082],0.08231368660926819
+575,Odin,thor_dark_world.txt,I am Odin. King of Asgard. Protector of the Nine Realms.,0.0,[ 1.433158  -0.5362897],[ 1.4850558 -1.6823753],0.05221492052078247
+576,Odin,thor_dark_world.txt,"I know very well who you are, Jane Foster.",0.2,[0.6922341  0.02612874],[ 1.0247577 -0.7787994],0.1400526762008667
+577,Frigga,thor_dark_world.txt,You know full well it was your actions that brought you here.,0.35,[ 0.67706555 -0.00271538],[ 1.6255734 -1.4643408],0.16365300118923187
+578,Loki,thor_dark_world.txt,My actions? I was merely giving truth to the lie that I had been fed my entire life…that I was born to be a king.,-0.25,[ 0.84892005 -0.14300491],[ 1.997064  -2.0695667],0.17325228452682495
+579,Frigga,thor_dark_world.txt,A king? A true king admits his faults. What of the lives you took on Earth?,0.35,[ 1.3224747 -0.6658298],[ 1.5937899 -1.8566247],0.09808018803596497
+580,Loki,thor_dark_world.txt,A mere handful compared to the number that Odin has taken himself.,-0.5,[ 1.0822005  -0.58306605],[ 1.400555  -1.5152274],0.024923056364059448
+581,Frigga,thor_dark_world.txt,Your father—,0.0,[ 1.2549784 -0.4984574],[ 1.7225239 -1.7602724],0.16776032745838165
+582,Loki,thor_dark_world.txt,He's not my father!,0.0,[ 1.1428118 -0.3994496],[ 1.3294543 -1.453333 ],0.1720525026321411
+583,Frigga,thor_dark_world.txt,Then am I not your mother?,0.0,[ 1.5964825 -0.7794741],[ 1.2788078 -1.2795031],0.17570464313030243
+584,Loki,thor_dark_world.txt,You're not.,0.0,[0.4031985  0.20016068],[ 1.354235  -1.2288345],0.12739337980747223
+585,Frigga,thor_dark_world.txt,[looks hurt but chuckles] You're always so perceptive about everyone but yourself. [Loki looks sorry and reaches for her but she disappears],-0.5,[ 0.8258034  -0.17422044],[ 1.6480521 -1.6563674],0.17598587274551392
+586,Frigga,thor_dark_world.txt,"Stand down, creature, and you may still survive this.",-0.1555555555555555,[ 1.8794383 -1.1291103],[ 0.6085639 -0.7132704],0.06612086296081543
+587,Malekith,thor_dark_world.txt,"I have survived worse, woman.",-0.4,[ 0.76296425 -0.06965564],[-0.37990797  0.6911204 ],0.07092353701591492
+588,Frigga,thor_dark_world.txt,Who are you?,0.0,[ 2.199139  -1.2008573],[ 1.411707  -1.4302005],0.11429658532142639
+589,Malekith,thor_dark_world.txt,"I am Malekith... [looks at Jane] and I would have what is mine. [They both draw swords and duel, until Algrim arrives and helps overpower Frigga. Malekith turns to confront Jane] You have taken something, child. Give it back. [Malekith discovers Jane is an illusion and angrily faces a grinning Frigga] WITCH! Where is the Aether?!",-0.390625,[ 1.7151725 -1.1382962],[ 0.5394636 -0.6422386],0.12094131112098694
+590,Frigga,thor_dark_world.txt,I'll never tell you.,0.0,[ 1.1158916  -0.40920216],[ 1.3229686 -1.2154268],0.14987003803253174
+591,Malekith,thor_dark_world.txt,I believe you. [Algrim kills Frigga],0.0,[ 1.3894618 -0.6299423],[ 1.3688598 -1.557335 ],0.06329488754272461
+592,Loki,thor_dark_world.txt,Thor. After all this time and now you come to visit me. Why? Have you come to gloat? To mock?,0.0,[ 1.4383225  -0.73504025],[ 1.5445358 -1.5911039],0.1615888923406601
+593,Thor,thor_dark_world.txt,"Loki, enough. No more illusions. [Loki and the neat room turn to a destroyed room with Loki looking disheveled on the floor]",-0.125,[ 1.408526   -0.87394035],[ 1.4474062 -1.5027045],0.08231675624847412
+594,Loki,thor_dark_world.txt,"Now you see me, brother. Did she suffer? [referring to Frigga]",0.0,[ 2.2644658 -1.4646769],[ 1.4548041 -1.5586637],0.1779318004846573
+595,Thor,thor_dark_world.txt,"I did not come here to share our grief. Instead, I offer you the chance of a far richer sacrament.",-0.35,[ 1.9291368 -1.4507728],[ 2.2030823 -2.0589676],0.17485128343105316
+596,Loki,thor_dark_world.txt,Go on.,0.0,[ 0.82060474 -0.06210131],[ 0.9919504 -0.8731159],0.029269307851791382
+597,Thor,thor_dark_world.txt,"I know you seek vengeance as much as I do. You help me escape Asgard, and I will grant it to you. Vengeance. And afterward, this cell.",0.2,[ 1.528849  -0.7492446],[ 1.1550556 -1.264855 ],0.16103239357471466
+598,Loki,thor_dark_world.txt,[chuckles] You must be truly desperate to come to me for help. What makes you think you can trust me?,-0.6,[ 1.8485527 -1.1788007],[ 1.5266186 -1.5585598],0.17112232744693756
+599,Thor,thor_dark_world.txt,"I don't. Mother did. You should know that when we fought each other in the past, I did so with a glimmer of hope that my brother was still in there somewhere. That hope no longer exists to protect you. You betray me, and I will kill you.",-0.1875,[ 2.2687151 -1.4704474],[ 1.2294397 -1.3706135],0.1675104796886444
+600,Loki,thor_dark_world.txt,Hm. When do we start?,0.0,[ 2.0853446 -1.3892127],[ 1.562245  -1.5634092],0.03548496961593628
+601,Loki,thor_dark_world.txt,I'm Loki. You may have heard—,0.0,[ 1.4611336  -0.73562866],[ 1.8323282 -1.9714264],0.08137401938438416
+602,Loki,thor_dark_world.txt,[to Thor] I like her.,0.0,[ 1.1127115 -0.3120594],[ 1.2578187 -1.3576261],0.15093544125556946
+603,Sif,thor_dark_world.txt,"Betray him, and I'll kill you.",0.0,[ 1.9814318 -1.1304971],[ 1.2197585 -1.3677163],0.17010976374149323
+604,Loki,thor_dark_world.txt,"Good to see you too, Sif.",0.7,[-0.08936646  0.6441937 ],[ 1.5986565 -1.5741664],0.17762264609336853
+605,Loki,thor_dark_world.txt,"You'll kill me? Evidently, there will be a line.",0.25,[ 1.2820272  -0.45098191],[ 1.3334742 -1.3544039],0.1095503568649292
+606,Loki,thor_dark_world.txt,"You know, this is wonderful! This a tremendous idea! Let's steal the biggest, most obvious ship in the universe and escape in that! Flying around the city, smash it into everything in sight so everyone can see us! It's brilliant, Thor! It's truly brilliant- [Thor shoves Loki out of the ship, and jumps out with Jane in his arms into a skiff piloted by Fandral]",0.6361111111111111,[ 1.202518   -0.57484865],[ 1.1678786 -1.3059527],0.09908783435821533
+607,Loki,thor_dark_world.txt,[to Thor] You lied to me. I'm impressed.,1.0,[0.04577436 0.39897764],[ 1.5175084 -1.5514165],0.1648065149784088
+608,Loki,thor_dark_world.txt,"[steering the skiff towards a tiny crevice in the mountain] If it were easy, everyone would do it.",0.2166666666666666,[0.7406608  0.00663082],[ 1.7208725 -1.7197859],0.046404749155044556
+609,Thor,thor_dark_world.txt,Are you mad?,-0.625,[ 2.0832314 -1.2423942],[ 1.556688  -1.4818968],0.11502142250537872
+610,Loki,thor_dark_world.txt,Possibly.,0.0,[ 1.2122738  -0.44543839],[ 1.107982  -1.0592719],0.03010416030883789
+611,Thor,thor_dark_world.txt,"You think you alone were loved of Mother? You had her tricks, but I had her trust!",0.875,[ 1.6406059 -0.8901805],[ 1.2134227 -1.2788051],0.16591954231262207
+612,Loki,thor_dark_world.txt,"Trust? Was that her last expression, trust? While you let her die?!",0.0,[ 1.6384184 -1.0251155],[ 1.6107577 -1.4407078],0.17734402418136597
+613,Thor,thor_dark_world.txt,What good were you in your cell?,0.7,[ 2.0787616 -1.3092744],[ 1.6311213 -1.6890954],0.158060684800148
+614,Loki,thor_dark_world.txt,Who put me there? Who put me there?!,0.0,[ 1.9691659 -1.1780387],[ 1.6825377 -1.7880948],0.10415473580360413
+615,Thor,thor_dark_world.txt,You know damn well! You know damn well who! [pins Loki and is about to hit him but lets him go] She wouldn't want us to fight.,0.0,[ 1.7737532  -0.92255557],[ 0.56831175 -0.61690533],0.14358551800251007
+616,Loki,thor_dark_world.txt,"Well, she wouldn't exactly be shocked.",-0.7,[ 0.7693771 -0.2451838],[ 1.0550729 -0.9148167],0.13184696435928345
+617,Thor,thor_dark_world.txt,[chuckles] I wish I could trust you.,0.0,[ 1.4000281  -0.55620766],[ 1.6720874 -1.6442183],0.160145103931427
+618,Loki,thor_dark_world.txt,[whispers] Trust my rage.,0.0,[ 1.3767903 -0.5686375],[ 1.3602011 -1.4774903],0.13490287959575653
+619,Thor,thor_dark_world.txt,[holding a dying Loki] I will tell Father what you did here today.,0.0,[ 1.568636  -0.7540003],[ 1.6082679 -1.7406675],0.09767231345176697
+620,Loki,thor_dark_world.txt,I didn't do it for him.,0.0,[ 0.95338434 -0.19343755],[ 1.5952584 -1.4606129],0.1645698845386505
+621,Malekith,thor_dark_world.txt,"You needn't have come so far, Asgardian. Death would have come to you soon enough.",0.05,[ 1.9595776 -1.2687773],[ 0.7572912 -0.7440058],0.1253601610660553
+622,Thor,thor_dark_world.txt,Not by your hand!,0.0,[ 1.9373556 -1.0171589],[ 1.2604631 -1.2448485],0.1297379434108734
+623,Malekith,thor_dark_world.txt,Your universe was never meant to be. Your world and your family will be EXTINGUISHED!,0.0,[ 1.3227853  -0.84100085],[ 1.7114233 -1.7164336],0.1767195463180542
+624,Malekith,thor_dark_world.txt,"Darkness returns, Asgardian. Have you come to witness the end of your universe?",0.0,[ 1.7930803 -1.0743879],[ 1.5426493 -1.6972258],0.07885459065437317
+625,Thor,thor_dark_world.txt,I've come to accept your surrender.,0.0,[ 1.4439157  -0.45228863],[ 1.6990653 -1.7003299],0.15276923775672913
+626,Malekith,thor_dark_world.txt,You think you can stop this?! The Aether cannot be destroyed!,0.0,[ 0.91141397 -0.34153935],[ 0.6279125 -0.7556431],0.04583340883255005
+627,Thor,thor_dark_world.txt,But you can. [summons Mjolnir and deals the final blow to Malekith],0.0,[ 1.7850622 -0.9033272],[ 1.2195065 -1.4243805],0.03043121099472046
+628,Odin,thor_dark_world.txt,"One son who wanted the throne too much, and another who will not take it. Is this my legacy?",0.2,[ 1.992923  -1.2116319],[ 1.2178859 -1.3759755],0.15558959543704987
+629,Thor,thor_dark_world.txt,Loki died with honour. I shall try to live the same. Is that not legacy enough? [offers the hammer],0.059090909090909,[ 2.1738575 -1.176995 ],[ 1.4879572 -1.7550272],0.12414395809173584
+630,Odin,thor_dark_world.txt,"It belongs to you, if you are worthy of it.",0.3333333333333333,[ 1.9499315 -1.2124777],[ 1.6841094 -1.7531422],0.16730916500091553
+631,Thor,thor_dark_world.txt,I shall try to be.,0.0,[ 1.4056162 -0.7153074],[ 1.3427291 -1.2635999],0.11390809714794159
+632,Odin,thor_dark_world.txt,"I can not give you my blessing, nor can I wish you good fortune.",0.7,[ 1.9276934 -1.2341626],[ 1.9560348 -1.9317974],0.1742631047964096
+633,Thor,thor_dark_world.txt,I know. [turns to leave],0.0,[ 1.5348593 -0.6732252],[ 1.4924446 -1.4056696],0.03544923663139343
+634,Odin,thor_dark_world.txt,"If I were proud of the man my son has become, even that I could not say, it would speak only from my heart. Go, my son.",0.4,[ 2.2557693 -1.325366 ],[ 1.6783346 -1.6785508],0.16268043220043182
+635,Thor,thor_dark_world.txt,"Thank you, Father. [leaves]",0.0,[ 1.4957143 -0.7950164],[ 1.6905673 -1.7382742],0.17239810526371002
+636,Loki,thor_dark_world.txt,[appears from Odin's guise] No... thank you.,0.0,[ 0.7159581  -0.11968114],[ 1.6665732 -1.7768528],0.052295833826065063
+637,Sif,thor_dark_world.txt,"You know why we're here. [she hands him the Aether, which he accepts]",0.0,[ 1.7046913 -0.9761294],[ 1.4568645 -1.6231717],0.08839836716651917
+638,Sif,thor_dark_world.txt,See that it is.,0.0,[0.5039117  0.23206297],[ 1.2374586 -1.1055821],0.02800619602203369
